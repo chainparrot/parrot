@@ -377,8 +377,8 @@
     "change_1h": -0.0,
     "change_1d": 3.45,
     "change_7d": 6.09,
-    "fdv": 1165765612,
-    "mcap": 532301809,
+    "fdv": 1163503483,
+    "mcap": 531268895,
     "rank": 9
   },
   {
@@ -1359,19 +1359,19 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 33600128.48532226,
+    "tvl": 33746722.711101286,
     "chainTvls": {
-      "Binance": 1847358.7549026995,
-      "Ethereum": 125077.10181677605,
-      "Astar": 35175.7260209803,
-      "Heco": 4581.101649144019,
-      "Avalanche": 67.65320367823652,
-      "Polygon": 31587821.338500783,
-      "Fantom": 46.80922819820067
+      "Binance": 1847447.0413164054,
+      "Ethereum": 124983.41765131967,
+      "Astar": 35295.96144412951,
+      "Heco": 4576.528610572019,
+      "Avalanche": 67.69324334020628,
+      "Polygon": 31734305.30805628,
+      "Fantom": 46.76077924196165
     },
-    "change_1h": -0.67,
-    "change_1d": 0.51,
-    "change_7d": 9.77,
+    "change_1h": 0.44,
+    "change_1d": 0.46,
+    "change_7d": 8.51,
     "rank": 37
   },
   {
@@ -3467,13 +3467,13 @@
     "twitter": null,
     "listedAt": 1650364599,
     "slug": "thunderpokt",
-    "tvl": 3485328.866824164,
+    "tvl": 3431587.6866479,
     "chainTvls": {
-      "Polygon": 3485328.866824164
+      "Polygon": 3431587.6866479
     },
-    "change_1h": -0.29,
-    "change_1d": -9.84,
-    "change_7d": 65.22,
+    "change_1h": -1.09,
+    "change_1d": -10.41,
+    "change_7d": 54.9,
     "rank": 96
   },
   {
@@ -3870,41 +3870,6 @@
     "rank": 107
   },
   {
-    "id": "1917",
-    "name": "SudoSwap",
-    "address": null,
-    "symbol": "-",
-    "url": "https://sudoswap.xyz",
-    "description": "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/sudoswap.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Dexes",
-    "chains": [
-      "Ethereum"
-    ],
-    "oracles": [],
-    "forkedFrom": [],
-    "module": "sudoswap/index.js",
-    "audit_links": [
-      "https://github.com/sudoswap/audits"
-    ],
-    "twitter": "sudoswap",
-    "listedAt": 1658388571,
-    "slug": "sudoswap",
-    "tvl": 2070391.3022389407,
-    "chainTvls": {
-      "Ethereum": 2070391.3022389407
-    },
-    "change_1h": 0.55,
-    "change_1d": 10.91,
-    "change_7d": 19.25,
-    "rank": 108
-  },
-  {
     "id": "1462",
     "name": "deBridge",
     "address": null,
@@ -3945,6 +3910,41 @@
     "change_1h": -0.03,
     "change_1d": -0.65,
     "change_7d": -6.15,
+    "rank": 108
+  },
+  {
+    "id": "1917",
+    "name": "SudoSwap",
+    "address": null,
+    "symbol": "-",
+    "url": "https://sudoswap.xyz",
+    "description": "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/sudoswap.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Dexes",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "sudoswap/index.js",
+    "audit_links": [
+      "https://github.com/sudoswap/audits"
+    ],
+    "twitter": "sudoswap",
+    "listedAt": 1658388571,
+    "slug": "sudoswap",
+    "tvl": 2038642.837280682,
+    "chainTvls": {
+      "Ethereum": 2038642.837280682
+    },
+    "change_1h": -1.53,
+    "change_1d": 8.54,
+    "change_7d": 18.06,
     "rank": 109
   },
   {
@@ -7154,13 +7154,13 @@
     ],
     "listedAt": 1658953401,
     "slug": "etcswap",
-    "tvl": 78866.2455875406,
+    "tvl": 78795.09877149409,
     "chainTvls": {
-      "EthereumClassic": 78866.2455875406
+      "EthereumClassic": 78795.09877149409
     },
-    "change_1h": -0.29,
-    "change_1d": 112.67,
-    "change_7d": 210.42,
+    "change_1h": -0.18,
+    "change_1d": 113.23,
+    "change_7d": 203.92,
     "rank": 200
   },
   {
