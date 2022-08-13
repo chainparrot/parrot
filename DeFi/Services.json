@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "120",
+    "name": "Instadapp",
+    "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "symbol": "INST",
+    "url": "https://instadapp.io/",
+    "description": "Aims to drive interoperability between protocols for power users and ease of development allowing developers of all stripes to start leveraging the full potential of Decentralised Finance.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/instadapp.jpg",
+    "audits": null,
+    "audit_note": null,
+    "gecko_id": "instadapp",
+    "cmcId": "10508",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "instadapp.js",
+    "twitter": "Instadapp",
+    "audit_links": [
+      "https://github.com/Instadapp/dsa-contracts/blob/master/audits/v1_PeckShield_Mar_2020.pdf"
+    ],
+    "slug": "instadapp",
+    "tvl": 2775352600.9275565,
+    "chainTvls": {
+      "Ethereum": 2775352600.9275565
+    },
+    "change_1h": -1.06,
+    "change_1d": 3.21,
+    "change_7d": 10.83,
+    "mcap": 19330684,
+    "rank": 1
+  },
+  {
+    "id": "1765",
+    "name": "UniCrypt",
+    "address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+    "symbol": "UNCX",
+    "url": "https://unicrypt.network",
+    "description": "Unicrypt is a one-stop shop with everything you need to launch and maintain a sustainable and secure protocol. Generate and secure the initial liquidity, lock your tokens with vesting lockers and create farms with customisable rewards.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/unicrypt.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "unicrypt-2",
+    "cmcId": "7664",
+    "category": "Services",
+    "chains": [
+      "Binance",
+      "Ethereum",
+      "Polygon",
+      "Avalanche",
+      "xDai"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "unicrypt/api.js",
+    "twitter": "UNCX_token",
+    "audit_links": [
+      "https://github.com/chainsulting/Smart-Contract-Security-Audits/tree/master/Unicrypt",
+      "https://www.certik.com/projects/unicrypt"
+    ],
+    "listedAt": 1652762212,
+    "slug": "unicrypt",
+    "tvl": 307950147.06187534,
+    "chainTvls": {
+      "pool2": 1726736.3617754916,
+      "Avalanche": 177702.2741049993,
+      "xDai-pool2": 157434.46508734714,
+      "Binance-pool2": 811938.6663785037,
+      "Ethereum-pool2": 757363.2303096408,
+      "Binance": 176116259.2897617,
+      "Ethereum": 125487460.0899213,
+      "xDai": 1874.9299061665913,
+      "Ethereum-staking": 5095344.705429786,
+      "Polygon": 6166850.478181208,
+      "staking": 5095344.705429786
+    },
+    "change_1h": 0.31,
+    "change_1d": 1.78,
+    "change_7d": 6.01,
+    "staking": 5095344.705429786,
+    "pool2": 1726736.3617754916,
+    "mcap": 11970465,
+    "rank": 2
+  },
+  {
+    "id": "1793",
+    "name": "Bwatch",
+    "address": "0x045414e728067ab3da4bceafc0d992d59183463a",
+    "symbol": "BOX",
+    "url": "https://b.watch/#/",
+    "description": "B.watch is an decentralized ETF-like crypto asset management platform, which is the only issuer of BOX token.",
+    "chain": "Mixin",
+    "logo": "https://icons.llama.fi/bwatch.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "b-watch-box",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Mixin"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "bwatch/index.js",
+    "twitter": null,
+    "listedAt": 1653984484,
+    "slug": "bwatch",
+    "tvl": 219529735.65,
+    "chainTvls": {
+      "Mixin": 219529735.65
+    },
+    "change_1h": 0.02,
+    "change_1d": 2.95,
+    "change_7d": 6.62,
+    "fdv": 584841321,
+    "mcap": 0,
+    "rank": 3
+  },
+  {
+    "id": "177",
+    "name": "DefiSaver",
+    "address": "-",
+    "symbol": "-",
+    "url": "https://defisaver.com/",
+    "description": "DeFi Saver is a one-stop management solution for decentralized finance with advanced leverage management tools and unique automated management features.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/defisaver.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "defisaver.js",
+    "twitter": "DefiSaver",
+    "audit_links": [
+      "https://consensys.net/diligence/audits/2021/03/defi-saver/"
+    ],
+    "slug": "defisaver",
+    "tvl": 187895458.68916586,
+    "chainTvls": {
+      "Ethereum": 187895458.68916586
+    },
+    "change_1h": -0.02,
+    "change_1d": 11.65,
+    "change_7d": 35.93,
+    "rank": 4
+  },
+  {
+    "id": "239",
+    "name": "PoolTogether",
+    "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+    "symbol": "POOL",
+    "url": "https://pooltogether.com/",
+    "description": "PoolTogetheris an open source and decentralized protocol for no-loss prize games",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/pooltogether.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "pooltogether",
+    "cmcId": "8508",
+    "category": "Services",
+    "chains": [
+      "Optimism",
+      "Polygon",
+      "Ethereum",
+      "Avalanche",
+      "Celo",
+      "Binance"
+    ],
+    "module": "pooltogether/index.js",
+    "twitter": "PoolTogether_",
+    "audit_links": [
+      "https://docs.pooltogether.com/security/audits-and-testing"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "pooltogether",
+    "tvl": 62475090.7523125,
+    "chainTvls": {
+      "Optimism": 34795431.96524795,
+      "Avalanche": 502863.1615647639,
+      "Binance": 7343.681193193083,
+      "Ethereum": 12191238.480421279,
+      "Polygon": 14590794.621818414,
+      "Celo": 387418.8420668874
+    },
+    "change_1h": -0.51,
+    "change_1d": -4.95,
+    "change_7d": -1.51,
+    "fdv": 9801344,
+    "mcap": 3004763,
+    "rank": 5
+  },
+  {
+    "id": "233",
+    "name": "Metronome",
+    "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+    "symbol": "MET",
+    "url": "https://metronome.io/",
+    "description": "Metronome is the world\u2019s first autonomous cryptocurrency.\r\n",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/metronome.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "metronome",
+    "cmcId": "2873",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "metronome/index.js",
+    "twitter": "MET_Token",
+    "audit_links": [
+      "https://github.com/autonomoussoftware/metronome-audits"
+    ],
+    "slug": "metronome",
+    "tvl": 36077583.43217633,
+    "chainTvls": {
+      "Ethereum": 36077583.43217633
+    },
+    "change_1h": -0.56,
+    "change_1d": 3.71,
+    "change_7d": 12.49,
+    "mcap": 15190480,
+    "rank": 6
+  },
+  {
+    "id": "1254",
+    "name": "XDAO",
+    "address": null,
+    "symbol": "-",
+    "url": "https://www.xdao.app/",
+    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/xdao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Polygon",
+      "Binance",
+      "Ethereum",
+      "Astar",
+      "Heco",
+      "Avalanche",
+      "Fantom"
+    ],
+    "module": "xdao.js",
+    "twitter": "xdaoapp",
+    "audit_links": [
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
+    ],
+    "listedAt": 1642109094,
+    "slug": "xdao",
+    "tvl": 32817736.610802826,
+    "chainTvls": {
+      "Binance": 1849330.1168211047,
+      "Ethereum": 125067.36688517925,
+      "Astar": 35216.45592931502,
+      "Heco": 4577.611610572018,
+      "Avalanche": 67.74883173963144,
+      "Polygon": 30803430.402298275,
+      "Fantom": 46.9084266403416
+    },
+    "change_1h": -1.95,
+    "change_1d": -10.26,
+    "change_7d": 7.15,
+    "rank": 7
+  },
+  {
+    "id": "1952",
+    "name": "Lofty",
+    "address": null,
+    "symbol": "-",
+    "url": "https://www.lofty.ai",
+    "description": "Fractionalized real estate on Algorand.",
+    "chain": "Algorand",
+    "logo": "https://icons.llama.fi/lofty.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Algorand"
+    ],
+    "module": "lofty/index.js",
+    "oracles": [],
+    "forkedFrom": [],
+    "twitter": "lofty_ai",
+    "listedAt": 1659609505,
+    "slug": "lofty",
+    "tvl": 23774433.35267,
+    "chainTvls": {
+      "Algorand": 23774433.35267
+    },
+    "change_1h": 0.14,
+    "change_1d": -0.1,
+    "change_7d": 0.59,
+    "rank": 8
+  },
+  {
+    "id": "130",
+    "name": "The Tokenized Bitcoin",
+    "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+    "symbol": "imBTC",
+    "url": "https://tokenlon.im/imbtc",
+    "description": "imToken is an easy and secure digital wallet trusted by millions",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/the-tokenized-bitcoin.png",
+    "audits": null,
+    "audit_note": null,
+    "gecko_id": "imbtc",
+    "cmcId": "5292",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "imbtc.js",
+    "twitter": "tokenlon",
+    "audit_links": [
+      "https://cure53.de/pentest-report_imtoken.pdf",
+      "https://drive.google.com/file/d/1o7byxnZbhl8PkWpYHnWtxDgUp_cpPO73/view"
+    ],
+    "slug": "the-tokenized-bitcoin",
+    "tvl": 13627905.47870427,
+    "chainTvls": {
+      "Ethereum": 13627905.47870427
+    },
+    "change_1h": -0.13,
+    "change_1d": 5.2,
+    "change_7d": -26.52,
+    "rank": 9
+  },
+  {
+    "id": "1612",
+    "name": "Concave",
+    "address": "0x000000007a58f5f58e697e51ab0357bc9e260a04",
+    "symbol": "CNV",
+    "url": "https://concave.lol",
+    "description": "Concave is a community-driven, product and investment organization that aims to bring value to stakers through the development of innovative DeFi products and active treasury management.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/concave.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "concave",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "concave/index.js",
+    "twitter": "ConcaveFi",
+    "listedAt": 1649155527,
+    "slug": "concave",
+    "tvl": 6906623.676005243,
+    "chainTvls": {
+      "Ethereum": 6906623.676005243
+    },
+    "change_1h": 0.36,
+    "change_1d": -43.37,
+    "change_7d": -43.62,
+    "mcap": 1251221,
+    "rank": 10
+  },
+  {
+    "id": "1188",
+    "name": "EverRise",
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "symbol": "RISE",
+    "url": "https://www.everrise.com",
+    "description": "EverRise is a blockchain technology company that offers bridging and security solutions across blockchains through an ecosystem of decentralized applications.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/everrise.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "everrise",
+    "cmcId": "15257",
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "Binance",
+      "Avalanche",
+      "Polygon",
+      "Fantom"
+    ],
+    "module": "everrise/index.js",
+    "twitter": "EverRise",
+    "audit_links": [
+      "https://www.certik.com/projects/everrise",
+      "https://github.com/chainsulting/Smart-Contract-Security-Audits/tree/master/EverRise"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "listedAt": 1641256925,
+    "slug": "everrise",
+    "tvl": 5581461.761187678,
+    "chainTvls": {
+      "pool2": 4601810.665142132,
+      "Fantom-staking": 2001257.2064931588,
+      "Polygon-pool2": 1095607.8301477572,
+      "Binance-pool2": 1003482.826134217,
+      "Ethereum-pool2": 1016424.7521739006,
+      "Binance": 2405933.5674886666,
+      "Ethereum": 2943886.5907197096,
+      "Binance-staking": 21223693.70109475,
+      "Avalanche": 83050.904672187,
+      "Avalanche-staking": 1772898.4013480218,
+      "Ethereum-staking": 4406732.946187043,
+      "Polygon": 80892.80820870996,
+      "Polygon-staking": 4812036.790452508,
+      "Avalanche-pool2": 776993.5757159108,
+      "Fantom-pool2": 709301.6809703466,
+      "Fantom": 67697.89009840501,
+      "staking": 34216619.04557548
+    },
+    "change_1h": 0.17,
+    "change_1d": 1.82,
+    "change_7d": -5.21,
+    "staking": 34216619.04557548,
+    "pool2": 4601810.665142132,
+    "fdv": 55799646,
+    "mcap": 55744021,
+    "rank": 11
+  },
+  {
+    "id": "921",
+    "name": "DAO Maker",
+    "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+    "symbol": "DAO",
+    "url": "https://daomaker.com/vault",
+    "description": "DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/dao-maker.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "dao-maker",
+    "cmcId": "8420",
+    "category": "Services",
+    "chains": [
+      "Binance",
+      "Ethereum",
+      "Celo",
+      "Polygon",
+      "Fantom"
+    ],
+    "module": "daomaker/index.js",
+    "twitter": "TheDaoMaker",
+    "audit_links": [
+      "https://learn.daomaker.com/audits",
+      "https://drive.google.com/file/d/18Anm53T_BbcRQLWHMthkQgvtLC6CDGW0/view",
+      "https://drive.google.com/file/d/1LCgxsQCz7vCDKK1AFxsInpKkVt_1q3q1/view",
+      "https://drive.google.com/file/d/1OpTWnZmhKu04kKYgFx89Nrh2Y68mhlv_/view",
+      "https://drive.google.com/file/d/1v78FH681imjrnXzjc4Ci_F4bW8oI19q5/view",
+      "https://drive.google.com/file/d/17qQwtqSe6uqLKfKYgLQHGc4GyImVx3iM/view",
+      "https://drive.google.com/file/d/17AwrRDy7Fh8wEjOIAQr3R-oqLWeYC_DD/view",
+      "https://drive.google.com/file/d/1OPanooD8QD13kOx210QTz19RyS8yTj80/view"
+    ],
+    "listedAt": 1637977412,
+    "slug": "dao-maker",
+    "tvl": 5293515.707471286,
+    "chainTvls": {
+      "Binance": 3872898.148548155,
+      "Ethereum": 806497.8659881053,
+      "Ethereum-staking": 116860142.04336111,
+      "Polygon": 73093.94356392,
+      "Celo": 512971.82719702495,
+      "Fantom": 28053.92217408,
+      "staking": 116860142.04336111
+    },
+    "change_1h": 0.05,
+    "change_1d": -0.66,
+    "change_7d": -19.47,
+    "staking": 116860142.04336111,
+    "fdv": 555148530,
+    "mcap": 221716150,
+    "rank": 12
+  },
+  {
+    "id": "1852",
+    "name": "Gardens DAO",
+    "address": null,
+    "symbol": "-",
+    "url": "https://gardensdao.eth.limo/#/home",
+    "description": "Based on the 1hive model, Gardens is a framework for a new kind of DAO - a composable, sufficiently decentralized, and self-improving system, limited only by your community's collective imagination.",
+    "chain": "xDai",
+    "logo": "https://icons.llama.fi/gardensdao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "xDai"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "gardensdao/index.js",
+    "twitter": "gardensdao",
+    "listedAt": 1655988523,
+    "slug": "gardens-dao",
+    "tvl": 4863919.9411878735,
+    "chainTvls": {
+      "xDai": 4863919.9411878735
+    },
+    "change_1h": 0.13,
+    "change_1d": 4.1,
+    "change_7d": 8.83,
+    "rank": 13
+  },
+  {
+    "id": "1551",
+    "name": "Kujira",
+    "address": "-",
+    "symbol": "KUJI",
+    "url": "https://kujira.app",
+    "description": "The Cosmos Layer 1 platform for community selected projects creating true value.",
+    "chain": "Kujira",
+    "logo": "https://icons.llama.fi/kujira.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "kujira",
+    "cmcId": "15185",
+    "category": "Services",
+    "chains": [
+      "Kujira"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "kujira/index.js",
+    "twitter": "TeamKujira",
+    "audit_links": [
+      "https://github.com/SCV-Security/PublicReports/blob/main/CW/Kujira/OrcaQueue/Kujira%20-%20Orca%20Queue%20-%20Audit%20Report%201.0.pdf"
+    ],
+    "openSource": false,
+    "listedAt": 1647396317,
+    "slug": "kujira",
+    "tvl": 1675641.474361586,
+    "chainTvls": {
+      "Kujira": 1675641.474361586,
+      "Kujira-staking": 33565106.288630955,
+      "staking": 33565106.288630955
+    },
+    "change_1h": -1.23,
+    "change_1d": 17.97,
+    "change_7d": 66.23,
+    "staking": 33565106.288630955,
+    "fdv": 116402057,
+    "mcap": 73606725,
+    "rank": 14
+  },
+  {
+    "id": "615",
+    "name": "BNBMiner Finance",
+    "address": "-",
+    "symbol": "-",
+    "url": "https://bnbminer.finance",
+    "description": "The object of the game is hiring more miners, sooner and more often than other players. This in turn earns you more BNB faster.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/bnbminer-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Binance"
+    ],
+    "module": "bnbminer/index.js",
+    "twitter": "Da_Developer",
+    "slug": "bnbminer-finance",
+    "tvl": 1666442.1868442022,
+    "chainTvls": {
+      "Binance": 1666442.1868442022
+    },
+    "change_1h": 0.74,
+    "change_1d": 0.32,
+    "change_7d": -8.68,
+    "rank": 15
+  },
+  {
+    "id": "1928",
+    "name": "CIAN",
+    "address": null,
+    "symbol": "-",
+    "url": "https://cian.app",
+    "description": "CIAN is an open automation platform for onchain applications that allows users to swiftly build, optimize and protect intricate strategies using unrivaled automation primitives",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/cian.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Avalanche"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [],
+    "module": "cian/index.js",
+    "twitter": "CIAN_protocol",
+    "listedAt": 1658824413,
+    "slug": "cian",
+    "tvl": 1266073.7389299998,
+    "chainTvls": {
+      "Avalanche": 1266073.7389299998
+    },
+    "change_1h": 0.14,
+    "change_1d": 2.92,
+    "change_7d": -30.98,
+    "rank": 16
+  },
+  {
+    "id": "1947",
+    "name": "Revert Compoundor",
+    "address": null,
+    "symbol": "-",
+    "url": "https://revert.finance",
+    "description": "Revert Compoundor is a protocol to automate compounding of liquidity provider fees for positions in Uniswap v3.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/revert-compoundor.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "Optimism",
+      "Arbitrum",
+      "Polygon"
+    ],
+    "module": "revert-compoundor/index.js",
+    "oracles": [],
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "twitter": "revertfinance",
+    "audit_links": [
+      "https://immunefi.com/bounty/revert"
+    ],
+    "listedAt": 1659525571,
+    "slug": "revert-compoundor",
+    "tvl": 910552.9001311476,
+    "chainTvls": {
+      "Optimism": 184313.1317735494,
+      "Ethereum": 450756.5431727609,
+      "Polygon": 109656.63243411998,
+      "Arbitrum": 165826.59275071725
+    },
+    "change_1h": -0.25,
+    "change_1d": 7.64,
+    "change_7d": 53.74,
+    "rank": 17
+  },
+  {
+    "id": "569",
+    "name": "Crunchy Network",
+    "address": "tezos:KT1XPFjZqCULSnqfKaaYy8hJjeY63UNSGwXg",
+    "symbol": "crDAO",
+    "url": "https://crunchy.network",
+    "description": "Crunchy provides DeFi services and solutions on Tezos to projects, developers, and end users. We like to think of ourselves as a DeFi-as-a-Service (DaaS) platform. Crunchy is maintained by independent developers and is governed by CrDAO holders.",
+    "chain": "Tezos",
+    "logo": "https://icons.llama.fi/crunchy-network.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "crunchy-dao",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Tezos"
+    ],
+    "module": "crunchynetwork/index.js",
+    "twitter": "CrunchyTez",
+    "slug": "crunchy-network",
+    "tvl": 839535.36,
+    "chainTvls": {
+      "Tezos": 839535.36
+    },
+    "change_1h": -0.01,
+    "change_1d": 1.34,
+    "change_7d": 1.22,
+    "fdv": 662312,
+    "mcap": 0,
+    "rank": 18
+  },
+  {
+    "id": "1866",
+    "name": "DexPad",
+    "address": "avax:0xe0c41ff9a7032de445771e12c14868cbe061c993",
+    "symbol": "DxP",
+    "url": "https://dexpad.io",
+    "description": "DexPad is a No-Code Platform for ERC-20 Tokens on multiple EVM-compatible chains. Mint, Lock, Airdrop or Presale your token without any coding knowledge require.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/dexpad.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "dexpad",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Cronos",
+      "Polygon",
+      "Kava",
+      "Avalanche"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "dexpad/api.js",
+    "twitter": "DexPad",
+    "listedAt": 1656584149,
+    "slug": "dexpad",
+    "tvl": 695580.1706443286,
+    "chainTvls": {
+      "Kava": 5.56340559588134,
+      "Cronos": 695537.1345970696,
+      "Polygon": 37.41514761111393,
+      "Avalanche": 0.05749405199999905
+    },
+    "change_1h": 0.27,
+    "change_1d": 1.41,
+    "change_7d": 2.28,
+    "fdv": 289171,
+    "mcap": 0,
+    "rank": 19
+  },
+  {
+    "id": "627",
+    "name": "Mean Finance",
+    "address": null,
+    "symbol": "-",
+    "url": "https://mean.finance",
+    "description": "Mean Finance is an open protocol that enables users (or protocols) to Dollar Cost Average (DCA) any ERC20 into any ERC20 with their preferred period frequency, without sacrificing decentralization or giving up personal information to any centralized parties.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/mean-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Optimism",
+      "Polygon",
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "module": "meanfinance/index.js",
+    "twitter": "mean_fi",
+    "audit_links": [
+      "https://github.com/Mean-Finance/dca-v2-core/tree/main/audits"
+    ],
+    "oracles": [
+      "Chainlink",
+      "TWAP"
+    ],
+    "slug": "mean-finance",
+    "tvl": 635534.7445744165,
+    "chainTvls": {
+      "Optimism": 419557.27626373497,
+      "Ethereum": 33945.12264112367,
+      "Polygon": 182032.34566955792,
+      "Arbitrum": 0
+    },
+    "change_1h": 1.35,
+    "change_1d": 6.65,
+    "change_7d": 13.11,
+    "rank": 20
+  },
+  {
+    "id": "639",
+    "name": "EnterDAO",
+    "address": "0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e",
+    "symbol": "ENTR",
+    "url": "https://enterdao.xyz",
+    "description": "Through a lineup of core products, EnterDAO aims to empower users, metaverse land owners, investors, brands, and degens of all kinds by tackling pain points like access to metaverse land, its capital efficiency, as well as UX and onboarding of metaverse games.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/enterdao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "enterdao",
+    "cmcId": "12228",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "enterdao/index.js",
+    "twitter": "EnterDao",
+    "slug": "enterdao",
+    "tvl": 604288.7159275172,
+    "chainTvls": {
+      "Ethereum": 604288.7159275172
+    },
+    "change_1h": 0.0,
+    "change_1d": -0.89,
+    "change_7d": -6.76,
+    "fdv": 5266694,
+    "mcap": 1613290,
+    "rank": 21
+  },
+  {
+    "id": "1445",
+    "name": "Aelin",
+    "address": "0xa9c125bf4c8bb26f299c00969532b66732b1f758",
+    "symbol": "Aelin",
+    "url": "https://aelin.xyz",
+    "description": "Aelin is a fundraising protocol built on Ethereum and launched on Optimism.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/aelin.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "aelin",
+    "cmcId": "16991",
+    "category": "Services",
+    "chains": [
+      "Optimism",
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "aelin/index.js",
+    "twitter": "aelinprotocol",
+    "listedAt": 1645521923,
+    "slug": "aelin",
+    "tvl": 425990.07729753584,
+    "chainTvls": {
+      "Optimism": 425869.4849075978,
+      "Optimism-pool2": 119063.28102460396,
+      "Optimism-staking": 1648953.005330428,
+      "pool2": 133050.20047928081,
+      "Ethereum-pool2": 13986.919454676852,
+      "Ethereum": 120.592389938,
+      "staking": 1648953.005330428
+    },
+    "change_1h": -0.16,
+    "change_1d": 1.3,
+    "change_7d": -10.44,
+    "staking": 1648953.005330428,
+    "pool2": 133050.20047928081,
+    "mcap": 0,
+    "rank": 22
+  },
+  {
+    "id": "235",
+    "name": "PEAKDEFI",
+    "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+    "symbol": "PEAK",
+    "url": "https://www.peakdefi.com/",
+    "description": "A decentralized asset management fund created to grow your wealth",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/peakdefi.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "marketpeak",
+    "cmcId": "5354",
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "Binance"
+    ],
+    "module": "peakdefi/index.js",
+    "twitter": "PEAKDEFI",
+    "audit_links": [
+      "https://certificate.quantstamp.com/full/peakdefi"
+    ],
+    "slug": "peakdefi",
+    "tvl": 387194.14522781014,
+    "chainTvls": {
+      "Ethereum": 387194.14522781014,
+      "Binance-staking": 4309919.513228514,
+      "Ethereum-staking": 12666154.060512694,
+      "staking": 16976073.57374121
+    },
+    "change_1h": -0.13,
+    "change_1d": 2.96,
+    "change_7d": 6.37,
+    "staking": 16976073.57374121,
+    "mcap": 20154894,
+    "rank": 23
+  },
+  {
+    "id": "1056",
+    "name": "Redacted Cartel",
+    "address": "0xc0d4ceb216b3ba9c3701b291766fdcba977cec3a",
+    "symbol": "BTRFLY",
+    "url": "https://www.redactedcartel.xyz",
+    "description": "REDACTED Cartel is an initiative using the POL mechanics of OlympusDAO to accumulate as much liquidity as possible from the Curve ecosystem in order to have a majority say over the Curve gauge.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/redacted-cartel.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "butterflydao",
+    "cmcId": "16236",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "redacted/index.js",
+    "twitter": "redactedcartel",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639972343,
+    "slug": "redacted-cartel",
+    "tvl": 274419.76554025116,
+    "chainTvls": {
+      "Ethereum": 274419.76554025116,
+      "Ethereum-staking": 7660354.617559781,
+      "staking": 7660354.617559781
+    },
+    "change_1h": -0.57,
+    "change_1d": 6.56,
+    "change_7d": -89.2,
+    "staking": 7660354.617559781,
+    "fdv": 9306903,
+    "mcap": 35219335,
+    "rank": 24
+  },
+  {
+    "id": "1000",
+    "name": "Brinc Finance",
+    "address": "arbitrum:0xB5de3f06aF62D8428a8BF7b4400Ea42aD2E0bc53",
+    "symbol": "BRC",
+    "url": "https://brinc.fi",
+    "description": "The Brinc protocol allows for the decentralized creation and governance of a token supply using a bonding curve algorithm that is hard-coded into solidity smart contracts.",
+    "chain": "Arbitrum",
+    "logo": "https://icons.llama.fi/brinc.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Arbitrum"
+    ],
+    "module": "brinc/index.js",
+    "twitter": "BrincFi",
+    "audit_links": [
+      "https://www.certik.com/projects/brincfi"
+    ],
+    "listedAt": 1639098493,
+    "slug": "brinc-finance",
+    "tvl": 249991.8919105721,
+    "chainTvls": {
+      "Arbitrum": 249991.8919105721
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.97,
+    "change_7d": 0.94,
+    "rank": 25
+  },
+  {
+    "id": "1213",
+    "name": "Ocean Protocol",
+    "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+    "symbol": "OCEAN",
+    "url": "https://oceanprotocol.com",
+    "description": "Ocean Protocol unlocks the value of data. Data owners and consumers use Ocean Market app to publish, discover, and consume data in a secure, privacy-preserving fashion. OCEAN holders stake liquidity to data pools. Ocean datatokens wrap data services as industry-standard ERC20 tokens.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/ocean-protocol.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "ocean-protocol",
+    "cmcId": "3911",
+    "category": "Services",
+    "chains": [
+      "Ethereum",
+      "Polygon",
+      "EnergyWeb",
+      "Binance",
+      "Moonriver"
+    ],
+    "module": "ocean-protocol/index.js",
+    "twitter": "oceanprotocol",
+    "audit_links": [
+      "https://github.com/oceanprotocol/contracts/blob/main/docs/REP-Ocean-08_10_2020.pdf"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "listedAt": 1641595980,
+    "slug": "ocean-protocol",
+    "tvl": 209864.61357486108,
+    "chainTvls": {
+      "Binance": 510.2503810304335,
+      "Ethereum": 130626.30004126052,
+      "Moonriver": 45.863992679141646,
+      "Polygon": 76998.61360596972,
+      "EnergyWeb": 1683.5855539212926
+    },
+    "change_1h": 2.83,
+    "change_1d": -4.48,
+    "change_7d": -21.33,
+    "mcap": 98725350,
+    "rank": 26
+  },
+  {
+    "id": "1093",
+    "name": "SuperFarm",
+    "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "symbol": "SUPER",
+    "url": "https://superfarm.com/",
+    "description": "Cross-chain protocol allowing anyone to deploy DeFi and NFT farms with no code required.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/superfarm.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "superfarm",
+    "cmcId": "8290",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "superfarm/index.js",
+    "twitter": "SuperFarmDAO",
+    "listedAt": 1640518619,
+    "slug": "superfarm",
+    "tvl": 102875.74548118563,
+    "chainTvls": {
+      "Ethereum": 102875.74548118563,
+      "pool2": 6386741.051085906,
+      "Ethereum-staking": 10726597.769759804,
+      "staking": 10726597.769759804,
+      "Ethereum-pool2": 6386741.051085906
+    },
+    "change_1h": 0.39,
+    "change_1d": 0.98,
+    "change_7d": 9.24,
+    "staking": 10726597.769759804,
+    "pool2": 6386741.051085906,
+    "fdv": 179415779,
+    "mcap": 51551972,
+    "rank": 27
+  },
+  {
+    "id": "835",
+    "name": "Suterusu",
+    "address": "0xaa2ce7ae64066175e0b90497ce7d9c190c315db4",
+    "symbol": "SUTER",
+    "url": "https://suterusu.io",
+    "description": "The Suterusu Protocol is a second-layer private payment infrastructure for smart contract platforms.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/suterusu.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "suterusu",
+    "cmcId": "4841",
+    "category": "Services",
+    "chains": [
+      "Binance",
+      "Ethereum"
+    ],
+    "module": "suter-shield/index.js",
+    "twitter": "suterusu_io",
+    "audit_links": [
+      "https://docs.suterusu.io/suterusu-protocol-1/security-audit"
+    ],
+    "listedAt": 1636757032,
+    "slug": "suterusu",
+    "tvl": 94761.697192,
+    "chainTvls": {
+      "Binance": 92400.307018,
+      "Ethereum": 2361.3901739999997
+    },
+    "change_1h": 0.61,
+    "change_1d": 1.35,
+    "change_7d": 3.01,
+    "fdv": 6586915,
+    "mcap": 2397005,
+    "rank": 28
+  },
+  {
+    "id": "1184",
+    "name": "CyberTime",
+    "address": "bsc:0x655a46cd88e18a338ece048228a388c25bfda9f3",
+    "symbol": "CTF",
+    "url": "https://cybertime.finance",
+    "description": "CyberTime Finance is a decentralized application platform designed to be an ecosystem containing farming, DAO, NFT, Mystery Boxes and a game called Daopolis. The project runs on Binance Smart Chain (BSC).",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/cybertime.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "cybertime-finance",
+    "cmcId": "8791",
+    "category": "Services",
+    "chains": [
+      "Binance"
+    ],
+    "module": "cybertime/index.js",
+    "twitter": "cybertime_eth",
+    "audit_links": [
+      "https://www.certik.com/projects/cybertime"
+    ],
+    "listedAt": 1641242781,
+    "slug": "cybertime",
+    "tvl": 40581.476784519975,
+    "chainTvls": {
+      "Binance": 40581.476784519975,
+      "Binance-staking": 0,
+      "pool2": 9661.47097415984,
+      "Binance-pool2": 9661.47097415984,
+      "staking": 0
+    },
+    "change_1h": -0.03,
+    "change_1d": 3.1,
+    "change_7d": 1.63,
+    "staking": 0,
+    "pool2": 9661.47097415984,
+    "fdv": 11340.19,
+    "mcap": 0,
+    "rank": 29
+  },
+  {
+    "id": "992",
+    "name": "Ubiquity DAO",
+    "address": "0x4e38d89362f7e5db0096ce44ebd021c3962aa9a0",
+    "symbol": "UBQ",
+    "url": "https://ubq.fi",
+    "description": "As an organization, it is committed to becoming the bank of the metaverse, while building open-source developer tooling and community management tools to augment the operating efficiency of DAOs.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/ubiquitydao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "ubiquity",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "ubiquitydao/index.js",
+    "twitter": "UbiquityDAO",
+    "listedAt": 1638903349,
+    "slug": "ubiquity-dao",
+    "tvl": 40256.079511450516,
+    "chainTvls": {
+      "Ethereum": 40256.079511450516
+    },
+    "change_1h": -0.0,
+    "change_1d": -41.86,
+    "change_7d": -41.79,
+    "mcap": 0,
+    "rank": 30
+  },
+  {
+    "id": "369",
+    "name": "YFDAI",
+    "address": "0xf4CD3d3Fda8d7Fd6C5a500203e38640A70Bf9577",
+    "symbol": "YFDAI",
+    "url": "https://yfdai.finance/",
+    "description": "Bridging the Worlds of Traditional Finance and Decentralised Networks",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/yfdai.svg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "yfdai-finance",
+    "cmcId": "6938",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "yfdai/index.js",
+    "twitter": "YfdaiF",
+    "audit_links": [
+      "https://attest.im/attestation/searchResult?qurey=4c533d00766c4b2a9761fad5da78b56f",
+      "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MSgvIS2RfKE66pfkI81%2F-MUv-RfymyB6PvCRlnwz%2F-MUv1a71AjJ6p3Bgz5ui%2FChannels-Audit-Report-030321(1).pdf?alt=media&token=1af91ea6-d3d0-4ba3-8784-5dce6a907930"
+    ],
+    "slug": "yfdai",
+    "tvl": 24397.387232283756,
+    "chainTvls": {
+      "Ethereum": 24397.387232283756,
+      "Ethereum-staking": 73121.89414285695,
+      "staking": 73121.89414285695
+    },
+    "change_1h": -0.15,
+    "change_1d": 2.34,
+    "change_7d": 5.97,
+    "staking": 73121.89414285695,
+    "mcap": 143618,
+    "rank": 31
+  },
+  {
+    "id": "936",
+    "name": "Manifest",
+    "address": "0x21585BBcD5bDC3f5737620cf0Db2E51978cf60ac",
+    "symbol": "MNFST",
+    "url": "https://manifest.gg",
+    "description": "Manifest is a collective of creators, innovators, and people who want more out of life. Stake MNFST for sMNFST to own the future of decentralized business.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/manifest.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "manifest",
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "manifest/index.js",
+    "twitter": "manifest",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638190661,
+    "slug": "manifest",
+    "tvl": 4467.306806648014,
+    "chainTvls": {
+      "Ethereum": 4467.306806648014,
+      "Ethereum-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0.25,
+    "change_1d": 1.08,
+    "change_7d": -1.54,
+    "staking": 0,
+    "fdv": 18853.72,
+    "mcap": 0,
+    "rank": 32
+  },
+  {
+    "id": "899",
+    "name": "Kimochi",
+    "address": "bsc:0x4da95bd392811897cde899d25face253a424bfd4",
+    "symbol": "KIMOCHI",
+    "url": "https://kimochi.finance",
+    "description": "Kimochi Finance is a platform fully integrated with DeFi applications on Binance Smart Chain.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/kimochi.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "kimochi-finance",
+    "cmcId": "8507",
+    "category": "Services",
+    "chains": [
+      "Binance"
+    ],
+    "module": "kimochifinance/index.js",
+    "twitter": "KimochiFinance",
+    "audit_links": [
+      "https://kimochi.gitbook.io/docs/audit"
+    ],
+    "listedAt": 1637708954,
+    "slug": "kimochi",
+    "tvl": 2558.91828099414,
+    "chainTvls": {
+      "Binance-masterchef": 2558.91828099414,
+      "pool2": 541.2628777358284,
+      "masterchef": 2558.91828099414,
+      "Binance-pool2": 541.2628777358284,
+      "Binance": 2558.91828099414,
+      "Binance-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0.46,
+    "change_1d": 1.29,
+    "change_7d": 2.55,
+    "staking": 0,
+    "pool2": 541.2628777358284,
+    "fdv": 831232,
+    "mcap": 0,
+    "rank": 33
+  },
+  {
+    "id": "871",
+    "name": "MintSwap",
+    "address": "avax:0x7Bf4cA9aEC25aDAAf7278EEDbe959d81893e314F",
+    "symbol": "MINT",
+    "url": "https://mint-swap.com",
+    "description": "MintSwap, a new Stable DeFi Token on Avax Network which helps investors to protect their funds as we provide a transparent environment so that users can use our services worry-free and helps to bring in stable passive income by staking!",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/mintswap.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "mintswap",
+    "cmcId": "14049",
+    "category": "Services",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "mintswap/index.js",
+    "twitter": "SwapMint",
+    "listedAt": 1637374538,
+    "slug": "mintswap",
+    "tvl": 1877.5691719250387,
+    "chainTvls": {
+      "Avalanche": 1877.5691719250387
+    },
+    "change_1h": -0.05,
+    "change_1d": -5.62,
+    "change_7d": 1.6,
+    "fdv": 750,
+    "mcap": 0,
+    "rank": 34
+  },
+  {
+    "id": "1913",
+    "name": "TrustSwap",
+    "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+    "symbol": "SWAP",
+    "url": "https://trustswap.com/",
+    "description": "TrustSwap is building foundational layers in the rapidly-emerging decentralized finance landscape with services like SmartLocks, Mint, Launchpad, Swappable (NFT interface), Farming as a Service, and Vesting as a Service",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/trustswap.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "trustswap/index.js",
+    "twitter": "TrustSwap",
+    "slug": "trustswap",
+    "tvl": 1728.7134785629996,
+    "chainTvls": {
+      "Ethereum": 1728.7134785629996,
+      "Ethereum-staking": 5000888.081977482,
+      "staking": 5000888.081977482
+    },
+    "change_1h": 0.01,
+    "change_1d": 0.0,
+    "change_7d": 0.1,
+    "staking": 5000888.081977482,
+    "rank": 35
+  }
+]

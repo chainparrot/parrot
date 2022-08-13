@@ -1,0 +1,49 @@
+[
+  {
+    "id": "851",
+    "name": "Nest Protocol",
+    "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+    "symbol": "NEST",
+    "url": "https://nestprotocol.org",
+    "description": "The NEST oracle solves the problem of price on-chain through a decentralized incentive solution, that is, the price predictor.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/nest-protocol.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "nest",
+    "cmcId": "5841",
+    "category": "Oracle",
+    "chains": [
+      "Ethereum",
+      "Kucoin",
+      "Binance",
+      "Polygon"
+    ],
+    "module": "nest/index.js",
+    "twitter": "nest_protocol",
+    "oracles": [
+      "Nest"
+    ],
+    "listedAt": 1637122449,
+    "slug": "nest-protocol",
+    "tvl": 49435.151026168314,
+    "chainTvls": {
+      "Kucoin": 0,
+      "Binance": 0,
+      "Ethereum": 49435.151026168314,
+      "Binance-staking": 1024809.8084534361,
+      "Kucoin-staking": 8.307456128449659e-09,
+      "Ethereum-staking": 17736462.673941523,
+      "Polygon": 0,
+      "Polygon-staking": 1.5255626168018e-07,
+      "staking": 18761272.48239512
+    },
+    "change_1h": -0.83,
+    "change_1d": 3.21,
+    "change_7d": 5.79,
+    "staking": 18761272.48239512,
+    "fdv": 315622603,
+    "mcap": 123901561,
+    "rank": 1
+  }
+]

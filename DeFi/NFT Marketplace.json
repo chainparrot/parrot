@@ -1,0 +1,155 @@
+[
+  {
+    "id": "483",
+    "name": "NFTX",
+    "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+    "symbol": "NFTX",
+    "url": "https://nftx.org",
+    "description": "NFTX is a platform for making ERC20 tokens that are backed by NFT collectibles.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/nftx.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "nftx",
+    "cmcId": "8191",
+    "category": "NFT Marketplace",
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "module": "nftx/index.js",
+    "twitter": "NFTX_",
+    "audit_links": [
+      "https://github.com/NFTX-project/audit-level-k/blob/master/NFTX-final.pdf"
+    ],
+    "slug": "nftx",
+    "tvl": 32315955.740707107,
+    "chainTvls": {
+      "Ethereum": 32315955.740707107,
+      "Arbitrum": 0
+    },
+    "change_1h": -0.35,
+    "change_1d": 4.19,
+    "change_7d": 8.35,
+    "fdv": 19434010,
+    "mcap": 12557361,
+    "rank": 1
+  },
+  {
+    "id": "1667",
+    "name": "Solv Protocol",
+    "address": "0x256f2d67e52fe834726d2ddcd8413654f5eb8b53",
+    "symbol": "SOLV",
+    "url": "https://solv.finance/home",
+    "description": "Solv Protocol is a one-stop platform for creating, using and trading financial NFTs.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/solv-protocol.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "NFT Marketplace",
+    "chains": [
+      "Ethereum",
+      "Arbitrum",
+      "Binance",
+      "Polygon"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "module": "solv-protocol/index.js",
+    "twitter": "SolvProtocol",
+    "audit_links": [
+      "https://github.com/solv-finance/Audit"
+    ],
+    "listedAt": 1650458739,
+    "slug": "solv-protocol",
+    "tvl": 12796034.01097353,
+    "chainTvls": {
+      "Binance": 452965.6350978922,
+      "Ethereum": 11880869.074901728,
+      "Binance-staking": 0,
+      "Ethereum-staking": 0,
+      "Polygon": 4525.719891970828,
+      "Arbitrum": 457673.58108193823,
+      "staking": 0
+    },
+    "change_1h": -0.24,
+    "change_1d": 2.85,
+    "change_7d": 1.76,
+    "staking": 0,
+    "rank": 2
+  },
+  {
+    "id": "825",
+    "name": "NFT20",
+    "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+    "symbol": "MUSE",
+    "url": "https://nft20.io",
+    "description": "Trade, swap & sell NFTs. The NFT20 protocol offers NFT liquidity pools to help developers build the next generation of NFT apps.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/nft20.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "muse-2",
+    "cmcId": "7805",
+    "category": "NFT Marketplace",
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "module": "nft20.js",
+    "twitter": "niftymuseum",
+    "listedAt": 1636626538,
+    "slug": "nft20",
+    "tvl": 452082.1610864672,
+    "chainTvls": {
+      "pool2": 1284868.0551434853,
+      "Ethereum-pool2": 1284868.0551434853,
+      "Ethereum": 452046.54625266104,
+      "Polygon": 35.614833806159055,
+      "Ethereum-staking": 1251092.896366769,
+      "staking": 1251092.896366769
+    },
+    "change_1h": -0.37,
+    "change_1d": 4.16,
+    "change_7d": 11.93,
+    "staking": 1251092.896366769,
+    "pool2": 1284868.0551434853,
+    "fdv": 10824794,
+    "mcap": 10613392,
+    "rank": 3
+  },
+  {
+    "id": "792",
+    "name": "Pinyottas",
+    "address": null,
+    "symbol": "-",
+    "url": "https://pinyottas.com",
+    "description": "Pinyottas are NFTs that hold a collection of different fungible assets (a.k.a. ERC-20 tokens), so when a pinyotta is transferred to a new owner, the ERC-20 tokens move along with the pinyotta.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/pinyottas.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "NFT Marketplace",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "pinyottas.js",
+    "twitter": "pinyottas",
+    "listedAt": 1636177842,
+    "slug": "pinyottas",
+    "tvl": 2535.2025080516005,
+    "chainTvls": {
+      "Ethereum": 2535.2025080516005
+    },
+    "change_1h": -0.09,
+    "change_1d": 5.96,
+    "change_7d": 13.39,
+    "rank": 4
+  }
+]

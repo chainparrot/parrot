@@ -1,0 +1,1071 @@
+[
+  {
+    "id": "1669",
+    "name": "TokensFarm",
+    "address": null,
+    "symbol": "-",
+    "url": "https://tokensfarm.com",
+    "description": "Multichain Farm-As-A-Service provider offering off-the-shelf farms for projects and a yield farming one-stop shop for crypto holders.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/tokensfarm.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Binance",
+      "Ethereum",
+      "Polygon",
+      "Fantom",
+      "Avalanche"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "tokensfarm/index.js",
+    "twitter": "TokensFarm",
+    "audit_links": [
+      "https://www.certik.com/projects/tokensfarm"
+    ],
+    "listedAt": 1650460802,
+    "slug": "tokensfarm",
+    "tvl": 37050256.20551155,
+    "chainTvls": {
+      "Binance": 21122221.53763922,
+      "Ethereum": 11677327.710913863,
+      "Avalanche": 0,
+      "Polygon": 4246600.520059898,
+      "Fantom": 4106.436898563999
+    },
+    "change_1h": 0.17,
+    "change_1d": 1.5,
+    "change_7d": 1.44,
+    "rank": 1
+  },
+  {
+    "id": "833",
+    "name": "ZoomSwap",
+    "address": "iotex:0xf87aed04889a1dd0159d9C22B0D57b345Ab16dDD",
+    "symbol": "ZM",
+    "url": "https://zoomswap.io",
+    "description": "Yield farming AMM in IoTeX!",
+    "chain": "IoTeX",
+    "logo": "https://icons.llama.fi/zoomswap.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "zoomswap",
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "IoTeX"
+    ],
+    "module": "zoomswap/index.js",
+    "twitter": "zoomswap_io",
+    "audit_links": [
+      "https://rugdoc.io/project/zoomswap"
+    ],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1636756297,
+    "slug": "zoomswap",
+    "tvl": 2815506.1668262086,
+    "chainTvls": {
+      "pool2": 157276.72530583464,
+      "IoTeX-staking": 76997.18107282465,
+      "masterchef": 2815506.1668262086,
+      "IoTeX-pool2": 157276.72530583464,
+      "IoTeX": 2815506.1668262086,
+      "IoTeX-masterchef": 2815506.1668262086,
+      "staking": 76997.18107282465
+    },
+    "change_1h": 0.44,
+    "change_1d": 1.81,
+    "change_7d": -12.73,
+    "staking": 76997.18107282465,
+    "pool2": 157276.72530583464,
+    "fdv": 542902,
+    "mcap": 72641,
+    "rank": 2
+  },
+  {
+    "id": "205",
+    "name": "Goose Finance",
+    "address": "bsc:0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+    "symbol": "EGG",
+    "url": "https://www.goosedefi.com/",
+    "description": "2nd generation yield farming on binance smart chain",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/goose-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "goose-finance",
+    "cmcId": "8449",
+    "category": "Farm",
+    "chains": [
+      "Binance"
+    ],
+    "module": "goose.js",
+    "twitter": "Goosedefi",
+    "audit_links": [
+      "https://www.goosedefi.com/files/hackenAudit.pdf",
+      "https://www.certik.org/projects/goose-finance"
+    ],
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "slug": "goose-finance",
+    "tvl": 1985867.94,
+    "chainTvls": {
+      "Binance": 1985867.94
+    },
+    "change_1h": 0.19,
+    "change_1d": 1.9,
+    "change_7d": 4.25,
+    "fdv": 533894,
+    "mcap": 519953,
+    "rank": 3
+  },
+  {
+    "id": "1781",
+    "name": "SteakHut",
+    "address": "avax:0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+    "symbol": "STEAK",
+    "url": "https://www.steakhut.finance",
+    "description": "Providing boosted Trader Joe liquidity pools and returning the profits to the Herd.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/steakhut.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Avalanche"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "steakHut/index.js",
+    "twitter": "steakhut_fi",
+    "audit_links": [
+      "https://paladinsec.co/projects/steakhut-finance"
+    ],
+    "listedAt": 1653410101,
+    "slug": "steakhut",
+    "tvl": 1265454.4703752971,
+    "chainTvls": {
+      "Avalanche": 1265454.4703752971,
+      "Avalanche-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0.09,
+    "change_1d": 2.64,
+    "change_7d": 8.22,
+    "staking": 0,
+    "rank": 4
+  },
+  {
+    "id": "599",
+    "name": "Cub Finance",
+    "address": "bsc:0x50d809c74e0b8e49e7b4c65bb3109abe3ff4c1c1",
+    "symbol": "CUB",
+    "url": "https://cubdefi.com",
+    "description": "The goal of Cub Finance is to adopt and build DeFi-based smart contracts for the entire LeoFinance project. Through BEP20 LEO (bLEO), CUB and the adoption of existing use cases in the space, we're using the basic starting point of the Cub Finance yield platform to build a new generation of DeFi apps to expand and service our community of thousands of MAUs.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/cub-finance.svg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "cub-finance",
+    "cmcId": "8858",
+    "category": "Farm",
+    "chains": [
+      "Binance"
+    ],
+    "module": "cubfinance/index.js",
+    "twitter": "FinanceLeo",
+    "audit_links": [
+      "https://www.certik.org/projects/cubfinance"
+    ],
+    "forkedFrom": [
+      "Goose Finance",
+      "Autofarm"
+    ],
+    "slug": "cub-finance",
+    "tvl": 578793.6103996483,
+    "chainTvls": {
+      "Binance": 578793.6103996483
+    },
+    "change_1h": 0.35,
+    "change_1d": 1.45,
+    "change_7d": 2.54,
+    "mcap": 398303,
+    "rank": 5
+  },
+  {
+    "id": "1375",
+    "name": "Animal Farm",
+    "address": "bsc:0x3A4C15F96B3b058ab3Fb5FAf1440Cc19E7AE07ce",
+    "symbol": "PIGS",
+    "url": "https://theanimal.farm",
+    "description": "Masterchef Yield farm on BSC",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/animal-farm.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Binance"
+    ],
+    "oracles": [],
+    "module": "animal-farm/index.js",
+    "twitter": "DRIPcommunity",
+    "language": "Solidity",
+    "forkedFrom": [
+      "SushiSwap"
+    ],
+    "listedAt": 1644437338,
+    "slug": "animal-farm",
+    "tvl": 507499.2159360023,
+    "chainTvls": {
+      "Binance-masterchef": 507499.2159360023,
+      "pool2": 326445.86015649,
+      "masterchef": 507499.2159360023,
+      "Binance-pool2": 326445.86015649,
+      "Binance": 507499.2159360023,
+      "Binance-staking": 695423.5827032079,
+      "staking": 695423.5827032079
+    },
+    "change_1h": 0.67,
+    "change_1d": 2.01,
+    "change_7d": 11.5,
+    "staking": 695423.5827032079,
+    "pool2": 326445.86015649,
+    "rank": 6
+  },
+  {
+    "id": "1281",
+    "name": "veDAO",
+    "address": "fantom:0x911da02c1232a3c3e1418b834a311921143b04d7",
+    "symbol": "WeVE",
+    "url": "https://www.vedao.io/",
+    "description": "A masterchef",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/vedao.jpg",
+    "audits": "3",
+    "audit_note": null,
+    "gecko_id": "vedao",
+    "cmcId": "17459",
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "weve/index.js",
+    "twitter": "_veDAO_",
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "listedAt": 1642528930,
+    "slug": "vedao",
+    "tvl": 285196.6459116833,
+    "chainTvls": {
+      "pool2": 15764.876646821896,
+      "Fantom-staking": 0,
+      "masterchef": 285196.6459116834,
+      "Fantom-masterchef": 285196.6459116834,
+      "Fantom-pool2": 15764.876646821896,
+      "Fantom": 285196.6459116833,
+      "staking": 0
+    },
+    "change_1h": 0.0,
+    "change_1d": 0.37,
+    "change_7d": -3.08,
+    "staking": 0,
+    "pool2": 15764.876646821896,
+    "fdv": 816695,
+    "mcap": 558887,
+    "rank": 7
+  },
+  {
+    "id": "590",
+    "name": "Parrot Defi",
+    "address": "arbitrum:0x78055dAA07035Aa5EBC3e5139C281Ce6312E1b22",
+    "symbol": "PPEGG",
+    "url": "https://parrotdefi.com",
+    "description": "Yield farming and staking on the Arbitrum network.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/parrot-defi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "IoTeX",
+      "Arbitrum",
+      "Polygon",
+      "Harmony"
+    ],
+    "module": "parrotegg/index.js",
+    "twitter": "Parrotdefi1",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "slug": "parrot-defi",
+    "tvl": 136577.55786110036,
+    "chainTvls": {
+      "IoTeX": 125855.63536543287,
+      "Polygon": 3889.1013341074777,
+      "Arbitrum": 6027.467061715957,
+      "Harmony": 805.3540998440543
+    },
+    "change_1h": 0.15,
+    "change_1d": 1.67,
+    "change_7d": 1.11,
+    "rank": 8
+  },
+  {
+    "id": "675",
+    "name": "Dark Matter",
+    "address": "fantom:0x90e892fed501ae00596448aecf998c88816e5c0f",
+    "symbol": "DMD",
+    "url": "https://www.dmu.zone",
+    "description": "Dark Matter employs its native token, DMD, in all aspects of its ecosystem, including governance. At launch, you are able to stake, pool, and earn DMD. Additional use cases are in development, featuring NFTs and more.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/dark-matter.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "dark-matter-defi",
+    "cmcId": "12675",
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "darkmatter/index.js",
+    "twitter": "darkmatterdefi",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1634342862,
+    "slug": "dark-matter",
+    "tvl": 77817.84621395517,
+    "chainTvls": {
+      "pool2": 12219.705664326455,
+      "Fantom-staking": 22713.18045627125,
+      "Fantom-pool2": 12219.705664326455,
+      "staking": 22713.18045627125,
+      "Fantom": 77817.84621395517
+    },
+    "change_1h": 0.05,
+    "change_1d": 1.21,
+    "change_7d": 0.23,
+    "staking": 22713.18045627125,
+    "pool2": 12219.705664326455,
+    "fdv": 357109,
+    "mcap": 0,
+    "rank": 9
+  },
+  {
+    "id": "1810",
+    "name": "Zinax DAO",
+    "address": "bsc:0xFf3Aa0D4874C3BD5AdcBB94254005ff19f798AcB",
+    "symbol": "ZINAX",
+    "url": "https://zinax.org",
+    "description": "ZinaX DAO is a fixed deposit bank, built on the blockchain. ZinaX provides high yield savings and mining DeFi pools for crypto enthusiasts.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/zinax-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Binance"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "zinaxdao/index.js",
+    "twitter": "zinaxtoken",
+    "listedAt": 1654622081,
+    "slug": "zinax-dao",
+    "tvl": 44695.69055769753,
+    "chainTvls": {
+      "Binance-masterchef": 44695.69055769753,
+      "pool2": 6434.737412447214,
+      "masterchef": 44695.69055769753,
+      "Binance-pool2": 6434.737412447214,
+      "Binance": 44695.69055769753,
+      "Binance-staking": 27205.83237378131,
+      "staking": 27205.83237378131
+    },
+    "change_1h": 0.77,
+    "change_1d": 1.78,
+    "change_7d": -21.21,
+    "staking": 27205.83237378131,
+    "pool2": 6434.737412447214,
+    "rank": 10
+  },
+  {
+    "id": "1436",
+    "name": "SpectreFi",
+    "address": "fantom:0x2834d4F4cC40bd7D78c07E2D848358364222C272",
+    "symbol": "SPECT",
+    "url": "https://spectrefi.com",
+    "description": "Revolutionary DeFi Yield Farm on Fantom chain with referral system to give you that extra boost. Astral Farm also has auto-burn and auto-liquidity to ensure sustainably native price.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/spectrefi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "spectrefi/index.js",
+    "twitter": "SpectreDefi",
+    "listedAt": 1645299360,
+    "slug": "spectrefi",
+    "tvl": 36311.02158135539,
+    "chainTvls": {
+      "pool2": 232.99728737227326,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 232.99728737227326,
+      "staking": 0,
+      "Fantom": 36311.02158135539
+    },
+    "change_1h": -0.05,
+    "change_1d": 0.12,
+    "change_7d": 0.11,
+    "staking": 0,
+    "pool2": 232.99728737227326,
+    "rank": 11
+  },
+  {
+    "id": "1163",
+    "name": "Trick or Treat Farm",
+    "address": "fantom:0xA5aFce54270D9afA6a80464bBD383BE506888e6A",
+    "symbol": "TRICK",
+    "url": "https://trickortreat.farm/",
+    "description": "Trick or Treat Farm aims to provide a safe and fortuitous place for newcomers and veterans alike to increase the yields on cryptocurrency tokens deposited in the farm.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/trick-or-treat-farm.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "trick",
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "trickortreat/index.js",
+    "twitter": "tricktreatfarm",
+    "audit_links": [
+      "https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_TrickOrTreat.pdf"
+    ],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1640909035,
+    "slug": "trick-or-treat-farm",
+    "tvl": 34381.34416206586,
+    "chainTvls": {
+      "pool2": 107.15595715295218,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 107.15595715295218,
+      "staking": 0,
+      "Fantom": 34381.34416206586
+    },
+    "change_1h": 0.1,
+    "change_1d": 0.17,
+    "change_7d": -1.23,
+    "staking": 0,
+    "pool2": 107.15595715295218,
+    "fdv": 228.58,
+    "mcap": 0,
+    "rank": 12
+  },
+  {
+    "id": "1149",
+    "name": "Koala Defi",
+    "address": "bsc:0xb2ebaa0ad65e9c888008bf10646016f7fcdd73c3",
+    "symbol": "NALIS",
+    "url": "https://koaladefi.finance/",
+    "description": "High security crosschain Yieldfarming DAPP and crypto platform running on the Binance Smart Chain (BSC) and Polygon chain using the ApeSwap Exchange.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/koala-defi.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Binance",
+      "Polygon"
+    ],
+    "module": "koala-defi/index.js",
+    "twitter": "KoalaDefi",
+    "audit_links": [
+      "https://doc.koaladefi.finance/security/audits/audit-binance-smart-chain-bsc",
+      "https://doc.koaladefi.finance/security/audits/audit-polygon"
+    ],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1640808769,
+    "slug": "koala-defi",
+    "tvl": 13047.900829911803,
+    "chainTvls": {
+      "pool2": 2821.8704180715363,
+      "Polygon-pool2": 177.06171526933787,
+      "Binance-pool2": 2644.8087028021982,
+      "Binance": 12001.165996152504,
+      "Binance-staking": 1343.5706601566048,
+      "Polygon": 1046.7348337592998,
+      "Polygon-staking": 138.10948050899998,
+      "staking": 1481.6801406656048
+    },
+    "change_1h": 0.22,
+    "change_1d": 1.76,
+    "change_7d": 3.45,
+    "staking": 1481.6801406656048,
+    "pool2": 2821.8704180715363,
+    "rank": 13
+  },
+  {
+    "id": "1324",
+    "name": "FuryLabs Finance",
+    "address": "fantom:0xB1822A7ee73DD7de6Eda328A0681f8E1779CC4B6",
+    "symbol": "FURY",
+    "url": "https://furylabsfinance.com",
+    "description": "Masterchef yield farming on Fantom",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/furylabs-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "furylabsfinance/index.js",
+    "twitter": "FuryLabs_",
+    "audit_links": [
+      "https://fury-labs.gitbook.io/faq/security"
+    ],
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "listedAt": 1643397175,
+    "slug": "furylabs-finance",
+    "tvl": 11666.477550063946,
+    "chainTvls": {
+      "pool2": 136.58863816007235,
+      "Fantom-staking": 97.41454022299999,
+      "masterchef": 11666.477550063944,
+      "Fantom-masterchef": 11666.477550063944,
+      "Fantom-pool2": 136.58863816007235,
+      "Fantom": 11666.477550063946,
+      "staking": 97.41454022299999
+    },
+    "change_1h": 0.22,
+    "change_1d": 1.03,
+    "change_7d": 2.24,
+    "staking": 97.41454022299999,
+    "pool2": 136.58863816007235,
+    "rank": 14
+  },
+  {
+    "id": "523",
+    "name": "CryptoYieldFocus",
+    "address": "avax:0x411491859864797792308723Fc417f11BbA18D1b",
+    "symbol": "CYF",
+    "url": "https://www.cryptoyieldfocus.com",
+    "description": "Newly-launched yield farm and AMM based on Avalanche. Our goal is to create a strong and trustworthy foundation for which to be built upon by other businesses and clients alike. Brand new functions and utilities will be added upon our CYF token to sustain an enjoyable and immersive environment for our users",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/cryptoyieldfocus.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "cryptoyieldfocus/index.js",
+    "twitter": "CryptYieldFocus",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "slug": "cryptoyieldfocus",
+    "tvl": 4876.065311403582,
+    "chainTvls": {
+      "Avalanche": 4876.065311403582,
+      "Avalanche-staking": 0,
+      "pool2": 6.236150031475595,
+      "Avalanche-pool2": 6.236150031475595,
+      "staking": 0
+    },
+    "change_1h": -0.0,
+    "change_1d": 2.12,
+    "change_7d": 8.01,
+    "staking": 0,
+    "pool2": 6.236150031475595,
+    "rank": 15
+  },
+  {
+    "id": "1308",
+    "name": "Frog Nation Farm",
+    "address": "fantom:0xfa5c941bc491ee6dc1e933f38d01d8b5d5637205",
+    "symbol": "FROG",
+    "url": "https://www.frognation.farm/",
+    "description": "Frog Nation Farm is a yield farm on the Fantom Opera Network.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/frog-nation-farm.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "frog-nation-farm",
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "frog-nation-farm/index.js",
+    "twitter": "frognation_farm",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1642809400,
+    "slug": "frog-nation-farm",
+    "tvl": 3766.546792571691,
+    "chainTvls": {
+      "pool2": 23.51990829082618,
+      "Fantom-staking": 0,
+      "masterchef": 3766.546792571691,
+      "Fantom-masterchef": 3766.546792571691,
+      "Fantom-pool2": 23.51990829082618,
+      "Fantom": 3766.546792571691,
+      "staking": 0
+    },
+    "change_1h": -0.41,
+    "change_1d": 0.55,
+    "change_7d": 3.87,
+    "staking": 0,
+    "pool2": 23.51990829082618,
+    "mcap": 0,
+    "rank": 16
+  },
+  {
+    "id": "1435",
+    "name": "Cemetery Finance",
+    "address": "fantom:0x8bD04EE83a6076d1216237C8B91f7EeE3AccaB35",
+    "symbol": "HAUNT",
+    "url": "https://www.cemetery.finance",
+    "description": "Cemetery Finance is a farm with the simple purpose of generating passive income for users of the fantom ecosystem with sustainable and persistent gains, bringing balanced issuances and greater incentives to holders of the native HAUNT token.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/cementary-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "cemetery/index.js",
+    "twitter": "cemeteryfinance",
+    "listedAt": 1645299174,
+    "slug": "cemetery-finance",
+    "tvl": 3688.456566345404,
+    "chainTvls": {
+      "pool2": 26.143684230530177,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 26.143684230530177,
+      "staking": 0,
+      "Fantom": 3688.456566345404
+    },
+    "change_1h": -0.01,
+    "change_1d": 0.81,
+    "change_7d": 1.8,
+    "staking": 0,
+    "pool2": 26.143684230530177,
+    "rank": 17
+  },
+  {
+    "id": "1607",
+    "name": "Milko Farm",
+    "address": "milkomeda:0x3c786134228b363fb2984619D7560AB56363B2bD",
+    "symbol": "MLK",
+    "url": "https://www.milko.farm",
+    "description": "YieldFarming on Milkomeda Network",
+    "chain": "Milkomeda",
+    "logo": "https://icons.llama.fi/milko-farm.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Milkomeda"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "milko-farm.js",
+    "twitter": "milko_farm",
+    "listedAt": 1649072088,
+    "slug": "milko-farm",
+    "tvl": 3673.365721551349,
+    "chainTvls": {
+      "pool2": 56.40447457092918,
+      "Milkomeda": 3673.365721551349,
+      "masterchef": 3673.3657215513485,
+      "Milkomeda-masterchef": 3673.3657215513485,
+      "Milkomeda-pool2": 56.40447457092918,
+      "Milkomeda-staking": 135.731151556,
+      "staking": 135.731151556
+    },
+    "change_1h": -0.03,
+    "change_1d": 3.95,
+    "change_7d": 7.99,
+    "staking": 135.731151556,
+    "pool2": 56.40447457092918,
+    "rank": 18
+  },
+  {
+    "id": "1328",
+    "name": "Astral Farm",
+    "address": "fantom:0xd95322C0D069B51a41ed2D94A39617C2ACbcE636",
+    "symbol": "ASTRAL",
+    "url": "https://astral-farm.com",
+    "description": "Revolutionary DeFi Yield Farm on Fantom chain with referral system to give you that extra boost. Astral Farm also has auto-burn and auto-liquidity to ensure sustainably native price.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/astral-farm.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "astral-farm",
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "astralfarm/index.js",
+    "twitter": "Astral_FTM",
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1643481742,
+    "slug": "astral-farm",
+    "tvl": 3384.557943701459,
+    "chainTvls": {
+      "pool2": 5.664456267550073,
+      "Fantom-staking": 120.71172627719757,
+      "Fantom-pool2": 5.664456267550073,
+      "staking": 120.71172627719757,
+      "Fantom": 3384.557943701459
+    },
+    "change_1h": 0.19,
+    "change_1d": 0.65,
+    "change_7d": 1.36,
+    "staking": 120.71172627719757,
+    "pool2": 5.664456267550073,
+    "fdv": 1436.37,
+    "mcap": 0,
+    "rank": 19
+  },
+  {
+    "id": "1533",
+    "name": "LIFE",
+    "address": "fantom:0x8877E4B70C50CF275C2B77d6a0F69a312F5eE236",
+    "symbol": "LIFE",
+    "url": "https://lif3.exchange/",
+    "description": "LIFE is a reward and governance token integrating DeFi yield farming on the Fantom network. Earn yield from your ERC-20 tokens and LP tokens by staking and earning LIFE rewards.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/blindex.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "life/index.js",
+    "twitter": "DefiFatfire",
+    "listedAt": 1646953849,
+    "slug": "life",
+    "tvl": 2342.76830663314,
+    "chainTvls": {
+      "pool2": 4.097069817941101,
+      "Fantom-staking": 15.732747340617541,
+      "masterchef": 2342.76830663314,
+      "Fantom-masterchef": 2342.76830663314,
+      "Fantom-pool2": 4.097069817941101,
+      "Fantom": 2342.76830663314,
+      "staking": 15.732747340617541
+    },
+    "change_1h": 0.03,
+    "change_1d": 2.24,
+    "change_7d": 6.09,
+    "staking": 15.732747340617541,
+    "pool2": 4.097069817941101,
+    "rank": 20
+  },
+  {
+    "id": "1437",
+    "name": "Nightmare Finance",
+    "address": "fantom:0x465d67204A8F7c02cd35288Cc7712526359FB0a9",
+    "symbol": "FEAR",
+    "url": "https://www.nightmarefinance.com",
+    "description": "Powered by Fantom (FTM) with its high-speed consensus mechanism, Earn FEAR through yield farming or via our Incentives Pools and Vault Staking",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/nightmare-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "nightmare/index.js",
+    "twitter": "Nightmare_fi",
+    "listedAt": 1645299462,
+    "slug": "nightmare-finance",
+    "tvl": 2280.7039833709373,
+    "chainTvls": {
+      "pool2": 7.509337460160165,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 7.509337460160165,
+      "staking": 0,
+      "Fantom": 2280.7039833709373
+    },
+    "change_1h": -0.16,
+    "change_1d": 3.99,
+    "change_7d": 9.73,
+    "staking": 0,
+    "pool2": 7.509337460160165,
+    "rank": 21
+  },
+  {
+    "id": "1479",
+    "name": "Phantom Finance",
+    "address": "fantom:0x6230a87901C2ca6b23247a9afC1f63A8ecb95B05",
+    "symbol": "PHANTOM",
+    "url": "https://www.phantom.farm",
+    "description": "Yield Farm on Fantom",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/gton-capital.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "phantom-finance/index.js",
+    "twitter": "Phantom_fi",
+    "listedAt": 1645901674,
+    "slug": "phantom-finance",
+    "tvl": 1811.1797081007562,
+    "chainTvls": {
+      "pool2": 83.3278621270777,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 83.3278621270777,
+      "staking": 0,
+      "Fantom": 1811.1797081007562
+    },
+    "change_1h": 0.08,
+    "change_1d": 0.47,
+    "change_7d": 1.55,
+    "staking": 0,
+    "pool2": 83.3278621270777,
+    "rank": 22
+  },
+  {
+    "id": "1623",
+    "name": "TroyDefi",
+    "address": "bsc:0x576BB65B52425d59AC4c702376F88c527f5C7773",
+    "symbol": "TROY",
+    "url": "https://www.troydefi.com",
+    "description": "TroyDefi is a Binance Smart Chain yield farming project with high yields and a limited supply of 500,000 TROY tokens. Binance Smart Chain (BSC) solves many issues that exist on the Ethereum network.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/troydefi.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Binance"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "troydefi/index.js",
+    "twitter": "TroyDefi",
+    "audit_links": [
+      "https://rugdoc.io/project/troy-defi"
+    ],
+    "listedAt": 1649319546,
+    "slug": "troydefi",
+    "tvl": 1287.5103187170257,
+    "chainTvls": {
+      "Binance-masterchef": 1287.5103187170257,
+      "pool2": 148.9087442121312,
+      "masterchef": 1287.5103187170257,
+      "Binance-pool2": 148.9087442121312,
+      "Binance": 1287.5103187170257,
+      "Binance-staking": 86.05471323466986,
+      "staking": 86.05471323466986
+    },
+    "change_1h": 0.3,
+    "change_1d": 0.79,
+    "change_7d": 1.73,
+    "staking": 86.05471323466986,
+    "pool2": 148.9087442121312,
+    "rank": 23
+  },
+  {
+    "id": "1606",
+    "name": "Mockingbird",
+    "address": "fantom:0x0A737c40E42b164B30c0d3E5A19152CB89aA3EB9",
+    "symbol": "MOCKINGBIRD",
+    "url": "https://mockingbird.philetairus-socius.com",
+    "description": "Yield farm on Fantom",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/mockingbird.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "module": "mockingbird/index.js",
+    "twitter": "philetairus",
+    "listedAt": 1649014284,
+    "slug": "mockingbird",
+    "tvl": 1132.1086623718943,
+    "chainTvls": {
+      "pool2": 0.9058848051943721,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 0.9058848051943721,
+      "staking": 0,
+      "Fantom": 1132.1086623718943
+    },
+    "change_1h": 0.02,
+    "change_1d": 0.25,
+    "change_7d": 0.74,
+    "staking": 0,
+    "pool2": 0.9058848051943721,
+    "rank": 24
+  },
+  {
+    "id": "843",
+    "name": "Unirex Finance",
+    "address": "fantom:0x350a911687EB9710f1D36792F26D419577B127A8",
+    "symbol": "UNIREX",
+    "url": "https://www.unirex.finance",
+    "description": "Unirex Finance is a decentralized farm yield project running on Fantom Chain, Polygon (soon), and BSC (soon).",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/unirex-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "unirexfinance/index.js",
+    "twitter": "UnirexFinance",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1637026454,
+    "slug": "unirex-finance",
+    "tvl": 1036.4063572843993,
+    "chainTvls": {
+      "pool2": 9.737005040385073,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 9.737005040385073,
+      "staking": 0,
+      "Fantom": 1036.4063572843993
+    },
+    "change_1h": 0.01,
+    "change_1d": 0.24,
+    "change_7d": 0.76,
+    "staking": 0,
+    "pool2": 9.737005040385073,
+    "rank": 25
+  },
+  {
+    "id": "710",
+    "name": "Squid-Defi",
+    "address": "fantom:0xd86Be84feC60Fedf263059BB1581e00d2168e19D",
+    "symbol": "SQUID",
+    "url": "https://squid-defi.com",
+    "description": "#1 Stable DeFi Token on the Fantom Blockchain",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/squid-defi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Farm",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "squid-defi/index.js",
+    "twitter": "SquidDeFi",
+    "forkedFrom": [
+      "Goose Finance"
+    ],
+    "listedAt": 1635249537,
+    "slug": "squid-defi",
+    "tvl": 1017.5701331025915,
+    "chainTvls": {
+      "pool2": 34.91463510054743,
+      "Fantom-staking": 0,
+      "Fantom-pool2": 34.91463510054743,
+      "staking": 0,
+      "Fantom": 1017.5701331025915
+    },
+    "change_1h": 0.01,
+    "change_1d": 2.43,
+    "change_7d": 4.9,
+    "staking": 0,
+    "pool2": 34.91463510054743,
+    "rank": 26
+  }
+]

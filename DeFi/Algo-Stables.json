@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "359",
+    "name": "Frax",
+    "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "symbol": "FXS",
+    "url": "https://frax.finance/",
+    "description": "Inventors of the fractional stablecoin. $FRAX is the 1st stablecoin with parts backed & parts algorithmic",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/frax.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "frax-share",
+    "cmcId": "6953",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum",
+      "Fantom"
+    ],
+    "module": "fraxfinance/index.js",
+    "twitter": "fraxfinance",
+    "audit_links": [
+      "https://www.certik.org/projects/fraxfinance"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "frax",
+    "tvl": 1218059956.5464032,
+    "chainTvls": {
+      "pool2": 65572256.115860865,
+      "Ethereum-pool2": 65572256.115860865,
+      "Ethereum-treasury": 176375763.05096266,
+      "Ethereum": 1217956885.8391242,
+      "Ethereum-staking": 288192144.9871575,
+      "treasury": 176375763.05096266,
+      "Fantom": 103070.70727900072,
+      "staking": 288192144.9871575
+    },
+    "change_1h": -0.0,
+    "change_1d": 0.0,
+    "change_7d": 0.9,
+    "staking": 288192144.9871575,
+    "pool2": 65572256.115860865,
+    "fdv": 681162896,
+    "mcap": 488691545,
+    "rank": 1
+  },
+  {
+    "id": "611",
+    "name": "Neutrino",
+    "address": "waves:6nSpVyNH7yM69eg446wrQR94ipbbcmZMU1ENPwanC97g",
+    "symbol": "NSBT",
+    "url": "https://neutrino.at",
+    "description": "The \u200bNeutrino protocol is an algorithmic price-stable assetization protocol that enables the creation of stable coins tied to real-world assets or cryptocurrency.",
+    "chain": "Waves",
+    "logo": "https://icons.llama.fi/neutrino.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "neutrino-system-base-token",
+    "cmcId": "7320",
+    "category": "Algo-Stables",
+    "chains": [
+      "Waves"
+    ],
+    "module": "neutrino/index.js",
+    "twitter": "neutrino_proto",
+    "audit_links": [
+      "https://audit.neutrino.at"
+    ],
+    "slug": "neutrino",
+    "tvl": 113786244.26407236,
+    "chainTvls": {
+      "Waves": 113786244.26407236
+    },
+    "change_1h": -0.22,
+    "change_1d": 1.67,
+    "change_7d": -12.17,
+    "mcap": 51752425,
+    "rank": 2
+  },
+  {
+    "id": "265",
+    "name": "Reflexer",
+    "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+    "symbol": "FLX",
+    "url": "https://reflexer.finance/",
+    "description": "A decentralized, stable and non pegged currency made for the digital economy",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/reflexer.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "reflexer-ungovernance-token",
+    "cmcId": "9493",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "reflexer/index.js",
+    "twitter": "reflexerfinance",
+    "audit_links": [
+      "https://reflexer.finance/about/"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "reflexer",
+    "tvl": 62223180.67394651,
+    "chainTvls": {
+      "Ethereum": 62223180.67394651
+    },
+    "change_1h": -0.37,
+    "change_1d": 6.16,
+    "change_7d": 21.47,
+    "fdv": 58381039,
+    "mcap": 32178477,
+    "rank": 3
+  },
+  {
+    "id": "255",
+    "name": "Fei Protocol",
+    "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "symbol": "FEI",
+    "url": "https://fei.money/",
+    "description": "FEI uses a new kind of stablecoin mechanism called direct incentives. It is more capital efficient, has a fair distribution, and is fully decentralized. The protocol uses the value it controls to maintain liquid secondary markets.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/fei-protocol.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "fei-protocol",
+    "cmcId": "8642",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "fei/index.js",
+    "twitter": "feiprotocol",
+    "audit_links": [
+      "https://docs.fei.money/audit"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "fei-protocol",
+    "tvl": 61107065.12784034,
+    "chainTvls": {
+      "Ethereum": 61107065.12784034
+    },
+    "change_1h": -0.0,
+    "change_1d": 0.02,
+    "change_7d": 0.0,
+    "fdv": 524970827,
+    "mcap": 521800599,
+    "rank": 4
+  },
+  {
+    "id": "376",
+    "name": "Tomb Finance",
+    "address": "fantom:0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+    "symbol": "TOMB",
+    "url": "https://tomb.finance/",
+    "description": "TOMB is a crosschain algorithmic stablecoin, pegged to the price of 1 FTM via seigniorage.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/tomb-finance.jpg",
+    "audits": "3",
+    "audit_note": null,
+    "gecko_id": "tomb",
+    "cmcId": "11495",
+    "category": "Algo-Stables",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "tomb/index.js",
+    "twitter": "tombfinance",
+    "oracles": [
+      "DIA"
+    ],
+    "slug": "tomb-finance",
+    "tvl": 51561943.992785424,
+    "chainTvls": {
+      "pool2": 4465387.237712558,
+      "Fantom-staking": 26258796.6543116,
+      "Fantom-pool2": 4465387.237712558,
+      "staking": 26258796.6543116,
+      "Fantom": 51561943.992785424
+    },
+    "change_1h": 0.25,
+    "change_1d": 0.56,
+    "change_7d": 0.37,
+    "staking": 26258796.6543116,
+    "pool2": 4465387.237712558,
+    "mcap": 33419732,
+    "rank": 5
+  },
+  {
+    "id": "427",
+    "name": "Origin Dollar",
+    "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "symbol": "OUSD",
+    "url": "https://www.ousd.com",
+    "description": "Origin Dollar (OUSD) is a new stablecoin that was initially launched on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/origin-dollar.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "origin-dollar",
+    "cmcId": "7189",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "origindollar/index.js",
+    "twitter": "OriginProtocol",
+    "audit_links": [
+      "https://docs.ousd.com/v/en/security-and-risks/audits"
+    ],
+    "slug": "origin-dollar",
+    "tvl": 48919361.071487345,
+    "chainTvls": {
+      "Ethereum": 48919361.071487345,
+      "Ethereum-staking": 18801818.582266413,
+      "staking": 18801818.582266413
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.52,
+    "change_7d": -0.98,
+    "staking": 18801818.582266413,
+    "fdv": 48611036,
+    "mcap": 48611036,
+    "rank": 6
+  },
+  {
+    "id": "1402",
+    "name": "UXD",
+    "address": "solana:UXPhBoR3qG4UCiGNJfV7MqhHyFqKN68g45GoYvAeL2M",
+    "symbol": "UXP",
+    "url": "https://uxd.fi/",
+    "description": "UXD Protocol is an algorithmic stablecoin that is fully backed by a delta-neutral position using derivatives.",
+    "chain": "Solana",
+    "logo": "https://icons.llama.fi/uxd.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "uxd-protocol-token",
+    "cmcId": "15028",
+    "category": "Algo-Stables",
+    "chains": [
+      "Solana"
+    ],
+    "module": "uxd/index.js",
+    "twitter": "UXDProtocol",
+    "language": "Rust",
+    "audit_links": [
+      "https://bramah.systems/audits/UXD_Audit_Bramah.pdf"
+    ],
+    "listedAt": 1644696944,
+    "openSource": false,
+    "slug": "uxd",
+    "tvl": 23170959.47362596,
+    "chainTvls": {
+      "Solana": 23170959.47362596
+    },
+    "change_1h": 5.55,
+    "change_1d": 8.81,
+    "change_7d": 29.06,
+    "mcap": 7586568,
+    "rank": 7
+  },
+  {
+    "id": "195",
+    "name": "DefiDollar DAO",
+    "address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+    "symbol": "DFD",
+    "url": "https://dusd.finance/",
+    "description": "DefiDollar is a Multichain DeFi Protocol Lab",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/defidollar-dao.svg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "defidollar-dao",
+    "cmcId": "7593",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "defidollar/index.js",
+    "twitter": "defidollar",
+    "audit_links": [
+      "https://docs.dusd.finance/audits"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "defidollar-dao",
+    "tvl": 16169231.474172972,
+    "chainTvls": {
+      "Ethereum": 16169231.474172972
+    },
+    "change_1h": -0.13,
+    "change_1d": -1.59,
+    "change_7d": 1.27,
+    "fdv": 2796651,
+    "mcap": 611566,
+    "rank": 8
+  },
+  {
+    "id": "1194",
+    "name": "Sperax USD",
+    "address": "arbitrum:0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+    "symbol": "USDs",
+    "url": "http://sperax.io",
+    "description": "Sperax's USDs strikes a dynamic balance between collateralization and algorithmic-stability, unleashing the stablecoin's capital efficiency",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/sperax-usd.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "sperax",
+    "cmcId": "6715",
+    "category": "Algo-Stables",
+    "chains": [
+      "Arbitrum",
+      "Ethereum"
+    ],
+    "module": "sperax/index.js",
+    "twitter": "SperaxUSD",
+    "oracles": [
+      "DIA"
+    ],
+    "audit_links": [
+      "https://github.com/Sperax/Audit_Reports"
+    ],
+    "listedAt": 1641400651,
+    "slug": "sperax-usd",
+    "tvl": 1550569.35548515,
+    "chainTvls": {
+      "Ethereum": 0,
+      "Ethereum-staking": 58582.952896156385,
+      "Arbitrum-staking": 382151.23565650295,
+      "Arbitrum": 1550569.35548515,
+      "staking": 440734.18855265935
+    },
+    "change_1h": 0.0,
+    "change_1d": 0.15,
+    "change_7d": -60.54,
+    "staking": 440734.18855265935,
+    "fdv": 24265875,
+    "mcap": 6296389,
+    "rank": 9
+  },
+  {
+    "id": "1261",
+    "name": "DarkCrypto",
+    "address": "cronos:0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+    "symbol": "DARK",
+    "url": "https://www.darkcrypto.finance",
+    "description": "DarkCrypto Finance is the first ecosystem running around an algorithmic token pegged to CRO on Cronos chain. DarkVerse will be our ecosystem using DARK as the main token. It contains: DeFi App (Vaults, Stablecoin swap, lending), GameFi, NFT Apps, Betting DApps, MetaVerse applications",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/darkcrypto.svg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "darkcrypto",
+    "cmcId": "17118",
+    "category": "Algo-Stables",
+    "chains": [
+      "Cronos"
+    ],
+    "module": "darkcrypto/index.js",
+    "twitter": "DarkCryptoFi",
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "audit_links": [
+      "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-DarkCrypto-v1.0.pdf"
+    ],
+    "listedAt": 1642192171,
+    "slug": "darkcrypto",
+    "tvl": 1509460.6487568293,
+    "chainTvls": {
+      "Cronos": 1509460.6487568293,
+      "pool2": 526850.0821965007,
+      "Cronos-pool2": 526850.0821965007,
+      "Cronos-staking": 15952.780949459857,
+      "staking": 15952.780949459857
+    },
+    "change_1h": 0.47,
+    "change_1d": 4.44,
+    "change_7d": -0.41,
+    "staking": 15952.780949459857,
+    "pool2": 526850.0821965007,
+    "mcap": 1467394,
+    "rank": 10
+  },
+  {
+    "id": "1226",
+    "name": "Oin Finance",
+    "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+    "symbol": "OIN",
+    "url": "https://oin.finance",
+    "description": "A robust turnkey stablecoin issuance platform built for the multi-chain universe",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/oin-finance.svg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "oin-finance",
+    "cmcId": "6870",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum",
+      "Near",
+      "Harmony"
+    ],
+    "module": "oin-finance/index.js",
+    "twitter": "FinanceOin",
+    "oracles": [
+      "DIA"
+    ],
+    "audit_links": [
+      "https://oin-finance.gitbook.io/925/misc.-resources/documentation#oindao-v3-audits"
+    ],
+    "listedAt": 1641873083,
+    "slug": "oin-finance",
+    "tvl": 526599.74362027,
+    "chainTvls": {
+      "Ethereum": 325939.00043142994,
+      "pool2": 31727.078733990318,
+      "Near": 105296.07269677045,
+      "Harmony": 95364.67049206971,
+      "Ethereum-pool2": 31727.078733990318
+    },
+    "change_1h": -0.33,
+    "change_1d": 4.02,
+    "change_7d": 13.11,
+    "pool2": 31727.078733990318,
+    "mcap": 811787,
+    "rank": 11
+  },
+  {
+    "id": "1794",
+    "name": "Ostable",
+    "address": null,
+    "symbol": "-",
+    "url": "https://ostable.org",
+    "description": "Ostable is an advanced stable coin platform powered by bonding curves. It is a collection of autonomous agents that interact with each other to offer various financial products to investors such as interest tokens, stablecoins and stability fund shares.",
+    "chain": "Obyte",
+    "logo": "https://icons.llama.fi/ostable.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Obyte"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "ostable/index.js",
+    "twitter": "ObyteOrg",
+    "listedAt": 1653984585,
+    "slug": "ostable",
+    "tvl": 488629.8462700892,
+    "chainTvls": {
+      "Obyte": 488629.8462700892
+    },
+    "change_1h": 0.0,
+    "change_1d": 3.66,
+    "change_7d": 1.08,
+    "rank": 12
+  },
+  {
+    "id": "1233",
+    "name": "Creditum",
+    "address": "fantom:0x77128DFdD0ac859B33F44050c6fa272F34872B5E",
+    "symbol": "CREDIT",
+    "url": "https://revenant.finance/creditum",
+    "description": "Creditum is a lending & borrowing protocol that allows users to mint cUSD, a stablecoin pegged at $1, by supplying collateral.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/creditum.png",
+    "audits": "0",
+    "audit_note": "2",
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "creditum/index.js",
+    "twitter": "RevenantFinance",
+    "listedAt": 1641878060,
+    "audit_links": [
+      "https://github.com/revenant-finance/creditum-audit"
+    ],
+    "slug": "creditum",
+    "tvl": 435645.56536617177,
+    "chainTvls": {
+      "pool2": 73594.79004617309,
+      "Fantom-staking": 7859.937286076897,
+      "Fantom-pool2": 73594.79004617309,
+      "staking": 7859.937286076897,
+      "Fantom": 435645.56536617177
+    },
+    "change_1h": -0.0,
+    "change_1d": 0.03,
+    "change_7d": -8.04,
+    "staking": 7859.937286076897,
+    "pool2": 73594.79004617309,
+    "rank": 13
+  },
+  {
+    "id": "356",
+    "name": "Dopple Finance",
+    "address": "bsc:0x844fa82f1e54824655470970f7004dd90546bb28",
+    "symbol": "DOP",
+    "url": "https://dopple.finance/",
+    "description": "Stablecoin DeFi Ecosystem on #BSC",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/dopple-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "dopple-finance",
+    "cmcId": "9489",
+    "category": "Algo-Stables",
+    "chains": [
+      "Binance",
+      "Fantom",
+      "Harmony"
+    ],
+    "module": "dopplefinance/index.js",
+    "twitter": "dopplefi",
+    "audit_links": [
+      "https://dopple.gitbook.io/dopple-finance/certik-audit"
+    ],
+    "slug": "dopple-finance",
+    "tvl": 393462.05172686663,
+    "chainTvls": {
+      "Binance": 393304.1923449217,
+      "Harmony": 3.058601761076384,
+      "Fantom": 154.8007801838635
+    },
+    "change_1h": 0.08,
+    "change_1d": 0.0,
+    "change_7d": -0.14,
+    "mcap": 0,
+    "rank": 14
+  },
+  {
+    "id": "1279",
+    "name": "Tulip",
+    "address": "oasis:0x9e832CaE5d19e7ff2f0D62881D1E33bb16Ac9bdc",
+    "symbol": "TULIP",
+    "url": "https://tulip.money/",
+    "description": "The first algorithmic stablecoin on Emerald ParaTime, pegged to the price of 1 ROSE via seigniorage.",
+    "chain": "Oasis",
+    "logo": "https://icons.llama.fi/tulip.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "tulip",
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Oasis"
+    ],
+    "module": "tulip/index.js",
+    "twitter": "MoneyTulip",
+    "oracles": [
+      "TWAP"
+    ],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "listedAt": 1642456433,
+    "slug": "tulip",
+    "tvl": 281559.2249054547,
+    "chainTvls": {
+      "Oasis": 281559.2249054547,
+      "Oasis-staking": 0,
+      "staking": 0
+    },
+    "change_1h": -0.43,
+    "change_1d": 2.32,
+    "change_7d": 11.2,
+    "staking": 0,
+    "rank": 15
+  },
+  {
+    "id": "169",
+    "name": "Basis Cash",
+    "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+    "symbol": "BAC",
+    "url": "https://basis.cash/",
+    "description": "Basis Cash is a censorship-resistant and fairly distributed implementation of the Basis Protocol.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/basis-cash.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "basis-cash",
+    "cmcId": "7813",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "basis-cash.js",
+    "twitter": "BasisCash",
+    "audit_links": [
+      "https://github.com/basisdollar/basisdollar-protocol#audit"
+    ],
+    "slug": "basis-cash",
+    "tvl": 272962.32188737113,
+    "chainTvls": {
+      "Ethereum": 272962.32188737113
+    },
+    "change_1h": 0.01,
+    "change_1d": -16.0,
+    "change_7d": -15.7,
+    "fdv": 253904,
+    "mcap": 253904,
+    "rank": 16
+  },
+  {
+    "id": "1920",
+    "name": "OrderNChaos",
+    "address": "avax:0xCd17D12dfD16051b5d2895E4dFC72AfD82DBB529",
+    "symbol": "CHAOS",
+    "url": "https://ordernchaos.finance/",
+    "description": "OrderNChaos(ONC) is a twin system of algorithmic stable coins. ONC produces the $CHAOS token: an algorithmic metastable token that serves as a store of wealth. And it produces the $ORDER token: a decentralized superstable store of value.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/ordernchaos.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Avalanche"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "ordernchaos/index.js",
+    "twitter": "ordernchaos_fi",
+    "listedAt": 1658736615,
+    "slug": "ordernchaos",
+    "tvl": 221001.81335883486,
+    "chainTvls": {
+      "Avalanche": 221001.81335883486
+    },
+    "change_1h": 0.1,
+    "change_1d": -1.78,
+    "change_7d": -21.31,
+    "rank": 17
+  },
+  {
+    "id": "1915",
+    "name": "Nava finance",
+    "address": "rei:0x46D741b89102815710efeA3051291E64Ff49C228",
+    "symbol": "NAVA",
+    "url": "https://nava.finance",
+    "description": "NAVA.FINANCE, home to the first algorithmic token pegged to $REI on the REI network.",
+    "chain": "REI",
+    "logo": "https://icons.llama.fi/nava-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "REI"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "module": "nava-finance/index.js",
+    "twitter": "navafinance",
+    "listedAt": 1658332788,
+    "slug": "nava-finance",
+    "tvl": 184998.2460963652,
+    "chainTvls": {
+      "pool2": 39101.69653213237,
+      "REI": 184998.2460963652,
+      "REI-pool2": 39101.69653213237,
+      "REI-staking": 567.5524885971226,
+      "staking": 567.5524885971226
+    },
+    "change_1h": 0.12,
+    "change_1d": 1.22,
+    "change_7d": 0.54,
+    "staking": 567.5524885971226,
+    "pool2": 39101.69653213237,
+    "rank": 18
+  },
+  {
+    "id": "702",
+    "name": "Coffin Finance",
+    "address": "fantom:0x593ab53baffaf1e821845cf7080428366f030a9c",
+    "symbol": "COFFIN",
+    "url": "https://coffin.finance",
+    "description": "Coffin Finance protocol is a partially collateralized stable token project. Coffin Finance team believes in the potential of Fantom Opera, so rather than using USDC, it uses FTM and COFFIN (the protocol's native token) as collaterals to mint CoUSD stable tokens. This makes it truly decentralized! A big part of the platform revenue will be given back to the community through its high yield farming options, which includes both staking liquidity pairs and single asset staking.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/coffin-finance.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "coffin-finance",
+    "cmcId": "12765",
+    "category": "Algo-Stables",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "coffin/index.js",
+    "twitter": "CoffinFinance",
+    "audit_links": [
+      "https://github.com/CoffinFinance/coffin-contracts/tree/main/audits"
+    ],
+    "listedAt": 1635104456,
+    "slug": "coffin-finance",
+    "tvl": 141876.8474302967,
+    "chainTvls": {
+      "Fantom-staking": 1623.8026515167808,
+      "staking": 1623.8026515167808,
+      "Fantom": 141876.8474302967
+    },
+    "change_1h": 0.11,
+    "change_1d": 0.92,
+    "change_7d": -2.15,
+    "staking": 1623.8026515167808,
+    "fdv": 587032,
+    "mcap": 0,
+    "rank": 19
+  },
+  {
+    "id": "1827",
+    "name": "SaharaDAO",
+    "address": "cronos:0xc9b23289c60783649aa327732fccec2f5d0ac466",
+    "symbol": "MNG",
+    "url": "https://saharadao.finance",
+    "description": "Fractional-Algorithmic Synthetic Token pegged to the value of 1 MMF & 1 MUSD on Cronos Chain.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/saharadao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "saharadao",
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [
+      "Fantasm"
+    ],
+    "module": "saharadao/index.js",
+    "twitter": "SaharaDao",
+    "audit_links": [
+      "https://etherauthority.io/sahara-dao-protocol-smart-contract-audit"
+    ],
+    "listedAt": 1655464683,
+    "slug": "saharadao",
+    "tvl": 82364.32666329917,
+    "chainTvls": {
+      "Cronos": 82364.32666329917,
+      "pool2": 203671.27202930232,
+      "Cronos-pool2": 203671.27202930232,
+      "Cronos-staking": 68513.67669231839,
+      "staking": 68513.67669231839
+    },
+    "change_1h": -0.09,
+    "change_1d": -18.27,
+    "change_7d": -59.56,
+    "staking": 68513.67669231839,
+    "pool2": 203671.27202930232,
+    "fdv": 2720040,
+    "mcap": 0,
+    "rank": 20
+  },
+  {
+    "id": "1277",
+    "name": "Paprprintr",
+    "address": "bsc:0x246475df8703be0c2ba2f8d0fb7248d95cc1ba26",
+    "symbol": "PAPR",
+    "url": "https://paprprintr.finance",
+    "description": "We aim to connect DeFi with the real world. paprprintr at its core, is an algorithmic stablecoin driven by elastic expansion and burn.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/paprprintr.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "paprprintr-finance",
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Kucoin",
+      "Binance",
+      "Polygon",
+      "Aurora",
+      "Fantom",
+      "OKExChain"
+    ],
+    "module": "paprprintr/index.js",
+    "twitter": "paprprintr",
+    "audit_links": [
+      "https://docs.paprprintr.finance/audit"
+    ],
+    "forkedFrom": [
+      "Basis Cash"
+    ],
+    "listedAt": 1642453213,
+    "slug": "paprprintr",
+    "tvl": 66101.024141152,
+    "chainTvls": {
+      "Fantom-staking": 487.83889354199994,
+      "Polygon-pool2": 9308.641633291,
+      "Aurora-pool2": 2520.2821263619994,
+      "Binance-pool2": 17486.138705035,
+      "Binance": 24346.0207991,
+      "Binance-staking": 5529.535550539,
+      "Kucoin-pool2": 735.8622551279999,
+      "Fantom": 2085.395549237,
+      "staking": 9079.095613588,
+      "Aurora-staking": 50.22508991499999,
+      "OKExChain-staking": 0,
+      "OKExChain": 23.780131374999996,
+      "pool2": 32171.852605893,
+      "Kucoin": 29170.338859661995,
+      "Aurora": 2118.568970518,
+      "Kucoin-staking": 1227.626952552,
+      "Polygon": 8356.91983126,
+      "Polygon-staking": 1783.8691270399997,
+      "Fantom-pool2": 2120.9278860769996,
+      "OKExChain-pool2": 0
+    },
+    "change_1h": 0.1,
+    "change_1d": 0.99,
+    "change_7d": -3.15,
+    "staking": 9079.095613588,
+    "pool2": 32171.852605893,
+    "mcap": 0,
+    "rank": 21
+  },
+  {
+    "id": "1811",
+    "name": "Spice Trade",
+    "address": "0x18a1Ea69A50A85752b7bC204a2c45A95Ce6E429d",
+    "symbol": "SPICE",
+    "url": "https://app.spicetrade.ai",
+    "description": "The core thesis of the Spice Trade protocol is that, there's a massive need for a decentralized, on-chain, open-source, value-stable, scalable, modular, cross-chain, and capital-efficient system for trade among people of the world.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/spice-trade.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "spice-trade",
+    "cmcId": "20328",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum",
+      "Avalanche",
+      "Binance",
+      "Polygon"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "spicetrade/index.js",
+    "twitter": "spicetradeai",
+    "listedAt": 1654678696,
+    "slug": "spice-trade",
+    "tvl": 61814.18908595345,
+    "chainTvls": {
+      "pool2": 374828.8515575034,
+      "Polygon-pool2": 92480.70881312576,
+      "Binance-pool2": 0,
+      "Ethereum-pool2": 89752.423446785,
+      "Binance": 3.6333479712381207,
+      "Ethereum": 55435.882820264065,
+      "Binance-staking": 1.3060918987852588,
+      "Avalanche": 6374.093737116145,
+      "Avalanche-staking": 10066.7573775973,
+      "Ethereum-staking": 3671.870128431483,
+      "Polygon": 0.5791806019999999,
+      "Polygon-staking": 3612.739113990453,
+      "Avalanche-pool2": 192595.7192975926,
+      "staking": 17352.67271191802
+    },
+    "change_1h": 0.08,
+    "change_1d": 2.22,
+    "change_7d": -33.37,
+    "staking": 17352.67271191802,
+    "pool2": 374828.8515575034,
+    "fdv": 421621,
+    "mcap": 23948,
+    "rank": 22
+  },
+  {
+    "id": "1816",
+    "name": "Ruby Finance",
+    "address": "kava:0xCa7350Ed65c2fC90A9DBF2D15C75E80EA91aB1c1",
+    "symbol": "RUBY",
+    "url": "https://www.ruby-finance.com",
+    "description": "Ruby Finance is the first innovative algorithmic token pegged to $KAVA running on KAVA network.",
+    "chain": "Kava",
+    "logo": "https://icons.llama.fi/ruby-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Kava"
+    ],
+    "oracles": [
+      "TWAP"
+    ],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "module": "rubyfinance/index.js",
+    "twitter": "Ruby_Protocol",
+    "listedAt": 1654869440,
+    "slug": "ruby-finance",
+    "tvl": 55397.83083208325,
+    "chainTvls": {
+      "Kava": 55397.83083208325,
+      "Kava-staking": 879.86614663515,
+      "pool2": 3317.8595211848196,
+      "staking": 879.86614663515,
+      "Kava-pool2": 3317.8595211848196
+    },
+    "change_1h": 0.0,
+    "change_1d": 2.22,
+    "change_7d": -0.45,
+    "staking": 879.86614663515,
+    "pool2": 3317.8595211848196,
+    "rank": 23
+  },
+  {
+    "id": "1680",
+    "name": "Orcus Finance",
+    "address": "astar:0xCdB32eEd99AA19D39e5d6EC45ba74dC4afeC549F",
+    "symbol": "ORU",
+    "url": "https://orcusfinance.io",
+    "description": "Orcus Finance is delivering the first Fractional-Algorithmic Stablecoin pegged to the United States dollar which is built on the Astar Network.",
+    "chain": "Astar",
+    "logo": "https://icons.llama.fi/orcus-finance.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Astar"
+    ],
+    "oracles": [
+      "DIA"
+    ],
+    "forkedFrom": [],
+    "module": "orcus/index.js",
+    "twitter": "Orcus_Finance",
+    "audit_links": [
+      "https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_OrcusFinance.pdf"
+    ],
+    "listedAt": 1650838812,
+    "slug": "orcus-finance",
+    "tvl": 50343.64246711799,
+    "chainTvls": {
+      "Astar-pool2": 15432.227564754,
+      "Astar": 50343.64246711799,
+      "pool2": 15432.227564754,
+      "Astar-staking": 0,
+      "staking": 0
+    },
+    "change_1h": -0.1,
+    "change_1d": 0.01,
+    "change_7d": -14.01,
+    "staking": 0,
+    "pool2": 15432.227564754,
+    "rank": 24
+  },
+  {
+    "id": "1080",
+    "name": "XUSD Money",
+    "address": "0x1c9BA9144505aaBa12f4b126Fda9807150b88f80",
+    "symbol": "XUSD",
+    "url": "https://xusd.money",
+    "description": "Fairly launched partial-collateralized stablecoin.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/xusd-money.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": "8316",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "xusdmoney/index.js",
+    "twitter": "xusd_stable",
+    "forkedFrom": [
+      "Frax"
+    ],
+    "listedAt": 1640222404,
+    "slug": "xusd-money",
+    "tvl": 30300.975031100144,
+    "chainTvls": {
+      "Ethereum": 30300.975031100144,
+      "pool2": 1399.956599800862,
+      "Ethereum-staking": 0,
+      "staking": 0,
+      "Ethereum-pool2": 1399.956599800862
+    },
+    "change_1h": 0.06,
+    "change_1d": 3.04,
+    "change_7d": -25.48,
+    "staking": 0,
+    "pool2": 1399.956599800862,
+    "rank": 25
+  },
+  {
+    "id": "1504",
+    "name": "Fantasm",
+    "address": "fantom:0xaa621D2002b5a6275EF62d7a065A865167914801",
+    "symbol": "FSM",
+    "url": "https://fantasm.finance/",
+    "description": " Fractional-algorithmic Synthetic token on Fantom Opera",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/fantasm.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "fantasm-fsm",
+    "cmcId": "18573",
+    "category": "Algo-Stables",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [],
+    "module": "fantasm/index.js",
+    "twitter": "fantasm_finance",
+    "listedAt": 1646391958,
+    "slug": "fantasm",
+    "tvl": 26995.4711709742,
+    "chainTvls": {
+      "pool2": 67820.6167625156,
+      "Fantom-staking": 164698.88849521958,
+      "Fantom-pool2": 67820.6167625156,
+      "staking": 164698.88849521958,
+      "Fantom": 26995.4711709742
+    },
+    "change_1h": 0.47,
+    "change_1d": 2.08,
+    "change_7d": 6.73,
+    "staking": 164698.88849521958,
+    "pool2": 67820.6167625156,
+    "mcap": 0,
+    "rank": 26
+  },
+  {
+    "id": "1483",
+    "name": "V3S Finance",
+    "address": "cronos:0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
+    "symbol": "V3S",
+    "url": "https://www.v3s.finance",
+    "description": "V3S Finance, the first ecosystem running around an algorithmic token pegged to VVS on Cronos chain. Build by a team of VVS Diamond holders",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/v3s-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "module": "v3s-finance/index.js",
+    "twitter": "v3sfinance",
+    "listedAt": 1646099642,
+    "slug": "v3s-finance",
+    "tvl": 20255.9008941323,
+    "chainTvls": {
+      "Cronos": 20255.9008941323,
+      "pool2": 388465.00110002275,
+      "Cronos-pool2": 388465.00110002275,
+      "Cronos-staking": 367740.98246418074,
+      "staking": 367740.98246418074
+    },
+    "change_1h": 0.04,
+    "change_1d": 0.88,
+    "change_7d": 2.06,
+    "staking": 367740.98246418074,
+    "pool2": 388465.00110002275,
+    "rank": 27
+  },
+  {
+    "id": "1610",
+    "name": "Pegasusdollar",
+    "address": "cronos:0x8efbaa6080412d7832025b03b9239d0be1e2aa3b",
+    "symbol": "PES",
+    "url": "https://pegasusdollar.finance/",
+    "description": "The first algorithmic token pegged to METF running on the Cronos Chain.Completely decentralized on chain governance.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/pegasusdollar.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [
+      "TWAP"
+    ],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "module": "pegasusdao.js",
+    "twitter": "pegasusdollar",
+    "audit_links": [
+      "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PegasusDollar-v1.0.pdf",
+      "https://github.com/solidproof/projects/tree/main/PegasusDollar"
+    ],
+    "listedAt": 1649105294,
+    "slug": "pegasusdollar",
+    "tvl": 19203.81075702023,
+    "chainTvls": {
+      "Cronos": 19203.81075702023,
+      "pool2": 171967.1786991687,
+      "Cronos-pool2": 171967.1786991687,
+      "Cronos-staking": 4248.603483196917,
+      "staking": 4248.603483196917
+    },
+    "change_1h": 0.03,
+    "change_1d": 1.45,
+    "change_7d": -3.46,
+    "staking": 4248.603483196917,
+    "pool2": 171967.1786991687,
+    "rank": 28
+  },
+  {
+    "id": "1528",
+    "name": "Blindex",
+    "address": "rsk:0x6542a10E68cEAc1Fa0641ec0D799a7492795AAC1",
+    "symbol": "BDX",
+    "url": "https://blindex.io/",
+    "description": "Blindex is a multi-currency stablecoin DeFi platform. Mint, swap, trade, invest and redeem any FX-pegged coin.All coins are partially collateralized, algorithmically stabilized and completely decentralized.",
+    "chain": "RSK",
+    "logo": "https://icons.llama.fi/blindex.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "RSK"
+    ],
+    "oracles": [
+      "Internal"
+    ],
+    "forkedFrom": [
+      "Frax"
+    ],
+    "module": "blindex/index.js",
+    "twitter": "BlinDEXio",
+    "audit_links": [
+      "https://docs.blindex.io/smart-contracts/audits"
+    ],
+    "listedAt": 1646949250,
+    "slug": "blindex",
+    "tvl": 17489.0664634735,
+    "chainTvls": {
+      "RSK": 17489.0664634735
+    },
+    "change_1h": -0.34,
+    "change_1d": 5.38,
+    "change_7d": 14.29,
+    "rank": 29
+  },
+  {
+    "id": "1019",
+    "name": "OpenDAO",
+    "address": "bsc:0xaBaE871B7E3b67aEeC6B46AE9FE1A91660AadAC5",
+    "symbol": "pOPEN",
+    "url": "https://opendao.io/",
+    "description": "The Permissionless Stablecoin Minting Protocol, Mint USDO with the tokens you own. Trade USDO for the tokens you want.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/opendao.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "open-governance-token",
+    "cmcId": "7783",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum",
+      "Binance"
+    ],
+    "module": "opendao/index.js",
+    "twitter": "opendaoprotocol",
+    "audit_links": [
+      "https://opendao.gitbook.io/transparency/audits"
+    ],
+    "listedAt": 1639418306,
+    "forkedFrom": [
+      "Compound"
+    ],
+    "slug": "opendao",
+    "tvl": 12931.859493382612,
+    "chainTvls": {
+      "Binance": 3848.774175916602,
+      "Ethereum": 9083.08531746601,
+      "pool2": 9792.148106253027,
+      "Ethereum-pool2": 9792.148106253027
+    },
+    "change_1h": 0.18,
+    "change_1d": 0.45,
+    "change_7d": 0.26,
+    "pool2": 9792.148106253027,
+    "fdv": 764972,
+    "mcap": 88747,
+    "rank": 30
+  },
+  {
+    "id": "1182",
+    "name": "ChargeDeFi",
+    "address": "bsc:0x1C6bc8e962427dEb4106aE06A7fA2d715687395c",
+    "symbol": "CHARGE",
+    "url": "https://www.chargedefi.fi",
+    "description": "ChargeDeFi is a combination of an Algorithmic Stablecoin with rebase mechanics. With Charge the project aims to lay the foundations of a sustainable ecosystem on the Binance smart chain. It features rebasing mechanics to protect the value of the $Static token and keep it pegged to $1 BUSD.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/chargedefi.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "chargedefi-charge",
+    "cmcId": "15495",
+    "category": "Algo-Stables",
+    "chains": [
+      "Binance"
+    ],
+    "module": "chargedefi/index.js",
+    "twitter": "ChargeDeFi",
+    "audit_links": [
+      "https://www.certik.com/projects/chargedefi"
+    ],
+    "listedAt": 1641195222,
+    "slug": "chargedefi",
+    "tvl": 5711.421143997202,
+    "chainTvls": {
+      "Binance": 5711.421143997202,
+      "Binance-staking": 45286.72397175504,
+      "pool2": 73046.04448764502,
+      "Binance-pool2": 73046.04448764502,
+      "staking": 45286.72397175504
+    },
+    "change_1h": 0.41,
+    "change_1d": -0.62,
+    "change_7d": 0.65,
+    "staking": 45286.72397175504,
+    "pool2": 73046.04448764502,
+    "mcap": 0,
+    "rank": 31
+  },
+  {
+    "id": "1413",
+    "name": "Savanna Finance",
+    "address": "cronos:0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
+    "symbol": "SVN",
+    "url": "https://svn.finance",
+    "description": "The first and also largest algorithmic stablecoin platform on Cronos. $SVN is pegged to the price of 1 MMF via seigniorage.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/savannah-finance.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "savanna",
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Tomb Finance"
+    ],
+    "module": "svn/index.js",
+    "twitter": "MMFcrypto",
+    "audit_links": [
+      "https://mmfinance.gitbook.io/docs/audit"
+    ],
+    "listedAt": 1644884068,
+    "slug": "savanna-finance",
+    "tvl": 4794.229169503125,
+    "chainTvls": {
+      "Cronos": 4794.229169503125,
+      "pool2": 7112931.174730853,
+      "Cronos-pool2": 7112931.174730853,
+      "Cronos-staking": 3864047.4498883295,
+      "staking": 3864047.4498883295
+    },
+    "change_1h": 0.51,
+    "change_1d": 3.43,
+    "change_7d": -3.63,
+    "staking": 3864047.4498883295,
+    "pool2": 7112931.174730853,
+    "mcap": 8529594,
+    "rank": 32
+  },
+  {
+    "id": "1259",
+    "name": "Pillar",
+    "address": null,
+    "symbol": "-",
+    "url": "https://pillarprotocol.com",
+    "description": "A decentralized protocol to govern stablecoin issuance on the Zilliqa Blockchain.",
+    "chain": "Zilliqa",
+    "logo": "https://icons.llama.fi/pillar.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Algo-Stables",
+    "chains": [
+      "Zilliqa"
+    ],
+    "module": "pillar/index.js",
+    "twitter": "DevPillar",
+    "listedAt": 1642144681,
+    "slug": "pillar",
+    "tvl": 3771.6136148725554,
+    "chainTvls": {
+      "Zilliqa": 3771.6136148725554
+    },
+    "change_1h": -0.12,
+    "change_1d": 1.77,
+    "change_7d": 0.94,
+    "rank": 33
+  }
+]

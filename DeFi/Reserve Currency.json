@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "340",
+    "name": "Olympus DAO",
+    "address": "0x383518188c0c6d7730d91b2c03a03c837814a899",
+    "symbol": "OHM",
+    "url": "https://olympusdao.finance/",
+    "description": "$OHM is a decentralized reserve currency that remains unbound by a peg.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/olympus-dao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "olympus",
+    "cmcId": "9067",
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "olympus/index.js",
+    "twitter": "OlympusDAO",
+    "audit_links": [
+      "https://docs.olympusdao.finance/references/audits"
+    ],
+    "slug": "olympus-dao",
+    "tvl": 306625102.0930617,
+    "chainTvls": {
+      "Ethereum": 306625102.0930617,
+      "Ethereum-staking": 13925369.866055882,
+      "staking": 13925369.866055882
+    },
+    "change_1h": 0.15,
+    "change_1d": 0.24,
+    "change_7d": 0.42,
+    "staking": 13925369.866055882,
+    "fdv": 340449803,
+    "mcap": 318339573,
+    "rank": 1
+  },
+  {
+    "id": "781",
+    "name": "Klima DAO",
+    "address": "polygon:0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "symbol": "KLIMA",
+    "url": "https://www.klimadao.finance",
+    "description": "Klima DAO is a Decentralised Autonomous Organisation for change. Klima DAO develops infrastructure incentives that fulfill our manifesto, through primitives such as the KLIMA token. We will also solve the critical problems of the carbon markets: illiquidity, opacity and inefficiency.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/klima-dao.jpg",
+    "audits": "1",
+    "audit_links": [
+      "https://omniscia.io/klimadao-algorithmic-bonding-system/"
+    ],
+    "audit_note": null,
+    "gecko_id": "klima-dao",
+    "cmcId": "12873",
+    "category": "Reserve Currency",
+    "chains": [
+      "Polygon"
+    ],
+    "module": "klima-dao/index.js",
+    "twitter": "KlimaDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1636042787,
+    "slug": "klima-dao",
+    "tvl": 54479350.12299695,
+    "chainTvls": {
+      "Polygon": 54479350.12299695,
+      "Polygon-staking": 33079456.591210473,
+      "staking": 33079456.591210473
+    },
+    "change_1h": 1.34,
+    "change_1d": 0.25,
+    "change_7d": 0.32,
+    "staking": 33079456.591210473,
+    "mcap": 38824502,
+    "rank": 2
+  },
+  {
+    "id": "875",
+    "name": "Temple DAO",
+    "address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+    "symbol": "TEMPLE",
+    "url": "https://www.templedao.link",
+    "description": "The TempleDAO protocol aims to provide DeFi users with a safe haven where they can be sheltered from crypto market volatility while benefiting from a set of investment opportunities offering high yields and steady price appreciation.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/temple-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "temple",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "templedao/index.js",
+    "twitter": "templedao",
+    "listedAt": 1637376751,
+    "slug": "temple-dao",
+    "tvl": 51678052.95140915,
+    "chainTvls": {
+      "Ethereum": 51678052.95140915,
+      "pool2": 28126353.415792115,
+      "Ethereum-staking": 59005841.49952703,
+      "staking": 59005841.49952703,
+      "Ethereum-pool2": 28126353.415792115
+    },
+    "change_1h": -0.11,
+    "change_1d": -45.41,
+    "change_7d": -45.55,
+    "staking": 59005841.49952703,
+    "pool2": 28126353.415792115,
+    "fdv": 170647217,
+    "mcap": 70642282,
+    "rank": 3
+  },
+  {
+    "id": "758",
+    "name": "Spartacus",
+    "address": "fantom:0x5602df4a94eb6c680190accfa2a475621e0ddbdc",
+    "symbol": "SPA",
+    "url": "https://app.spartacus.finance/",
+    "description": "Decentralized multi-chain reserve currency.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/spartacus.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "spartacus",
+    "cmcId": "13748",
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "spartacus/index.js",
+    "twitter": "Spartacus_Fi",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1635966336,
+    "slug": "spartacus",
+    "tvl": 33551332.70907018,
+    "chainTvls": {
+      "Fantom-staking": 12293596.408537483,
+      "staking": 12293596.408537483,
+      "Fantom": 33551332.70907018
+    },
+    "change_1h": 0.08,
+    "change_1d": 0.07,
+    "change_7d": -4.09,
+    "staking": 12293596.408537483,
+    "fdv": 35939897,
+    "mcap": 0,
+    "rank": 4
+  },
+  {
+    "id": "961",
+    "name": "Fantohm",
+    "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
+    "symbol": "FHM",
+    "url": "https://www.fantohm.com",
+    "description": "Community-owned DeFi infrastructure for more stability in the world.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/fantohm.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "fantohm",
+    "cmcId": "14063",
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom",
+      "Ethereum",
+      "Moonriver",
+      "Binance",
+      "Boba"
+    ],
+    "module": "fantOHM/index.js",
+    "twitter": "FantohmDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "oracles": [
+      "DIA"
+    ],
+    "audit_links": [
+      "https://github.com/fantohm-dev/fantohm-contracts/blob/main/audit/FantOHM_DAO_Spadetech.io_Audit_Nov_2021.pdf",
+      "https://github.com/fantohm-dev/fantohm-contracts/blob/main/audit/Fantohm%20USD%20Full%20Smart%20Contract%20Security%20Audit.pdf"
+    ],
+    "listedAt": 1638463469,
+    "slug": "fantohm",
+    "tvl": 21441816.592884384,
+    "chainTvls": {
+      "Moonriver": 90801.8385366936,
+      "Fantom-staking": 2310014.6170526557,
+      "Moonriver-staking": 30773.08304081525,
+      "Binance": 0,
+      "Boba": 0,
+      "Ethereum": 1269543.740013899,
+      "Fantom": 20081471.014333792,
+      "staking": 2340787.700093471
+    },
+    "change_1h": 0.1,
+    "change_1d": -0.27,
+    "change_7d": 1.56,
+    "staking": 2340787.700093471,
+    "fdv": 3843388,
+    "mcap": 2648469,
+    "rank": 5
+  },
+  {
+    "id": "522",
+    "name": "Wonderland",
+    "address": "avax:0xb54f16fb19478766a268f172c9480f8da1a7c9c3",
+    "symbol": "TIME",
+    "url": "https://www.wonderland.money",
+    "description": "Wonderland is the first decentralized reserve currency protocol available on the Avalanche Network based on the TIME token.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/wonderland.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "wonderland",
+    "cmcId": "11585",
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum",
+      "Avalanche"
+    ],
+    "module": "wonderland/index.js",
+    "twitter": "Wonderland_fi",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "slug": "wonderland",
+    "tvl": 6800743.55488313,
+    "chainTvls": {
+      "Ethereum": 6001068.6154684285,
+      "Avalanche": 799674.9394147013,
+      "Avalanche-staking": 523107343.71097565,
+      "staking": 523107343.71097565
+    },
+    "change_1h": -0.07,
+    "change_1d": 0.57,
+    "change_7d": 5.68,
+    "staking": 523107343.71097565,
+    "fdv": 10512466,
+    "mcap": 9891827,
+    "rank": 6
+  },
+  {
+    "id": "1505",
+    "name": "Floor Dao",
+    "address": "0xf59257E961883636290411c11ec5Ae622d19455e",
+    "symbol": "FLOOR",
+    "url": "https://floor.xyz/",
+    "description": "Deep liquidity and High Yield strategies for NFTs",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/floor-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "floordao",
+    "cmcId": "18440",
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "module": "floor-dao/index.js",
+    "twitter": "FloorDAO",
+    "listedAt": 1646390885,
+    "slug": "floor-dao",
+    "tvl": 5621664.888922229,
+    "chainTvls": {
+      "Ethereum": 5621664.888922229,
+      "Ethereum-staking": 6355799.274505914,
+      "staking": 6355799.274505914
+    },
+    "change_1h": -0.17,
+    "change_1d": 5.09,
+    "change_7d": 12.44,
+    "staking": 6355799.274505914,
+    "fdv": 8947919,
+    "mcap": 7997082,
+    "rank": 7
+  },
+  {
+    "id": "1596",
+    "name": "The Idols",
+    "address": "0x9416ba76e88d873050a06e5956a3ebf10386b863",
+    "symbol": "VIRTUE",
+    "url": "https://www.theidols.io",
+    "description": "The first staked ETH NFT. A 100% community aligned project which rewards NFT holders and protocol token stakers.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/the-idols.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "the-idols/index.js",
+    "twitter": "TheIdolsNFT",
+    "audit_links": [
+      "https://docs.theidols.io/resources/audit"
+    ],
+    "listedAt": 1648752313,
+    "slug": "the-idols",
+    "tvl": 5307213.004457362,
+    "chainTvls": {
+      "Ethereum": 5307213.004457362,
+      "Ethereum-staking": 0,
+      "staking": 0
+    },
+    "change_1h": -0.08,
+    "change_1d": 5.96,
+    "change_7d": 16.75,
+    "staking": 0,
+    "rank": 8
+  },
+  {
+    "id": "1377",
+    "name": "Maia DAO",
+    "address": "metis:0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD",
+    "symbol": "MAIA",
+    "url": "https://maiadao.io",
+    "description": "MAIA is the first decentralized community owned reserve currency in Metis Andromeda. Including a growing ecosystem of products - starting with Hermes Protocol - and an array of treasury investment strategies.",
+    "chain": "Metis",
+    "logo": "https://icons.llama.fi/maia-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "maia",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Metis"
+    ],
+    "oracles": [],
+    "module": "maia-dao/index.js",
+    "twitter": "MaiaDAOEco",
+    "language": "Solidity",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1644441697,
+    "slug": "maia-dao",
+    "tvl": 5113721.137960117,
+    "chainTvls": {
+      "Metis": 5113721.137960117
+    },
+    "change_1h": -2.73,
+    "change_1d": 8.3,
+    "change_7d": -5.67,
+    "fdv": 187751,
+    "mcap": 0,
+    "rank": 9
+  },
+  {
+    "id": "964",
+    "name": "Nemesis DAO",
+    "address": "bsc:0x8AC9DC3358A2dB19fDd57f433ff45d1fc357aFb3",
+    "symbol": "NMS",
+    "url": "https://nemesisdao.finance/",
+    "description": "Nemesis DAO is a Decentralized Treasury Protocol with Reserve Currency",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/nemesis-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "nemesis-dao",
+    "cmcId": "14492",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "nemesis-dao/index.js",
+    "twitter": "nemesis_dao",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638483973,
+    "slug": "nemesis-dao",
+    "tvl": 4714988.313220893,
+    "chainTvls": {
+      "Binance": 4714988.313220893,
+      "Binance-staking": 575798.9765935781,
+      "staking": 575798.9765935781
+    },
+    "change_1h": 0.42,
+    "change_1d": -0.1,
+    "change_7d": -1.89,
+    "staking": 575798.9765935781,
+    "mcap": 166865,
+    "rank": 10
+  },
+  {
+    "id": "1593",
+    "name": "Sphere Finance",
+    "address": "polygon:0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+    "symbol": "SPHERE",
+    "url": "https://sphere.finance",
+    "description": "Sphere Finance is an innovative protocol that brings benefits and value to $SPHERE token holders through governance tokens acquisitions, slowly turning $SPHERE holders into proxy governance holders of various protocols as we aim to black hole governance tokens into our treasury.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/sphere-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "sphere-finance",
+    "cmcId": "18945",
+    "category": "Reserve Currency",
+    "chains": [
+      "Polygon"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "module": "sphere-finance/index.js",
+    "twitter": "SphereDeFi",
+    "listedAt": 1648668558,
+    "slug": "sphere-finance",
+    "tvl": 1881978.2587413962,
+    "chainTvls": {
+      "Polygon": 1881978.2587413962,
+      "Polygon-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0.08,
+    "change_1d": 12.81,
+    "change_7d": 12.09,
+    "staking": 0,
+    "mcap": 0,
+    "rank": 11
+  },
+  {
+    "id": "804",
+    "name": "Gyro",
+    "address": "bsc:0x1b239abe619e74232c827fbe5e49a4c072bd869d",
+    "symbol": "GYRO",
+    "url": "https://gyro.money",
+    "description": "Gyro consists of a treasury and liquidity that is managed and owned by the protocol itself. Gyro's algorithm dynamically mints GYRO tokens based on a bond mechanism, and high staking rewards that are designed to control inflation and dilution.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/gyro.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "gyro",
+    "cmcId": "12703",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "gyro.js",
+    "twitter": "GyroDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1636378556,
+    "slug": "gyro",
+    "tvl": 1734940.8465723163,
+    "chainTvls": {
+      "Binance": 1734940.8465723163,
+      "Binance-staking": 18211.303440881642,
+      "staking": 18211.303440881642
+    },
+    "change_1h": 0.28,
+    "change_1d": 0.17,
+    "change_7d": -0.82,
+    "staking": 18211.303440881642,
+    "fdv": 2332145,
+    "mcap": 2332145,
+    "rank": 12
+  },
+  {
+    "id": "1227",
+    "name": "Empyrean DAO",
+    "address": "aurora:0xE9F226a228Eb58d408FdB94c3ED5A18AF6968fE1",
+    "symbol": "EMPYR",
+    "url": "https://empyrean.fi",
+    "description": "The Decentralized Reserve Currency on Aurora",
+    "chain": "Aurora",
+    "logo": "https://icons.llama.fi/empyrean-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "empyrean",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Aurora"
+    ],
+    "module": "empyrean/index.js",
+    "twitter": "empyreanfi",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1641873771,
+    "slug": "empyrean-dao",
+    "tvl": 1281917.8999447287,
+    "chainTvls": {
+      "Aurora-staking": 651120.2609514103,
+      "Aurora": 1281917.8999447287,
+      "staking": 651120.2609514103
+    },
+    "change_1h": -0.05,
+    "change_1d": -0.1,
+    "change_7d": -0.17,
+    "staking": 651120.2609514103,
+    "fdv": 214153,
+    "mcap": 0,
+    "rank": 13
+  },
+  {
+    "id": "1206",
+    "name": "WagmiDAO",
+    "address": "harmony:0x8750f5651af49950b5419928fecefca7c82141e3",
+    "symbol": "GMI",
+    "url": "https://wagmidao.io",
+    "description": "WagmiDAO is the first multichain reserve-backed decentralised exchange (RDEX). It\u2019s focused on continuously growing its own Treasury and the value of its native token.",
+    "chain": "Harmony",
+    "logo": "https://icons.llama.fi/wagmidao.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "wagmidao",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Harmony"
+    ],
+    "module": "wagmidao/index.js",
+    "twitter": "WagmiDAO_",
+    "audit_links": [
+      "https://docs.wagmidao.io/resources/audits"
+    ],
+    "forkedFrom": [
+      "Uniswap",
+      "Olympus DAO"
+    ],
+    "listedAt": 1641514188,
+    "slug": "wagmidao",
+    "tvl": 940290.5523567948,
+    "chainTvls": {
+      "Harmony-staking": 0,
+      "Harmony": 940290.5523567948,
+      "staking": 0
+    },
+    "change_1h": -0.04,
+    "change_1d": 1.01,
+    "change_7d": 2.56,
+    "staking": 0,
+    "fdv": 18791285,
+    "mcap": 2002513,
+    "rank": 14
+  },
+  {
+    "id": "934",
+    "name": "InvictusDAO",
+    "address": "solana:inL8PMVd6iiW3RCBJnr5AsrRN6nqr4BTrcNuQWQSkvY",
+    "symbol": "IN",
+    "url": "https://app.invictusdao.fi/#/dashboard",
+    "description": "$IN is the decentralized reserve currency of Solana.",
+    "chain": "Solana",
+    "logo": "https://icons.llama.fi/invictusdao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "invictus",
+    "cmcId": "14278",
+    "category": "Reserve Currency",
+    "chains": [
+      "Solana"
+    ],
+    "module": "invictus/index.js",
+    "twitter": "InvictusDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638188717,
+    "openSource": false,
+    "slug": "invictusdao",
+    "tvl": 765754.467055578,
+    "chainTvls": {
+      "Solana-staking": 1702682.6156284232,
+      "Solana": 765754.467055578,
+      "staking": 1702682.6156284232
+    },
+    "change_1h": 0,
+    "change_1d": -0.2,
+    "change_7d": -4.52,
+    "staking": 1702682.6156284232,
+    "mcap": 10277774,
+    "rank": 15
+  },
+  {
+    "id": "1098",
+    "name": "Templar DAO",
+    "address": "bsc:0x19e6bfc1a6e4b042fb20531244d47e252445df01",
+    "symbol": "TEM",
+    "url": "https://templar.finance/",
+    "description": "Templar is the first decentralized reserve currency protocol available on the Binance Smart Chain based on the TEM token.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/templar-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "templardao",
+    "cmcId": "15288",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance",
+      "Moonriver",
+      "Harmony"
+    ],
+    "module": "templar/index.js",
+    "twitter": "TemplarDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1640528431,
+    "slug": "templar-dao",
+    "tvl": 694792.7766769703,
+    "chainTvls": {
+      "Moonriver": 17437.37747990318,
+      "Harmony-staking": 116527.26981795301,
+      "Harmony": 14134.412114061728,
+      "Moonriver-staking": 141194.47196538709,
+      "Binance": 663220.9870830054,
+      "Binance-staking": 274492.87935862795,
+      "staking": 532214.6211419681
+    },
+    "change_1h": 0.19,
+    "change_1d": 0.34,
+    "change_7d": 3.84,
+    "staking": 532214.6211419681,
+    "mcap": 535160,
+    "rank": 16
+  },
+  {
+    "id": "973",
+    "name": "XEUS",
+    "address": "bsc:0x4e141769366634d9c4e498257fa7ec204d22b634",
+    "symbol": "XEUS",
+    "url": "https://xeus.finance/#/stake",
+    "description": "Xeus Finance is a decentralized finance reserve currency protocol built on Binance Smart Chain (BSC). The protocol is powered by the $XEUS token, which is backed by a basket of assets like BUSD, LPs, etc.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/xeus.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "xeus",
+    "cmcId": "13976",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "xeus/index.js",
+    "twitter": "xeus_finance",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638595802,
+    "slug": "xeus",
+    "tvl": 562920.3600137522,
+    "chainTvls": {
+      "Binance": 562920.3600137522,
+      "Binance-staking": 60119.93675781885,
+      "staking": 60119.93675781885
+    },
+    "change_1h": 0.29,
+    "change_1d": 0.11,
+    "change_7d": -0.1,
+    "staking": 60119.93675781885,
+    "mcap": 718.15,
+    "rank": 17
+  },
+  {
+    "id": "1050",
+    "name": "LeagueDAO",
+    "address": "0x7b39917f9562c8bc83c7a6c2950ff571375d505d",
+    "symbol": "LEAG",
+    "url": "https://leaguedao.com/",
+    "description": "LeagueDAO is a decentralized open source project developing Tokenized Fantasy Sports and Gaming Protocols.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/leaguedao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "leaguedao-governance-token",
+    "cmcId": "14131",
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "leaguedao/index.js",
+    "twitter": "LeagueDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639895243,
+    "slug": "leaguedao",
+    "tvl": 465833.7029742991,
+    "chainTvls": {
+      "Ethereum": 465833.7029742991,
+      "Ethereum-staking": 415032.1642486273,
+      "staking": 415032.1642486273
+    },
+    "change_1h": 0.12,
+    "change_1d": -1.45,
+    "change_7d": -6.08,
+    "staking": 415032.1642486273,
+    "fdv": 2385511,
+    "mcap": 1058384,
+    "rank": 18
+  },
+  {
+    "id": "1231",
+    "name": "Vesq",
+    "address": "polygon:0x29f1e986fca02b7e54138c04c4f503dddd250558",
+    "symbol": "VESQ",
+    "url": "https://www.vesq.io",
+    "description": "VESQ is a decentralized reserve currency protocol available on the Polygon (MATIC) Network based on the VSQ token.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/vesq.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "vesq",
+    "cmcId": "16737",
+    "category": "Reserve Currency",
+    "chains": [
+      "Polygon"
+    ],
+    "module": "vesq/index.js",
+    "twitter": "VESQHQ",
+    "audit_links": [
+      "https://paladinsec.co/projects/vesq"
+    ],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1641875968,
+    "slug": "vesq",
+    "tvl": 344234.67280017765,
+    "chainTvls": {
+      "Polygon": 344234.67280017765,
+      "Polygon-staking": 1179430.2942686724,
+      "staking": 1179430.2942686724
+    },
+    "change_1h": 0.23,
+    "change_1d": 0.21,
+    "change_7d": -2.74,
+    "staking": 1179430.2942686724,
+    "mcap": 0,
+    "rank": 19
+  },
+  {
+    "id": "1238",
+    "name": "Minotaur Money",
+    "address": "cronos:0x3A1138075bd97a33F23A87824b811146FA44288E",
+    "symbol": "MINO",
+    "url": "https://minotaur.money/",
+    "description": "Decentralized Reserve Currency and VC on Cronos Network",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/minotaur-money.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "minotaur",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Cronos"
+    ],
+    "module": "minotaur-money/index.js",
+    "twitter": "Minotaur_Money",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1641938251,
+    "slug": "minotaur-money",
+    "tvl": 328772.47102573514,
+    "chainTvls": {
+      "Cronos": 328772.47102573514,
+      "Cronos-staking": 329883.18905307923,
+      "staking": 329883.18905307923
+    },
+    "change_1h": -0.08,
+    "change_1d": 2.87,
+    "change_7d": 10.87,
+    "staking": 329883.18905307923,
+    "mcap": 0,
+    "rank": 20
+  },
+  {
+    "id": "939",
+    "name": "R U Generous",
+    "address": "avax:0xb8ef3a190b68175000b74b4160d325fd5024760e",
+    "symbol": "RUG",
+    "url": "https://www.rug.farm/#/dashboard",
+    "description": "R U Generous is a decentralized reserve currency protocol and DAO available on the Avalanche Network",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/r-u-generous.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "r-u-generous",
+    "cmcId": "14971",
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "rugdao/index.js",
+    "twitter": "RUGenerous",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638200165,
+    "slug": "r-u-generous",
+    "tvl": 315456.14641941397,
+    "chainTvls": {
+      "Avalanche-staking": 357043.95865608315,
+      "Avalanche": 315456.14641941397,
+      "staking": 357043.95865608315
+    },
+    "change_1h": 0.14,
+    "change_1d": -5.77,
+    "change_7d": -5.57,
+    "staking": 357043.95865608315,
+    "mcap": 0,
+    "rank": 21
+  },
+  {
+    "id": "994",
+    "name": "Life DAO",
+    "address": "avax:0x5684a087c739a2e845f4aaaabf4fbd261edc2be8",
+    "symbol": "LF",
+    "url": "https://lifedao.finance",
+    "description": "LifeDAO is a decentralised, reserve currency protocol built on the Avalanche network by the LifeDAO team. The LF (Also sometimes called LIFE) token is the protocol's main asset.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/life-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "life-dao",
+    "cmcId": "15289",
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "lifedao/index.js",
+    "twitter": "Life_DAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638941466,
+    "slug": "life-dao",
+    "tvl": 240056.8854269982,
+    "chainTvls": {
+      "Avalanche-staking": 2051346.9975715773,
+      "Avalanche": 240056.8854269982,
+      "staking": 2051346.9975715773
+    },
+    "change_1h": -0.31,
+    "change_1d": -0.22,
+    "change_7d": 9.42,
+    "staking": 2051346.9975715773,
+    "fdv": 44988,
+    "mcap": 0,
+    "rank": 22
+  },
+  {
+    "id": "1529",
+    "name": "Gamblefi",
+    "address": "cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc",
+    "symbol": "BETIFY",
+    "url": "https://gamblefi.io/",
+    "description": "GambleFi is a Rebasing DAO protocol that features various external services meant to increase the protocol's treasury and redistribute dividends to users.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/gamblefi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "betify",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Wonderland"
+    ],
+    "module": "gamblefi/index.js",
+    "twitter": "GambleFinance",
+    "listedAt": 1646949250,
+    "slug": "gamblefi",
+    "tvl": 216676.75828597124,
+    "chainTvls": {
+      "Cronos": 216676.75828597124,
+      "Cronos-staking": 108364.69902608107,
+      "staking": 108364.69902608107
+    },
+    "change_1h": -0.13,
+    "change_1d": 1.06,
+    "change_7d": 6.0,
+    "staking": 108364.69902608107,
+    "mcap": 0,
+    "rank": 23
+  },
+  {
+    "id": "1013",
+    "name": "Stargate Finance",
+    "address": "bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a",
+    "symbol": "SGT",
+    "url": "https://www.stargate.zone/#/stake",
+    "description": "Stargate Finance is a decentralized reserve currency protocol based on the SGT token on Binance Smart Chain. Economically, it imitates the model created by OlympusDao. ",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/stargate-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "stargate-finance/index.js",
+    "twitter": "StarGate_Fin",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639331903,
+    "slug": "stargate-finance",
+    "tvl": 216579.3801238292,
+    "chainTvls": {
+      "Binance": 216579.3801238292,
+      "Binance-staking": 40744.8960778737,
+      "staking": 40744.8960778737
+    },
+    "change_1h": 0.17,
+    "change_1d": -0.05,
+    "change_7d": 0.11,
+    "staking": 40744.8960778737,
+    "rank": 24
+  },
+  {
+    "id": "1015",
+    "name": "Atlas USV",
+    "address": "polygon:0xAC63686230f64BDEAF086Fe6764085453ab3023F",
+    "symbol": "USV",
+    "url": "https://app.atlasusv.com/#/dashboard",
+    "description": "Atlas USV is a community-driven project to build a universal, decentralized, and widely accessible DeFi base layer.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/atlas-usv.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "atlas-usv",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Polygon"
+    ],
+    "module": "atlas-usv/index.js",
+    "twitter": "atlasusv",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639349755,
+    "slug": "atlas-usv",
+    "tvl": 208299.45348401315,
+    "chainTvls": {
+      "Polygon": 208299.45348401315,
+      "Polygon-staking": 88963659.48143595,
+      "staking": 88963659.48143595
+    },
+    "change_1h": -0.0,
+    "change_1d": -31.32,
+    "change_7d": -27.69,
+    "staking": 88963659.48143595,
+    "fdv": 171930909,
+    "mcap": 15586359,
+    "rank": 25
+  },
+  {
+    "id": "1271",
+    "name": "Immortal",
+    "address": "celo:0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
+    "symbol": "IMMO",
+    "url": "https://www.immortaldao.finance/",
+    "description": "Immortal is a decentralized reserve currency protocol on Celo blockchain based on the IMMO token.",
+    "chain": "Celo",
+    "logo": "https://icons.llama.fi/immortal.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "immortaldao",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Celo"
+    ],
+    "module": "immortal/index.js",
+    "twitter": "ImmortalDAO_Fi",
+    "audit_links": [
+      "https://github.com/ImmortalDAO-Fi/immortaldao-contracts/issues/3"
+    ],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1642284185,
+    "slug": "immortal",
+    "tvl": 178935.88194697254,
+    "chainTvls": {
+      "Celo-staking": 516867.90960111417,
+      "Celo": 178935.88194697254,
+      "staking": 516867.90960111417
+    },
+    "change_1h": 0.2,
+    "change_1d": 0.32,
+    "change_7d": -2.11,
+    "staking": 516867.90960111417,
+    "fdv": 20471,
+    "mcap": 0,
+    "rank": 26
+  },
+  {
+    "id": "993",
+    "name": "O2 DAO",
+    "address": "avax:0xaa2439dbad718c9329a5893a51a708c015f76346",
+    "symbol": "OTWO",
+    "url": "https://app.otwodao.com",
+    "description": "A decentralized treasury-backed currency protocol backed by OHM.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/o2-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "o2-dao/index.js",
+    "twitter": "0xO2DAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638915245,
+    "slug": "o2-dao",
+    "tvl": 167579.3969954532,
+    "chainTvls": {
+      "Avalanche": 167579.3969954532,
+      "Avalanche-staking": 14305.323782344922,
+      "staking": 14305.323782344922
+    },
+    "change_1h": 0.09,
+    "change_1d": 0.44,
+    "change_7d": -0.88,
+    "staking": 14305.323782344922,
+    "rank": 27
+  },
+  {
+    "id": "928",
+    "name": "Fortress",
+    "address": "avax:0xf6d46849db378ae01d93732585bec2c4480d1fd5",
+    "symbol": "FORT",
+    "url": "https://app.fortressdao.finance",
+    "description": "An adventure in treasure management on Avalanche",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/fortress-DAO.svg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "fortressdao",
+    "cmcId": "14861",
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "fortress/index.js",
+    "twitter": "FortressDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638132365,
+    "slug": "fortress",
+    "tvl": 145372.93808265793,
+    "chainTvls": {
+      "Avalanche-staking": 905049.8315889856,
+      "Avalanche": 145372.93808265793,
+      "staking": 905049.8315889856
+    },
+    "change_1h": -0.03,
+    "change_1d": 0.14,
+    "change_7d": -0.11,
+    "staking": 905049.8315889856,
+    "mcap": 749708,
+    "rank": 28
+  },
+  {
+    "id": "1338",
+    "name": "Warp",
+    "address": "polygon:0x3F46a70adB395cddb81FF9bFE3B62aDae1B44816",
+    "symbol": "WARP",
+    "url": "https://warp.bond/",
+    "description": "Warp is a new GameFi protocol, combining NFT starships, multiple staking pools, and deflationary tokenomics.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/warp.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "warp-bond",
+    "cmcId": "17651",
+    "category": "Reserve Currency",
+    "chains": [
+      "Polygon"
+    ],
+    "module": "warpbond/index.js",
+    "twitter": "WarpBond",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1643505246,
+    "slug": "warp",
+    "tvl": 129944.56723294608,
+    "chainTvls": {
+      "Polygon": 129944.56723294608,
+      "Polygon-staking": 4533.8111412546805,
+      "staking": 4533.8111412546805
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.0,
+    "change_7d": 0.09,
+    "staking": 4533.8111412546805,
+    "mcap": 0,
+    "rank": 29
+  },
+  {
+    "id": "999",
+    "name": "Luxor Money",
+    "address": "fantom:0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
+    "symbol": "LUX",
+    "url": "https://Luxor.money",
+    "description": "LUX is a decentralized reserve currency that remains unbound by a peg. Luxor is the first multi-chain, decentralized reserve currency protocol available on the Fantom Opera Network based on the LUX token.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/luxor-money.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "luxor",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "luxor/index.js",
+    "twitter": "LuxorMoney",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "listedAt": 1639028773,
+    "slug": "luxor-money",
+    "tvl": 117971.19815958233,
+    "chainTvls": {
+      "Fantom-staking": 365367.98580169486,
+      "staking": 365367.98580169486,
+      "Fantom": 117971.19815958233
+    },
+    "change_1h": 0.28,
+    "change_1d": 1.95,
+    "change_7d": 3.0,
+    "staking": 365367.98580169486,
+    "fdv": 3762678,
+    "mcap": 501116,
+    "rank": 30
+  },
+  {
+    "id": "1426",
+    "name": "MiniPanther DAO",
+    "address": "fantom:0x3264810174f577F82DDD4FD08818F368AC363505",
+    "symbol": "MP",
+    "url": "https://minipanther.money/#/",
+    "description": "MiniPanther is a DAO with only 14 days of supply expansion. On the 15th day, 80% of the treasury will be used for buybacks! After that, MP will become the meme token of the Fantom ecosystem. The DAO also operates PantherUSD, a backed stablecoin with arbitrage-enforced pricing.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/minipanther-dao.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "minipanther",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "module": "minipanther/index.js",
+    "twitter": "PolyWantsAFarm",
+    "listedAt": 1645133019,
+    "slug": "minipanther-dao",
+    "tvl": 92719.29046200322,
+    "chainTvls": {
+      "Fantom-staking": 288882.2870952357,
+      "staking": 288882.2870952357,
+      "Fantom": 92719.29046200322
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.0,
+    "change_7d": 0.01,
+    "staking": 288882.2870952357,
+    "mcap": 0,
+    "rank": 31
+  },
+  {
+    "id": "1047",
+    "name": "UnusDao",
+    "address": "bsc:0xb91ec4f9d7d12a1ac145a7ae3b78afb45856c9c8",
+    "symbol": "UDO",
+    "url": "https://unusdao.finance/",
+    "description": "A decentralized reserve currency protocol on BSC",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/unusdao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "unus-dao",
+    "cmcId": "15196",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "unusdao/index.js",
+    "twitter": "UnusDao",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639821224,
+    "slug": "unusdao",
+    "tvl": 90043.90291195604,
+    "chainTvls": {
+      "Binance": 90043.90291195604,
+      "Binance-staking": 50745.98531905106,
+      "staking": 50745.98531905106
+    },
+    "change_1h": 0.2,
+    "change_1d": -0.01,
+    "change_7d": 0.11,
+    "staking": 50745.98531905106,
+    "fdv": 18349.95,
+    "mcap": 0,
+    "rank": 32
+  },
+  {
+    "id": "1424",
+    "name": "Volta DAO",
+    "address": "fantom:0x4c9993c7107495020c2ce9a13d11839f48ecd2e6",
+    "symbol": "VOLTa",
+    "url": "https://app.voltadao.finance/",
+    "description": "Volta DAO is a decentralized reserve currency built on Fantom and AVAX",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/volta-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom",
+      "Avalanche"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "module": "volta-dao/index.js",
+    "twitter": "VoltaDAO",
+    "listedAt": 1645046863,
+    "slug": "volta-dao",
+    "tvl": 74256.04368570066,
+    "chainTvls": {
+      "Avalanche": 31334.625409671018,
+      "Avalanche-staking": 4751.740339322077,
+      "Fantom-staking": 17648.97620219928,
+      "staking": 22400.716541521357,
+      "Fantom": 42921.41827602964
+    },
+    "change_1h": -0.0,
+    "change_1d": 4.76,
+    "change_7d": 5.04,
+    "staking": 22400.716541521357,
+    "rank": 33
+  },
+  {
+    "id": "1730",
+    "name": "Goblins Cash",
+    "address": "smartbch:0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "symbol": "GOB",
+    "url": "https://goblins.cash",
+    "description": "Goblins.Cash is the first decentralized reserve currency protocol on SmartBCH with focus on bonds and elastic supply cryptocurrencies.",
+    "chain": "smartBCH",
+    "logo": "https://icons.llama.fi/goblins-cash.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "smartBCH"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "module": "goblinscash/index.js",
+    "twitter": "GoblinsCash",
+    "listedAt": 1651751884,
+    "slug": "goblins-cash",
+    "tvl": 67276.05166519439,
+    "chainTvls": {
+      "smartBCH-staking": 221786.02488643365,
+      "smartBCH": 67276.05166519439,
+      "staking": 221786.02488643365
+    },
+    "change_1h": -0.04,
+    "change_1d": 5.97,
+    "change_7d": 6.95,
+    "staking": 221786.02488643365,
+    "rank": 34
+  },
+  {
+    "id": "1478",
+    "name": "GTON Capital",
+    "address": "fantom:0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+    "symbol": "GTON",
+    "url": "https://gton.capital",
+    "description": "GTON Capital Ecosystem unites several mutually reinforcing DeFi 2.0 protocols with the aim of conducting algorithmic governance of liquidity and volume",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/gton-capital.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "gton-capital",
+    "cmcId": "10006",
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom"
+    ],
+    "oracles": [
+      "DIA"
+    ],
+    "forkedFrom": [],
+    "module": "gton.js",
+    "twitter": "GtonCapital",
+    "audit_links": [
+      "https://www.certik.com/projects/graviton"
+    ],
+    "listedAt": 1645901181,
+    "slug": "gton-capital",
+    "tvl": 57816.12937821141,
+    "chainTvls": {
+      "Fantom-staking": 14725.798319681297,
+      "staking": 14725.798319681297,
+      "Fantom": 57816.12937821141
+    },
+    "change_1h": 0.84,
+    "change_1d": 1.77,
+    "change_7d": 4.58,
+    "staking": 14725.798319681297,
+    "mcap": 2711144,
+    "rank": 35
+  },
+  {
+    "id": "1318",
+    "name": "Cesta Finance",
+    "address": null,
+    "symbol": "-",
+    "url": "https://cesta.finance",
+    "description": "Cesta Finance is a next generation DAO reserve currency on Avalanche, combining the best of yield farming index funds and the 'protocol-owned-liquidity' token model of DeFi 2.0.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/cesta-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "cesta/index.js",
+    "twitter": "CestaFinance",
+    "audit_links": [
+      "https://hacken.io/audits/#cesta_finance"
+    ],
+    "listedAt": 1643318054,
+    "slug": "cesta-finance",
+    "tvl": 46542.96529748049,
+    "chainTvls": {
+      "Avalanche": 46542.96529748049
+    },
+    "change_1h": -0.4,
+    "change_1d": 1.73,
+    "change_7d": 6.6,
+    "rank": 36
+  },
+  {
+    "id": "889",
+    "name": "8ightDAO",
+    "address": "harmony:0xcda2fdeee5c382e401c04dc929e53ababf6c8109",
+    "symbol": "EIGHT",
+    "chains": [
+      "Harmony"
+    ],
+    "url": "https://app.8ight.finance/#/dashboard",
+    "description": "Ohm fork",
+    "chain": "Harmony",
+    "logo": "https://icons.llama.fi/8ightdao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "8ight-finance",
+    "cmcId": "14970",
+    "category": "Reserve Currency",
+    "module": "eight/index.js",
+    "twitter": "8ight_finance",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1637560657,
+    "slug": "8ightdao",
+    "tvl": 44011.77865938019,
+    "chainTvls": {
+      "Harmony-staking": 12409.206329089686,
+      "Harmony": 44011.77865938019,
+      "staking": 12409.206329089686
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.0,
+    "change_7d": -0.0,
+    "staking": 12409.206329089686,
+    "fdv": 25390,
+    "mcap": 0,
+    "rank": 37
+  },
+  {
+    "id": "975",
+    "name": "Omicron",
+    "address": "arbirtum:0x86b3353387f560295a8fa7902679735e5f076bd5",
+    "symbol": "OMIC",
+    "url": "https://omic.finance",
+    "description": "Omicron is a decentralized reserve currency protocol available on the Arbitrum Network based on the OMIC token. Each OMIC token is backed by a basket of assets (e.g. MIM, OMIC-MIM LP) in the OMIC treasury, giving it an intrinsic value that it cannot fall below.",
+    "chain": "Arbitrum",
+    "logo": "https://icons.llama.fi/omicron.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "omicron",
+    "cmcId": "14095",
+    "category": "Reserve Currency",
+    "chains": [
+      "Arbitrum"
+    ],
+    "module": "omicron/index.js",
+    "twitter": "OmicDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638600191,
+    "slug": "omicron",
+    "tvl": 39950.41594951105,
+    "chainTvls": {
+      "Arbitrum-staking": 7399.71783161016,
+      "Arbitrum": 39950.41594951105,
+      "staking": 7399.71783161016
+    },
+    "change_1h": -0.02,
+    "change_1d": 0.89,
+    "change_7d": -1.46,
+    "staking": 7399.71783161016,
+    "fdv": 1680179,
+    "mcap": 0,
+    "rank": 38
+  },
+  {
+    "id": "974",
+    "name": "TaiChi",
+    "address": "bsc:0xe49bfc53a195a62d78a941a1967d7b0f83a47c14",
+    "symbol": "TAC",
+    "url": "https://www.taichidao.io",
+    "description": "TaiChi is a decentralized reserve currency protocol available on the BSC (Binance Smart Chain) network based on the TAC token. Each TAC token is backed by a basket of assets (e.g., BUSD, BUSD-TAC LP, wBNB, etc.)",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/taichi.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "taichi",
+    "cmcId": "13743",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "taichi/index.js",
+    "twitter": "TaiChi_Dao_",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638599279,
+    "slug": "taichi",
+    "tvl": 33625.025889205805,
+    "chainTvls": {
+      "Binance": 33625.025889205805,
+      "Binance-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0.29,
+    "change_1d": 0.11,
+    "change_7d": 0.1,
+    "staking": 0,
+    "mcap": 26931,
+    "rank": 39
+  },
+  {
+    "id": "1721",
+    "name": "KronosDAO",
+    "address": "bsc:0xbeC68a941feCC79E57762e258fd1490F29235D75",
+    "symbol": "KRONOS",
+    "url": "https://kronosdao.ai",
+    "description": "Kronos DAO is the next evolution of the reserve currency protocol. Nodes, Kronoscharger, Kronospad, Swap, Farms and Pools.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/kronosdao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "kronosdao/index.js",
+    "twitter": "dao_kronos",
+    "listedAt": 1651609392,
+    "slug": "kronosdao",
+    "tvl": 31791.62547601526,
+    "chainTvls": {
+      "Binance": 31791.62547601526,
+      "Binance-staking": 390.9271763903172,
+      "staking": 390.9271763903172
+    },
+    "change_1h": 0.51,
+    "change_1d": 0.87,
+    "change_7d": -21.38,
+    "staking": 390.9271763903172,
+    "rank": 40
+  },
+  {
+    "id": "984",
+    "name": "GalaxyGoogle DAO",
+    "address": "avax:0xf2f7ce610a091b94d41d69f4ff1129434a82e2f0",
+    "symbol": "GG",
+    "url": "https://app.galaxygoggle.money",
+    "description": "Galaxy Goggle DAO is a decentralized reserve currency protocol based on the GG token",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/galaxygoogle-dao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "galaxygoogle-dao",
+    "cmcId": "15268",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance",
+      "Avalanche"
+    ],
+    "module": "galaxygoggle/index.js",
+    "twitter": "GalaxyGoggleDAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638809285,
+    "slug": "galaxygoogle-dao",
+    "tvl": 20434.903991229483,
+    "chainTvls": {
+      "Binance": 20434.01304615134,
+      "Binance-staking": 0,
+      "Avalanche": 0.8909450781435646,
+      "Avalanche-staking": 0,
+      "staking": 0
+    },
+    "change_1h": -0.01,
+    "change_1d": -0.11,
+    "change_7d": -0.01,
+    "staking": 0,
+    "fdv": 241.79,
+    "mcap": 0,
+    "rank": 41
+  },
+  {
+    "id": "856",
+    "name": "Fortune DAO",
+    "address": "cronos:0xcA558149225Fb386B9c26716e8C35a650C74d35e",
+    "symbol": "FORT",
+    "url": "https://fortunedao.com",
+    "description": "FortuneDAO is the first is a decentralized reserve currency on Cronos network. Using our treasury, we will farm, buy and accumulate native tokens in Cronos. As stated repeatedly, this will help support the Cronos ecosystem and also allows us to become a blackhole for Cronos.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/fortune-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": "15742",
+    "category": "Reserve Currency",
+    "chains": [
+      "Cronos"
+    ],
+    "module": "fortunedao.js",
+    "twitter": "Fortune_DAO",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1637266964,
+    "slug": "fortune-dao",
+    "tvl": 16217.469241594155,
+    "chainTvls": {
+      "Cronos": 16217.469241594155,
+      "Cronos-staking": 15151.64827949126,
+      "staking": 15151.64827949126
+    },
+    "change_1h": -0.0,
+    "change_1d": -0.0,
+    "change_7d": -0.0,
+    "staking": 15151.64827949126,
+    "rank": 42
+  },
+  {
+    "id": "966",
+    "name": "CerberusDAO",
+    "address": "0x8a14897ea5f668f36671678593fae44ae23b39fb",
+    "symbol": "3DOG",
+    "url": "https://cerberusdao.finance",
+    "description": "Cerberus is a decentralized reserve currency protocol launching under the 3DOG (\ud83d\udc36,\ud83d\udc36,\ud83d\udc36) token. Each 3DOG token is backed by a basket of assets, starting with meme coins, e.g. Shiba Inu (SHIB), Ethereum (wETH), and, eventually, stablecoins (DAI)",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/cerberusdao.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "cerburus",
+    "cmcId": "15249",
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "cerberusdao/index.js",
+    "twitter": "DaoCerberus",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638495881,
+    "slug": "cerberusdao",
+    "tvl": 7590.000278737273,
+    "chainTvls": {
+      "Ethereum": 7590.000278737273,
+      "Ethereum-staking": 0,
+      "staking": 0
+    },
+    "change_1h": 0,
+    "change_1d": 2.51,
+    "change_7d": 4.2,
+    "staking": 0,
+    "fdv": 7211971,
+    "mcap": 7211971,
+    "rank": 43
+  },
+  {
+    "id": "1223",
+    "name": "TiPiDao",
+    "address": "bsc:0xd0253dbe5606c9fa01db67eb10be5c3675c2b117",
+    "symbol": "TPD",
+    "url": "https://dao.takeprofit.fi/",
+    "description": "TiPiDao is a decentralized reserve currency protocol based on the TPD token.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/tipidao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "tipidao/index.js",
+    "twitter": "TakeProfit_Fi",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1641837565,
+    "slug": "tipidao",
+    "tvl": 7003.994233050731,
+    "chainTvls": {
+      "Binance": 7003.994233050731,
+      "Binance-staking": 2441.499124103369,
+      "staking": 2441.499124103369
+    },
+    "change_1h": 0.39,
+    "change_1d": 0.45,
+    "change_7d": 0.9,
+    "staking": 2441.499124103369,
+    "rank": 44
+  },
+  {
+    "id": "1366",
+    "name": "Hotfriescoin",
+    "address": "bsc:0x849741B79bc1618b46CF9ec600E94E771DEde601",
+    "symbol": "HFC",
+    "url": "https://www.hotfriescoin.com/",
+    "description": "A new Asset Class called Stable Progressive Coin. We aim to be the World's Most Powerful Reserve and Store of Value Currency.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/hotfriescoin.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "hotfries/index.js",
+    "twitter": "hotfriescoin",
+    "language": "Solidity",
+    "listedAt": 1644190943,
+    "slug": "hotfriescoin",
+    "tvl": 5163.370964136584,
+    "chainTvls": {
+      "Binance": 5163.370964136584
+    },
+    "change_1h": 0.29,
+    "change_1d": 0.11,
+    "change_7d": 0.1,
+    "rank": 45
+  },
+  {
+    "id": "1309",
+    "name": "Gaia DAO",
+    "address": "avax:0x9f6aedca032b1092e08b848fc9d6f29139370837",
+    "symbol": "GAIA",
+    "url": "https://gaiadao.money/",
+    "description": "Gaia DAO\u2019s mission is to fight climate change by all means and save humanity.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/gaia-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "gaia-dao",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "gaia-dao/index.js",
+    "twitter": "GaiaDAO_fi",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1642872155,
+    "slug": "gaia-dao",
+    "tvl": 5103.685570437392,
+    "chainTvls": {
+      "Avalanche-staking": 0,
+      "Avalanche": 5103.685570437392,
+      "staking": 0
+    },
+    "change_1h": -0.11,
+    "change_1d": -8.47,
+    "change_7d": -5.78,
+    "staking": 0,
+    "mcap": 0,
+    "rank": 46
+  },
+  {
+    "id": "1105",
+    "name": "Bourbon DAO",
+    "address": "bsc:0xce1ad4e2810e413e2e3684decc58a0bd01c907d9",
+    "symbol": "WHISKEY",
+    "url": "https://www.bourbondao.com/",
+    "description": "Bourbon DAO is a decentralized reserve currency protocol based on the WHISKEY token and aims at building a community-owned decentralized financial infrastructure for the crypto world.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/bourbon-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "bourbon-dao/index.js",
+    "twitter": "FinanceBourbon",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1640606970,
+    "slug": "bourbon-dao",
+    "tvl": 2514.5749544971795,
+    "chainTvls": {
+      "Binance": 2514.5749544971795,
+      "Binance-staking": 577.1914948064474,
+      "staking": 577.1914948064474
+    },
+    "change_1h": 0.45,
+    "change_1d": 1.05,
+    "change_7d": 1.81,
+    "staking": 577.1914948064474,
+    "rank": 47
+  },
+  {
+    "id": "730",
+    "name": "Exodia",
+    "address": "fantom:0x3b57f3feaaf1e8254ec680275ee6e7727c7413c7",
+    "symbol": "EXOD",
+    "url": "https://exodia.fi/",
+    "description": "$EXOD is a decentralized reserve currency that remains unbound by a peg.",
+    "chain": "Fantom",
+    "logo": "https://icons.llama.fi/exodia.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "exodia",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Fantom"
+    ],
+    "module": "exodia/index.js",
+    "twitter": "EXODIAFinance",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1635545329,
+    "slug": "exodia",
+    "tvl": 1396.3887434494704,
+    "chainTvls": {
+      "Fantom-staking": 1900.325723407344,
+      "staking": 1900.325723407344,
+      "Fantom": 1396.3887434494704
+    },
+    "change_1h": 0.14,
+    "change_1d": 0.55,
+    "change_7d": 1.07,
+    "staking": 1900.325723407344,
+    "fdv": 55689,
+    "mcap": 2287.41,
+    "rank": 48
+  },
+  {
+    "id": "1222",
+    "name": "Photon Protocol",
+    "address": "bsc:0x2F1305F0619ADa14688A4291953bd7d284f9C2a5",
+    "symbol": "PHOTON",
+    "url": "https://photonprotocol.io/",
+    "description": "Photon is a fork of an Olympus DAO (decentralized reserve currency platform) that has a big advantage, it lives on Binance Smart Chain (BSC).",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/photon-protocol.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "photon-protocol/index.js",
+    "twitter": "photon_protocol",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1641772756,
+    "slug": "photon-protocol",
+    "tvl": 1362.9025903057864,
+    "chainTvls": {
+      "Binance": 1362.9025903057864,
+      "Binance-staking": 0.28148247051206193,
+      "staking": 0.28148247051206193
+    },
+    "change_1h": 0.29,
+    "change_1d": 0.11,
+    "change_7d": 0.1,
+    "staking": 0.28148247051206193,
+    "rank": 49
+  },
+  {
+    "id": "1075",
+    "name": "SpiritDAO",
+    "address": "avax:0xa72eab7327e48bde0ff873eaf1d4fecf6036504f",
+    "symbol": "GHOST",
+    "url": "https://dapp.spiritdao.finance/",
+    "description": "SpiritDAO is a decentralized reserve currency, forked from the successful and secure Olympus DAO. Spirit will rely on the bond-and-stake methodology, in order to raise treasury funds and reward early supporters.",
+    "chain": "Avalanche",
+    "logo": "https://icons.llama.fi/spiritdao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "spiritdao-ghost",
+    "cmcId": "16396",
+    "category": "Reserve Currency",
+    "chains": [
+      "Avalanche"
+    ],
+    "module": "spirit-dao/index.js",
+    "twitter": "spirits_dao",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1640174051,
+    "slug": "spiritdao",
+    "tvl": 1336.5953080185561,
+    "chainTvls": {
+      "Avalanche-staking": 103.77602280295336,
+      "Avalanche": 1336.5953080185561,
+      "staking": 103.77602280295336
+    },
+    "change_1h": -0.06,
+    "change_1d": 0.12,
+    "change_7d": 0.07,
+    "staking": 103.77602280295336,
+    "fdv": 55.25,
+    "mcap": 0,
+    "rank": 50
+  },
+  {
+    "id": "945",
+    "name": "Jade Protocol",
+    "address": "bsc:0x7ad7242A99F21aa543F9650A56D141C57e4F6081",
+    "symbol": "JADE",
+    "url": "https://jadeprotocol.io/",
+    "description": "Jade Protocol is a decentralized reserve currency platform on Binance Smart Chain",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/jade-protocol.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "jade-protocol",
+    "cmcId": "14938",
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "jade-protocol/index.js",
+    "twitter": "JadeProtocol",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1638309367,
+    "slug": "jade-protocol",
+    "tvl": 1011.9684640749016,
+    "chainTvls": {
+      "Binance": 1011.9684640749016,
+      "Binance-staking": 6052718.265955556,
+      "staking": 6052718.265955556
+    },
+    "change_1h": 0.26,
+    "change_1d": 0.21,
+    "change_7d": -0.23,
+    "staking": 6052718.265955556,
+    "mcap": 16657926,
+    "rank": 51
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1773",
+    "name": "BendDAO",
+    "address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+    "symbol": "BEND",
+    "url": "https://www.benddao.xyz",
+    "description": "BendDAO is a decentralized peer-to-pool based NFT liquidity protocol.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/benddao.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "benddao",
+    "cmcId": "19162",
+    "category": "NFT Lending",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [
+      "NFTOracle",
+      "ReserveOracle"
+    ],
+    "forkedFrom": [],
+    "module": "benddao/index.js",
+    "twitter": "BendDAO",
+    "audit_links": [
+      "https://www.certik.com/projects/bend-dao",
+      "https://www.verilog.solutions/audits/BendDAO"
+    ],
+    "listedAt": 1652990010,
+    "slug": "benddao",
+    "tvl": 90240643.60487673,
+    "chainTvls": {
+      "Ethereum": 90240643.60487673,
+      "Ethereum-borrowed": 34176597.742710836,
+      "borrowed": 34176597.742710836
+    },
+    "change_1h": -0.34,
+    "change_1d": 5.07,
+    "change_7d": 19.84,
+    "fdv": 74558102,
+    "mcap": 0,
+    "rank": 1
+  },
+  {
+    "id": "830",
+    "name": "Revest Finance",
+    "address": "0x120a3879da835a5af037bb2d1456bebd6b54d4ba",
+    "symbol": "RVST",
+    "url": "https://revest.finance",
+    "description": "The Revest Protocol pioneers a revolutionary new use of NFTs as financial tools. Individual and project level users can deposit any ERC20 into our interactive FNFTs and set custom unlocking conditions (time, value, or contract based). This high level of composability fills many of the massive gaps in the crypto landscape ranging from something as simple as new KPI based token vesting for launching dev teams to truly game changing implications for derivative and borrowing/lending platforms",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/revest-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "revest-finance",
+    "cmcId": "12230",
+    "category": "NFT Lending",
+    "chains": [
+      "Ethereum",
+      "Fantom",
+      "Polygon",
+      "Avalanche"
+    ],
+    "module": "revest/index.js",
+    "twitter": "RevestFinance",
+    "audit_links": [
+      "https://solidity.finance/audits/Revest"
+    ],
+    "oracles": [
+      "Chainlink",
+      "TWAP"
+    ],
+    "listedAt": 1636669757,
+    "slug": "revest-finance",
+    "tvl": 1470368.3921382264,
+    "chainTvls": {
+      "Ethereum": 1232322.5539185158,
+      "Avalanche": 15.3185,
+      "Polygon": 11085.712994410002,
+      "Ethereum-staking": 864217.0461356599,
+      "staking": 864217.0461356599,
+      "Fantom": 226944.80672530073
+    },
+    "change_1h": -0.38,
+    "change_1d": 4.76,
+    "change_7d": 15.33,
+    "staking": 864217.0461356599,
+    "fdv": 3028119,
+    "mcap": 1892644,
+    "rank": 2
+  },
+  {
+    "id": "1904",
+    "name": "MMO Finance",
+    "address": null,
+    "symbol": "-",
+    "url": "https://mmo.finance",
+    "description": "MMO Finance is a decentralized pool based NFT lending platform.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/mmo-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "NFT Lending",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "mmo/index.js",
+    "twitter": "mmo_finance",
+    "listedAt": 1657965742,
+    "slug": "mmo-finance",
+    "tvl": 18768.45680061127,
+    "chainTvls": {
+      "Ethereum": 18768.45680061127,
+      "Ethereum-borrowed": 2200.11424533797,
+      "borrowed": 2200.11424533797
+    },
+    "change_1h": -0.33,
+    "change_1d": 5.9,
+    "change_7d": 16.03,
+    "rank": 3
+  }
+]
