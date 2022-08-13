@@ -25,8 +25,8 @@
       "xDai": 51404529.351
     },
     "change_1h": 0,
-    "change_1d": 0,
-    "change_7d": 0.2,
+    "change_1d": 0.1,
+    "change_7d": 0.1,
     "rank": 1
   },
   {
@@ -53,22 +53,22 @@
       "https://github.com/maple-labs/maple-core#audit-reports"
     ],
     "slug": "maple",
-    "tvl": 45303530.22188437,
+    "tvl": 45297398.561166525,
     "chainTvls": {
       "Solana-borrowed": 113479996.52276435,
       "Ethereum-treasury": 471046.676888922,
-      "Ethereum": 41063837.50408981,
-      "Ethereum-staking": 58176987.01496603,
-      "Ethereum-borrowed": 443301005.920002,
+      "Ethereum": 41057705.843371965,
+      "Ethereum-staking": 58231716.071424134,
+      "Ethereum-borrowed": 443160958.560002,
       "Solana": 4239692.71779456,
-      "borrowed": 556781002.4427663,
+      "borrowed": 556640955.0827664,
       "treasury": 471046.676888922,
-      "staking": 58176987.01496603
+      "staking": 58231716.071424134
     },
-    "change_1h": -0.0,
-    "change_1d": 4.69,
-    "change_7d": 59.96,
-    "staking": 58176987.01496603,
+    "change_1h": -0.01,
+    "change_1d": 4.78,
+    "change_7d": 59.8,
+    "staking": 58231716.071424134,
     "fdv": 226312939,
     "mcap": 141052494,
     "rank": 2
@@ -99,13 +99,13 @@
     ],
     "listedAt": 1659621481,
     "slug": "toucan-protocol",
-    "tvl": 42099650.66876506,
+    "tvl": 42894161.06268153,
     "chainTvls": {
-      "Polygon": 42099650.66876506
+      "Polygon": 42894161.06268153
     },
-    "change_1h": -1.49,
-    "change_1d": -1.0,
-    "change_7d": -1.78,
+    "change_1h": 1.89,
+    "change_1d": -0.0,
+    "change_7d": 1.46,
     "rank": 3
   },
   {
@@ -131,18 +131,18 @@
       "https://github.com/trusttoken/audits/tree/master/TrueFi"
     ],
     "slug": "truefi",
-    "tvl": 9573379.361606326,
+    "tvl": 9567435.748200381,
     "chainTvls": {
-      "Ethereum": 9573379.361606326,
-      "Ethereum-staking": 22102877.016890515,
-      "Ethereum-borrowed": 265248075.27996355,
-      "borrowed": 265248075.27996355,
-      "staking": 22102877.016890515
+      "Ethereum": 9567435.748200381,
+      "Ethereum-staking": 22053785.415339746,
+      "Ethereum-borrowed": 265213164.0401918,
+      "borrowed": 265213164.0401918,
+      "staking": 22053785.415339746
     },
-    "change_1h": -0.01,
-    "change_1d": 60.49,
-    "change_7d": 58.75,
-    "staking": 22102877.016890515,
+    "change_1h": -0.06,
+    "change_1d": 60.54,
+    "change_7d": 58.78,
+    "staking": 22053785.415339746,
     "fdv": 132718921,
     "mcap": 74280174,
     "rank": 4
@@ -176,8 +176,8 @@
       "Ethereum-borrowed": 84144683.5725973,
       "borrowed": 84144683.5725973
     },
-    "change_1h": -0.1,
-    "change_1d": -0.2,
+    "change_1h": 0,
+    "change_1d": 0,
     "change_7d": 9.32,
     "fdv": 0,
     "mcap": 120606927,
@@ -211,8 +211,8 @@
       "borrowed": 100472846.31149115
     },
     "change_1h": 0,
-    "change_1d": -0.01,
-    "change_7d": -3.69,
+    "change_1d": 0.09,
+    "change_7d": 0.59,
     "fdv": 141036732,
     "mcap": 24894858,
     "rank": 6
@@ -242,24 +242,24 @@
       "https://www.certik.com/projects/naosfinance"
     ],
     "slug": "naos-finance",
-    "tvl": 151924.05215858744,
+    "tvl": 151844.90511262108,
     "chainTvls": {
-      "pool2": 265793.58037181804,
-      "Binance-borrowed": 198525.23680650955,
-      "Binance-pool2": 48607.63023131111,
-      "Ethereum-pool2": 217185.95014050693,
-      "Binance": 86222.79468726303,
+      "pool2": 265717.42747966736,
+      "Binance-borrowed": 198344.1165751364,
+      "Binance-pool2": 48599.16535688807,
+      "Ethereum-pool2": 217118.26212277927,
+      "Binance": 86143.64764129667,
       "Ethereum": 65701.25747132442,
-      "Binance-staking": 397665.6026306122,
-      "Ethereum-staking": 227381.4316839709,
-      "borrowed": 198525.23680650955,
-      "staking": 625047.034314583
+      "Binance-staking": 398243.2172353795,
+      "Ethereum-staking": 227711.70625367152,
+      "borrowed": 198344.1165751364,
+      "staking": 625954.923489051
     },
-    "change_1h": -0.16,
-    "change_1d": -8.62,
-    "change_7d": -8.48,
-    "staking": 625047.034314583,
-    "pool2": 265793.58037181804,
+    "change_1h": -0.05,
+    "change_1d": -8.54,
+    "change_7d": -8.58,
+    "staking": 625954.923489051,
+    "pool2": 265717.42747966736,
     "mcap": 2525202,
     "rank": 7
   },
@@ -296,7 +296,7 @@
       "borrowed": 17467449.999999996
     },
     "change_1h": 0,
-    "change_1d": -0.1,
+    "change_1d": 0,
     "change_7d": -61.37,
     "rank": 8
   }
