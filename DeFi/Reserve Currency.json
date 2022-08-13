@@ -861,44 +861,6 @@
     "rank": 22
   },
   {
-    "id": "1529",
-    "name": "Gamblefi",
-    "address": "cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc",
-    "symbol": "BETIFY",
-    "url": "https://gamblefi.io/",
-    "description": "GambleFi is a Rebasing DAO protocol that features various external services meant to increase the protocol's treasury and redistribute dividends to users.",
-    "chain": "Cronos",
-    "logo": "https://icons.llama.fi/gamblefi.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": "betify",
-    "cmcId": null,
-    "category": "Reserve Currency",
-    "chains": [
-      "Cronos"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Wonderland"
-    ],
-    "module": "gamblefi/index.js",
-    "twitter": "GambleFinance",
-    "listedAt": 1646949250,
-    "slug": "gamblefi",
-    "tvl": 216676.75828597124,
-    "chainTvls": {
-      "Cronos": 216676.75828597124,
-      "Cronos-staking": 108364.69902608107,
-      "staking": 108364.69902608107
-    },
-    "change_1h": -0.13,
-    "change_1d": 1.06,
-    "change_7d": 6.0,
-    "staking": 108364.69902608107,
-    "mcap": 0,
-    "rank": 23
-  },
-  {
     "id": "1013",
     "name": "Stargate Finance",
     "address": "bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a",
@@ -932,6 +894,44 @@
     "change_1d": -0.05,
     "change_7d": 0.11,
     "staking": 40744.8960778737,
+    "rank": 23
+  },
+  {
+    "id": "1529",
+    "name": "Gamblefi",
+    "address": "cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc",
+    "symbol": "BETIFY",
+    "url": "https://gamblefi.io/",
+    "description": "GambleFi is a Rebasing DAO protocol that features various external services meant to increase the protocol's treasury and redistribute dividends to users.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/gamblefi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "betify",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Wonderland"
+    ],
+    "module": "gamblefi/index.js",
+    "twitter": "GambleFinance",
+    "listedAt": 1646949250,
+    "slug": "gamblefi",
+    "tvl": 216529.5105572439,
+    "chainTvls": {
+      "Cronos": 216529.5105572439,
+      "Cronos-staking": 108503.01005238968,
+      "staking": 108503.01005238968
+    },
+    "change_1h": -0.07,
+    "change_1d": 1.1,
+    "change_7d": 5.84,
+    "staking": 108503.01005238968,
+    "mcap": 0,
     "rank": 24
   },
   {

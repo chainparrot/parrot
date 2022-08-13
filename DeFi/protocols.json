@@ -2843,37 +2843,37 @@
     ],
     "listedAt": 1636307154,
     "slug": "cbridge",
-    "tvl": 210539048.68041638,
+    "tvl": 210854415.961218,
     "chainTvls": {
-      "Optimism": 8904058.35395444,
-      "Metis": 504041.50152584584,
+      "Optimism": 8892821.64307345,
+      "Metis": 499330.8332872866,
       "Moonriver": 0.3389684377234349,
-      "Avalanche": 14022261.101884397,
-      "Harmony": 4191757.653215244,
+      "Avalanche": 14005236.846865693,
+      "Harmony": 4187430.9649463324,
       "CLV": 0,
-      "Binance": 22950359.764260624,
-      "Ethereum": 125499452.68374532,
-      "xDai": 347.21032458,
-      "Astar": 2.4749835945922514,
+      "Binance": 22960664.37511008,
+      "Ethereum": 125911754.70680004,
+      "xDai": 346.86380728999995,
+      "Astar": 2.470072801773145,
       "Oasis": 0,
-      "Heco": 3014.2066123221925,
-      "Shiden": 3135970.2352585453,
+      "Heco": 3011.1984220903337,
+      "Shiden": 3132241.160936421,
       "Conflux": 0,
-      "Celo": 199.24285976117346,
-      "Arbitrum": 12772513.06902755,
-      "Fantom": 6551014.6116793305,
-      "OKExChain": 1162.8679797720001,
+      "Celo": 199.0301131314329,
+      "Arbitrum": 12757828.96247468,
+      "Fantom": 6543912.233744418,
+      "OKExChain": 1161.7074328859999,
       "Milkomeda": 0,
       "Moonbeam": 0,
-      "Boba": 123671.12098311885,
-      "Aurora": 2445345.6628978616,
-      "Syscoin": 0.380464,
-      "Polygon": 9433876.199791657,
+      "Boba": 123716.15094582108,
+      "Aurora": 2444907.1981634297,
+      "Syscoin": 0.379304,
+      "Polygon": 9389848.896749739,
       "REI": 0
     },
-    "change_1h": 0.11,
-    "change_1d": -1.09,
-    "change_7d": -3.33,
+    "change_1h": 0.15,
+    "change_1d": -0.59,
+    "change_7d": -2.87,
     "fdv": 259182932,
     "mcap": 146320556,
     "rank": 66
@@ -17954,13 +17954,13 @@
     "twitter": "aztecnetwork",
     "listedAt": 1639389670,
     "slug": "aztec",
-    "tvl": 5154961.846492468,
+    "tvl": 5143981.663623575,
     "chainTvls": {
-      "Ethereum": 5154961.846492468
+      "Ethereum": 5143981.663623575
     },
-    "change_1h": 0.04,
-    "change_1d": 3.69,
-    "change_7d": 2.9,
+    "change_1h": -0.21,
+    "change_1d": 4.16,
+    "change_7d": 2.85,
     "rank": 448
   },
   {
@@ -26210,13 +26210,13 @@
     "twitter": "ZappyFi",
     "listedAt": 1646186833,
     "slug": "zappy",
-    "tvl": 1328135.3448608539,
+    "tvl": 1333154.7189113148,
     "chainTvls": {
-      "Telos": 1328135.3448608539
+      "Telos": 1333154.7189113148
     },
-    "change_1h": 0.02,
-    "change_1d": 6.95,
-    "change_7d": 8.77,
+    "change_1h": 0.38,
+    "change_1d": 8.34,
+    "change_7d": 9.11,
     "mcap": 0,
     "rank": 662
   },
@@ -37246,44 +37246,6 @@
     "rank": 953
   },
   {
-    "id": "1529",
-    "name": "Gamblefi",
-    "address": "cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc",
-    "symbol": "BETIFY",
-    "url": "https://gamblefi.io/",
-    "description": "GambleFi is a Rebasing DAO protocol that features various external services meant to increase the protocol's treasury and redistribute dividends to users.",
-    "chain": "Cronos",
-    "logo": "https://icons.llama.fi/gamblefi.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": "betify",
-    "cmcId": null,
-    "category": "Reserve Currency",
-    "chains": [
-      "Cronos"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Wonderland"
-    ],
-    "module": "gamblefi/index.js",
-    "twitter": "GambleFinance",
-    "listedAt": 1646949250,
-    "slug": "gamblefi",
-    "tvl": 216676.75828597124,
-    "chainTvls": {
-      "Cronos": 216676.75828597124,
-      "Cronos-staking": 108364.69902608107,
-      "staking": 108364.69902608107
-    },
-    "change_1h": -0.13,
-    "change_1d": 1.06,
-    "change_7d": 6.0,
-    "staking": 108364.69902608107,
-    "mcap": 0,
-    "rank": 954
-  },
-  {
     "id": "1013",
     "name": "Stargate Finance",
     "address": "bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a",
@@ -37317,6 +37279,44 @@
     "change_1d": -0.05,
     "change_7d": 0.11,
     "staking": 40744.8960778737,
+    "rank": 954
+  },
+  {
+    "id": "1529",
+    "name": "Gamblefi",
+    "address": "cronos:0xD465b6B4937D768075414D413e981Af0b49349Cc",
+    "symbol": "BETIFY",
+    "url": "https://gamblefi.io/",
+    "description": "GambleFi is a Rebasing DAO protocol that features various external services meant to increase the protocol's treasury and redistribute dividends to users.",
+    "chain": "Cronos",
+    "logo": "https://icons.llama.fi/gamblefi.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "betify",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Cronos"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Wonderland"
+    ],
+    "module": "gamblefi/index.js",
+    "twitter": "GambleFinance",
+    "listedAt": 1646949250,
+    "slug": "gamblefi",
+    "tvl": 216529.5105572439,
+    "chainTvls": {
+      "Cronos": 216529.5105572439,
+      "Cronos-staking": 108503.01005238968,
+      "staking": 108503.01005238968
+    },
+    "change_1h": -0.07,
+    "change_1d": 1.1,
+    "change_7d": 5.84,
+    "staking": 108503.01005238968,
+    "mcap": 0,
     "rank": 955
   },
   {
@@ -37694,9 +37694,9 @@
     "chainTvls": {
       "Terra2": 201080.1493354458
     },
-    "change_1h": -0.49,
-    "change_1d": 0.82,
-    "change_7d": -5.64,
+    "change_1h": 0,
+    "change_1d": 1.12,
+    "change_7d": -4.68,
     "rank": 965
   },
   {
@@ -39113,13 +39113,13 @@
       "https://www.certik.org/projects/treedefi"
     ],
     "slug": "treedefi",
-    "tvl": 147852.80789597408,
+    "tvl": 147715.83467271377,
     "chainTvls": {
-      "Binance": 147852.80789597408
+      "Binance": 147715.83467271377
     },
-    "change_1h": 0.12,
-    "change_1d": 0.46,
-    "change_7d": -0.23,
+    "change_1h": -0.09,
+    "change_1d": 1.02,
+    "change_7d": -0.3,
     "mcap": 0,
     "rank": 1003
   },
@@ -52599,12 +52599,12 @@
     "twitter": "pinyottas",
     "listedAt": 1636177842,
     "slug": "pinyottas",
-    "tvl": 2535.2025080516005,
+    "tvl": 2528.184932729418,
     "chainTvls": {
-      "Ethereum": 2535.2025080516005
+      "Ethereum": 2528.184932729418
     },
-    "change_1h": -0.09,
-    "change_1d": 5.96,
+    "change_1h": -0.28,
+    "change_1d": 6.5,
     "change_7d": 13.39,
     "rank": 1359
   },
