@@ -407,8 +407,8 @@
     "change_1h": -0.85,
     "change_1d": 0.8,
     "change_7d": 4.83,
-    "fdv": 1160236247,
-    "mcap": 529777038,
+    "fdv": 1153022492,
+    "mcap": 526483155,
     "rank": 10
   },
   {
@@ -1401,17 +1401,17 @@
     "twitter": "hashflow",
     "listedAt": 1645555257,
     "slug": "hashflow",
-    "tvl": 33199707.83988616,
+    "tvl": 31729200.673630208,
     "chainTvls": {
-      "Binance": 4455497.610982893,
-      "Ethereum": 15050080.94857787,
-      "Polygon": 2645384.9262614963,
-      "Avalanche": 8928892.021306753,
-      "Arbitrum": 2119852.3327571475
+      "Binance": 4435466.711597412,
+      "Ethereum": 13650128.618611563,
+      "Polygon": 2637685.617858845,
+      "Avalanche": 8891823.852632765,
+      "Arbitrum": 2114095.8729296234
     },
-    "change_1h": 0.15,
-    "change_1d": 8.37,
-    "change_7d": 5.42,
+    "change_1h": -4.43,
+    "change_1d": 3.27,
+    "change_7d": 0.92,
     "rank": 38
   },
   {
@@ -2295,13 +2295,13 @@
     "twitter": "KardiaChain",
     "listedAt": 1635254890,
     "slug": "kaidex",
-    "tvl": 11423854.10327298,
+    "tvl": 11346822.106458362,
     "chainTvls": {
-      "Kardia": 11423854.10327298
+      "Kardia": 11346822.106458362
     },
-    "change_1h": 0.7,
-    "change_1d": 1.32,
-    "change_7d": 7.92,
+    "change_1h": -0.67,
+    "change_1d": -0.43,
+    "change_7d": 7.28,
     "rank": 63
   },
   {
@@ -3973,13 +3973,13 @@
     "twitter": "sudoswap",
     "listedAt": 1658388571,
     "slug": "sudoswap",
-    "tvl": 1999450.752625867,
+    "tvl": 1993125.0678061012,
     "chainTvls": {
-      "Ethereum": 1999450.752625867
+      "Ethereum": 1993125.0678061012
     },
-    "change_1h": 0.95,
-    "change_1d": 5.39,
-    "change_7d": 15.51,
+    "change_1h": -0.32,
+    "change_1d": 4.4,
+    "change_7d": 24.38,
     "rank": 110
   },
   {
@@ -5067,13 +5067,13 @@
     ],
     "listedAt": 1639945104,
     "slug": "mooniswap",
-    "tvl": 668563.1929981494,
+    "tvl": 667380.9450937051,
     "chainTvls": {
-      "Ethereum": 668563.1929981494
+      "Ethereum": 667380.9450937051
     },
-    "change_1h": 1.01,
-    "change_1d": 15.2,
-    "change_7d": 26.53,
+    "change_1h": -0.18,
+    "change_1d": 14.69,
+    "change_7d": 25.33,
     "rank": 141
   },
   {
@@ -6022,6 +6022,40 @@
     "rank": 167
   },
   {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 290885.241581,
+    "chainTvls": {
+      "Klaytn": 290885.241581
+    },
+    "change_1h": 15.19,
+    "change_1d": 24.61,
+    "change_7d": -16.46,
+    "rank": 168
+  },
+  {
     "id": "883",
     "name": "SmartDEX",
     "address": null,
@@ -6052,7 +6086,7 @@
     "change_1h": -0.83,
     "change_1d": -0.88,
     "change_7d": 2.58,
-    "rank": 168
+    "rank": 169
   },
   {
     "id": "1732",
@@ -6087,7 +6121,7 @@
     "change_1h": -1.17,
     "change_1d": 1.53,
     "change_7d": 1.21,
-    "rank": 169
+    "rank": 170
   },
   {
     "id": "943",
@@ -6120,7 +6154,7 @@
     "change_1h": -1.03,
     "change_1d": -11.95,
     "change_7d": 5.55,
-    "rank": 170
+    "rank": 171
   },
   {
     "id": "1579",
@@ -6155,40 +6189,6 @@
     "change_1h": -0.19,
     "change_1d": -0.41,
     "change_7d": -14.75,
-    "rank": 171
-  },
-  {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 252529.36702779,
-    "chainTvls": {
-      "Klaytn": 252529.36702779
-    },
-    "change_1h": 143.08,
-    "change_1d": 62.81,
-    "change_7d": 23.14,
     "rank": 172
   },
   {
