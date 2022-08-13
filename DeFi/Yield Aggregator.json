@@ -25,15 +25,15 @@
     ],
     "language": "Vyper",
     "slug": "yearn-finance",
-    "tvl": 645843575.7813969,
+    "tvl": 651515151.6897544,
     "chainTvls": {
-      "Ethereum": 618510681.4574467,
-      "Arbitrum": 199908.49944165096,
-      "Fantom": 27132985.82450856
+      "Ethereum": 624218735.3975643,
+      "Arbitrum": 199534.89004549096,
+      "Fantom": 27096881.40214455
     },
-    "change_1h": 0.0,
-    "change_1d": 2.13,
-    "change_7d": 3.95,
+    "change_1h": 0.88,
+    "change_1d": 2.84,
+    "change_7d": 5.07,
     "fdv": 416990920,
     "mcap": 359073753,
     "rank": 1
@@ -112,8 +112,8 @@
       "Metis-staking": 129969.54970999999,
       "Polygon-staking": 3193935.6849399996
     },
-    "change_1h": 0.12,
-    "change_1d": 2.8,
+    "change_1h": 0,
+    "change_1d": 2.76,
     "change_7d": 3.51,
     "staking": 26536284.995219998,
     "fdv": 39003395,
@@ -148,17 +148,17 @@
     ],
     "oracles": [],
     "slug": "badger-dao",
-    "tvl": 112094852.96999997,
+    "tvl": 111969584.88999999,
     "chainTvls": {
       "Binance": 0,
-      "Ethereum": 108813814.56999998,
-      "Polygon": 1890.28,
-      "Arbitrum": 3194804.77,
+      "Ethereum": 108694295.42,
+      "Polygon": 1888.9099999999999,
+      "Arbitrum": 3189057.21,
       "Fantom": 84343.34999999999
     },
-    "change_1h": 0.2,
-    "change_1d": 2.48,
-    "change_7d": 5.8,
+    "change_1h": -0.11,
+    "change_1d": 2.4,
+    "change_7d": 5.69,
     "fdv": 101131942,
     "mcap": 47974668,
     "rank": 3
@@ -190,17 +190,65 @@
       "Chainlink"
     ],
     "slug": "idle-finance",
-    "tvl": 94821188.0535547,
+    "tvl": 94932412.32156794,
     "chainTvls": {
-      "Ethereum": 94665803.74239822,
-      "Polygon": 155384.31115648808
+      "Ethereum": 94776713.50278243,
+      "Polygon": 155698.81878550912
     },
     "change_1h": 0.12,
-    "change_1d": 3.16,
-    "change_7d": 10.29,
+    "change_1d": 2.76,
+    "change_7d": 10.41,
     "fdv": 7130911,
     "mcap": 1459086,
     "rank": 4
+  },
+  {
+    "id": "136",
+    "name": "Rari Capital",
+    "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+    "symbol": "RGT",
+    "url": "https://rari.capital/",
+    "description": "Rari Capital aims to deliver the best yield to all users with various risk tolerances. Easy, sustainable and built for the future.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/rari-capital.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "rari-governance-token",
+    "cmcId": "7486",
+    "category": "Yield Aggregator",
+    "chains": [
+      "Ethereum",
+      "Arbitrum"
+    ],
+    "module": "rari/index.js",
+    "twitter": "RariCapital",
+    "audit_links": [
+      "https://www.notion.so/Rari-Capital-Audit-Quantstamp-December-2020-24a1d1df94894d6881ee190686f47bc7"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [
+      "Compound"
+    ],
+    "slug": "rari-capital",
+    "tvl": 75896005.50025697,
+    "chainTvls": {
+      "Arbitrum-borrowed": 291361.827311556,
+      "pool2": 255727.08584671025,
+      "Ethereum-pool2": 255727.08584671025,
+      "Ethereum": 75885510.2845558,
+      "Ethereum-borrowed": 162245290.57134166,
+      "Arbitrum": 10495.215701175246,
+      "borrowed": 162536652.3986532
+    },
+    "change_1h": 57.46,
+    "change_1d": 56.86,
+    "change_7d": 54.82,
+    "pool2": 255727.08584671025,
+    "fdv": 71290507,
+    "mcap": 64269679,
+    "rank": 5
   },
   {
     "id": "475",
@@ -222,22 +270,22 @@
     "module": "yieldyak/index.js",
     "twitter": "yieldyak_",
     "slug": "yield-yak",
-    "tvl": 73117681.02883676,
+    "tvl": 73313541.81976996,
     "chainTvls": {
-      "Avalanche": 73117681.02883676,
-      "Avalanche-staking": 2925366.2275545956,
-      "pool2": 131.5633782527449,
-      "Avalanche-pool2": 131.5633782527449,
-      "staking": 2925366.2275545956
+      "Avalanche": 73313541.81976996,
+      "Avalanche-staking": 2913974.2085972326,
+      "pool2": 131.39539163277163,
+      "Avalanche-pool2": 131.39539163277163,
+      "staking": 2913974.2085972326
     },
-    "change_1h": 0.22,
-    "change_1d": -1.31,
-    "change_7d": 7.21,
-    "staking": 2925366.2275545956,
-    "pool2": 131.5633782527449,
+    "change_1h": 0.27,
+    "change_1d": -1.32,
+    "change_7d": 7.07,
+    "staking": 2913974.2085972326,
+    "pool2": 131.39539163277163,
     "fdv": 3913925,
     "mcap": 3713547,
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "209",
@@ -279,30 +327,30 @@
       "Yearn Finance"
     ],
     "slug": "autofarm",
-    "tvl": 65825433.31447961,
+    "tvl": 65719839.77567202,
     "chainTvls": {
-      "Cronos": 7119582.533836475,
-      "OKExChain": 156090.86187280418,
-      "Moonriver": 207328.8740520086,
-      "Avalanche": 532614.7196213509,
-      "Harmony": 118126.39660420775,
-      "Velas": 97091.96770210787,
-      "Binance": 46469141.48149781,
-      "Boba": 292562.82930934423,
-      "xDai": 21243.460388476564,
-      "Aurora": 61120.06505176969,
-      "Oasis": 452299.04842473264,
-      "Heco": 1198614.4712739172,
-      "Polygon": 7854762.380215302,
-      "Celo": 120245.38462509394,
-      "Fantom": 1124608.8400042062
+      "Cronos": 7128946.044347863,
+      "OKExChain": 155851.8583989641,
+      "Moonriver": 207515.7193580094,
+      "Avalanche": 533105.6784643236,
+      "Harmony": 118138.33849942562,
+      "Velas": 96637.20540910294,
+      "Binance": 46360573.79423152,
+      "Boba": 293180.67499992833,
+      "xDai": 21240.649506591093,
+      "Aurora": 61118.92077798331,
+      "Oasis": 451329.8613499756,
+      "Heco": 1196205.2209297486,
+      "Polygon": 7851807.451043234,
+      "Celo": 120342.6578115603,
+      "Fantom": 1123845.7005437836
     },
-    "change_1h": 0.32,
-    "change_1d": 2.41,
-    "change_7d": 2.24,
+    "change_1h": -0.16,
+    "change_1d": 2.39,
+    "change_7d": 2.11,
     "fdv": 28467890,
     "mcap": 26517266,
-    "rank": 6
+    "rank": 7
   },
   {
     "id": "243",
@@ -327,61 +375,13 @@
       "https://github.com/flamincome/audits"
     ],
     "slug": "flamincome",
-    "tvl": 59729987.345041715,
+    "tvl": 59785650.58097998,
     "chainTvls": {
-      "Ethereum": 59729987.345041715
+      "Ethereum": 59785650.58097998
     },
-    "change_1h": 0.15,
-    "change_1d": 2.09,
-    "change_7d": 5.21,
-    "rank": 7
-  },
-  {
-    "id": "136",
-    "name": "Rari Capital",
-    "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
-    "symbol": "RGT",
-    "url": "https://rari.capital/",
-    "description": "Rari Capital aims to deliver the best yield to all users with various risk tolerances. Easy, sustainable and built for the future.",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/rari-capital.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "rari-governance-token",
-    "cmcId": "7486",
-    "category": "Yield Aggregator",
-    "chains": [
-      "Ethereum",
-      "Arbitrum"
-    ],
-    "module": "rari/index.js",
-    "twitter": "RariCapital",
-    "audit_links": [
-      "https://www.notion.so/Rari-Capital-Audit-Quantstamp-December-2020-24a1d1df94894d6881ee190686f47bc7"
-    ],
-    "oracles": [
-      "Chainlink"
-    ],
-    "forkedFrom": [
-      "Compound"
-    ],
-    "slug": "rari-capital",
-    "tvl": 48201597.15612858,
-    "chainTvls": {
-      "Arbitrum-borrowed": 291071.04704477795,
-      "pool2": 256571.39971103735,
-      "Ethereum-pool2": 256571.39971103735,
-      "Ethereum": 48191143.83192468,
-      "Ethereum-borrowed": 161917840.7757305,
-      "Arbitrum": 10453.3242039043,
-      "borrowed": 162208911.82277527
-    },
-    "change_1h": 0.36,
-    "change_1d": -0.32,
-    "change_7d": -1.57,
-    "pool2": 256571.39971103735,
-    "fdv": 71290507,
-    "mcap": 64269679,
+    "change_1h": 0.09,
+    "change_1d": 2.08,
+    "change_7d": 5.22,
     "rank": 8
   },
   {
@@ -412,18 +412,18 @@
       "Chainlink"
     ],
     "slug": "vesper",
-    "tvl": 42955384.44507147,
+    "tvl": 43005056.041671425,
     "chainTvls": {
-      "Ethereum": 41999277.23021319,
-      "Avalanche": 542324.3001212884,
-      "Polygon": 413782.9147369985,
-      "Ethereum-staking": 3139547.0631746124,
-      "staking": 3139547.0631746124
+      "Ethereum": 42047554.81860213,
+      "Avalanche": 542990.6604753662,
+      "Polygon": 414510.5625939288,
+      "Ethereum-staking": 3209581.551121253,
+      "staking": 3209581.551121253
     },
-    "change_1h": 0.11,
-    "change_1d": 2.88,
-    "change_7d": 7.35,
-    "staking": 3139547.0631746124,
+    "change_1h": 0.12,
+    "change_1d": 2.93,
+    "change_7d": 7.4,
+    "staking": 3209581.551121253,
     "fdv": 5404130,
     "mcap": 4601389,
     "rank": 9
@@ -455,16 +455,16 @@
     ],
     "listedAt": 1652126730,
     "slug": "spool-protocol",
-    "tvl": 40512012.24838,
+    "tvl": 40540634.174461454,
     "chainTvls": {
-      "Ethereum": 40512012.24838,
-      "Ethereum-staking": 3466518.5714197857,
-      "staking": 3466518.5714197857
+      "Ethereum": 40540634.174461454,
+      "Ethereum-staking": 3473677.798327195,
+      "staking": 3473677.798327195
     },
-    "change_1h": 0.06,
-    "change_1d": -0.16,
-    "change_7d": 29.66,
-    "staking": 3466518.5714197857,
+    "change_1h": 0.07,
+    "change_1d": -0.32,
+    "change_7d": 29.8,
+    "staking": 3473677.798327195,
     "fdv": 68092933,
     "mcap": 3989181,
     "rank": 10
@@ -550,8 +550,8 @@
       "Avalanche": 250599.46911999997,
       "Fantom": 862031.8606899999
     },
-    "change_1h": 0.15,
-    "change_1d": 2.93,
+    "change_1h": 0,
+    "change_1d": 2.72,
     "change_7d": 6.67,
     "fdv": 2697751,
     "mcap": 2057365,
@@ -581,14 +581,14 @@
       "https://solidity.finance/audits/ReaperFarm"
     ],
     "slug": "reaper-farm",
-    "tvl": 18231803.525186595,
+    "tvl": 18259818.87654493,
     "chainTvls": {
-      "Optimism": 1037515.1639961296,
-      "Fantom": 17194288.361190464
+      "Optimism": 1039343.5282588968,
+      "Fantom": 17220475.348286033
     },
-    "change_1h": 0.06,
-    "change_1d": 0.03,
-    "change_7d": -2.55,
+    "change_1h": 0.15,
+    "change_1d": null,
+    "change_7d": -2.53,
     "fdv": 38652267,
     "mcap": 9332357,
     "rank": 13
@@ -626,33 +626,33 @@
       "https://docs.pickle.finance/faqs/security"
     ],
     "slug": "pickle",
-    "tvl": 14828251.32648159,
+    "tvl": 14709475.682806903,
     "chainTvls": {
-      "Optimism": 411856.019575,
-      "Metis": 75105.01298299998,
-      "Cronos": 1594.877284,
-      "OKExChain": 649.1344859999999,
-      "Moonriver": 193125.997064,
-      "pool2": 391412.1342221089,
-      "Polygon-pool2": 42867.994169,
+      "Optimism": 412164.31155899994,
+      "Metis": 74871.916119,
+      "Cronos": 1597.2036079999998,
+      "OKExChain": 648.0003529999999,
+      "Moonriver": 193457.27901499998,
+      "pool2": 394588.3133121929,
+      "Polygon-pool2": 43256.232018999995,
       "Harmony": 0,
-      "Moonbeam": 16761.571827,
-      "Ethereum-pool2": 321341.9650531089,
-      "Ethereum": 11903810.919593591,
-      "Aurora": 163696.509977,
-      "Ethereum-staking": 3441361.1324188123,
-      "Polygon": 955970.07506,
-      "Arbitrum": 1105681.2086319998,
-      "Arbitrum-pool2": 27202.174999999996,
-      "staking": 3441361.1324188123
+      "Moonbeam": 16788.684912999997,
+      "Ethereum-pool2": 324234.39768019295,
+      "Ethereum": 11907639.044205904,
+      "Aurora": 163778.707092,
+      "Ethereum-staking": 3497470.2813169453,
+      "Polygon": 957290.040707,
+      "Arbitrum": 981240.4952349999,
+      "Arbitrum-pool2": 27097.683612999997,
+      "staking": 3497470.2813169453
     },
-    "change_1h": 0.26,
-    "change_1d": 3.01,
-    "change_7d": 9.05,
-    "staking": 3441361.1324188123,
-    "pool2": 391412.1342221089,
-    "fdv": 5565309,
-    "mcap": 1528471,
+    "change_1h": -0.8,
+    "change_1d": 1.97,
+    "change_7d": 8.06,
+    "staking": 3497470.2813169453,
+    "pool2": 394588.3133121929,
+    "fdv": 5643053,
+    "mcap": 1549823,
     "rank": 14
   },
   {
@@ -681,14 +681,54 @@
     ],
     "listedAt": 1657291702,
     "slug": "avault",
-    "tvl": 6080672.938954087,
+    "tvl": 6071976.198485863,
     "chainTvls": {
-      "Astar": 6080672.938954087
+      "Astar": 6071976.198485863
     },
-    "change_1h": 0.64,
-    "change_1d": -0.01,
-    "change_7d": 103.61,
+    "change_1h": -0.14,
+    "change_1d": 0.13,
+    "change_7d": 101.33,
     "rank": 15
+  },
+  {
+    "id": "1109",
+    "name": "APWine",
+    "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+    "symbol": "APW",
+    "url": "https://apwine.fi",
+    "description": "Speculate on the evolution of the yield generated by different DeFi protocols. Hedge your risk on your passive revenue, converting it into futures. Tokenise the yield generated by your interest-bearing tokens. APWine splits your interest-bearing assets into Principal Tokens and Future Yield Tokens. Sell your APYs ahead of time. Claim your yield at maturity.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/apwine.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "apwine",
+    "cmcId": "10364",
+    "category": "Yield Aggregator",
+    "chains": [
+      "Ethereum",
+      "Polygon"
+    ],
+    "module": "apwine/index.js",
+    "twitter": "APWineFinance",
+    "listedAt": 1640630028,
+    "slug": "apwine",
+    "tvl": 4855479.345191021,
+    "chainTvls": {
+      "pool2": 5749.774204753312,
+      "Polygon-pool2": 5749.774204753312,
+      "Ethereum": 3690006.6739870277,
+      "Polygon": 1165472.6712039935,
+      "Ethereum-staking": 818038.9438604956,
+      "staking": 818038.9438604956
+    },
+    "change_1h": 4.43,
+    "change_1d": 7.39,
+    "change_7d": 2.2,
+    "staking": 818038.9438604956,
+    "pool2": 5749.774204753312,
+    "fdv": 10862968,
+    "mcap": 2093408,
+    "rank": 16
   },
   {
     "id": "213",
@@ -716,66 +756,26 @@
       "https://onx-finance.gitbook.io/docs/audits-and-contracts"
     ],
     "slug": "onx-finance",
-    "tvl": 4765813.140018931,
+    "tvl": 4757711.254143847,
     "chainTvls": {
-      "pool2": 176391.13496104098,
-      "Ethereum-pool2": 176391.13496104098,
-      "Ethereum": 4765196.9687532205,
-      "Avalanche": 18.934186270999998,
-      "Ethereum-staking": 77052.456437957,
-      "Polygon": 392.346859905,
-      "Ethereum-borrowed": 651328.345020353,
-      "borrowed": 651328.345020353,
-      "Fantom": 204.89021953399995,
-      "staking": 77052.456437957
+      "pool2": 176369.32678164798,
+      "Ethereum-pool2": 176369.32678164798,
+      "Ethereum": 4757093.583584341,
+      "Avalanche": 18.967449500999997,
+      "Ethereum-staking": 75887.549398661,
+      "Polygon": 393.8128284089999,
+      "Ethereum-borrowed": 651090.3829399969,
+      "borrowed": 651090.3829399969,
+      "Fantom": 204.890281596,
+      "staking": 75887.549398661
     },
-    "change_1h": 0.19,
-    "change_1d": 4.24,
+    "change_1h": -0.17,
+    "change_1d": 4.23,
     "change_7d": -64.1,
-    "staking": 77052.456437957,
-    "pool2": 176391.13496104098,
+    "staking": 75887.549398661,
+    "pool2": 176369.32678164798,
     "fdv": 946526,
     "mcap": 944137,
-    "rank": 16
-  },
-  {
-    "id": "1109",
-    "name": "APWine",
-    "address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
-    "symbol": "APW",
-    "url": "https://apwine.fi",
-    "description": "Speculate on the evolution of the yield generated by different DeFi protocols. Hedge your risk on your passive revenue, converting it into futures. Tokenise the yield generated by your interest-bearing tokens. APWine splits your interest-bearing assets into Principal Tokens and Future Yield Tokens. Sell your APYs ahead of time. Claim your yield at maturity.",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/apwine.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": "apwine",
-    "cmcId": "10364",
-    "category": "Yield Aggregator",
-    "chains": [
-      "Ethereum",
-      "Polygon"
-    ],
-    "module": "apwine/index.js",
-    "twitter": "APWineFinance",
-    "listedAt": 1640630028,
-    "slug": "apwine",
-    "tvl": 4649497.2774538975,
-    "chainTvls": {
-      "pool2": 5743.816485672519,
-      "Polygon-pool2": 5743.816485672519,
-      "Ethereum": 3485256.455943918,
-      "Polygon": 1164240.82150998,
-      "Ethereum-staking": 818414.8549621478,
-      "staking": 818414.8549621478
-    },
-    "change_1h": -0.07,
-    "change_1d": -12.54,
-    "change_7d": -2.14,
-    "staking": 818414.8549621478,
-    "pool2": 5743.816485672519,
-    "fdv": 10892506,
-    "mcap": 2099100,
     "rank": 17
   },
   {
@@ -807,18 +807,18 @@
     ],
     "listedAt": 1649882664,
     "slug": "waterfall-defi",
-    "tvl": 4110715.4518398177,
+    "tvl": 4113897.2569040097,
     "chainTvls": {
-      "Binance": 626981.0535627621,
-      "Binance-staking": 61396.915603694135,
-      "Avalanche": 3483734.3982770555,
-      "Avalanche-staking": 7141.496916356726,
-      "staking": 68538.41252005086
+      "Binance": 626285.1734923244,
+      "Binance-staking": 61233.15528588936,
+      "Avalanche": 3487612.083411685,
+      "Avalanche-staking": 7122.415919009161,
+      "staking": 68355.57120489853
     },
-    "change_1h": 0.07,
-    "change_1d": 0.48,
-    "change_7d": 3.6,
-    "staking": 68538.41252005086,
+    "change_1h": 0.08,
+    "change_1d": 0.55,
+    "change_7d": 3.64,
+    "staking": 68355.57120489853,
     "fdv": 6609017,
     "mcap": 1740586,
     "rank": 18
@@ -846,16 +846,16 @@
     "twitter": "SolidexFantom",
     "listedAt": 1645578071,
     "slug": "solidex",
-    "tvl": 3873879.541382501,
+    "tvl": 3884969.9442347726,
     "chainTvls": {
-      "Fantom-staking": 4325654.449703887,
-      "staking": 4325654.449703887,
-      "Fantom": 3873879.541382501
+      "Fantom-staking": 4328591.36845978,
+      "staking": 4328591.36845978,
+      "Fantom": 3884969.9442347726
     },
-    "change_1h": 0.32,
-    "change_1d": 1.28,
-    "change_7d": -14.92,
-    "staking": 4325654.449703887,
+    "change_1h": 0.29,
+    "change_1d": 1.57,
+    "change_7d": -13.12,
+    "staking": 4328591.36845978,
     "mcap": 196100,
     "rank": 19
   },
@@ -892,23 +892,23 @@
     "parentProtocol": "Magik Finance",
     "listedAt": 1660361151,
     "slug": "magik-farm",
-    "tvl": 3618544.4729694254,
+    "tvl": 3522673.5397003144,
     "chainTvls": {
-      "Cronos": 35346.887988411996,
-      "pool2": 175016.980754616,
-      "Fantom-staking": 7478.951470990999,
-      "Binance": 1870313.9395300357,
-      "Aurora": 31.635693088999997,
-      "Avalanche": 1676898.5909675998,
-      "Fantom-pool2": 175016.980754616,
-      "Fantom": 35953.418790289,
-      "staking": 7478.951470990999
+      "Cronos": 35354.910311720996,
+      "pool2": 175085.74201718598,
+      "Fantom-staking": 7473.879416002999,
+      "Binance": 1853710.7331322578,
+      "Aurora": 31.726932236999996,
+      "Avalanche": 1597631.1296315368,
+      "Fantom-pool2": 175085.74201718598,
+      "Fantom": 35945.03969256199,
+      "staking": 7473.879416002999
     },
-    "change_1h": -0.12,
+    "change_1h": -2.65,
     "change_1d": null,
     "change_7d": null,
-    "staking": 7478.951470990999,
-    "pool2": 175016.980754616,
+    "staking": 7473.879416002999,
+    "pool2": 175085.74201718598,
     "rank": 20
   },
   {
@@ -942,20 +942,20 @@
       "Chainlink"
     ],
     "slug": "barnbridge",
-    "tvl": 3447282.5368810645,
+    "tvl": 3450808.6700363043,
     "chainTvls": {
-      "Optimism": 108127.33918634514,
-      "Binance": 5395.812179629251,
-      "Ethereum": 3304463.6517516864,
-      "Avalanche": 848.2355171600567,
-      "Polygon": 24922.686879065823,
-      "Arbitrum": 3524.8113671778065
+      "Optimism": 108357.69636865109,
+      "Binance": 5385.440518639057,
+      "Ethereum": 3307730.15941732,
+      "Avalanche": 849.5118430370813,
+      "Polygon": 24956.29966665621,
+      "Arbitrum": 3529.5622220006576
     },
-    "change_1h": 0.04,
+    "change_1h": 0.1,
     "change_1d": 0.37,
-    "change_7d": -0.57,
-    "fdv": 81102457,
-    "mcap": 58445216,
+    "change_7d": -0.42,
+    "fdv": 81041403,
+    "mcap": 58401218,
     "rank": 21
   },
   {
@@ -989,16 +989,16 @@
     ],
     "listedAt": 1641764117,
     "slug": "killswitch",
-    "tvl": 2397454.1758462014,
+    "tvl": 2396017.1381721916,
     "chainTvls": {
-      "Binance": 1852679.251812877,
-      "Aurora": 538147.1856953137,
-      "Kucoin": 7013.72232025779,
-      "CLV": 132.90227017738104
+      "Binance": 1850424.5456742903,
+      "Aurora": 538589.2413340403,
+      "Kucoin": 7016.361731024332,
+      "CLV": 133.49971600854442
     },
-    "change_1h": 0.23,
-    "change_1d": 1.29,
-    "change_7d": 3.01,
+    "change_1h": -0.06,
+    "change_1d": 0.93,
+    "change_7d": 2.73,
     "fdv": 9538830,
     "mcap": 0,
     "rank": 22
@@ -1031,14 +1031,14 @@
       "https://docs.robo-vault.com/robovault/security"
     ],
     "slug": "robo-vault",
-    "tvl": 2165419.3860714105,
+    "tvl": 2166078.182677284,
     "chainTvls": {
-      "Avalanche": 1398480.1923861867,
-      "Polygon": 10.25870250555,
-      "Fantom": 766928.9349827175
+      "Avalanche": 1398716.238503191,
+      "Polygon": 10.25972883765,
+      "Fantom": 767351.6844452549
     },
-    "change_1h": -0.01,
-    "change_1d": 0.79,
+    "change_1h": 0.03,
+    "change_1d": 0.75,
     "change_7d": 1.18,
     "rank": 23
   },
@@ -1065,19 +1065,19 @@
     "twitter": "Bolide_fi",
     "listedAt": 1649674184,
     "slug": "bolide",
-    "tvl": 1947009.3461368547,
+    "tvl": 1947152.3603652117,
     "chainTvls": {
-      "Binance": 1947009.3461368547,
-      "Binance-staking": 229920.89400608809,
-      "pool2": 625891.9850189206,
-      "Binance-pool2": 625891.9850189206,
-      "staking": 229920.89400608809
+      "Binance": 1947152.3603652117,
+      "Binance-staking": 229947.5512322894,
+      "pool2": 625928.3228708395,
+      "Binance-pool2": 625928.3228708395,
+      "staking": 229947.5512322894
     },
-    "change_1h": 0.15,
-    "change_1d": 4.4,
-    "change_7d": 7.55,
-    "staking": 229920.89400608809,
-    "pool2": 625891.9850189206,
+    "change_1h": 0.01,
+    "change_1d": 4.19,
+    "change_7d": 7.56,
+    "staking": 229947.5512322894,
+    "pool2": 625928.3228708395,
     "rank": 24
   },
   {
@@ -1110,13 +1110,13 @@
     ],
     "listedAt": 1638881757,
     "slug": "vaporwave",
-    "tvl": 1880119.6999999997,
+    "tvl": 1880997.5099999993,
     "chainTvls": {
-      "Aurora": 1880119.6999999997
+      "Aurora": 1880997.5099999993
     },
-    "change_1h": 0.14,
-    "change_1d": -0.4,
-    "change_7d": -1.33,
+    "change_1h": 0.05,
+    "change_1d": -0.62,
+    "change_7d": -1.19,
     "rank": 25
   },
   {
@@ -1143,12 +1143,12 @@
     ],
     "listedAt": 1641421911,
     "slug": "zunami-protocol",
-    "tvl": 1789264.2683820068,
+    "tvl": 1789286.2367506917,
     "chainTvls": {
-      "Ethereum": 1789264.2683820068
+      "Ethereum": 1789286.2367506917
     },
-    "change_1h": 0.15,
-    "change_1d": -1.72,
+    "change_1h": 0.0,
+    "change_1d": -1.92,
     "change_7d": -17.41,
     "rank": 26
   },
@@ -1175,15 +1175,15 @@
     "twitter": "BlueBitFinance",
     "listedAt": 1649686454,
     "slug": "bluebit",
-    "tvl": 1069397.2642723368,
+    "tvl": 1069521.879704278,
     "chainTvls": {
       "Aurora-staking": 9552.148679673599,
-      "Aurora": 1069397.2642723368,
+      "Aurora": 1069521.879704278,
       "staking": 9552.148679673599
     },
-    "change_1h": 0.22,
-    "change_1d": -11.01,
-    "change_7d": -9.12,
+    "change_1h": 0.01,
+    "change_1d": -11.38,
+    "change_7d": -9.21,
     "staking": 9552.148679673599,
     "mcap": 0,
     "rank": 27
@@ -1215,13 +1215,13 @@
       "Yearn Finance"
     ],
     "slug": "aladdin-dao",
-    "tvl": 887221.5535166342,
+    "tvl": 888605.0620145511,
     "chainTvls": {
-      "Ethereum": 887221.5535166342
+      "Ethereum": 888605.0620145511
     },
-    "change_1h": 0.02,
-    "change_1d": 2.48,
-    "change_7d": 12.8,
+    "change_1h": 0.16,
+    "change_1d": 2.71,
+    "change_7d": 13.29,
     "rank": 28
   },
   {
@@ -1252,15 +1252,54 @@
     ],
     "listedAt": 1637025517,
     "slug": "matrix-farm",
-    "tvl": 829709.8729783391,
+    "tvl": 833613.5556845198,
     "chainTvls": {
-      "Optimism": 24028.294854350737,
-      "Fantom": 805681.5781239884
+      "Optimism": 24060.7927656266,
+      "Fantom": 809552.7629188931
     },
-    "change_1h": 0.14,
-    "change_1d": -2.57,
-    "change_7d": -0.59,
+    "change_1h": 0.47,
+    "change_1d": 0.99,
+    "change_7d": -0.16,
     "rank": 29
+  },
+  {
+    "id": "210",
+    "name": "yAxis",
+    "address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+    "symbol": "YAXIS",
+    "url": "https://www.yaxis.io",
+    "description": "yAxis v3 is a meta yield aggregator allowing users to earn interest on digital assets like ETH, stablecoins, LINK and BTC through the Canonical Vaults. Governance allows YAXIS holders to boost their personal yield and vote to further increase vault yields",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/yaxis.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "yaxis",
+    "cmcId": "7222",
+    "category": "Yield Aggregator",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "yaxis/index.js",
+    "twitter": "yaxis_project",
+    "audit_links": [
+      "https://github.com/yaxis-project/SushiSwap/tree/main/audits"
+    ],
+    "slug": "yaxis",
+    "tvl": 648755.9267205795,
+    "chainTvls": {
+      "Ethereum": 648755.9267205795,
+      "pool2": 29833.57351710694,
+      "Ethereum-staking": 66886.17700205407,
+      "staking": 66886.17700205407,
+      "Ethereum-pool2": 29833.57351710694
+    },
+    "change_1h": 674.11,
+    "change_1d": 481.05,
+    "change_7d": -3.52,
+    "staking": 66886.17700205407,
+    "pool2": 29833.57351710694,
+    "mcap": 17408.84,
+    "rank": 30
   },
   {
     "id": "1705",
@@ -1287,16 +1326,16 @@
     "twitter": "PinkPeaFinance",
     "listedAt": 1651168503,
     "slug": "pinkpea-finance",
-    "tvl": 564942.6217464047,
+    "tvl": 565102.5971333031,
     "chainTvls": {
-      "Aurora": 564942.6217464047
+      "Aurora": 565102.5971333031
     },
-    "change_1h": 0.46,
-    "change_1d": 0.18,
-    "change_7d": -1.76,
+    "change_1h": 0.03,
+    "change_1d": -0.86,
+    "change_7d": -1.84,
     "fdv": 1804491,
     "mcap": 0,
-    "rank": 30
+    "rank": 31
   },
   {
     "id": "1744",
@@ -1324,14 +1363,14 @@
     ],
     "listedAt": 1652007651,
     "slug": "earnmos",
-    "tvl": 540877.3573508315,
+    "tvl": 541398.8416799576,
     "chainTvls": {
-      "Evmos": 540877.3573508315
+      "Evmos": 541398.8416799576
     },
-    "change_1h": -1.89,
-    "change_1d": 1.85,
-    "change_7d": 141.18,
-    "rank": 31
+    "change_1h": 0.1,
+    "change_1d": 1.72,
+    "change_7d": 141.48,
+    "rank": 32
   },
   {
     "id": "1585",
@@ -1357,15 +1396,15 @@
     "twitter": "scion_fi",
     "listedAt": 1648568500,
     "slug": "scion-finance",
-    "tvl": 357722.0447270469,
+    "tvl": 358079.409407094,
     "chainTvls": {
-      "Moonriver": 357562.14101207594,
-      "Fantom": 159.90371497099997
+      "Moonriver": 357919.345948152,
+      "Fantom": 160.06345894199998
     },
-    "change_1h": 0,
+    "change_1h": 0.1,
     "change_1d": 7.71,
-    "change_7d": 6.11,
-    "rank": 32
+    "change_7d": 6.31,
+    "rank": 33
   },
   {
     "id": "1399",
@@ -1390,20 +1429,20 @@
     "twitter": "fastyieldapp",
     "listedAt": 1644597833,
     "slug": "fastyield-finance",
-    "tvl": 317932.47950339323,
+    "tvl": 318072.5095374978,
     "chainTvls": {
-      "pool2": 4444.01032832008,
+      "pool2": 4445.3504045926,
       "Fantom-staking": 0,
-      "Fantom-pool2": 4444.01032832008,
+      "Fantom-pool2": 4445.3504045926,
       "staking": 0,
-      "Fantom": 317932.47950339323
+      "Fantom": 318072.5095374978
     },
-    "change_1h": 0.2,
-    "change_1d": 0.79,
-    "change_7d": 2.68,
+    "change_1h": 0.04,
+    "change_1d": 0.67,
+    "change_7d": 2.97,
     "staking": 0,
-    "pool2": 4444.01032832008,
-    "rank": 33
+    "pool2": 4445.3504045926,
+    "rank": 34
   },
   {
     "id": "474",
@@ -1428,48 +1467,14 @@
       "Uniswap"
     ],
     "slug": "canary",
-    "tvl": 293798.47480726184,
+    "tvl": 294196.3061881789,
     "chainTvls": {
-      "Avalanche": 293798.47480726184
+      "Avalanche": 294196.3061881789
     },
-    "change_1h": 0.2,
-    "change_1d": 1.51,
-    "change_7d": -1.45,
+    "change_1h": 0.14,
+    "change_1d": 0.2,
+    "change_7d": -2.27,
     "mcap": 0,
-    "rank": 34
-  },
-  {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 222193.869322425,
-    "chainTvls": {
-      "Klaytn": 222193.869322425
-    },
-    "change_1h": -8.77,
-    "change_1d": 11.51,
-    "change_7d": 17.78,
     "rank": 35
   },
   {
@@ -1496,13 +1501,13 @@
     ],
     "listedAt": 1643083764,
     "slug": "epsylon-finance",
-    "tvl": 200464.77478890997,
+    "tvl": 200648.931450098,
     "chainTvls": {
-      "Fantom": 200464.77478890997
+      "Fantom": 200648.931450098
     },
-    "change_1h": 0.04,
-    "change_1d": 0.06,
-    "change_7d": -0.51,
+    "change_1h": 0.09,
+    "change_1d": 0.03,
+    "change_7d": -0.3,
     "rank": 36
   },
   {
@@ -1532,20 +1537,54 @@
     "twitter": "Double__Club",
     "listedAt": 1651168503,
     "slug": "double-club",
-    "tvl": 143499.65195395544,
+    "tvl": 143343.30596782788,
     "chainTvls": {
-      "Binance": 143499.65195395544,
-      "Binance-staking": 29.208152159543445,
-      "pool2": 5793.854198482506,
-      "Binance-pool2": 5793.854198482506,
-      "staking": 29.208152159543445
+      "Binance": 143343.30596782788,
+      "Binance-staking": 29.125250551716828,
+      "pool2": 5772.854136844131,
+      "Binance-pool2": 5772.854136844131,
+      "staking": 29.125250551716828
     },
-    "change_1h": 0.09,
-    "change_1d": -22.4,
-    "change_7d": 1.35,
-    "staking": 29.208152159543445,
-    "pool2": 5793.854198482506,
+    "change_1h": -0.11,
+    "change_1d": -22.47,
+    "change_7d": 1.21,
+    "staking": 29.125250551716828,
+    "pool2": 5772.854136844131,
     "rank": 37
+  },
+  {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 143133.984281288,
+    "chainTvls": {
+      "Klaytn": 143133.984281288
+    },
+    "change_1h": -35.58,
+    "change_1d": -10.4,
+    "change_7d": -19.66,
+    "rank": 38
   },
   {
     "id": "1203",
@@ -1577,28 +1616,28 @@
     ],
     "listedAt": 1641490683,
     "slug": "stonedefi",
-    "tvl": 138571.46816479106,
+    "tvl": 138717.14645199425,
     "chainTvls": {
-      "pool2": 30095.21961037528,
-      "Polygon-pool2": 128.7410567175897,
-      "Binance-pool2": 17388.4477218602,
-      "Ethereum-pool2": 12578.030831797489,
-      "Binance": 37127.525777079936,
-      "Ethereum": 37732.94763513974,
-      "Binance-staking": 2156.3292095532142,
-      "Avalanche": 8127.524226976494,
-      "Ethereum-staking": 7868.93224613783,
-      "Polygon": 55583.470525594865,
-      "Polygon-staking": 696.7058636459898,
-      "staking": 10721.967319337034
+      "pool2": 30076.680734949925,
+      "Polygon-pool2": 128.62907718787423,
+      "Binance-pool2": 17366.28213206929,
+      "Ethereum-pool2": 12581.769525692762,
+      "Binance": 37134.738004811035,
+      "Ethereum": 37767.53474141513,
+      "Binance-staking": 2152.495845201432,
+      "Avalanche": 8134.4063658062005,
+      "Ethereum-staking": 7854.943433935456,
+      "Polygon": 55680.46733996186,
+      "Polygon-staking": 695.4673109196501,
+      "staking": 10702.906590056538
     },
-    "change_1h": 0.09,
-    "change_1d": 1.34,
-    "change_7d": 3.18,
-    "staking": 10721.967319337034,
-    "pool2": 30095.21961037528,
-    "mcap": 877240,
-    "rank": 38
+    "change_1h": 0.11,
+    "change_1d": 1.28,
+    "change_7d": 3.29,
+    "staking": 10702.906590056538,
+    "pool2": 30076.680734949925,
+    "mcap": 872813,
+    "rank": 39
   },
   {
     "id": "1666",
@@ -1630,26 +1669,26 @@
     ],
     "listedAt": 1650437930,
     "slug": "nord-finance",
-    "tvl": 115225.39142289264,
+    "tvl": 115339.8151201203,
     "chainTvls": {
-      "pool2": 160.38234649616638,
-      "Ethereum-pool2": 160.38234649616638,
-      "Ethereum": 54667.980115450584,
-      "Avalanche": 95.14484579599998,
-      "Avalanche-staking": 646.057059778179,
-      "Ethereum-staking": 38875.042698941914,
-      "Polygon": 60462.26646164606,
-      "Polygon-staking": 82695.27850523259,
-      "staking": 122216.37826395269
+      "pool2": 162.0570782083071,
+      "Ethereum-pool2": 162.0570782083071,
+      "Ethereum": 54722.021151772795,
+      "Avalanche": 95.15394142999999,
+      "Avalanche-staking": 658.1611922714696,
+      "Ethereum-staking": 39603.38187640077,
+      "Polygon": 60522.6400269175,
+      "Polygon-staking": 84244.60699324662,
+      "staking": 124506.15006191884
     },
-    "change_1h": 0.09,
-    "change_1d": 1.02,
-    "change_7d": 2.13,
-    "staking": 122216.37826395269,
-    "pool2": 160.38234649616638,
+    "change_1h": 0.1,
+    "change_1d": 1.06,
+    "change_7d": 2.19,
+    "staking": 124506.15006191884,
+    "pool2": 162.0570782083071,
     "fdv": 3000201,
     "mcap": 1588481,
-    "rank": 39
+    "rank": 40
   },
   {
     "id": "174",
@@ -1674,15 +1713,15 @@
       "https://github.com/btdotfinance/bt-finance/tree/master/audits"
     ],
     "slug": "bt.finance",
-    "tvl": 112020.06,
+    "tvl": 111998.85,
     "chainTvls": {
-      "Ethereum": 112020.06
+      "Ethereum": 111998.85
     },
-    "change_1h": 0.02,
-    "change_1d": 2.44,
-    "change_7d": 6.82,
+    "change_1h": -0.02,
+    "change_1d": 2.62,
+    "change_7d": 6.9,
     "mcap": 43522,
-    "rank": 40
+    "rank": 41
   },
   {
     "id": "269",
@@ -1710,16 +1749,16 @@
       "Yearn Finance"
     ],
     "slug": "yfii",
-    "tvl": 110315.30837644369,
+    "tvl": 110692.98808879765,
     "chainTvls": {
-      "Ethereum": 110315.30837644369
+      "Ethereum": 110692.98808879765
     },
-    "change_1h": 0.22,
-    "change_1d": 1.58,
-    "change_7d": 3.59,
+    "change_1h": 0.34,
+    "change_1d": 1.86,
+    "change_7d": 3.85,
     "fdv": 67199705,
     "mcap": 66749653,
-    "rank": 41
+    "rank": 42
   },
   {
     "id": "1861",
@@ -1744,60 +1783,21 @@
     "twitter": "cougarswap",
     "listedAt": 1656496979,
     "slug": "cgo-finance",
-    "tvl": 87314.32063554467,
+    "tvl": 87447.23953728049,
     "chainTvls": {
-      "Cronos": 87314.32063554467,
-      "pool2": 8542.162621147498,
-      "masterchef": 87314.32063554466,
-      "Cronos-staking": 4964.314959401939,
-      "Cronos-masterchef": 87314.32063554466,
-      "Cronos-pool2": 8542.162621147498,
-      "staking": 4964.314959401939
+      "Cronos": 87447.23953728049,
+      "pool2": 8528.634433956779,
+      "masterchef": 87447.23953728049,
+      "Cronos-staking": 4951.346194914048,
+      "Cronos-masterchef": 87447.23953728049,
+      "Cronos-pool2": 8528.634433956779,
+      "staking": 4951.346194914048
     },
-    "change_1h": 0.16,
-    "change_1d": 2.07,
-    "change_7d": 0.79,
-    "staking": 4964.314959401939,
-    "pool2": 8542.162621147498,
-    "rank": 42
-  },
-  {
-    "id": "210",
-    "name": "yAxis",
-    "address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
-    "symbol": "YAXIS",
-    "url": "https://www.yaxis.io",
-    "description": "yAxis v3 is a meta yield aggregator allowing users to earn interest on digital assets like ETH, stablecoins, LINK and BTC through the Canonical Vaults. Governance allows YAXIS holders to boost their personal yield and vote to further increase vault yields",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/yaxis.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "yaxis",
-    "cmcId": "7222",
-    "category": "Yield Aggregator",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "yaxis/index.js",
-    "twitter": "yaxis_project",
-    "audit_links": [
-      "https://github.com/yaxis-project/SushiSwap/tree/main/audits"
-    ],
-    "slug": "yaxis",
-    "tvl": 83806.86697876763,
-    "chainTvls": {
-      "Ethereum": 83806.86697876763,
-      "pool2": 29893.184100956576,
-      "Ethereum-staking": 67306.65465711069,
-      "staking": 67306.65465711069,
-      "Ethereum-pool2": 29893.184100956576
-    },
-    "change_1h": 0.08,
-    "change_1d": null,
-    "change_7d": -87.55,
-    "staking": 67306.65465711069,
-    "pool2": 29893.184100956576,
-    "mcap": 17408.84,
+    "change_1h": 0.15,
+    "change_1d": 2.25,
+    "change_7d": 0.97,
+    "staking": 4951.346194914048,
+    "pool2": 8528.634433956779,
     "rank": 43
   },
   {
@@ -1826,18 +1826,18 @@
     ],
     "listedAt": 1659457779,
     "slug": "vacus-finance",
-    "tvl": 71377.10783818932,
+    "tvl": 71468.61636008,
     "chainTvls": {
-      "Avalanche": 71377.10783818932,
-      "Avalanche-staking": 6587.040434974999,
+      "Avalanche": 71468.61636008,
+      "Avalanche-staking": 6593.62089495,
       "pool2": 0,
       "Avalanche-pool2": 0,
-      "staking": 6587.040434974999
+      "staking": 6593.62089495
     },
-    "change_1h": 0.03,
-    "change_1d": -8.16,
-    "change_7d": -7.71,
-    "staking": 6587.040434974999,
+    "change_1h": 0.13,
+    "change_1d": -8.18,
+    "change_7d": -7.01,
+    "staking": 6593.62089495,
     "pool2": 0,
     "rank": 44
   },
@@ -1864,16 +1864,16 @@
       "Yearn Finance"
     ],
     "slug": "cycle-finance",
-    "tvl": 70834.8194608006,
+    "tvl": 70956.23890774779,
     "chainTvls": {
-      "Avalanche": 70834.8194608006,
-      "Avalanche-staking": 17796.280872027273,
-      "staking": 17796.280872027273
+      "Avalanche": 70956.23890774779,
+      "Avalanche-staking": 17833.699115559655,
+      "staking": 17833.699115559655
     },
-    "change_1h": 0.09,
-    "change_1d": 3.45,
-    "change_7d": 14.94,
-    "staking": 17796.280872027273,
+    "change_1h": 0.17,
+    "change_1d": 3.29,
+    "change_7d": 14.97,
+    "staking": 17833.699115559655,
     "fdv": 71711,
     "mcap": 43118,
     "rank": 45
@@ -1905,12 +1905,12 @@
     "twitter": "LemuriaFinance",
     "listedAt": 1650583830,
     "slug": "lemuria-finance",
-    "tvl": 34987.55,
+    "tvl": 34987.950000000004,
     "chainTvls": {
-      "Milkomeda": 34987.55
+      "Milkomeda": 34987.950000000004
     },
-    "change_1h": 0.04,
-    "change_1d": 0.11,
+    "change_1h": 0.0,
+    "change_1d": 0.1,
     "change_7d": 0.19,
     "rank": 46
   },
@@ -1947,17 +1947,17 @@
       "Chainlink"
     ],
     "slug": "mushrooms-finance",
-    "tvl": 21886.01998797102,
+    "tvl": 21892.462573552013,
     "chainTvls": {
-      "Binance": 2958.8811921467977,
-      "Ethereum": 10333.534983105388,
-      "Avalanche": 6299.092994584921,
-      "Polygon": 1327.5604276784775,
-      "Fantom": 966.9503904554361
+      "Binance": 2932.3156394877697,
+      "Ethereum": 10357.855209032201,
+      "Avalanche": 6305.5980189566335,
+      "Polygon": 1329.1205997644506,
+      "Fantom": 967.5731063109553
     },
-    "change_1h": 0.18,
-    "change_1d": 1.1,
-    "change_7d": 3.49,
+    "change_1h": 0.03,
+    "change_1d": 1.22,
+    "change_7d": 3.57,
     "fdv": 30958,
     "mcap": 13803.92,
     "rank": 47
@@ -1989,8 +1989,8 @@
     "chainTvls": {
       "Ethereum": 21800.631678825997
     },
-    "change_1h": 0.15,
-    "change_1d": 2.85,
+    "change_1h": 0,
+    "change_1d": 2.64,
     "change_7d": 9.77,
     "rank": 48
   },
@@ -2015,19 +2015,19 @@
     "twitter": "DracoForceDeFi",
     "listedAt": 1636220121,
     "slug": "draco-force",
-    "tvl": 12512.069245213332,
+    "tvl": 12538.91841005807,
     "chainTvls": {
-      "pool2": 193.41456184675982,
+      "pool2": 193.5059991111296,
       "Fantom-staking": 0,
-      "Fantom-pool2": 193.41456184675982,
+      "Fantom-pool2": 193.5059991111296,
       "staking": 0,
-      "Fantom": 12512.069245213332
+      "Fantom": 12538.91841005807
     },
-    "change_1h": 0.07,
-    "change_1d": 4.89,
-    "change_7d": 14.75,
+    "change_1h": 0.21,
+    "change_1d": 5.01,
+    "change_7d": 14.84,
     "staking": 0,
-    "pool2": 193.41456184675982,
+    "pool2": 193.5059991111296,
     "fdv": 2280.75,
     "mcap": 0,
     "rank": 49
@@ -2053,16 +2053,16 @@
     "twitter": "SpiralFinance",
     "listedAt": 1643486349,
     "slug": "spiral-finance",
-    "tvl": 9847.851744829275,
+    "tvl": 9856.9212538601,
     "chainTvls": {
-      "pool2": 4079.432948266608,
-      "Fantom-pool2": 4079.432948266608,
-      "Fantom": 9847.851744829275
+      "pool2": 4081.4671056706084,
+      "Fantom-pool2": 4081.4671056706084,
+      "Fantom": 9856.9212538601
     },
-    "change_1h": 0.02,
-    "change_1d": 0.11,
-    "change_7d": 0.44,
-    "pool2": 4079.432948266608,
+    "change_1h": 0.09,
+    "change_1d": 0.08,
+    "change_7d": 0.65,
+    "pool2": 4081.4671056706084,
     "mcap": 0,
     "rank": 50
   },
@@ -2091,13 +2091,13 @@
     "twitter": "earnifty",
     "listedAt": 1659007182,
     "slug": "earnifty",
-    "tvl": 3798.868635443441,
+    "tvl": 3798.6612679851223,
     "chainTvls": {
-      "Velas": 3798.868635443441
+      "Velas": 3798.6612679851223
     },
-    "change_1h": 0.18,
-    "change_1d": 2.0,
-    "change_7d": 3.98,
+    "change_1h": -0.01,
+    "change_1d": 2.67,
+    "change_7d": 3.47,
     "rank": 51
   },
   {
@@ -2130,13 +2130,13 @@
     ],
     "listedAt": 1651103198,
     "slug": "unbanked",
-    "tvl": 3733.5005308600494,
+    "tvl": 3734.029417252407,
     "chainTvls": {
-      "Fantom": 3733.5005308600494
+      "Fantom": 3734.029417252407
     },
-    "change_1h": 0.7,
-    "change_1d": 2.24,
-    "change_7d": 3.48,
+    "change_1h": 0.01,
+    "change_1d": 2.62,
+    "change_7d": 3.72,
     "fdv": 268990970,
     "mcap": 0,
     "rank": 52
@@ -2166,13 +2166,13 @@
     "twitter": "YieldHubFinance",
     "listedAt": 1649526698,
     "slug": "yieldhub-finance",
-    "tvl": 3212.4292199999995,
+    "tvl": 3210.1369299999997,
     "chainTvls": {
-      "Telos": 3212.4292199999995
+      "Telos": 3210.1369299999997
     },
-    "change_1h": 0.18,
-    "change_1d": 4.2,
-    "change_7d": 2.22,
+    "change_1h": -0.07,
+    "change_1d": 3.72,
+    "change_7d": 2.14,
     "rank": 53
   },
   {
@@ -2200,21 +2200,21 @@
     ],
     "listedAt": 1644364311,
     "slug": "superman-swap",
-    "tvl": 2426.5234185665977,
+    "tvl": 2425.0066405803077,
     "chainTvls": {
-      "Binance-masterchef": 2426.5234185665977,
-      "pool2": 50.99429366145816,
-      "masterchef": 2426.5234185665977,
-      "Binance-pool2": 50.99429366145816,
-      "Binance": 2426.5234185665977,
-      "Binance-staking": 32.55527809418041,
-      "staking": 32.55527809418041
+      "Binance-masterchef": 2425.0066405803072,
+      "pool2": 50.84955926345232,
+      "masterchef": 2425.0066405803072,
+      "Binance-pool2": 50.84955926345232,
+      "Binance": 2425.0066405803077,
+      "Binance-staking": 32.44087949192889,
+      "staking": 32.44087949192889
     },
-    "change_1h": 0.12,
-    "change_1d": 0.14,
-    "change_7d": 0.54,
-    "staking": 32.55527809418041,
-    "pool2": 50.99429366145816,
+    "change_1h": -0.06,
+    "change_1d": 0.1,
+    "change_7d": 0.42,
+    "staking": 32.44087949192889,
+    "pool2": 50.84955926345232,
     "rank": 54
   }
 ]

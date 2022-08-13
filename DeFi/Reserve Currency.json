@@ -22,19 +22,57 @@
       "https://docs.olympusdao.finance/references/audits"
     ],
     "slug": "olympus-dao",
-    "tvl": 306258689.3531555,
+    "tvl": 306241987.8793615,
     "chainTvls": {
-      "Ethereum": 306258689.3531555,
-      "Ethereum-staking": 13874146.75041616,
-      "staking": 13874146.75041616
+      "Ethereum": 306241987.8793615,
+      "Ethereum-staking": 13896099.514261754,
+      "staking": 13896099.514261754
     },
-    "change_1h": 0.18,
-    "change_1d": 0.22,
-    "change_7d": 0.21,
-    "staking": 13874146.75041616,
+    "change_1h": -0.01,
+    "change_1d": 0.03,
+    "change_7d": 0.18,
+    "staking": 13896099.514261754,
     "fdv": 340449803,
     "mcap": 318339573,
     "rank": 1
+  },
+  {
+    "id": "875",
+    "name": "Temple DAO",
+    "address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+    "symbol": "TEMPLE",
+    "url": "https://www.templedao.link",
+    "description": "The TempleDAO protocol aims to provide DeFi users with a safe haven where they can be sheltered from crypto market volatility while benefiting from a set of investment opportunities offering high yields and steady price appreciation.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/temple-dao.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "temple",
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "templedao/index.js",
+    "twitter": "templedao",
+    "listedAt": 1637376751,
+    "slug": "temple-dao",
+    "tvl": 94961486.58188525,
+    "chainTvls": {
+      "Ethereum": 94961486.58188525,
+      "pool2": 28111069.61307801,
+      "Ethereum-staking": 58876280.21465908,
+      "staking": 58876280.21465908,
+      "Ethereum-pool2": 28111069.61307801
+    },
+    "change_1h": 83.53,
+    "change_1d": 83.5,
+    "change_7d": 0.06,
+    "staking": 58876280.21465908,
+    "pool2": 28111069.61307801,
+    "fdv": 170647217,
+    "mcap": 70642282,
+    "rank": 2
   },
   {
     "id": "781",
@@ -63,55 +101,17 @@
     ],
     "listedAt": 1636042787,
     "slug": "klima-dao",
-    "tvl": 53770762.11093635,
+    "tvl": 54503274.39819425,
     "chainTvls": {
-      "Polygon": 53770762.11093635,
-      "Polygon-staking": 33141058.94934265,
-      "staking": 33141058.94934265
+      "Polygon": 54503274.39819425,
+      "Polygon-staking": 33141023.431469496,
+      "staking": 33141023.431469496
     },
-    "change_1h": 0.04,
-    "change_1d": -1.73,
-    "change_7d": -1.05,
-    "staking": 33141058.94934265,
-    "mcap": 39200412,
-    "rank": 2
-  },
-  {
-    "id": "875",
-    "name": "Temple DAO",
-    "address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
-    "symbol": "TEMPLE",
-    "url": "https://www.templedao.link",
-    "description": "The TempleDAO protocol aims to provide DeFi users with a safe haven where they can be sheltered from crypto market volatility while benefiting from a set of investment opportunities offering high yields and steady price appreciation.",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/temple-dao.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": "temple",
-    "cmcId": null,
-    "category": "Reserve Currency",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "templedao/index.js",
-    "twitter": "templedao",
-    "listedAt": 1637376751,
-    "slug": "temple-dao",
-    "tvl": 51742130.435078934,
-    "chainTvls": {
-      "Ethereum": 51742130.435078934,
-      "pool2": 28123255.842952903,
-      "Ethereum-staking": 58824912.280698285,
-      "staking": 58824912.280698285,
-      "Ethereum-pool2": 28123255.842952903
-    },
-    "change_1h": 0.17,
-    "change_1d": -45.46,
-    "change_7d": -45.51,
-    "staking": 58824912.280698285,
-    "pool2": 28123255.842952903,
-    "fdv": 170647217,
-    "mcap": 70642282,
+    "change_1h": 1.36,
+    "change_1d": 0.57,
+    "change_7d": 0.65,
+    "staking": 33141023.431469496,
+    "mcap": 38875793,
     "rank": 3
   },
   {
@@ -138,16 +138,16 @@
     ],
     "listedAt": 1635966336,
     "slug": "spartacus",
-    "tvl": 33511339.75794924,
+    "tvl": 33511096.359047353,
     "chainTvls": {
-      "Fantom-staking": 12222442.79392146,
-      "staking": 12222442.79392146,
-      "Fantom": 33511339.75794924
+      "Fantom-staking": 12192680.352053143,
+      "staking": 12192680.352053143,
+      "Fantom": 33511096.359047353
     },
-    "change_1h": 0.05,
-    "change_1d": -0.31,
-    "change_7d": -3.42,
-    "staking": 12222442.79392146,
+    "change_1h": -0.0,
+    "change_1d": -0.42,
+    "change_7d": -1.77,
+    "staking": 12192680.352053143,
     "fdv": 35939897,
     "mcap": 0,
     "rank": 4
@@ -187,21 +187,21 @@
     ],
     "listedAt": 1638463469,
     "slug": "fantohm",
-    "tvl": 21403045.01121019,
+    "tvl": 21409886.94790556,
     "chainTvls": {
-      "Moonriver": 90622.70998554329,
-      "Fantom-staking": 2301546.3438576204,
-      "Moonriver-staking": 30650.967631923126,
+      "Moonriver": 90713.10795114987,
+      "Fantom-staking": 2303838.7206941317,
+      "Moonriver-staking": 30681.49648414615,
       "Binance": 0,
       "Boba": 0,
-      "Ethereum": 1265023.6883140565,
-      "Fantom": 20047398.612910587,
-      "staking": 2332197.3114895434
+      "Ethereum": 1266695.921103591,
+      "Fantom": 20052477.918850817,
+      "staking": 2334520.2171782777
     },
-    "change_1h": 0.05,
-    "change_1d": -0.48,
-    "change_7d": 1.4,
-    "staking": 2332197.3114895434,
+    "change_1h": 0.03,
+    "change_1d": -0.6,
+    "change_7d": 1.45,
+    "staking": 2334520.2171782777,
     "fdv": 3843388,
     "mcap": 2648469,
     "rank": 5
@@ -230,17 +230,17 @@
       "Olympus DAO"
     ],
     "slug": "wonderland",
-    "tvl": 6792008.644503231,
+    "tvl": 6781700.336640796,
     "chainTvls": {
-      "Ethereum": 5998842.490485611,
-      "Avalanche": 793166.15401762,
-      "Avalanche-staking": 514572678.9537721,
-      "staking": 514572678.9537721
+      "Ethereum": 5990193.872763671,
+      "Avalanche": 791506.463877125,
+      "Avalanche-staking": 513395628.73270136,
+      "staking": 513395628.73270136
     },
-    "change_1h": 0.05,
-    "change_1d": -0.02,
-    "change_7d": 5.46,
-    "staking": 514572678.9537721,
+    "change_1h": -0.15,
+    "change_1d": 0.59,
+    "change_7d": 5.51,
+    "staking": 513395628.73270136,
     "fdv": 10512466,
     "mcap": 9891827,
     "rank": 6
@@ -270,16 +270,16 @@
     "twitter": "FloorDAO",
     "listedAt": 1646390885,
     "slug": "floor-dao",
-    "tvl": 5604593.371287122,
+    "tvl": 5610467.019883417,
     "chainTvls": {
-      "Ethereum": 5604593.371287122,
-      "Ethereum-staking": 6250348.607809737,
-      "staking": 6250348.607809737
+      "Ethereum": 5610467.019883417,
+      "Ethereum-staking": 6094814.685096943,
+      "staking": 6094814.685096943
     },
-    "change_1h": 0.02,
-    "change_1d": 4.72,
-    "change_7d": 12.81,
-    "staking": 6250348.607809737,
+    "change_1h": 0.1,
+    "change_1d": 4.73,
+    "change_7d": 13.07,
+    "staking": 6094814.685096943,
     "fdv": 8947919,
     "mcap": 7997082,
     "rank": 7
@@ -310,15 +310,15 @@
     ],
     "listedAt": 1648752313,
     "slug": "the-idols",
-    "tvl": 5272430.231446803,
+    "tvl": 5279638.0196796125,
     "chainTvls": {
-      "Ethereum": 5272430.231446803,
+      "Ethereum": 5279638.0196796125,
       "Ethereum-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.17,
-    "change_1d": 5.22,
-    "change_7d": 16.46,
+    "change_1h": 0.14,
+    "change_1d": 5.67,
+    "change_7d": 16.57,
     "staking": 0,
     "rank": 8
   },
@@ -348,13 +348,13 @@
     ],
     "listedAt": 1644441697,
     "slug": "maia-dao",
-    "tvl": 4960555.672757594,
+    "tvl": 4916867.406172487,
     "chainTvls": {
-      "Metis": 4960555.672757594
+      "Metis": 4916867.406172487
     },
-    "change_1h": -0.07,
-    "change_1d": 12.53,
-    "change_7d": -15.2,
+    "change_1h": -0.88,
+    "change_1d": 10.81,
+    "change_7d": -14.37,
     "fdv": 187751,
     "mcap": 0,
     "rank": 9
@@ -383,16 +383,16 @@
     ],
     "listedAt": 1638483973,
     "slug": "nemesis-dao",
-    "tvl": 4722889.643318076,
+    "tvl": 4722292.330091696,
     "chainTvls": {
-      "Binance": 4722889.643318076,
-      "Binance-staking": 574393.5915915689,
-      "staking": 574393.5915915689
+      "Binance": 4722292.330091696,
+      "Binance-staking": 575344.5743591045,
+      "staking": 575344.5743591045
     },
-    "change_1h": 0.35,
-    "change_1d": -0.42,
-    "change_7d": -1.67,
-    "staking": 574393.5915915689,
+    "change_1h": -0.01,
+    "change_1d": -0.17,
+    "change_7d": -1.69,
+    "staking": 575344.5743591045,
     "mcap": 166865,
     "rank": 10
   },
@@ -421,15 +421,15 @@
     "twitter": "SphereDeFi",
     "listedAt": 1648668558,
     "slug": "sphere-finance",
-    "tvl": 2069973.6728186226,
+    "tvl": 2071870.6178271684,
     "chainTvls": {
-      "Polygon": 2069973.6728186226,
+      "Polygon": 2071870.6178271684,
       "Polygon-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.02,
-    "change_1d": 24.15,
-    "change_7d": 23.24,
+    "change_1h": 0.09,
+    "change_1d": 24.2,
+    "change_7d": 23.39,
     "staking": 0,
     "mcap": 0,
     "rank": 11
@@ -458,18 +458,18 @@
     ],
     "listedAt": 1636378556,
     "slug": "gyro",
-    "tvl": 1730244.4626315883,
+    "tvl": 1728310.6493888102,
     "chainTvls": {
-      "Binance": 1730244.4626315883,
-      "Binance-staking": 18111.78812153256,
-      "staking": 18111.78812153256
+      "Binance": 1728310.6493888102,
+      "Binance-staking": 18078.6163484162,
+      "staking": 18078.6163484162
     },
-    "change_1h": 0.16,
-    "change_1d": -0.14,
-    "change_7d": -1.22,
-    "staking": 18111.78812153256,
-    "fdv": 2327816,
-    "mcap": 2327816,
+    "change_1h": -0.11,
+    "change_1d": -0.36,
+    "change_7d": -1.35,
+    "staking": 18078.6163484162,
+    "fdv": 2326679,
+    "mcap": 2326679,
     "rank": 12
   },
   {
@@ -496,17 +496,17 @@
     ],
     "listedAt": 1641873771,
     "slug": "empyrean-dao",
-    "tvl": 1282430.0854551024,
+    "tvl": 1282771.1378769102,
     "chainTvls": {
-      "Aurora-staking": 652620.8442554142,
-      "Aurora": 1282430.0854551024,
-      "staking": 652620.8442554142
+      "Aurora-staking": 650518.5510410717,
+      "Aurora": 1282771.1378769102,
+      "staking": 650518.5510410717
     },
-    "change_1h": 0.1,
-    "change_1d": -0.06,
-    "change_7d": -0.15,
-    "staking": 652620.8442554142,
-    "fdv": 214846,
+    "change_1h": 0.03,
+    "change_1d": -0.12,
+    "change_7d": -0.05,
+    "staking": 650518.5510410717,
+    "fdv": 213425,
     "mcap": 0,
     "rank": 13
   },
@@ -538,15 +538,15 @@
     ],
     "listedAt": 1641514188,
     "slug": "wagmidao",
-    "tvl": 939967.694103038,
+    "tvl": 941122.301839195,
     "chainTvls": {
       "Harmony-staking": 0,
-      "Harmony": 939967.694103038,
+      "Harmony": 941122.301839195,
       "staking": 0
     },
-    "change_1h": 0.03,
-    "change_1d": 0.93,
-    "change_7d": 2.39,
+    "change_1h": 0.12,
+    "change_1d": 0.96,
+    "change_7d": 2.61,
     "staking": 0,
     "fdv": 18791285,
     "mcap": 2002513,
@@ -577,16 +577,16 @@
     "listedAt": 1638188717,
     "openSource": false,
     "slug": "invictusdao",
-    "tvl": 765754.467055578,
+    "tvl": 766519.4565331561,
     "chainTvls": {
-      "Solana-staking": 1692919.040420382,
-      "Solana": 765754.467055578,
-      "staking": 1692919.040420382
+      "Solana-staking": 1672542.8834644696,
+      "Solana": 766519.4565331561,
+      "staking": 1672542.8834644696
     },
-    "change_1h": 0,
+    "change_1h": 0.1,
     "change_1d": -0.2,
-    "change_7d": -4.61,
-    "staking": 1692919.040420382,
+    "change_7d": -4.42,
+    "staking": 1672542.8834644696,
     "mcap": 10277774,
     "rank": 15
   },
@@ -616,19 +616,19 @@
     ],
     "listedAt": 1640528431,
     "slug": "templar-dao",
-    "tvl": 694733.3281818732,
+    "tvl": 693795.9706069557,
     "chainTvls": {
-      "Moonriver": 17484.773753196216,
+      "Moonriver": 17520.218937308644,
       "Harmony-staking": 116527.26981795301,
-      "Harmony": 14155.42382944352,
+      "Harmony": 14184.78793060841,
       "Moonriver-staking": 141194.47196538709,
-      "Binance": 663093.1305992334,
+      "Binance": 662090.9637390387,
       "Binance-staking": 274492.87935862795,
       "staking": 532214.6211419681
     },
-    "change_1h": 0.08,
-    "change_1d": 0.12,
-    "change_7d": 3.42,
+    "change_1h": -0.13,
+    "change_1d": 0.56,
+    "change_7d": 3.15,
     "staking": 532214.6211419681,
     "mcap": 535160,
     "rank": 16
@@ -657,17 +657,17 @@
     ],
     "listedAt": 1638595802,
     "slug": "xeus",
-    "tvl": 562917.5714872307,
+    "tvl": 562298.8134364149,
     "chainTvls": {
-      "Binance": 562917.5714872307,
-      "Binance-staking": 60094.84643056008,
-      "staking": 60094.84643056008
+      "Binance": 562298.8134364149,
+      "Binance-staking": 60082.3012669307,
+      "staking": 60082.3012669307
     },
-    "change_1h": 0.1,
-    "change_1d": -0.1,
-    "change_7d": -0.1,
-    "staking": 60094.84643056008,
-    "mcap": 716.67,
+    "change_1h": -0.11,
+    "change_1d": 0.01,
+    "change_7d": -0.31,
+    "staking": 60082.3012669307,
+    "mcap": 718.3,
     "rank": 17
   },
   {
@@ -694,16 +694,16 @@
     ],
     "listedAt": 1639895243,
     "slug": "leaguedao",
-    "tvl": 465025.25184332125,
+    "tvl": 465410.9291816411,
     "chainTvls": {
-      "Ethereum": 465025.25184332125,
-      "Ethereum-staking": 415032.1642486273,
-      "staking": 415032.1642486273
+      "Ethereum": 465410.9291816411,
+      "Ethereum-staking": 415174.828238585,
+      "staking": 415174.828238585
     },
-    "change_1h": -0.2,
-    "change_1d": -1.67,
-    "change_7d": -5.79,
-    "staking": 415032.1642486273,
+    "change_1h": 0.08,
+    "change_1d": -1.15,
+    "change_7d": -5.67,
+    "staking": 415174.828238585,
     "fdv": 2384030,
     "mcap": 1057728,
     "rank": 18
@@ -735,16 +735,16 @@
     ],
     "listedAt": 1641875968,
     "slug": "vesq",
-    "tvl": 342791.9139794067,
+    "tvl": 343899.3696557436,
     "chainTvls": {
-      "Polygon": 342791.9139794067,
-      "Polygon-staking": 1173942.1449573261,
-      "staking": 1173942.1449573261
+      "Polygon": 343899.3696557436,
+      "Polygon-staking": 1180373.9167329588,
+      "staking": 1180373.9167329588
     },
-    "change_1h": 0.06,
+    "change_1h": 0.32,
     "change_1d": -0.28,
-    "change_7d": -3.32,
-    "staking": 1173942.1449573261,
+    "change_7d": -2.91,
+    "staking": 1180373.9167329588,
     "mcap": 0,
     "rank": 19
   },
@@ -772,16 +772,16 @@
     ],
     "listedAt": 1641938251,
     "slug": "minotaur-money",
-    "tvl": 327722.60141976713,
+    "tvl": 328077.098422604,
     "chainTvls": {
-      "Cronos": 327722.60141976713,
-      "Cronos-staking": 326020.6047068333,
-      "staking": 326020.6047068333
+      "Cronos": 328077.098422604,
+      "Cronos-staking": 325595.4691406959,
+      "staking": 325595.4691406959
     },
-    "change_1h": 0.28,
-    "change_1d": 2.78,
-    "change_7d": 10.06,
-    "staking": 326020.6047068333,
+    "change_1h": 0.11,
+    "change_1d": 3.82,
+    "change_7d": 10.04,
+    "staking": 325595.4691406959,
     "mcap": 0,
     "rank": 20
   },
@@ -815,8 +815,8 @@
       "Avalanche": 315456.14641941397,
       "staking": 355038.093719813
     },
-    "change_1h": 0.15,
-    "change_1d": -5.77,
+    "change_1h": 0,
+    "change_1d": -5.96,
     "change_7d": -5.67,
     "staking": 355038.093719813,
     "mcap": 0,
@@ -846,19 +846,55 @@
     ],
     "listedAt": 1638941466,
     "slug": "life-dao",
-    "tvl": 240043.6525683166,
+    "tvl": 239465.70597491087,
     "chainTvls": {
-      "Avalanche-staking": 2053276.5789466137,
-      "Avalanche": 240043.6525683166,
-      "staking": 2053276.5789466137
+      "Avalanche-staking": 2047492.7012594403,
+      "Avalanche": 239465.70597491087,
+      "staking": 2047492.7012594403
     },
-    "change_1h": 0.02,
-    "change_1d": -0.51,
-    "change_7d": 10.45,
-    "staking": 2053276.5789466137,
+    "change_1h": -0.24,
+    "change_1d": 0.49,
+    "change_7d": 10.24,
+    "staking": 2047492.7012594403,
     "fdv": 44988,
     "mcap": 0,
     "rank": 22
+  },
+  {
+    "id": "1013",
+    "name": "Stargate Finance",
+    "address": "bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a",
+    "symbol": "SGT",
+    "url": "https://www.stargate.zone/#/stake",
+    "description": "Stargate Finance is a decentralized reserve currency protocol based on the SGT token on Binance Smart Chain. Economically, it imitates the model created by OlympusDao. ",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/stargate-finance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Reserve Currency",
+    "chains": [
+      "Binance"
+    ],
+    "module": "stargate-finance/index.js",
+    "twitter": "StarGate_Fin",
+    "forkedFrom": [
+      "Olympus DAO"
+    ],
+    "listedAt": 1639331903,
+    "slug": "stargate-finance",
+    "tvl": 216525.30823981547,
+    "chainTvls": {
+      "Binance": 216525.30823981547,
+      "Binance-staking": 40744.8960778737,
+      "staking": 40744.8960778737
+    },
+    "change_1h": -0.02,
+    "change_1d": -0.23,
+    "change_7d": -0.02,
+    "staking": 40744.8960778737,
+    "rank": 23
   },
   {
     "id": "1529",
@@ -885,53 +921,17 @@
     "twitter": "GambleFinance",
     "listedAt": 1646949250,
     "slug": "gamblefi",
-    "tvl": 216816.85050868255,
+    "tvl": 216329.533602331,
     "chainTvls": {
-      "Cronos": 216816.85050868255,
-      "Cronos-staking": 109122.42454071417,
-      "staking": 109122.42454071417
+      "Cronos": 216329.533602331,
+      "Cronos-staking": 107583.6245939061,
+      "staking": 107583.6245939061
     },
-    "change_1h": 0.78,
-    "change_1d": 0.97,
-    "change_7d": 6.15,
-    "staking": 109122.42454071417,
+    "change_1h": -0.22,
+    "change_1d": 0.94,
+    "change_7d": 6.25,
+    "staking": 107583.6245939061,
     "mcap": 0,
-    "rank": 23
-  },
-  {
-    "id": "1013",
-    "name": "Stargate Finance",
-    "address": "bsc:0x141381f07Fa31432243113Cda2F617d5d255d39a",
-    "symbol": "SGT",
-    "url": "https://www.stargate.zone/#/stake",
-    "description": "Stargate Finance is a decentralized reserve currency protocol based on the SGT token on Binance Smart Chain. Economically, it imitates the model created by OlympusDao. ",
-    "chain": "Binance",
-    "logo": "https://icons.llama.fi/stargate-finance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Reserve Currency",
-    "chains": [
-      "Binance"
-    ],
-    "module": "stargate-finance/index.js",
-    "twitter": "StarGate_Fin",
-    "forkedFrom": [
-      "Olympus DAO"
-    ],
-    "listedAt": 1639331903,
-    "slug": "stargate-finance",
-    "tvl": 216579.3801238292,
-    "chainTvls": {
-      "Binance": 216579.3801238292,
-      "Binance-staking": 40744.8960778737,
-      "staking": 40744.8960778737
-    },
-    "change_1h": 0.14,
-    "change_1d": -0.1,
-    "change_7d": 0.02,
-    "staking": 40744.8960778737,
     "rank": 24
   },
   {
@@ -958,18 +958,18 @@
     ],
     "listedAt": 1639349755,
     "slug": "atlas-usv",
-    "tvl": 208302.1614121115,
+    "tvl": 208510.4635735236,
     "chainTvls": {
-      "Polygon": 208302.1614121115,
-      "Polygon-staking": 89029971.22486967,
-      "staking": 89029971.22486967
+      "Polygon": 208510.4635735236,
+      "Polygon-staking": 86080902.37512434,
+      "staking": 86080902.37512434
     },
-    "change_1h": 0.05,
-    "change_1d": -31.39,
-    "change_7d": -27.68,
-    "staking": 89029971.22486967,
-    "fdv": 171332275,
-    "mcap": 15532090,
+    "change_1h": 0.1,
+    "change_1d": -31.53,
+    "change_7d": -27.61,
+    "staking": 86080902.37512434,
+    "fdv": 170990954,
+    "mcap": 15501304,
     "rank": 25
   },
   {
@@ -999,16 +999,16 @@
     ],
     "listedAt": 1642284185,
     "slug": "immortal",
-    "tvl": 179116.96360740365,
+    "tvl": 178594.83457463066,
     "chainTvls": {
-      "Celo-staking": 519105.6996313674,
-      "Celo": 179116.96360740365,
-      "staking": 519105.6996313674
+      "Celo-staking": 521484.35665756534,
+      "Celo": 178594.83457463066,
+      "staking": 521484.35665756534
     },
-    "change_1h": -0.02,
-    "change_1d": -0.7,
-    "change_7d": -1.97,
-    "staking": 519105.6996313674,
+    "change_1h": -0.29,
+    "change_1d": -0.48,
+    "change_7d": -2.4,
+    "staking": 521484.35665756534,
     "fdv": 20471,
     "mcap": 0,
     "rank": 26
@@ -1037,16 +1037,16 @@
     ],
     "listedAt": 1638915245,
     "slug": "o2-dao",
-    "tvl": 164430.6791745958,
+    "tvl": 165330.72259269288,
     "chainTvls": {
-      "Avalanche": 164430.6791745958,
-      "Avalanche-staking": 14032.347457507723,
-      "staking": 14032.347457507723
+      "Avalanche": 165330.72259269288,
+      "Avalanche-staking": 14122.072411283856,
+      "staking": 14122.072411283856
     },
-    "change_1h": -1.39,
-    "change_1d": -0.97,
-    "change_7d": -2.82,
-    "staking": 14032.347457507723,
+    "change_1h": 0.55,
+    "change_1d": -0.24,
+    "change_7d": -2.28,
+    "staking": 14122.072411283856,
     "rank": 27
   },
   {
@@ -1073,15 +1073,15 @@
     ],
     "listedAt": 1638132365,
     "slug": "fortress",
-    "tvl": 145364.9342898699,
+    "tvl": 145219.5621572291,
     "chainTvls": {
       "Avalanche-staking": 905049.8315889856,
-      "Avalanche": 145364.9342898699,
+      "Avalanche": 145219.5621572291,
       "staking": 905049.8315889856
     },
-    "change_1h": 0.02,
-    "change_1d": -0.09,
-    "change_7d": 0.1,
+    "change_1h": -0.1,
+    "change_1d": 0.35,
+    "change_7d": 0.14,
     "staking": 905049.8315889856,
     "mcap": 749708,
     "rank": 28
@@ -1110,16 +1110,16 @@
     ],
     "listedAt": 1643505246,
     "slug": "warp",
-    "tvl": 129945.41082973167,
+    "tvl": 129918.1263598366,
     "chainTvls": {
-      "Polygon": 129945.41082973167,
-      "Polygon-staking": 4533.8111412546805,
-      "staking": 4533.8111412546805
+      "Polygon": 129918.1263598366,
+      "Polygon-staking": 4527.3703062014,
+      "staking": 4527.3703062014
     },
-    "change_1h": 0.03,
-    "change_1d": -0.05,
-    "change_7d": 0.09,
-    "staking": 4533.8111412546805,
+    "change_1h": -0.02,
+    "change_1d": -0.22,
+    "change_7d": 0.07,
+    "staking": 4527.3703062014,
     "mcap": 0,
     "rank": 29
   },
@@ -1150,18 +1150,18 @@
     ],
     "listedAt": 1639028773,
     "slug": "luxor-money",
-    "tvl": 116909.82610596131,
+    "tvl": 117117.42282977328,
     "chainTvls": {
-      "Fantom-staking": 360362.94490030175,
-      "staking": 360362.94490030175,
-      "Fantom": 116909.82610596131
+      "Fantom-staking": 362865.4653509983,
+      "staking": 362865.4653509983,
+      "Fantom": 117117.42282977328
     },
-    "change_1h": 0.58,
-    "change_1d": 1.61,
-    "change_7d": 2.63,
-    "staking": 360362.94490030175,
-    "fdv": 3756752,
-    "mcap": 500326,
+    "change_1h": 0.18,
+    "change_1d": 1.47,
+    "change_7d": 3.23,
+    "staking": 362865.4653509983,
+    "fdv": 3758023,
+    "mcap": 500496,
     "rank": 30
   },
   {
@@ -1189,16 +1189,16 @@
     "twitter": "PolyWantsAFarm",
     "listedAt": 1645133019,
     "slug": "minipanther-dao",
-    "tvl": 92720.495828449,
+    "tvl": 92813.21632427744,
     "chainTvls": {
-      "Fantom-staking": 288886.04261378973,
-      "staking": 288886.04261378973,
-      "Fantom": 92720.495828449
+      "Fantom-staking": 289174.9286564035,
+      "staking": 289174.9286564035,
+      "Fantom": 92813.21632427744
     },
-    "change_1h": -0.1,
-    "change_1d": -0.1,
-    "change_7d": 0.0,
-    "staking": 288886.04261378973,
+    "change_1h": 0.1,
+    "change_1d": -0.3,
+    "change_7d": 0.1,
+    "staking": 289174.9286564035,
     "mcap": 0,
     "rank": 31
   },
@@ -1226,15 +1226,15 @@
     ],
     "listedAt": 1639821224,
     "slug": "unusdao",
-    "tvl": 90043.90291195604,
+    "tvl": 89999.62449381115,
     "chainTvls": {
-      "Binance": 90043.90291195604,
+      "Binance": 89999.62449381115,
       "Binance-staking": 50745.98531905106,
       "staking": 50745.98531905106
     },
-    "change_1h": 0.13,
-    "change_1d": -0.1,
-    "change_7d": 0.04,
+    "change_1h": -0.05,
+    "change_1d": -0.16,
+    "change_7d": -0.05,
     "staking": 50745.98531905106,
     "fdv": 18349.95,
     "mcap": 0,
@@ -1266,18 +1266,18 @@
     "twitter": "VoltaDAO",
     "listedAt": 1645046863,
     "slug": "volta-dao",
-    "tvl": 74257.009026818,
+    "tvl": 74331.26603584482,
     "chainTvls": {
-      "Avalanche": 31335.032765096967,
-      "Avalanche-staking": 4751.802112749542,
-      "Fantom-staking": 17649.205641872624,
-      "staking": 22401.007754622166,
-      "Fantom": 42921.97626172104
+      "Avalanche": 31366.36779786206,
+      "Avalanche-staking": 4756.553914862291,
+      "Fantom-staking": 17666.854847514496,
+      "staking": 22423.40876237679,
+      "Fantom": 42964.89823798276
     },
-    "change_1h": 0.05,
-    "change_1d": 2.69,
-    "change_7d": 5.04,
-    "staking": 22401.007754622166,
+    "change_1h": 0.1,
+    "change_1d": 2.48,
+    "change_7d": 5.15,
+    "staking": 22423.40876237679,
     "rank": 33
   },
   {
@@ -1305,16 +1305,16 @@
     "twitter": "GoblinsCash",
     "listedAt": 1651751884,
     "slug": "goblins-cash",
-    "tvl": 66968.86560287235,
+    "tvl": 67048.9643242401,
     "chainTvls": {
-      "smartBCH-staking": 221038.81856643918,
-      "smartBCH": 66968.86560287235,
-      "staking": 221038.81856643918
+      "smartBCH-staking": 221238.72688024753,
+      "smartBCH": 67048.9643242401,
+      "staking": 221238.72688024753
     },
-    "change_1h": 0.16,
-    "change_1d": 5.63,
-    "change_7d": 6.18,
-    "staking": 221038.81856643918,
+    "change_1h": 0.12,
+    "change_1d": 6.08,
+    "change_7d": 6.38,
+    "staking": 221238.72688024753,
     "rank": 34
   },
   {
@@ -1345,17 +1345,17 @@
     ],
     "listedAt": 1645901181,
     "slug": "gton-capital",
-    "tvl": 57427.14899499775,
+    "tvl": 57397.48723070627,
     "chainTvls": {
-      "Fantom-staking": 14748.624976211293,
-      "staking": 14748.624976211293,
-      "Fantom": 57427.14899499775
+      "Fantom-staking": 14746.213245269615,
+      "staking": 14746.213245269615,
+      "Fantom": 57397.48723070627
     },
-    "change_1h": 0.66,
-    "change_1d": 1.11,
-    "change_7d": 5.23,
-    "staking": 14748.624976211293,
-    "mcap": 2680227,
+    "change_1h": -0.05,
+    "change_1d": 0.96,
+    "change_7d": 5.38,
+    "staking": 14746.213245269615,
+    "mcap": 2684244,
     "rank": 35
   },
   {
@@ -1382,13 +1382,13 @@
     ],
     "listedAt": 1643318054,
     "slug": "cesta-finance",
-    "tvl": 46372.761307672416,
+    "tvl": 46442.781780079604,
     "chainTvls": {
-      "Avalanche": 46372.761307672416
+      "Avalanche": 46442.781780079604
     },
-    "change_1h": 0.0,
-    "change_1d": 0.71,
-    "change_7d": 6.71,
+    "change_1h": 0.15,
+    "change_1d": 0.77,
+    "change_7d": 6.18,
     "rank": 36
   },
   {
@@ -1415,16 +1415,16 @@
     ],
     "listedAt": 1637560657,
     "slug": "8ightdao",
-    "tvl": 44012.350819940846,
+    "tvl": 44056.363170760786,
     "chainTvls": {
-      "Harmony-staking": 12409.367650869148,
-      "Harmony": 44012.350819940846,
-      "staking": 12409.367650869148
+      "Harmony-staking": 12421.777018520015,
+      "Harmony": 44056.363170760786,
+      "staking": 12421.777018520015
     },
-    "change_1h": 0.05,
-    "change_1d": -0.1,
-    "change_7d": 0,
-    "staking": 12409.367650869148,
+    "change_1h": 0.1,
+    "change_1d": -0.3,
+    "change_7d": 0.1,
+    "staking": 12421.777018520015,
     "fdv": 25390,
     "mcap": 0,
     "rank": 37
@@ -1453,15 +1453,15 @@
     ],
     "listedAt": 1638600191,
     "slug": "omicron",
-    "tvl": 39949.09267396395,
+    "tvl": 39933.93861652443,
     "chainTvls": {
       "Arbitrum-staking": 7399.71783161016,
-      "Arbitrum": 39949.09267396395,
+      "Arbitrum": 39933.93861652443,
       "staking": 7399.71783161016
     },
-    "change_1h": 0.01,
-    "change_1d": 0.8,
-    "change_7d": -1.44,
+    "change_1h": -0.04,
+    "change_1d": 1.07,
+    "change_7d": -1.42,
     "staking": 7399.71783161016,
     "fdv": 1680179,
     "mcap": 0,
@@ -1491,15 +1491,15 @@
     ],
     "listedAt": 1638599279,
     "slug": "taichi",
-    "tvl": 33624.90443603803,
+    "tvl": 33587.38777908574,
     "chainTvls": {
-      "Binance": 33624.90443603803,
+      "Binance": 33587.38777908574,
       "Binance-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.1,
-    "change_1d": -0.09,
-    "change_7d": 0.11,
+    "change_1h": -0.11,
+    "change_1d": 0.01,
+    "change_7d": -0.1,
     "staking": 0,
     "mcap": 26931,
     "rank": 39
@@ -1527,16 +1527,16 @@
     "twitter": "dao_kronos",
     "listedAt": 1651609392,
     "slug": "kronosdao",
-    "tvl": 31784.256859136905,
+    "tvl": 31774.96211602453,
     "chainTvls": {
-      "Binance": 31784.256859136905,
-      "Binance-staking": 390.9271763903172,
-      "staking": 390.9271763903172
+      "Binance": 31774.96211602453,
+      "Binance-staking": 390.4932901835544,
+      "staking": 390.4932901835544
     },
-    "change_1h": 0.06,
-    "change_1d": 5.63,
-    "change_7d": -21.15,
-    "staking": 390.9271763903172,
+    "change_1h": -0.03,
+    "change_1d": 7.1,
+    "change_7d": -21.2,
+    "staking": 390.4932901835544,
     "rank": 40
   },
   {
@@ -1604,16 +1604,16 @@
     ],
     "listedAt": 1637266964,
     "slug": "fortune-dao",
-    "tvl": 16217.680071435085,
+    "tvl": 16233.897751506518,
     "chainTvls": {
-      "Cronos": 16217.680071435085,
-      "Cronos-staking": 15151.845253479556,
-      "staking": 15151.845253479556
+      "Cronos": 16233.897751506518,
+      "Cronos-staking": 15166.997098733034,
+      "staking": 15166.997098733034
     },
-    "change_1h": 0.05,
-    "change_1d": -0.1,
-    "change_7d": 0,
-    "staking": 15151.845253479556,
+    "change_1h": 0.1,
+    "change_1d": -0.3,
+    "change_7d": 0.1,
+    "staking": 15166.997098733034,
     "rank": 42
   },
   {
@@ -1640,14 +1640,14 @@
     ],
     "listedAt": 1638495881,
     "slug": "cerberusdao",
-    "tvl": 7572.000278076237,
+    "tvl": 7566.000277855891,
     "chainTvls": {
-      "Ethereum": 7572.000278076237,
+      "Ethereum": 7566.000277855891,
       "Ethereum-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.48,
-    "change_1d": 1.94,
+    "change_1h": -0.08,
+    "change_1d": 1.86,
     "change_7d": 4.04,
     "staking": 0,
     "fdv": 7211971,
@@ -1678,16 +1678,16 @@
     ],
     "listedAt": 1641837565,
     "slug": "tipidao",
-    "tvl": 7002.160124792343,
+    "tvl": 6991.4179366977805,
     "chainTvls": {
-      "Binance": 7002.160124792343,
-      "Binance-staking": 2441.499124103369,
-      "staking": 2441.499124103369
+      "Binance": 6991.4179366977805,
+      "Binance-staking": 2438.7893283722215,
+      "staking": 2438.7893283722215
     },
-    "change_1h": 0.09,
-    "change_1d": 0.35,
-    "change_7d": 0.82,
-    "staking": 2441.499124103369,
+    "change_1h": -0.15,
+    "change_1d": 0.41,
+    "change_7d": 0.57,
+    "staking": 2438.7893283722215,
     "rank": 44
   },
   {
@@ -1712,13 +1712,13 @@
     "language": "Solidity",
     "listedAt": 1644190943,
     "slug": "hotfriescoin",
-    "tvl": 5163.370964136584,
+    "tvl": 5157.640189769796,
     "chainTvls": {
-      "Binance": 5163.370964136584
+      "Binance": 5157.640189769796
     },
-    "change_1h": 0.1,
-    "change_1d": -0.1,
-    "change_7d": 0.1,
+    "change_1h": -0.11,
+    "change_1d": 0.01,
+    "change_7d": -0.11,
     "rank": 45
   },
   {
@@ -1745,15 +1745,15 @@
     ],
     "listedAt": 1642872155,
     "slug": "gaia-dao",
-    "tvl": 5094.630216325896,
+    "tvl": 5101.539430532364,
     "chainTvls": {
       "Avalanche-staking": 0,
-      "Avalanche": 5094.630216325896,
+      "Avalanche": 5101.539430532364,
       "staking": 0
     },
-    "change_1h": 0.03,
-    "change_1d": -8.67,
-    "change_7d": -5.88,
+    "change_1h": 0.14,
+    "change_1d": -8.65,
+    "change_7d": -5.8,
     "staking": 0,
     "mcap": 0,
     "rank": 46
@@ -1782,16 +1782,16 @@
     ],
     "listedAt": 1640606970,
     "slug": "bourbon-dao",
-    "tvl": 2513.459617485066,
+    "tvl": 2508.9558775211613,
     "chainTvls": {
-      "Binance": 2513.459617485066,
-      "Binance-staking": 577.1914948064474,
-      "staking": 577.1914948064474
+      "Binance": 2508.9558775211613,
+      "Binance-staking": 576.5508756748492,
+      "staking": 576.5508756748492
     },
-    "change_1h": 0.08,
-    "change_1d": 1.03,
-    "change_7d": 1.68,
-    "staking": 577.1914948064474,
+    "change_1h": -0.18,
+    "change_1d": 1.05,
+    "change_7d": 1.41,
+    "staking": 576.5508756748492,
     "rank": 47
   },
   {
@@ -1818,15 +1818,15 @@
     ],
     "listedAt": 1635545329,
     "slug": "exodia",
-    "tvl": 1388.0870123134778,
+    "tvl": 1390.0527695193675,
     "chainTvls": {
       "Fantom-staking": 1900.325723407344,
       "staking": 1900.325723407344,
-      "Fantom": 1388.0870123134778
+      "Fantom": 1390.0527695193675
     },
-    "change_1h": -0.2,
-    "change_1d": 0.12,
-    "change_7d": 0.73,
+    "change_1h": 0.14,
+    "change_1d": 0.29,
+    "change_7d": 0.78,
     "staking": 1900.325723407344,
     "fdv": 55689,
     "mcap": 2287.41,
@@ -1856,16 +1856,16 @@
     ],
     "listedAt": 1641772756,
     "slug": "photon-protocol",
-    "tvl": 1362.9025903057864,
+    "tvl": 1361.3899182000625,
     "chainTvls": {
-      "Binance": 1362.9025903057864,
-      "Binance-staking": 0.28148247051206193,
-      "staking": 0.28148247051206193
+      "Binance": 1361.3899182000625,
+      "Binance-staking": 0.28117005590193317,
+      "staking": 0.28117005590193317
     },
-    "change_1h": 0.1,
-    "change_1d": -0.1,
-    "change_7d": 0.1,
-    "staking": 0.28148247051206193,
+    "change_1h": -0.11,
+    "change_1d": 0.01,
+    "change_7d": -0.11,
+    "staking": 0.28117005590193317,
     "rank": 49
   },
   {
@@ -1892,16 +1892,16 @@
     ],
     "listedAt": 1640174051,
     "slug": "spiritdao",
-    "tvl": 1336.4481807225854,
+    "tvl": 1333.7758140194055,
     "chainTvls": {
-      "Avalanche-staking": 103.764599535544,
-      "Avalanche": 1336.4481807225854,
-      "staking": 103.764599535544
+      "Avalanche-staking": 103.55711146023557,
+      "Avalanche": 1333.7758140194055,
+      "staking": 103.55711146023557
     },
-    "change_1h": 0.03,
-    "change_1d": -0.18,
-    "change_7d": 0.24,
-    "staking": 103.764599535544,
+    "change_1h": -0.2,
+    "change_1d": 0.69,
+    "change_7d": 0.15,
+    "staking": 103.55711146023557,
     "fdv": 55.25,
     "mcap": 0,
     "rank": 50
@@ -1930,17 +1930,17 @@
     ],
     "listedAt": 1638309367,
     "slug": "jade-protocol",
-    "tvl": 1021.4099559070644,
+    "tvl": 1022.5455151197326,
     "chainTvls": {
-      "Binance": 1021.4099559070644,
-      "Binance-staking": 6165661.381684011,
-      "staking": 6165661.381684011
+      "Binance": 1022.5455151197326,
+      "Binance-staking": 6186225.010527872,
+      "staking": 6186225.010527872
     },
     "change_1h": 0.11,
-    "change_1d": 0.95,
-    "change_7d": -0.09,
-    "staking": 6165661.381684011,
-    "mcap": 17085378,
+    "change_1d": 1.18,
+    "change_7d": -0.03,
+    "staking": 6186225.010527872,
+    "mcap": 17082902,
     "rank": 51
   }
 ]
