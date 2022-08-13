@@ -235,8 +235,8 @@
     "change_7d": 6.86,
     "staking": 2910549.157145999,
     "pool2": 131.16240434847444,
-    "fdv": 3915034,
-    "mcap": 3714599,
+    "fdv": 3924304,
+    "mcap": 3723395,
     "rank": 5
   },
   {
@@ -424,8 +424,8 @@
     "change_1d": 2.76,
     "change_7d": 7.23,
     "staking": 3140396.0740067903,
-    "fdv": 5294438,
-    "mcap": 4507991,
+    "fdv": 5289464,
+    "mcap": 4503755,
     "rank": 9
   },
   {
@@ -589,8 +589,8 @@
     "change_1h": -0.59,
     "change_1d": -0.03,
     "change_7d": -2.56,
-    "fdv": 38282384,
-    "mcap": 9243051,
+    "fdv": 38564776,
+    "mcap": 9311233,
     "rank": 13
   },
   {
@@ -651,8 +651,8 @@
     "change_7d": 8.7,
     "staking": 3497470.2813169453,
     "pool2": 393567.5051679104,
-    "fdv": 6136958,
-    "mcap": 1685470,
+    "fdv": 5653598,
+    "mcap": 1552719,
     "rank": 14
   },
   {
@@ -774,8 +774,8 @@
     "change_7d": -2.13,
     "staking": 816817.2327801258,
     "pool2": 5737.264748391208,
-    "fdv": 10975379,
-    "mcap": 2115071,
+    "fdv": 10885474,
+    "mcap": 2097745,
     "rank": 17
   },
   {
@@ -954,8 +954,8 @@
     "change_1h": -0.04,
     "change_1d": 0.29,
     "change_7d": -0.54,
-    "fdv": 81367923,
-    "mcap": 58636520,
+    "fdv": 80745784,
+    "mcap": 58188185,
     "rank": 21
   },
   {
@@ -999,7 +999,7 @@
     "change_1h": -0.32,
     "change_1d": 1.36,
     "change_7d": 2.85,
-    "fdv": 9565541,
+    "fdv": 9576146,
     "mcap": 0,
     "rank": 22
   },
@@ -1439,6 +1439,40 @@
     "rank": 34
   },
   {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 243551.3545898276,
+    "chainTvls": {
+      "Klaytn": 243551.3545898276
+    },
+    "change_1h": 78.79,
+    "change_1d": 37.33,
+    "change_7d": 15.97,
+    "rank": 35
+  },
+  {
     "id": "1312",
     "name": "Epsylon Finance",
     "address": null,
@@ -1469,7 +1503,7 @@
     "change_1h": -0.04,
     "change_1d": 0.08,
     "change_7d": -0.51,
-    "rank": 35
+    "rank": 36
   },
   {
     "id": "1704",
@@ -1511,7 +1545,7 @@
     "change_7d": 1.37,
     "staking": 29.759473281531506,
     "pool2": 5857.703475570701,
-    "rank": 36
+    "rank": 37
   },
   {
     "id": "1203",
@@ -1563,41 +1597,7 @@
     "change_7d": 3.1,
     "staking": 10624.19315536805,
     "pool2": 29914.887132650958,
-    "mcap": 874673,
-    "rank": 37
-  },
-  {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 136220.83375400497,
-    "chainTvls": {
-      "Klaytn": 136220.83375400497
-    },
-    "change_1h": -21.19,
-    "change_1d": 8.3,
-    "change_7d": -20.42,
+    "mcap": 877772,
     "rank": 38
   },
   {
@@ -1710,13 +1710,13 @@
       "Yearn Finance"
     ],
     "slug": "yfii",
-    "tvl": 110252.64282844227,
+    "tvl": 110077.55335738965,
     "chainTvls": {
-      "Ethereum": 110252.64282844227
+      "Ethereum": 110077.55335738965
     },
-    "change_1h": -0.31,
-    "change_1d": 2.06,
-    "change_7d": 3.5,
+    "change_1h": -0.16,
+    "change_1d": 1.38,
+    "change_7d": 3.35,
     "fdv": 67199705,
     "mcap": 66749653,
     "rank": 41
