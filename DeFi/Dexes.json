@@ -539,13 +539,13 @@
     ],
     "listedAt": 1638382732,
     "slug": "pando",
-    "tvl": 310880944.76,
+    "tvl": 311399860.21,
     "chainTvls": {
-      "Mixin": 310880944.76
+      "Mixin": 311399860.21
     },
-    "change_1h": -0.1,
-    "change_1d": -0.27,
-    "change_7d": 4.91,
+    "change_1h": 0.17,
+    "change_1d": -0.05,
+    "change_7d": 5.3,
     "rank": 13
   },
   {
@@ -754,8 +754,8 @@
     "change_1h": 0.25,
     "change_1d": 0.98,
     "change_7d": 1.94,
-    "fdv": 670180183,
-    "mcap": 607515714,
+    "fdv": 672196558,
+    "mcap": 609343550,
     "rank": 19
   },
   {
@@ -2151,7 +2151,7 @@
     "change_1d": -4.73,
     "change_7d": -17.11,
     "staking": 6075446.678982068,
-    "mcap": 41101,
+    "mcap": 40762,
     "rank": 56
   },
   {
@@ -2549,7 +2549,7 @@
     "change_1h": 0.01,
     "change_1d": -1.45,
     "change_7d": 53.16,
-    "mcap": 9582723,
+    "mcap": 9607244,
     "rank": 67
   },
   {
@@ -2845,8 +2845,8 @@
     "change_1h": 0.01,
     "change_1d": 0.37,
     "change_7d": -0.93,
-    "fdv": 53805906,
-    "mcap": 9455287,
+    "fdv": 52986854,
+    "mcap": 9311355,
     "rank": 75
   },
   {
@@ -2883,8 +2883,8 @@
     "change_1h": 0.06,
     "change_1d": -1.06,
     "change_7d": -32.37,
-    "fdv": 10980568,
-    "mcap": 1503602,
+    "fdv": 10889989,
+    "mcap": 1491464,
     "rank": 76
   },
   {
@@ -4411,8 +4411,8 @@
     "change_1h": 0.16,
     "change_1d": -1.79,
     "change_7d": -7.32,
-    "fdv": 15914757,
-    "mcap": 11778874,
+    "fdv": 15909897,
+    "mcap": 11775636,
     "rank": 117
   },
   {
@@ -4534,8 +4534,8 @@
     "change_1d": 0.55,
     "change_7d": 4.12,
     "staking": 4175416.9477130044,
-    "fdv": 113226902,
-    "mcap": 66649475,
+    "fdv": 113620929,
+    "mcap": 66881414,
     "rank": 120
   },
   {
@@ -4860,7 +4860,7 @@
     "change_1h": 0.27,
     "change_1d": 0.2,
     "change_7d": 2.64,
-    "mcap": 2786442,
+    "mcap": 2800961,
     "rank": 129
   },
   {
@@ -5223,8 +5223,8 @@
     "change_1d": 1.12,
     "change_7d": 34.2,
     "staking": 2682565.523493565,
-    "fdv": 17064579,
-    "mcap": 14220482,
+    "fdv": 17085699,
+    "mcap": 14238082,
     "rank": 139
   },
   {
@@ -7876,7 +7876,7 @@
     "change_1h": 0.13,
     "change_1d": -0.08,
     "change_7d": 3.87,
-    "mcap": 3146764,
+    "mcap": 3111214,
     "rank": 210
   },
   {
@@ -7953,7 +7953,7 @@
     "change_1h": 0,
     "change_1d": 0.0,
     "change_7d": 0.26,
-    "mcap": 247577223,
+    "mcap": 248066996,
     "rank": 212
   },
   {
@@ -8029,7 +8029,7 @@
     "change_7d": 16.5,
     "staking": 674708.2561403345,
     "pool2": 197748.8023874191,
-    "fdv": 8731049,
+    "fdv": 8751958,
     "mcap": 0,
     "rank": 214
   },
@@ -8812,8 +8812,8 @@
     "change_7d": -0.03,
     "staking": 1237.76779305461,
     "pool2": 25534.201153162627,
-    "fdv": 4433427,
-    "mcap": 171627,
+    "fdv": 4417136,
+    "mcap": 170997,
     "rank": 235
   },
   {
@@ -8883,8 +8883,8 @@
     "change_1h": 0.18,
     "change_1d": 0,
     "change_7d": 0.51,
-    "fdv": 7480104,
-    "mcap": 3932597,
+    "fdv": 7457962,
+    "mcap": 3920956,
     "rank": 237
   },
   {
@@ -10096,44 +10096,6 @@
     "rank": 270
   },
   {
-    "id": "847",
-    "name": "PhotonSwap Finance",
-    "address": "cronos:0xbdd4e5660839a088573191A9889A262c0Efc0983",
-    "symbol": "PHOTON",
-    "url": "https://photonswap.finance",
-    "description": "AMM styled decentralized exchange (DEX) on Cronos ",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/photonswap-finance.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": "photonswap",
-    "cmcId": "17640",
-    "category": "Dexes",
-    "chains": [
-      "Cronos",
-      "Kava",
-      "Evmos"
-    ],
-    "module": "photonswap/index.js",
-    "twitter": "photonswap_fi",
-    "forkedFrom": [
-      "Uniswap"
-    ],
-    "listedAt": 1637042970,
-    "slug": "photonswap-finance",
-    "tvl": 515254.7594416675,
-    "chainTvls": {
-      "Kava": 86947.14154462717,
-      "Cronos": 428300.73736304976,
-      "Evmos": 6.8805339906078125
-    },
-    "change_1h": 0.36,
-    "change_1d": 0.59,
-    "change_7d": 6.07,
-    "mcap": 0,
-    "rank": 271
-  },
-  {
     "id": "867",
     "name": "GIBXSwap",
     "address": "bsc:0xae28714390e95b8df1ef847c58aeac23ed457702",
@@ -10170,6 +10132,44 @@
     "change_1d": -0.6,
     "change_7d": -0.72,
     "staking": 429125.7728645361,
+    "mcap": 0,
+    "rank": 271
+  },
+  {
+    "id": "847",
+    "name": "PhotonSwap Finance",
+    "address": "cronos:0xbdd4e5660839a088573191A9889A262c0Efc0983",
+    "symbol": "PHOTON",
+    "url": "https://photonswap.finance",
+    "description": "AMM styled decentralized exchange (DEX) on Cronos ",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/photonswap-finance.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": "photonswap",
+    "cmcId": "17640",
+    "category": "Dexes",
+    "chains": [
+      "Cronos",
+      "Kava",
+      "Evmos"
+    ],
+    "module": "photonswap/index.js",
+    "twitter": "photonswap_fi",
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "listedAt": 1637042970,
+    "slug": "photonswap-finance",
+    "tvl": 514974.8261670786,
+    "chainTvls": {
+      "Kava": 86944.51325125695,
+      "Cronos": 428023.39616849425,
+      "Evmos": 6.916747327400485
+    },
+    "change_1h": -0.05,
+    "change_1d": 0.3,
+    "change_7d": 5.99,
     "mcap": 0,
     "rank": 272
   },
@@ -10881,8 +10881,8 @@
     "change_1h": -0.32,
     "change_1d": -4.55,
     "change_7d": 4.37,
-    "fdv": 7304663,
-    "mcap": 2044970,
+    "fdv": 7219907,
+    "mcap": 2021243,
     "rank": 291
   },
   {
@@ -12308,8 +12308,8 @@
     "change_1d": -0.76,
     "change_7d": 3.37,
     "staking": 1100715.080789806,
-    "fdv": 5489109,
-    "mcap": 2720284,
+    "fdv": 5466035,
+    "mcap": 2709022,
     "rank": 329
   },
   {
