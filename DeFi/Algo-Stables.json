@@ -26,22 +26,22 @@
       "Chainlink"
     ],
     "slug": "frax",
-    "tvl": 1207833001.74894,
+    "tvl": 1209042545.5033712,
     "chainTvls": {
-      "pool2": 63627114.864698194,
-      "Ethereum-pool2": 63627114.864698194,
-      "Ethereum-treasury": 165655383.82065812,
-      "Ethereum": 1207729852.138897,
-      "Ethereum-staking": 270694118.75276697,
-      "treasury": 165655383.82065812,
-      "Fantom": 103149.61004315727,
-      "staking": 270694118.75276697
+      "pool2": 63610083.45128944,
+      "Ethereum-pool2": 63610083.45128944,
+      "Ethereum-treasury": 165400136.69612706,
+      "Ethereum": 1208938729.9062963,
+      "Ethereum-staking": 270277024.5790339,
+      "treasury": 165400136.69612706,
+      "Fantom": 103815.59707489952,
+      "staking": 270277024.5790339
     },
-    "change_1h": -0.1,
+    "change_1h": 0.1,
     "change_1d": -0.84,
     "change_7d": 0.52,
-    "staking": 270694118.75276697,
-    "pool2": 63627114.864698194,
+    "staking": 270277024.5790339,
+    "pool2": 63610083.45128944,
     "fdv": 681162896,
     "mcap": 488691545,
     "rank": 1
@@ -69,13 +69,13 @@
       "https://audit.neutrino.at"
     ],
     "slug": "neutrino",
-    "tvl": 106453307.81440854,
+    "tvl": 106522088.36582212,
     "chainTvls": {
-      "Waves": 106453307.81440854
+      "Waves": 106522088.36582212
     },
-    "change_1h": 1.04,
-    "change_1d": -5.7,
-    "change_7d": -16.08,
+    "change_1h": 0.06,
+    "change_1d": -5.73,
+    "change_7d": -15.87,
     "mcap": 47775650,
     "rank": 2
   },
@@ -105,13 +105,13 @@
       "Chainlink"
     ],
     "slug": "fei-protocol",
-    "tvl": 61166257.315267645,
+    "tvl": 61167301.15930967,
     "chainTvls": {
-      "Ethereum": 61166257.315267645
+      "Ethereum": 61167301.15930967
     },
-    "change_1h": 0.14,
-    "change_1d": 0.12,
-    "change_7d": -0.0,
+    "change_1h": 0.0,
+    "change_1d": -0.01,
+    "change_7d": 0.1,
     "fdv": 524970827,
     "mcap": 521800599,
     "rank": 3
@@ -142,53 +142,16 @@
       "Chainlink"
     ],
     "slug": "reflexer",
-    "tvl": 60332347.015633054,
+    "tvl": 60480500.03301099,
     "chainTvls": {
-      "Ethereum": 60332347.015633054
+      "Ethereum": 60480500.03301099
     },
-    "change_1h": 0.06,
-    "change_1d": -2.52,
-    "change_7d": 18.43,
+    "change_1h": 0.25,
+    "change_1d": -2.48,
+    "change_7d": 18.66,
     "fdv": 58381039,
     "mcap": 32178477,
     "rank": 4
-  },
-  {
-    "id": "427",
-    "name": "Origin Dollar",
-    "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
-    "symbol": "OUSD",
-    "url": "https://www.ousd.com",
-    "description": "Origin Dollar (OUSD) is a new stablecoin that was initially launched on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets.",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/origin-dollar.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "origin-dollar",
-    "cmcId": "7189",
-    "category": "Algo-Stables",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "origindollar/index.js",
-    "twitter": "OriginProtocol",
-    "audit_links": [
-      "https://docs.ousd.com/v/en/security-and-risks/audits"
-    ],
-    "slug": "origin-dollar",
-    "tvl": 48349075.72437235,
-    "chainTvls": {
-      "Ethereum": 48349075.72437235,
-      "Ethereum-staking": 17878242.7145169,
-      "staking": 17878242.7145169
-    },
-    "change_1h": -0.58,
-    "change_1d": -1.15,
-    "change_7d": -2.19,
-    "staking": 17878242.7145169,
-    "fdv": 48832718,
-    "mcap": 48832718,
-    "rank": 5
   },
   {
     "id": "376",
@@ -213,20 +176,57 @@
       "DIA"
     ],
     "slug": "tomb-finance",
-    "tvl": 48224044.38719018,
+    "tvl": 48599126.528967276,
     "chainTvls": {
-      "pool2": 4153981.5675462577,
-      "Fantom-staking": 25001125.54062989,
-      "Fantom-pool2": 4153981.5675462577,
-      "staking": 25001125.54062989,
-      "Fantom": 48224044.38719018
+      "pool2": 4226761.797355881,
+      "Fantom-staking": 25215107.692329377,
+      "Fantom-pool2": 4226761.797355881,
+      "staking": 25215107.692329377,
+      "Fantom": 48599126.528967276
     },
-    "change_1h": -1.33,
-    "change_1d": -5.45,
-    "change_7d": -5.05,
-    "staking": 25001125.54062989,
-    "pool2": 4153981.5675462577,
+    "change_1h": 0.78,
+    "change_1d": -4.47,
+    "change_7d": -4.41,
+    "staking": 25215107.692329377,
+    "pool2": 4226761.797355881,
     "mcap": 33419732,
+    "rank": 5
+  },
+  {
+    "id": "427",
+    "name": "Origin Dollar",
+    "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+    "symbol": "OUSD",
+    "url": "https://www.ousd.com",
+    "description": "Origin Dollar (OUSD) is a new stablecoin that was initially launched on the Ethereum network. Its design is superior to existing stablecoins because OUSD captures competitive yields while being passively held in wallets.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/origin-dollar.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "origin-dollar",
+    "cmcId": "7189",
+    "category": "Algo-Stables",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "origindollar/index.js",
+    "twitter": "OriginProtocol",
+    "audit_links": [
+      "https://docs.ousd.com/v/en/security-and-risks/audits"
+    ],
+    "slug": "origin-dollar",
+    "tvl": 48369118.37788035,
+    "chainTvls": {
+      "Ethereum": 48369118.37788035,
+      "Ethereum-staking": 17849881.642299,
+      "staking": 17849881.642299
+    },
+    "change_1h": 0.04,
+    "change_1d": -1.22,
+    "change_7d": -2.13,
+    "staking": 17849881.642299,
+    "fdv": 48832718,
+    "mcap": 48832718,
     "rank": 6
   },
   {
@@ -255,12 +255,12 @@
     "listedAt": 1644696944,
     "openSource": false,
     "slug": "uxd",
-    "tvl": 19731171.606837686,
+    "tvl": 19731648.331401005,
     "chainTvls": {
-      "Solana": 19731171.606837686
+      "Solana": 19731648.331401005
     },
     "change_1h": 0.0,
-    "change_1d": -14.95,
+    "change_1d": -13.88,
     "change_7d": -0.07,
     "mcap": 7586568,
     "rank": 7
@@ -291,13 +291,13 @@
       "Chainlink"
     ],
     "slug": "defidollar-dao",
-    "tvl": 16028402.621764567,
+    "tvl": 16028538.214329798,
     "chainTvls": {
-      "Ethereum": 16028402.621764567
+      "Ethereum": 16028538.214329798
     },
-    "change_1h": 0.04,
-    "change_1d": -5.02,
-    "change_7d": -0.05,
+    "change_1h": 0.0,
+    "change_1d": -5.19,
+    "change_7d": 0.08,
     "fdv": 3201763,
     "mcap": 700155,
     "rank": 8
@@ -330,18 +330,18 @@
     ],
     "listedAt": 1641400651,
     "slug": "sperax-usd",
-    "tvl": 1528378.200041261,
+    "tvl": 1529906.554134959,
     "chainTvls": {
       "Ethereum": 0,
-      "Ethereum-staking": 65739.69915046025,
-      "Arbitrum-staking": 455240.92804358964,
-      "Arbitrum": 1528378.200041261,
-      "staking": 520980.6271940499
+      "Ethereum-staking": 66694.83707669431,
+      "Arbitrum-staking": 461855.16390970215,
+      "Arbitrum": 1529906.554134959,
+      "staking": 528550.0009863965
     },
-    "change_1h": -0.1,
+    "change_1h": 0.1,
     "change_1d": -0.67,
-    "change_7d": -61.12,
-    "staking": 520980.6271940499,
+    "change_7d": -61.11,
+    "staking": 528550.0009863965,
     "fdv": 24265875,
     "mcap": 6296389,
     "rank": 9
@@ -373,19 +373,19 @@
     ],
     "listedAt": 1642192171,
     "slug": "darkcrypto",
-    "tvl": 735259.8778615966,
+    "tvl": 1472710.4000471774,
     "chainTvls": {
-      "Cronos": 735259.8778615966,
-      "pool2": 507956.38362365984,
-      "Cronos-pool2": 507956.38362365984,
-      "Cronos-staking": 14964.608865279608,
-      "staking": 14964.608865279608
+      "Cronos": 1472710.4000471774,
+      "pool2": 509305.19153048523,
+      "Cronos-pool2": 509305.19153048523,
+      "Cronos-staking": 15004.345313940903,
+      "staking": 15004.345313940903
     },
-    "change_1h": -50.05,
-    "change_1d": -50.75,
-    "change_7d": -50.81,
-    "staking": 14964.608865279608,
-    "pool2": 507956.38362365984,
+    "change_1h": 0.23,
+    "change_1d": -1.62,
+    "change_7d": -1.14,
+    "staking": 15004.345313940903,
+    "pool2": 509305.19153048523,
     "mcap": 1467394,
     "rank": 10
   },
@@ -418,18 +418,18 @@
     ],
     "listedAt": 1641873083,
     "slug": "oin-finance",
-    "tvl": 506898.61995392735,
+    "tvl": 504249.1850509216,
     "chainTvls": {
-      "Ethereum": 311435.8165943935,
-      "pool2": 30491.004397726178,
+      "Ethereum": 308764.7636187553,
+      "pool2": 30392.943699496813,
       "Near": 100414.14031284372,
-      "Harmony": 95048.66304669014,
-      "Ethereum-pool2": 30491.004397726178
+      "Harmony": 95070.28111932252,
+      "Ethereum-pool2": 30392.943699496813
     },
-    "change_1h": 0.13,
-    "change_1d": -3.28,
-    "change_7d": 8.96,
-    "pool2": 30491.004397726178,
+    "change_1h": -0.52,
+    "change_1d": -3.82,
+    "change_7d": 8.76,
+    "pool2": 30392.943699496813,
     "mcap": 771069,
     "rank": 11
   },
@@ -456,13 +456,13 @@
     "twitter": "ObyteOrg",
     "listedAt": 1653984585,
     "slug": "ostable",
-    "tvl": 485700.49338820163,
+    "tvl": 491406.86530108715,
     "chainTvls": {
-      "Obyte": 485700.49338820163
+      "Obyte": 491406.86530108715
     },
-    "change_1h": -0.53,
-    "change_1d": -0.24,
-    "change_7d": 1.58,
+    "change_1h": 1.17,
+    "change_1d": 1.39,
+    "change_7d": 2.78,
     "rank": 12
   },
   {
@@ -489,19 +489,19 @@
       "https://github.com/revenant-finance/creditum-audit"
     ],
     "slug": "creditum",
-    "tvl": 433403.0359018338,
+    "tvl": 433744.32161009725,
     "chainTvls": {
-      "pool2": 70071.06673624946,
-      "Fantom-staking": 7521.2446623380365,
-      "Fantom-pool2": 70071.06673624946,
-      "staking": 7521.2446623380365,
-      "Fantom": 433403.0359018338
+      "pool2": 70086.84752797072,
+      "Fantom-staking": 7525.024834946516,
+      "Fantom-pool2": 70086.84752797072,
+      "staking": 7525.024834946516,
+      "Fantom": 433744.32161009725
     },
-    "change_1h": -0.49,
-    "change_1d": -0.5,
-    "change_7d": -7.71,
-    "staking": 7521.2446623380365,
-    "pool2": 70071.06673624946,
+    "change_1h": 0.08,
+    "change_1d": -0.53,
+    "change_7d": -7.62,
+    "staking": 7525.024834946516,
+    "pool2": 70086.84752797072,
     "rank": 13
   },
   {
@@ -529,15 +529,15 @@
       "https://dopple.gitbook.io/dopple-finance/certik-audit"
     ],
     "slug": "dopple-finance",
-    "tvl": 393378.32265126676,
+    "tvl": 393642.1388340649,
     "chainTvls": {
-      "Binance": 393220.75743081083,
-      "Harmony": 3.012873301533637,
-      "Fantom": 154.55234715443177
+      "Binance": 393484.3982667548,
+      "Harmony": 3.058601761076384,
+      "Fantom": 154.6819655490392
     },
-    "change_1h": -0.07,
-    "change_1d": 0.01,
-    "change_7d": -0.16,
+    "change_1h": 0.07,
+    "change_1d": -0.03,
+    "change_7d": -0.14,
     "mcap": 0,
     "rank": 14
   },
@@ -564,13 +564,13 @@
       "https://github.com/basisdollar/basisdollar-protocol#audit"
     ],
     "slug": "basis-cash",
-    "tvl": 272938.5218864454,
+    "tvl": 273051.7501074554,
     "chainTvls": {
-      "Ethereum": 272938.5218864454
+      "Ethereum": 273051.7501074554
     },
-    "change_1h": 0.06,
-    "change_1d": -17.38,
-    "change_7d": -16.67,
+    "change_1h": 0.04,
+    "change_1d": -17.44,
+    "change_7d": -16.64,
     "fdv": 282020,
     "mcap": 282020,
     "rank": 15
@@ -602,15 +602,15 @@
     ],
     "listedAt": 1642456433,
     "slug": "tulip",
-    "tvl": 264088.0949856788,
+    "tvl": 263018.3853853296,
     "chainTvls": {
-      "Oasis": 264088.0949856788,
+      "Oasis": 263018.3853853296,
       "Oasis-staking": 0,
       "staking": 0
     },
-    "change_1h": 1.13,
-    "change_1d": -4.0,
-    "change_7d": -11.95,
+    "change_1h": -0.41,
+    "change_1d": -4.36,
+    "change_7d": -13.28,
     "staking": 0,
     "rank": 16
   },
@@ -637,12 +637,12 @@
     "twitter": "ordernchaos_fi",
     "listedAt": 1658736615,
     "slug": "ordernchaos",
-    "tvl": 220467.78464082626,
+    "tvl": 220510.50133973526,
     "chainTvls": {
-      "Avalanche": 220467.78464082626
+      "Avalanche": 220510.50133973526
     },
-    "change_1h": -0.01,
-    "change_1d": -0.12,
+    "change_1h": 0.02,
+    "change_1d": -0.2,
     "change_7d": -20.51,
     "rank": 17
   },
@@ -670,16 +670,16 @@
     ],
     "listedAt": 1635104456,
     "slug": "coffin-finance",
-    "tvl": 140834.42419828475,
+    "tvl": 140845.92284647847,
     "chainTvls": {
-      "Fantom-staking": 1556.761393828124,
-      "staking": 1556.761393828124,
-      "Fantom": 140834.42419828475
+      "Fantom-staking": 1556.223779912488,
+      "staking": 1556.223779912488,
+      "Fantom": 140845.92284647847
     },
-    "change_1h": 0.08,
+    "change_1h": 0.01,
     "change_1d": -0.37,
-    "change_7d": -2.58,
-    "staking": 1556.761393828124,
+    "change_7d": -2.54,
+    "staking": 1556.223779912488,
     "fdv": 587032,
     "mcap": 0,
     "rank": 18
@@ -709,19 +709,19 @@
     "twitter": "navafinance",
     "listedAt": 1658332788,
     "slug": "nava-finance",
-    "tvl": 133338.69265234825,
+    "tvl": 133768.33428378764,
     "chainTvls": {
-      "pool2": 37988.257220040876,
-      "REI": 133338.69265234825,
-      "REI-pool2": 37988.257220040876,
-      "REI-staking": 531.9083500222412,
-      "staking": 531.9083500222412
+      "pool2": 38110.66232603747,
+      "REI": 133768.33428378764,
+      "REI-pool2": 38110.66232603747,
+      "REI-staking": 533.6222559165763,
+      "staking": 533.6222559165763
     },
-    "change_1h": 0.1,
-    "change_1d": -27.56,
-    "change_7d": -27.18,
-    "staking": 531.9083500222412,
-    "pool2": 37988.257220040876,
+    "change_1h": 0.32,
+    "change_1d": -27.23,
+    "change_7d": -26.84,
+    "staking": 533.6222559165763,
+    "pool2": 38110.66232603747,
     "rank": 19
   },
   {
@@ -754,19 +754,19 @@
     ],
     "listedAt": 1655464683,
     "slug": "saharadao",
-    "tvl": 73370.5667663651,
+    "tvl": 72907.7959596893,
     "chainTvls": {
-      "Cronos": 73370.5667663651,
-      "pool2": 182356.54593494715,
-      "Cronos-pool2": 182356.54593494715,
-      "Cronos-staking": 58068.790022774774,
-      "staking": 58068.790022774774
+      "Cronos": 72907.7959596893,
+      "pool2": 180257.3169531933,
+      "Cronos-pool2": 180257.3169531933,
+      "Cronos-staking": 56884.94037082167,
+      "staking": 56884.94037082167
     },
-    "change_1h": -0.55,
-    "change_1d": -7.36,
-    "change_7d": -62.17,
-    "staking": 58068.790022774774,
-    "pool2": 182356.54593494715,
+    "change_1h": -0.63,
+    "change_1d": -8.09,
+    "change_7d": -62.3,
+    "staking": 56884.94037082167,
+    "pool2": 180257.3169531933,
     "fdv": 2447587,
     "mcap": 0,
     "rank": 20
@@ -803,34 +803,34 @@
     ],
     "listedAt": 1642453213,
     "slug": "paprprintr",
-    "tvl": 64360.017679958,
+    "tvl": 64486.32088398499,
     "chainTvls": {
       "Fantom-staking": 360.63359131799996,
       "Polygon-pool2": 8282.203522593,
       "Aurora-pool2": 2434.6544011789997,
       "Binance-pool2": 17243.315091001998,
-      "Binance": 23905.860651673,
+      "Binance": 23935.064792638997,
       "Binance-staking": 5297.527065830999,
       "Kucoin-pool2": 739.2947852289999,
-      "Fantom": 1858.5773856649998,
+      "Fantom": 1858.77955263,
       "staking": 7939.881235285999,
       "Aurora-staking": 41.982628688,
       "OKExChain-staking": 0,
       "OKExChain": 23.780131374999996,
-      "pool2": 30554.323623824,
-      "Kucoin": 28905.996573454,
-      "Aurora": 1958.5560224229996,
+      "pool2": 30554.547692669,
+      "Kucoin": 29033.217060847997,
+      "Aurora": 1928.2440397219998,
       "Kucoin-staking": 1015.5140385389999,
-      "Polygon": 7707.246915367999,
+      "Polygon": 7707.235306770999,
       "Polygon-staking": 1224.2239109099999,
-      "Fantom-pool2": 1854.8558238209998,
+      "Fantom-pool2": 1855.0798926659998,
       "OKExChain-pool2": 0
     },
-    "change_1h": -0.06,
-    "change_1d": -1.14,
-    "change_7d": -6.31,
+    "change_1h": 0.2,
+    "change_1d": -0.84,
+    "change_7d": -6.13,
     "staking": 7939.881235285999,
-    "pool2": 30554.323623824,
+    "pool2": 30554.547692669,
     "mcap": 0,
     "rank": 21
   },
@@ -860,28 +860,28 @@
     "twitter": "spicetradeai",
     "listedAt": 1654678696,
     "slug": "spice-trade",
-    "tvl": 61623.74672030785,
+    "tvl": 61499.46105190157,
     "chainTvls": {
-      "pool2": 383670.9029350582,
-      "Polygon-pool2": 97409.13438085784,
+      "pool2": 382017.5309849632,
+      "Polygon-pool2": 97021.11498299612,
       "Binance-pool2": 0,
-      "Ethereum-pool2": 89076.75182825842,
+      "Ethereum-pool2": 88701.44152452047,
       "Binance": 3.6333479712381207,
-      "Ethereum": 55264.31893005736,
-      "Binance-staking": 1.2815162451015825,
-      "Avalanche": 6355.215840279256,
-      "Avalanche-staking": 9883.479047482875,
-      "Ethereum-staking": 3602.779577658069,
-      "Polygon": 0.578602,
-      "Polygon-staking": 3544.7611827304268,
-      "Avalanche-pool2": 197185.01672594197,
-      "staking": 17032.301324116474
+      "Ethereum": 55151.81058528468,
+      "Binance-staking": 1.2794193263760545,
+      "Avalanche": 6343.43793804365,
+      "Avalanche-staking": 9867.306913600649,
+      "Ethereum-staking": 3596.8844233912246,
+      "Polygon": 0.5791806019999999,
+      "Polygon-staking": 3538.96096277223,
+      "Avalanche-pool2": 196294.9744774466,
+      "staking": 17004.43171909048
     },
-    "change_1h": 0.27,
-    "change_1d": 0.19,
-    "change_7d": -28.01,
-    "staking": 17032.301324116474,
-    "pool2": 383670.9029350582,
+    "change_1h": -0.2,
+    "change_1d": 0.01,
+    "change_7d": -28.2,
+    "staking": 17004.43171909048,
+    "pool2": 382017.5309849632,
     "fdv": 421621,
     "mcap": 23948,
     "rank": 22
@@ -913,19 +913,19 @@
     "twitter": "Ruby_Protocol",
     "listedAt": 1654869440,
     "slug": "ruby-finance",
-    "tvl": 53840.67354034485,
+    "tvl": 53840.67364162961,
     "chainTvls": {
-      "Kava": 53840.67354034485,
-      "Kava-staking": 1215.3008391401768,
-      "pool2": 3594.0834792010814,
-      "staking": 1215.3008391401768,
-      "Kava-pool2": 3594.0834792010814
+      "Kava": 53840.67364162961,
+      "Kava-staking": 1213.4862473503492,
+      "pool2": 3593.3328156434372,
+      "staking": 1213.4862473503492,
+      "Kava-pool2": 3593.3328156434372
     },
-    "change_1h": 0.45,
+    "change_1h": 0.0,
     "change_1d": -2.39,
     "change_7d": -0.46,
-    "staking": 1215.3008391401768,
-    "pool2": 3594.0834792010814,
+    "staking": 1213.4862473503492,
+    "pool2": 3593.3328156434372,
     "rank": 23
   },
   {
@@ -956,19 +956,19 @@
     ],
     "listedAt": 1650838812,
     "slug": "orcus-finance",
-    "tvl": 47934.680814,
+    "tvl": 47982.714973193,
     "chainTvls": {
-      "Astar-pool2": 15112.445456,
-      "Astar": 47934.680814,
-      "pool2": 15112.445456,
+      "Astar-pool2": 15127.557901455997,
+      "Astar": 47982.714973193,
+      "pool2": 15127.557901455997,
       "Astar-staking": 0,
       "staking": 0
     },
-    "change_1h": -0.1,
+    "change_1h": 0.1,
     "change_1d": -0.09,
     "change_7d": -17.48,
     "staking": 0,
-    "pool2": 15112.445456,
+    "pool2": 15127.557901455997,
     "rank": 24
   },
   {
@@ -995,19 +995,19 @@
     ],
     "listedAt": 1640222404,
     "slug": "xusd-money",
-    "tvl": 29791.665341033196,
+    "tvl": 29829.79090912299,
     "chainTvls": {
-      "Ethereum": 29791.665341033196,
-      "pool2": 1378.332527272764,
+      "Ethereum": 29829.79090912299,
+      "pool2": 1379.915997384722,
       "Ethereum-staking": 0,
       "staking": 0,
-      "Ethereum-pool2": 1378.332527272764
+      "Ethereum-pool2": 1379.915997384722
     },
-    "change_1h": 0.09,
-    "change_1d": -1.22,
-    "change_7d": -26.6,
+    "change_1h": 0.13,
+    "change_1d": -1.26,
+    "change_7d": -26.53,
     "staking": 0,
-    "pool2": 1378.332527272764,
+    "pool2": 1379.915997384722,
     "rank": 25
   },
   {
@@ -1035,19 +1035,19 @@
     "twitter": "fantasm_finance",
     "listedAt": 1646391958,
     "slug": "fantasm",
-    "tvl": 25869.243002336738,
+    "tvl": 25882.244866813933,
     "chainTvls": {
-      "pool2": 68016.16881123942,
+      "pool2": 68016.57186129285,
       "Fantom-staking": 164695.86534064333,
-      "Fantom-pool2": 68016.16881123942,
+      "Fantom-pool2": 68016.57186129285,
       "staking": 164695.86534064333,
-      "Fantom": 25869.243002336738
+      "Fantom": 25882.244866813933
     },
-    "change_1h": 0.64,
-    "change_1d": -3.2,
-    "change_7d": 3.48,
+    "change_1h": 0.05,
+    "change_1d": -2.98,
+    "change_7d": 3.99,
     "staking": 164695.86534064333,
-    "pool2": 68016.16881123942,
+    "pool2": 68016.57186129285,
     "mcap": 0,
     "rank": 26
   },
@@ -1076,19 +1076,19 @@
     "twitter": "v3sfinance",
     "listedAt": 1646099642,
     "slug": "v3s-finance",
-    "tvl": 19253.422438813588,
+    "tvl": 19286.447896494272,
     "chainTvls": {
-      "Cronos": 19253.422438813588,
-      "pool2": 394531.1096679347,
-      "Cronos-pool2": 394531.1096679347,
-      "Cronos-staking": 422682.04553789756,
-      "staking": 422682.04553789756
+      "Cronos": 19286.447896494272,
+      "pool2": 394822.01470103086,
+      "Cronos-pool2": 394822.01470103086,
+      "Cronos-staking": 424692.48932556546,
+      "staking": 424692.48932556546
     },
-    "change_1h": -5.33,
-    "change_1d": -4.79,
-    "change_7d": -2.99,
-    "staking": 422682.04553789756,
-    "pool2": 394531.1096679347,
+    "change_1h": 0.17,
+    "change_1d": -4.72,
+    "change_7d": -2.85,
+    "staking": 424692.48932556546,
+    "pool2": 394822.01470103086,
     "rank": 27
   },
   {
@@ -1122,19 +1122,19 @@
     ],
     "listedAt": 1649105294,
     "slug": "pegasusdollar",
-    "tvl": 18311.114949598592,
+    "tvl": 18277.496495749794,
     "chainTvls": {
-      "Cronos": 18311.114949598592,
-      "pool2": 161463.19043329416,
-      "Cronos-pool2": 161463.19043329416,
-      "Cronos-staking": 3869.939129461165,
-      "staking": 3869.939129461165
+      "Cronos": 18277.496495749794,
+      "pool2": 156155.5769069402,
+      "Cronos-pool2": 156155.5769069402,
+      "Cronos-staking": 3742.696414770318,
+      "staking": 3742.696414770318
     },
-    "change_1h": -0.33,
-    "change_1d": -2.09,
-    "change_7d": -6.41,
-    "staking": 3869.939129461165,
-    "pool2": 161463.19043329416,
+    "change_1h": -0.18,
+    "change_1d": -2.41,
+    "change_7d": -6.53,
+    "staking": 3742.696414770318,
+    "pool2": 156155.5769069402,
     "rank": 28
   },
   {
@@ -1167,13 +1167,13 @@
     ],
     "listedAt": 1646949250,
     "slug": "blindex",
-    "tvl": 16999.26189225639,
+    "tvl": 17026.973979077426,
     "chainTvls": {
-      "RSK": 16999.26189225639
+      "RSK": 17026.973979077426
     },
-    "change_1h": -0.09,
-    "change_1d": -2.22,
-    "change_7d": 11.48,
+    "change_1h": 0.16,
+    "change_1d": -2.17,
+    "change_7d": 11.66,
     "rank": 29
   },
   {
@@ -1204,17 +1204,17 @@
       "Compound"
     ],
     "slug": "opendao",
-    "tvl": 12864.998198906296,
+    "tvl": 12867.5172780915,
     "chainTvls": {
-      "Binance": 3777.6786854199095,
-      "Ethereum": 9087.319513486387,
-      "pool2": 9482.22148953453,
-      "Ethereum-pool2": 9482.22148953453
+      "Binance": 3779.848262249609,
+      "Ethereum": 9087.669015841891,
+      "pool2": 9492.064866431087,
+      "Ethereum-pool2": 9492.064866431087
     },
-    "change_1h": 0.15,
-    "change_1d": -0.34,
-    "change_7d": -0.23,
-    "pool2": 9482.22148953453,
+    "change_1h": 0.02,
+    "change_1d": -0.41,
+    "change_7d": -0.15,
+    "pool2": 9492.064866431087,
     "fdv": 771048,
     "mcap": 89452,
     "rank": 30
@@ -1243,19 +1243,19 @@
     ],
     "listedAt": 1641195222,
     "slug": "chargedefi",
-    "tvl": 5606.088567244162,
+    "tvl": 5606.576195467063,
     "chainTvls": {
-      "Binance": 5606.088567244162,
-      "Binance-staking": 44258.50922377324,
-      "pool2": 72163.3558415068,
-      "Binance-pool2": 72163.3558415068,
-      "staking": 44258.50922377324
+      "Binance": 5606.576195467063,
+      "Binance-staking": 44077.12189088893,
+      "pool2": 72015.52910556662,
+      "Binance-pool2": 72015.52910556662,
+      "staking": 44077.12189088893
     },
-    "change_1h": -0.06,
-    "change_1d": -1.26,
-    "change_7d": -2.9,
-    "staking": 44258.50922377324,
-    "pool2": 72163.3558415068,
+    "change_1h": 0.01,
+    "change_1d": -1.44,
+    "change_7d": -4.23,
+    "staking": 44077.12189088893,
+    "pool2": 72015.52910556662,
     "mcap": 0,
     "rank": 31
   },
@@ -1288,19 +1288,19 @@
     "parentProtocol": "MM Finance",
     "listedAt": 1644884068,
     "slug": "savanna-finance",
-    "tvl": 4569.025997490004,
+    "tvl": 4567.124427256849,
     "chainTvls": {
-      "Cronos": 4569.025997490004,
-      "pool2": 5716049.0542859,
-      "Cronos-pool2": 5716049.0542859,
-      "Cronos-staking": 3305583.598769846,
-      "staking": 3305583.598769846
+      "Cronos": 4567.124427256849,
+      "pool2": 5579270.019021004,
+      "Cronos-pool2": 5579270.019021004,
+      "Cronos-staking": 3228639.878464823,
+      "staking": 3228639.878464823
     },
-    "change_1h": -0.38,
-    "change_1d": -3.46,
-    "change_7d": -7.58,
-    "staking": 3305583.598769846,
-    "pool2": 5716049.0542859,
+    "change_1h": -0.04,
+    "change_1d": -3.59,
+    "change_7d": -7.31,
+    "staking": 3228639.878464823,
+    "pool2": 5579270.019021004,
     "mcap": 8529594,
     "rank": 32
   },
@@ -1325,13 +1325,13 @@
     "twitter": "DevPillar",
     "listedAt": 1642144681,
     "slug": "pillar",
-    "tvl": 3682.8212914596597,
+    "tvl": 3695.162271184704,
     "chainTvls": {
-      "Zilliqa": 3682.8212914596597
+      "Zilliqa": 3695.162271184704
     },
-    "change_1h": 0.65,
-    "change_1d": -2.14,
-    "change_7d": 1.29,
+    "change_1h": 0.34,
+    "change_1d": -1.53,
+    "change_7d": 1.68,
     "rank": 33
   }
 ]
