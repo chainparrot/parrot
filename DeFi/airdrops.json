@@ -377,8 +377,8 @@
     "change_1h": -0.01,
     "change_1d": 0.79,
     "change_7d": 7.29,
-    "fdv": 1158671473,
-    "mcap": 529062544,
+    "fdv": 1148047763,
+    "mcap": 524211638,
     "rank": 9
   },
   {
@@ -1274,6 +1274,36 @@
     "rank": 34
   },
   {
+    "id": "954",
+    "name": "REX Staking",
+    "address": "",
+    "symbol": "-",
+    "url": "https://eosauthority.com/rex",
+    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
+    "chain": "Telos",
+    "logo": "https://icons.llama.fi/rex-staking.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Lending",
+    "chains": [
+      "Telos"
+    ],
+    "module": "telosRex.js",
+    "twitter": "EOSauthority",
+    "listedAt": 1638411637,
+    "slug": "rex-staking",
+    "tvl": 34021010.21051905,
+    "chainTvls": {
+      "Telos": 34021010.21051905
+    },
+    "change_1h": -0.35,
+    "change_1d": -0.3,
+    "change_7d": 11.92,
+    "rank": 35
+  },
+  {
     "id": "1254",
     "name": "XDAO",
     "address": null,
@@ -1304,49 +1334,19 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 34074740.47740861,
+    "tvl": 32912265.095331587,
     "chainTvls": {
-      "Binance": 1845389.1229368176,
-      "Ethereum": 125040.89489653296,
-      "Astar": 35261.22143570404,
+      "Binance": 1842829.7722476798,
+      "Ethereum": 125059.84325169354,
+      "Astar": 35345.34813360518,
       "Heco": 4581.101649144019,
-      "Avalanche": 67.69299274038227,
-      "Polygon": 32064353.676473327,
-      "Fantom": 46.767024344842774
+      "Avalanche": 67.62105180893035,
+      "Polygon": 30904334.69374584,
+      "Fantom": 46.715251813496295
     },
-    "change_1h": 2.56,
-    "change_1d": 3.24,
-    "change_7d": 12.99,
-    "rank": 35
-  },
-  {
-    "id": "954",
-    "name": "REX Staking",
-    "address": "",
-    "symbol": "-",
-    "url": "https://eosauthority.com/rex",
-    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
-    "chain": "Telos",
-    "logo": "https://icons.llama.fi/rex-staking.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Lending",
-    "chains": [
-      "Telos"
-    ],
-    "module": "telosRex.js",
-    "twitter": "EOSauthority",
-    "listedAt": 1638411637,
-    "slug": "rex-staking",
-    "tvl": 34021010.21051905,
-    "chainTvls": {
-      "Telos": 34021010.21051905
-    },
-    "change_1h": -0.35,
-    "change_1d": -0.3,
-    "change_7d": 11.92,
+    "change_1h": -3.41,
+    "change_1d": -3.08,
+    "change_7d": 8.0,
     "rank": 36
   },
   {
@@ -3833,15 +3833,15 @@
       "https://docs.robo-vault.com/robovault/security"
     ],
     "slug": "robo-vault",
-    "tvl": 2162894.557573848,
+    "tvl": 2163849.1970974854,
     "chainTvls": {
-      "Avalanche": 1395948.5645412395,
-      "Polygon": 10.25972883765,
-      "Fantom": 766935.7333037708
+      "Avalanche": 1396060.1433551991,
+      "Polygon": 10.2609793998,
+      "Fantom": 767778.792762887
     },
-    "change_1h": -0.1,
-    "change_1d": 0.07,
-    "change_7d": 1.33,
+    "change_1h": 0.09,
+    "change_1d": 0.02,
+    "change_7d": 1.59,
     "rank": 106
   },
   {
@@ -5456,6 +5456,42 @@
     "rank": 151
   },
   {
+    "id": "1587",
+    "name": "LaserSwap",
+    "address": null,
+    "symbol": "-",
+    "url": "https://laserswap.finance",
+    "description": "LaserSwap, the first DEX V2 on ThunderCore (TT) delivering great trading experience and earning opportunities.",
+    "chain": "ThunderCore",
+    "logo": "https://icons.llama.fi/laserswap.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Dexes",
+    "chains": [
+      "ThunderCore"
+    ],
+    "oracles": [
+      "TWAP"
+    ],
+    "forkedFrom": [
+      "PancakeSwap"
+    ],
+    "module": "laserswap/index.js",
+    "twitter": "Laser_Swap",
+    "listedAt": 1648568500,
+    "slug": "laserswap",
+    "tvl": 483070.9910429725,
+    "chainTvls": {
+      "ThunderCore": 483070.9910429725
+    },
+    "change_1h": 1.39,
+    "change_1d": 0.58,
+    "change_7d": 9.53,
+    "rank": 152
+  },
+  {
     "id": "1794",
     "name": "Ostable",
     "address": null,
@@ -5485,42 +5521,6 @@
     "change_1h": -0.5,
     "change_1d": -2.02,
     "change_7d": 1.02,
-    "rank": 152
-  },
-  {
-    "id": "1587",
-    "name": "LaserSwap",
-    "address": null,
-    "symbol": "-",
-    "url": "https://laserswap.finance",
-    "description": "LaserSwap, the first DEX V2 on ThunderCore (TT) delivering great trading experience and earning opportunities.",
-    "chain": "ThunderCore",
-    "logo": "https://icons.llama.fi/laserswap.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Dexes",
-    "chains": [
-      "ThunderCore"
-    ],
-    "oracles": [
-      "TWAP"
-    ],
-    "forkedFrom": [
-      "PancakeSwap"
-    ],
-    "module": "laserswap/index.js",
-    "twitter": "Laser_Swap",
-    "listedAt": 1648568500,
-    "slug": "laserswap",
-    "tvl": 478948.2019018256,
-    "chainTvls": {
-      "ThunderCore": 478948.2019018256
-    },
-    "change_1h": -0.1,
-    "change_1d": -1.06,
-    "change_7d": 7.67,
     "rank": 153
   },
   {
@@ -6327,13 +6327,13 @@
     ],
     "listedAt": 1658931496,
     "slug": "timeless-finance",
-    "tvl": 194528.1919608936,
+    "tvl": 194526.1850006194,
     "chainTvls": {
-      "Ethereum": 194528.1919608936
+      "Ethereum": 194526.1850006194
     },
-    "change_1h": -0.15,
-    "change_1d": 0.57,
-    "change_7d": 17.12,
+    "change_1h": -0.08,
+    "change_1d": 1.84,
+    "change_7d": 17.38,
     "rank": 176
   },
   {
