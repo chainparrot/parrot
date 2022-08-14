@@ -24,9 +24,9 @@
     "chainTvls": {
       "xDai": 51353227.4255
     },
-    "change_1h": 0.1,
+    "change_1h": 0,
     "change_1d": -0.1,
-    "change_7d": 0,
+    "change_7d": 0.1,
     "rank": 1
   },
   {
@@ -56,14 +56,14 @@
     ],
     "listedAt": 1659621481,
     "slug": "toucan-protocol",
-    "tvl": 41499338.02885479,
+    "tvl": 41305087.28284923,
     "chainTvls": {
-      "Polygon": 41499338.02885479,
+      "Polygon": 41305087.28284923,
       "Celo": 0
     },
-    "change_1h": 0.47,
-    "change_1d": -1.96,
-    "change_7d": -2.33,
+    "change_1h": -0.47,
+    "change_1d": -3.35,
+    "change_7d": -2.79,
     "rank": 2
   },
   {
@@ -90,22 +90,22 @@
       "https://github.com/maple-labs/maple-core#audit-reports"
     ],
     "slug": "maple",
-    "tvl": 12907918.337868903,
+    "tvl": 12907713.467124362,
     "chainTvls": {
       "Solana-borrowed": 113366743.03322066,
       "Ethereum-treasury": 470576.5704249609,
-      "Ethereum": 8672455.849331625,
-      "Ethereum-staking": 58983243.2439783,
-      "Ethereum-borrowed": 441543434.640002,
+      "Ethereum": 8672250.978587084,
+      "Ethereum-staking": 58623947.60197656,
+      "Ethereum-borrowed": 441747327.12000203,
       "Solana": 4235462.488537279,
-      "borrowed": 554910177.6732227,
+      "borrowed": 555114070.1532227,
       "treasury": 470576.5704249609,
-      "staking": 58983243.2439783
+      "staking": 58623947.60197656
     },
-    "change_1h": 0.2,
-    "change_1d": -71.12,
-    "change_7d": -54.44,
-    "staking": 58983243.2439783,
+    "change_1h": -0.0,
+    "change_1d": -71.51,
+    "change_7d": -54.39,
+    "staking": 58623947.60197656,
     "fdv": 218443059,
     "mcap": 136147489,
     "rank": 3
@@ -133,18 +133,18 @@
       "https://github.com/trusttoken/audits/tree/master/TrueFi"
     ],
     "slug": "truefi",
-    "tvl": 9881006.397376971,
+    "tvl": 10189835.70075498,
     "chainTvls": {
-      "Ethereum": 9881006.397376971,
-      "Ethereum-staking": 20723423.853433445,
-      "Ethereum-borrowed": 246063263.10417664,
-      "borrowed": 246063263.10417664,
-      "staking": 20723423.853433445
+      "Ethereum": 10189835.70075498,
+      "Ethereum-staking": 20921367.400281582,
+      "Ethereum-borrowed": 246129457.14425248,
+      "borrowed": 246129457.14425248,
+      "staking": 20921367.400281582
     },
-    "change_1h": 0.04,
-    "change_1d": 3.29,
-    "change_7d": -12.4,
-    "staking": 20723423.853433445,
+    "change_1h": 3.13,
+    "change_1d": 6.43,
+    "change_7d": -9.6,
+    "staking": 20921367.400281582,
     "fdv": 130004085,
     "mcap": 74492465,
     "rank": 4
@@ -212,9 +212,9 @@
       "Ethereum-borrowed": 100372569.26325528,
       "borrowed": 100372569.26325528
     },
-    "change_1h": 0.1,
+    "change_1h": 0,
     "change_1d": -0.4,
-    "change_7d": 0.19,
+    "change_7d": 0.3,
     "fdv": 141036732,
     "mcap": 24894858,
     "rank": 6
@@ -244,24 +244,24 @@
       "https://www.certik.com/projects/naosfinance"
     ],
     "slug": "naos-finance",
-    "tvl": 152079.94195303653,
+    "tvl": 152080.1224873585,
     "chainTvls": {
-      "pool2": 263515.03598358436,
-      "Binance-borrowed": 198757.52886520425,
-      "Binance-pool2": 48319.186993559255,
-      "Ethereum-pool2": 215195.84899002512,
-      "Binance": 86312.98322424079,
+      "pool2": 263730.19899617386,
+      "Binance-borrowed": 198759.06399274556,
+      "Binance-pool2": 48333.77416804842,
+      "Ethereum-pool2": 215396.42482812545,
+      "Binance": 86313.16375856275,
       "Ethereum": 65766.95872879574,
-      "Binance-staking": 393222.4207433085,
-      "Ethereum-staking": 224577.8938054038,
-      "borrowed": 198757.52886520425,
-      "staking": 617800.3145487122
+      "Binance-staking": 393153.19248576555,
+      "Ethereum-staking": 224538.35603886077,
+      "borrowed": 198759.06399274556,
+      "staking": 617691.5485246263
     },
     "change_1h": 0.0,
-    "change_1d": 0.0,
+    "change_1d": -0.05,
     "change_7d": -8.33,
-    "staking": 617800.3145487122,
-    "pool2": 263515.03598358436,
+    "staking": 617691.5485246263,
+    "pool2": 263730.19899617386,
     "mcap": 2525202,
     "rank": 7
   },
