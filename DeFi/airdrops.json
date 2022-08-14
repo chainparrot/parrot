@@ -1274,36 +1274,6 @@
     "rank": 34
   },
   {
-    "id": "954",
-    "name": "REX Staking",
-    "address": "",
-    "symbol": "-",
-    "url": "https://eosauthority.com/rex",
-    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
-    "chain": "Telos",
-    "logo": "https://icons.llama.fi/rex-staking.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Lending",
-    "chains": [
-      "Telos"
-    ],
-    "module": "telosRex.js",
-    "twitter": "EOSauthority",
-    "listedAt": 1638411637,
-    "slug": "rex-staking",
-    "tvl": 33347780.051604215,
-    "chainTvls": {
-      "Telos": 33347780.051604215
-    },
-    "change_1h": 0.27,
-    "change_1d": -5.26,
-    "change_7d": 9.43,
-    "rank": 35
-  },
-  {
     "id": "1254",
     "name": "XDAO",
     "address": null,
@@ -1334,19 +1304,49 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 33313472.136379518,
+    "tvl": 33387223.751348246,
     "chainTvls": {
-      "Binance": 1847362.338946665,
-      "Ethereum": 125285.32765912528,
-      "Astar": 34688.794428474204,
+      "Binance": 1844653.6161686396,
+      "Ethereum": 125246.77602096053,
+      "Astar": 34305.857093521176,
       "Heco": 4577.611610572018,
-      "Avalanche": 67.65965203558912,
-      "Polygon": 31301443.62884206,
-      "Fantom": 46.77524058458825
+      "Avalanche": 67.63095834840283,
+      "Polygon": 31378325.383307684,
+      "Fantom": 46.876188520345295
     },
-    "change_1h": -0.27,
-    "change_1d": -0.95,
-    "change_7d": 10.31,
+    "change_1h": 0.22,
+    "change_1d": 2.27,
+    "change_7d": 9.73,
+    "rank": 35
+  },
+  {
+    "id": "954",
+    "name": "REX Staking",
+    "address": "",
+    "symbol": "-",
+    "url": "https://eosauthority.com/rex",
+    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
+    "chain": "Telos",
+    "logo": "https://icons.llama.fi/rex-staking.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Lending",
+    "chains": [
+      "Telos"
+    ],
+    "module": "telosRex.js",
+    "twitter": "EOSauthority",
+    "listedAt": 1638411637,
+    "slug": "rex-staking",
+    "tvl": 33347780.051604215,
+    "chainTvls": {
+      "Telos": 33347780.051604215
+    },
+    "change_1h": 0.27,
+    "change_1d": -5.26,
+    "change_7d": 9.43,
     "rank": 36
   },
   {
