@@ -19,13 +19,13 @@
     "module": "armorfinance/index.js",
     "twitter": "ArmorFi",
     "slug": "armor",
-    "tvl": 321386835.65591747,
+    "tvl": 319789146.6872756,
     "chainTvls": {
-      "Ethereum": 321386835.65591747
+      "Ethereum": 319789146.6872756
     },
-    "change_1h": 0.51,
-    "change_1d": 0.46,
-    "change_7d": 19.51,
+    "change_1h": -0.5,
+    "change_1d": 0.27,
+    "change_7d": 18.85,
     "fdv": 11605469,
     "mcap": 2755042,
     "rank": 1
@@ -56,13 +56,13 @@
       "Chainlink"
     ],
     "slug": "nexus-mutual",
-    "tvl": 306818533.3512659,
+    "tvl": 305290175.015138,
     "chainTvls": {
-      "Ethereum": 306818533.3512659
+      "Ethereum": 305290175.015138
     },
-    "change_1h": 0.51,
-    "change_1d": 0.46,
-    "change_7d": 19.51,
+    "change_1h": -0.5,
+    "change_1d": 0.27,
+    "change_7d": 18.85,
     "fdv": 440211399,
     "mcap": 440211399,
     "rank": 2
@@ -90,13 +90,13 @@
       "https://documentation.unslashed.finance/risks-and-security/audits"
     ],
     "slug": "unslashed",
-    "tvl": 33619314.47027499,
+    "tvl": 33517692.29599166,
     "chainTvls": {
-      "Ethereum": 33619314.47027499
+      "Ethereum": 33517692.29599166
     },
-    "change_1h": 0.13,
-    "change_1d": 0.69,
-    "change_7d": 20.46,
+    "change_1h": -0.3,
+    "change_1d": 0.46,
+    "change_7d": 20.07,
     "fdv": 6072991,
     "mcap": 1701732,
     "rank": 3
@@ -127,9 +127,9 @@
       "https://github.com/sherlock-protocol/sherlock-v2-core/tree/main/audits"
     ],
     "slug": "sherlock",
-    "tvl": 21220265.49402359,
+    "tvl": 21220350.736261673,
     "chainTvls": {
-      "Ethereum": 21220265.49402359
+      "Ethereum": 21220350.736261673
     },
     "change_1h": 0.0,
     "change_1d": 0.01,
@@ -163,16 +163,16 @@
       "https://files.insurace.io/public/security/InsurAcePeckShieldAuditReport.pdf"
     ],
     "slug": "insurace",
-    "tvl": 19563393.58376562,
+    "tvl": 19523855.589390963,
     "chainTvls": {
-      "Binance": 2513302.821754157,
-      "Ethereum": 7206709.559951376,
-      "Avalanche": 4605415.534854764,
-      "Polygon": 5237965.66720532
+      "Binance": 2505470.8101366204,
+      "Ethereum": 7193980.745226076,
+      "Avalanche": 4598734.409635683,
+      "Polygon": 5225669.624392587
     },
-    "change_1h": 0.18,
-    "change_1d": 0.08,
-    "change_7d": -2.4,
+    "change_1h": -0.2,
+    "change_1d": -0.14,
+    "change_7d": -2.9,
     "fdv": 13564812,
     "mcap": 7566608,
     "rank": 5
@@ -209,19 +209,19 @@
     ],
     "listedAt": 1647046245,
     "slug": "risk-harbor",
-    "tvl": 11900628.430631721,
+    "tvl": 11843882.579052063,
     "chainTvls": {
       "Terra": 0,
       "Ethereum": 255435.71580226696,
       "Aurora": 17196.639495034997,
-      "Avalanche": 41345.24518986965,
+      "Avalanche": 41345.4476386026,
       "Arbitrum": 7174.330417253999,
-      "Terra2": 11576195.02179156,
+      "Terra2": 11519448.967763169,
       "Fantom": 3281.477935736
     },
-    "change_1h": 0.48,
-    "change_1d": 0.96,
-    "change_7d": -0.52,
+    "change_1h": -0.48,
+    "change_1d": -0.0,
+    "change_7d": -1.46,
     "rank": 6
   },
   {
@@ -248,14 +248,14 @@
       "https://www.certik.org/projects/helmet"
     ],
     "slug": "guard(helmet)",
-    "tvl": 10483117.147521775,
+    "tvl": 10446978.546944883,
     "chainTvls": {
-      "Binance": 6552082.979516516,
-      "Polygon": 3931034.168005259
+      "Binance": 6524901.453472214,
+      "Polygon": 3922077.093472669
     },
-    "change_1h": 0.23,
-    "change_1d": 1.03,
-    "change_7d": 5.23,
+    "change_1h": -0.34,
+    "change_1d": 0.19,
+    "change_7d": 4.31,
     "mcap": 799954,
     "rank": 7
   },
@@ -321,15 +321,15 @@
     "tvl": 2530456.7449271106,
     "chainTvls": {
       "Polygon": 2530456.7449271106,
-      "Polygon-staking": 219069.12011414822,
-      "staking": 219069.12011414822
+      "Polygon-staking": 243063.35351498344,
+      "staking": 243063.35351498344
     },
     "change_1h": 0,
     "change_1d": 0.05,
     "change_7d": 0.05,
-    "staking": 219069.12011414822,
-    "fdv": 7902108,
-    "mcap": 2295939,
+    "staking": 243063.35351498344,
+    "fdv": 8427527,
+    "mcap": 2448598,
     "rank": 9
   },
   {
@@ -360,51 +360,18 @@
       "Chainlink"
     ],
     "slug": "unore",
-    "tvl": 1497220.10479908,
+    "tvl": 1481647.50032252,
     "chainTvls": {
       "Binance": 500499.99999999994,
-      "Ethereum": 996717.81479908,
-      "Kava": 2.29
+      "Ethereum": 981145.23032252,
+      "Kava": 2.27
     },
-    "change_1h": 0.78,
-    "change_1d": -0.48,
-    "change_7d": -3.17,
+    "change_1h": -1.04,
+    "change_1d": -0.69,
+    "change_7d": -4.13,
     "fdv": 19154069,
     "mcap": 3761429,
     "rank": 10
-  },
-  {
-    "id": "579",
-    "name": "iTrust Finance",
-    "address": "0xF88b137cfa667065955ABD17525e89EDCF4D6426",
-    "symbol": "ITG",
-    "url": "https://itrust.finance",
-    "description": "iTrust Finance creates mutually beneficial relationships between stakers and insurance protocols by maximising rewards and growing cover capacity for all participants of the DAO, and the wider DeFi community.",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/itrust-finance.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "itrust-governance-token",
-    "cmcId": "11652",
-    "category": "Insurance",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "iTrustfinance/index.js",
-    "twitter": "iTrustFinance",
-    "audit_links": [
-      "https://assets.website-files.com/5f99eb79d508ca853be5f2e8/60fd80c015025a7033cf6ede_iTrust.pdf"
-    ],
-    "slug": "itrust-finance",
-    "tvl": 1172017.7178998902,
-    "chainTvls": {
-      "Ethereum": 1172017.7178998902
-    },
-    "change_1h": 0.53,
-    "change_1d": 0.45,
-    "change_7d": 19.05,
-    "mcap": 0,
-    "rank": 11
   },
   {
     "id": "629",
@@ -433,15 +400,48 @@
       "Compound"
     ],
     "slug": "cozy-finance",
-    "tvl": 1167498.6116534662,
+    "tvl": 1167187.64357259,
     "chainTvls": {
-      "Ethereum": 1167498.6116534662,
-      "Ethereum-borrowed": 111854.72129516251,
-      "borrowed": 111854.72129516251
+      "Ethereum": 1167187.64357259,
+      "Ethereum-borrowed": 111854.15528797844,
+      "borrowed": 111854.15528797844
     },
-    "change_1h": 0.03,
-    "change_1d": -0.11,
-    "change_7d": 0.23,
+    "change_1h": -0.03,
+    "change_1d": -0.13,
+    "change_7d": 0.19,
+    "rank": 11
+  },
+  {
+    "id": "579",
+    "name": "iTrust Finance",
+    "address": "0xF88b137cfa667065955ABD17525e89EDCF4D6426",
+    "symbol": "ITG",
+    "url": "https://itrust.finance",
+    "description": "iTrust Finance creates mutually beneficial relationships between stakers and insurance protocols by maximising rewards and growing cover capacity for all participants of the DAO, and the wider DeFi community.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/itrust-finance.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "itrust-governance-token",
+    "cmcId": "11652",
+    "category": "Insurance",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "iTrustfinance/index.js",
+    "twitter": "iTrustFinance",
+    "audit_links": [
+      "https://assets.website-files.com/5f99eb79d508ca853be5f2e8/60fd80c015025a7033cf6ede_iTrust.pdf"
+    ],
+    "slug": "itrust-finance",
+    "tvl": 1166495.4851271913,
+    "chainTvls": {
+      "Ethereum": 1166495.4851271913
+    },
+    "change_1h": -0.47,
+    "change_1d": 0.23,
+    "change_7d": 18.35,
+    "mcap": 0,
     "rank": 12
   },
   {
@@ -469,18 +469,18 @@
     ],
     "listedAt": 1636133245,
     "slug": "bridge-mutual",
-    "tvl": 902699.344117,
+    "tvl": 903602.0434611168,
     "chainTvls": {
-      "Ethereum": 902699.344117,
-      "Ethereum-staking": 422742.24823360593,
-      "staking": 422742.24823360593
+      "Ethereum": 903602.0434611168,
+      "Ethereum-staking": 421361.3766251641,
+      "staking": 421361.3766251641
     },
-    "change_1h": 2.83,
-    "change_1d": 2.99,
-    "change_7d": -10.96,
-    "staking": 422742.24823360593,
-    "fdv": 3747181,
-    "mcap": 1515198,
+    "change_1h": 0.1,
+    "change_1d": 2.95,
+    "change_7d": -10.87,
+    "staking": 421361.3766251641,
+    "fdv": 3729218,
+    "mcap": 1507934,
     "rank": 13
   },
   {
@@ -506,13 +506,13 @@
       "https://github.com/CoverProtocol/cover-security/tree/master/audits"
     ],
     "slug": "cover-protocol",
-    "tvl": 815938.3704444373,
+    "tvl": 815754.0151010059,
     "chainTvls": {
-      "Ethereum": 815938.3704444373
+      "Ethereum": 815754.0151010059
     },
-    "change_1h": 0.18,
-    "change_1d": 0.0,
-    "change_7d": 0.0,
+    "change_1h": -0.02,
+    "change_1d": -0.02,
+    "change_7d": -0.12,
     "fdv": 1543375,
     "mcap": 1740792,
     "rank": 14
@@ -538,13 +538,13 @@
     "twitter": "AnteFinance",
     "oracles": [],
     "slug": "ante-finance",
-    "tvl": 591176.2515457805,
+    "tvl": 587940.7493655381,
     "chainTvls": {
-      "Ethereum": 591176.2515457805
+      "Ethereum": 587940.7493655381
     },
-    "change_1h": 0.61,
-    "change_1d": 0.41,
-    "change_7d": 19.37,
+    "change_1h": -0.55,
+    "change_1d": 0.22,
+    "change_7d": 18.63,
     "rank": 15
   },
   {
@@ -578,18 +578,18 @@
     "tvl": 487091.27697530296,
     "chainTvls": {
       "Optimism": 200858.724668602,
-      "pool2": 170157.58742761798,
-      "Ethereum-pool2": 170157.58742761798,
+      "pool2": 169658.8592831758,
+      "Ethereum-pool2": 169658.8592831758,
       "Ethereum": 125883.62777290298,
       "Astar": 160348.92453379798,
-      "Ethereum-staking": 139168.69167318937,
-      "staking": 139168.69167318937
+      "Ethereum-staking": 139104.12660699486,
+      "staking": 139104.12660699486
     },
     "change_1h": 0,
     "change_1d": 0.0,
     "change_7d": -1.51,
-    "staking": 139168.69167318937,
-    "pool2": 170157.58742761798,
+    "staking": 139104.12660699486,
+    "pool2": 169658.8592831758,
     "mcap": 0,
     "rank": 16
   },
@@ -616,13 +616,13 @@
       "Chainlink"
     ],
     "slug": "nsure",
-    "tvl": 402032.6919248278,
+    "tvl": 399646.8339658361,
     "chainTvls": {
-      "Ethereum": 402032.6919248278
+      "Ethereum": 399646.8339658361
     },
-    "change_1h": 0.42,
-    "change_1d": 0.94,
-    "change_7d": 19.02,
+    "change_1h": -0.59,
+    "change_1d": 0.52,
+    "change_7d": 18.29,
     "fdv": 2107206,
     "mcap": 499982,
     "rank": 17
@@ -656,24 +656,24 @@
     ],
     "listedAt": 1649684026,
     "slug": "solace",
-    "tvl": 336460.12093045027,
+    "tvl": 335970.0772363955,
     "chainTvls": {
-      "Aurora-staking": 48851.29958665469,
-      "pool2": 574672.4524922112,
-      "Aurora-pool2": 190533.29162017308,
-      "Ethereum-pool2": 384139.1608720382,
-      "Ethereum": 263444.545738792,
-      "Aurora": 61747.490972104126,
-      "Ethereum-staking": 1382906.4423029765,
-      "Polygon": 11268.084219554119,
+      "Aurora-staking": 48664.80511272699,
+      "pool2": 573414.3613099817,
+      "Aurora-pool2": 190005.3705889672,
+      "Ethereum-pool2": 383408.9907210145,
+      "Ethereum": 263183.8010557491,
+      "Aurora": 61569.73568802228,
+      "Ethereum-staking": 1377627.0656716332,
+      "Polygon": 11216.540492624124,
       "Polygon-staking": 0,
-      "staking": 1431757.7418896311
+      "staking": 1426291.8707843602
     },
-    "change_1h": 0.02,
-    "change_1d": -0.38,
-    "change_7d": 3.95,
-    "staking": 1431757.7418896311,
-    "pool2": 574672.4524922112,
+    "change_1h": -0.15,
+    "change_1d": -0.44,
+    "change_7d": 3.77,
+    "staking": 1426291.8707843602,
+    "pool2": 573414.3613099817,
     "mcap": 2921254,
     "rank": 18
   },
@@ -706,21 +706,21 @@
     ],
     "listedAt": 1644447080,
     "slug": "bright-union",
-    "tvl": 155481.12400248917,
+    "tvl": 155450.74803122217,
     "chainTvls": {
-      "Ethereum": 155481.12400248917,
-      "pool2": 73440.28130072498,
-      "Ethereum-staking": 151837.17710814808,
-      "staking": 151837.17710814808,
-      "Ethereum-pool2": 73440.28130072498
+      "Ethereum": 155450.74803122217,
+      "pool2": 73547.28477807077,
+      "Ethereum-staking": 153095.51742452884,
+      "staking": 153095.51742452884,
+      "Ethereum-pool2": 73547.28477807077
     },
-    "change_1h": 0.14,
-    "change_1d": 0.63,
-    "change_7d": 0.95,
-    "staking": 151837.17710814808,
-    "pool2": 73440.28130072498,
-    "fdv": 3194916,
-    "mcap": 638732,
+    "change_1h": -0.02,
+    "change_1d": 0.61,
+    "change_7d": 0.83,
+    "staking": 153095.51742452884,
+    "pool2": 73547.28477807077,
+    "fdv": 3209495,
+    "mcap": 641438,
     "rank": 19
   }
 ]
