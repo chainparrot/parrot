@@ -440,8 +440,8 @@
     "change_1h": -1.76,
     "change_1d": -3.49,
     "change_7d": 1.52,
-    "fdv": 1137688128,
-    "mcap": 519481311,
+    "fdv": 1108379681,
+    "mcap": 506098741,
     "rank": 11
   },
   {
@@ -976,52 +976,6 @@
     "rank": 26
   },
   {
-    "id": "1254",
-    "name": "XDAO",
-    "address": null,
-    "symbol": "-",
-    "url": "https://www.xdao.app/",
-    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/xdao.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Services",
-    "chains": [
-      "Polygon",
-      "Binance",
-      "Ethereum",
-      "Astar",
-      "Heco",
-      "Avalanche",
-      "Fantom"
-    ],
-    "module": "xdao.js",
-    "twitter": "xdaoapp",
-    "audit_links": [
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
-    ],
-    "listedAt": 1642109094,
-    "slug": "xdao",
-    "tvl": 47841404.260963544,
-    "chainTvls": {
-      "Binance": 1847308.1072894584,
-      "Ethereum": 125265.41681255912,
-      "Astar": 33732.82333553492,
-      "Heco": 4581.101649144019,
-      "Avalanche": 67.52108624574994,
-      "Polygon": 45830402.56381762,
-      "Fantom": 46.72697298406324
-    },
-    "change_1h": 42.08,
-    "change_1d": 41.77,
-    "change_7d": 57.54,
-    "rank": 27
-  },
-  {
     "id": "1501",
     "name": "Octus Bridge",
     "address": null,
@@ -1066,7 +1020,7 @@
     "change_1h": 0.01,
     "change_1d": -0.59,
     "change_7d": 0.96,
-    "rank": 28
+    "rank": 27
   },
   {
     "id": "1953",
@@ -1103,7 +1057,7 @@
     "change_1h": -0.46,
     "change_1d": -1.33,
     "change_7d": -2.19,
-    "rank": 29
+    "rank": 28
   },
   {
     "id": "952",
@@ -1136,7 +1090,7 @@
     "change_1h": -0.07,
     "change_1d": -0.7,
     "change_7d": 0.33,
-    "rank": 30
+    "rank": 29
   },
   {
     "id": "1855",
@@ -1177,7 +1131,7 @@
     "change_1h": -0.12,
     "change_1d": 0.0,
     "change_7d": -12.58,
-    "rank": 31
+    "rank": 30
   },
   {
     "id": "1569",
@@ -1212,7 +1166,7 @@
     "change_1h": 0.04,
     "change_1d": 0.14,
     "change_7d": 0.41,
-    "rank": 32
+    "rank": 31
   },
   {
     "id": "1669",
@@ -1255,7 +1209,7 @@
     "change_1h": 0.23,
     "change_1d": 0.3,
     "change_7d": 1.99,
-    "rank": 33
+    "rank": 32
   },
   {
     "id": "1523",
@@ -1287,7 +1241,7 @@
     "change_1h": 0.0,
     "change_1d": 0.05,
     "change_7d": 7.27,
-    "rank": 34
+    "rank": 33
   },
   {
     "id": "954",
@@ -1317,6 +1271,52 @@
     "change_1h": 0.04,
     "change_1d": -1.64,
     "change_7d": 10.88,
+    "rank": 34
+  },
+  {
+    "id": "1254",
+    "name": "XDAO",
+    "address": null,
+    "symbol": "-",
+    "url": "https://www.xdao.app/",
+    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/xdao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Polygon",
+      "Binance",
+      "Ethereum",
+      "Astar",
+      "Heco",
+      "Avalanche",
+      "Fantom"
+    ],
+    "module": "xdao.js",
+    "twitter": "xdaoapp",
+    "audit_links": [
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
+    ],
+    "listedAt": 1642109094,
+    "slug": "xdao",
+    "tvl": 33281002.662102755,
+    "chainTvls": {
+      "Binance": 1846672.4560644887,
+      "Ethereum": 125209.48076419541,
+      "Astar": 33331.464765407465,
+      "Heco": 4583.267649144019,
+      "Avalanche": 67.74208384557159,
+      "Polygon": 31271091.74790259,
+      "Fantom": 46.502873082433545
+    },
+    "change_1h": -30.43,
+    "change_1d": -0.47,
+    "change_7d": 9.19,
     "rank": 35
   },
   {
@@ -1812,38 +1812,6 @@
     "rank": 48
   },
   {
-    "id": "1025",
-    "name": "Wrapped",
-    "address": null,
-    "symbol": "-",
-    "url": "https://wrapped.com",
-    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed.",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/wrapped.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Cross Chain",
-    "chains": [
-      "Ethereum",
-      "Celo"
-    ],
-    "module": "wrappedfi.js",
-    "twitter": "WrappedFi",
-    "listedAt": 1639522646,
-    "slug": "wrapped",
-    "tvl": 16996051.198826876,
-    "chainTvls": {
-      "Ethereum": 12515929.180525484,
-      "Celo": 4480122.018301393
-    },
-    "change_1h": -0.4,
-    "change_1d": -1.18,
-    "change_7d": 7.44,
-    "rank": 49
-  },
-  {
     "id": "1250",
     "name": "Llama Airforce",
     "address": null,
@@ -1871,6 +1839,38 @@
     "change_1h": -1.22,
     "change_1d": -1.79,
     "change_7d": -1.43,
+    "rank": 49
+  },
+  {
+    "id": "1025",
+    "name": "Wrapped",
+    "address": null,
+    "symbol": "-",
+    "url": "https://wrapped.com",
+    "description": "Your favorite assets on every blockchain. wrapped.com is a cross-chain institutional bridge. Designed for high-performance and speed.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/wrapped.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Cross Chain",
+    "chains": [
+      "Ethereum",
+      "Celo"
+    ],
+    "module": "wrappedfi.js",
+    "twitter": "WrappedFi",
+    "listedAt": 1639522646,
+    "slug": "wrapped",
+    "tvl": 16870258.079307042,
+    "chainTvls": {
+      "Ethereum": 12397670.870069273,
+      "Celo": 4472587.209237771
+    },
+    "change_1h": -0.74,
+    "change_1d": -1.92,
+    "change_7d": 6.65,
     "rank": 50
   },
   {
@@ -3946,13 +3946,13 @@
     "twitter": "sudoswap",
     "listedAt": 1658388571,
     "slug": "sudoswap",
-    "tvl": 1902192.9187167918,
+    "tvl": 1880285.3175457933,
     "chainTvls": {
-      "Ethereum": 1902192.9187167918
+      "Ethereum": 1880285.3175457933
     },
-    "change_1h": -0.05,
-    "change_1d": -6.69,
-    "change_7d": 14.32,
+    "change_1h": -1.15,
+    "change_1d": -5.07,
+    "change_7d": 12.4,
     "rank": 109
   },
   {
@@ -7447,13 +7447,13 @@
     "twitter": "FluidTokens",
     "listedAt": 1654771434,
     "slug": "fluidtokens",
-    "tvl": 46504.304952,
+    "tvl": 46295.779719,
     "chainTvls": {
-      "Cardano": 46504.304952
+      "Cardano": 46295.779719
     },
-    "change_1h": -1.66,
-    "change_1d": 2.36,
-    "change_7d": 10.15,
+    "change_1h": -0.45,
+    "change_1d": 1.9,
+    "change_7d": 9.65,
     "rank": 208
   },
   {

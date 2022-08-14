@@ -194,55 +194,9 @@
     "change_1h": -0.06,
     "change_1d": -9.49,
     "change_7d": -11.87,
-    "fdv": 9227610,
-    "mcap": 2828875,
+    "fdv": 9182743,
+    "mcap": 2815121,
     "rank": 5
-  },
-  {
-    "id": "1254",
-    "name": "XDAO",
-    "address": null,
-    "symbol": "-",
-    "url": "https://www.xdao.app/",
-    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/xdao.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Services",
-    "chains": [
-      "Polygon",
-      "Binance",
-      "Ethereum",
-      "Astar",
-      "Heco",
-      "Avalanche",
-      "Fantom"
-    ],
-    "module": "xdao.js",
-    "twitter": "xdaoapp",
-    "audit_links": [
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
-    ],
-    "listedAt": 1642109094,
-    "slug": "xdao",
-    "tvl": 47841404.260963544,
-    "chainTvls": {
-      "Binance": 1847308.1072894584,
-      "Ethereum": 125265.41681255912,
-      "Astar": 33732.82333553492,
-      "Heco": 4581.101649144019,
-      "Avalanche": 67.52108624574994,
-      "Polygon": 45830402.56381762,
-      "Fantom": 46.72697298406324
-    },
-    "change_1h": 42.08,
-    "change_1d": 41.77,
-    "change_7d": 57.54,
-    "rank": 6
   },
   {
     "id": "233",
@@ -275,6 +229,52 @@
     "change_1d": -2.21,
     "change_7d": 11.74,
     "mcap": 15190480,
+    "rank": 6
+  },
+  {
+    "id": "1254",
+    "name": "XDAO",
+    "address": null,
+    "symbol": "-",
+    "url": "https://www.xdao.app/",
+    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/xdao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Polygon",
+      "Binance",
+      "Ethereum",
+      "Astar",
+      "Heco",
+      "Avalanche",
+      "Fantom"
+    ],
+    "module": "xdao.js",
+    "twitter": "xdaoapp",
+    "audit_links": [
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
+    ],
+    "listedAt": 1642109094,
+    "slug": "xdao",
+    "tvl": 33281002.662102755,
+    "chainTvls": {
+      "Binance": 1846672.4560644887,
+      "Ethereum": 125209.48076419541,
+      "Astar": 33331.464765407465,
+      "Heco": 4583.267649144019,
+      "Avalanche": 67.74208384557159,
+      "Polygon": 31271091.74790259,
+      "Fantom": 46.502873082433545
+    },
+    "change_1h": -30.43,
+    "change_1d": -0.47,
+    "change_7d": 9.19,
     "rank": 7
   },
   {

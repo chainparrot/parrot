@@ -470,8 +470,8 @@
     "change_1h": -5.47,
     "change_1d": -5.51,
     "change_7d": -8.91,
-    "fdv": 262236071,
-    "mcap": 15189339,
+    "fdv": 262977608,
+    "mcap": 15232542,
     "rank": 11
   },
   {
@@ -905,8 +905,8 @@
     "change_1h": -1.3,
     "change_1d": -1.49,
     "change_7d": 5.47,
-    "fdv": 59234854,
-    "mcap": 15525682,
+    "fdv": 58248539,
+    "mcap": 15267165,
     "rank": 22
   },
   {
@@ -1073,8 +1073,8 @@
     "change_1d": 0.23,
     "change_7d": 4.15,
     "staking": 1417423.183130702,
-    "fdv": 70160773,
-    "mcap": 38619253,
+    "fdv": 69842742,
+    "mcap": 38445695,
     "rank": 26
   },
   {
@@ -1325,29 +1325,29 @@
       "Band"
     ],
     "slug": "dforce",
-    "tvl": 35490490.140803516,
+    "tvl": 35293789.11946199,
     "chainTvls": {
-      "Optimism": 1552391.8556263908,
+      "Optimism": 1548331.722225,
       "Kava": 0,
-      "Arbitrum-borrowed": 6320919.716525496,
+      "Arbitrum-borrowed": 6305177.933291,
       "Avalanche": 0,
-      "Polygon-borrowed": 4453660.4116474,
-      "Binance-borrowed": 4797510.822846489,
-      "Binance": 19140440.0620066,
-      "Ethereum": 7524719.771573807,
-      "Optimism-borrowed": 1697261.7369742899,
+      "Polygon-borrowed": 4440384.806343,
+      "Binance-borrowed": 4780080.111264,
+      "Binance": 19019897.586785,
+      "Ethereum": 7470298.18076099,
+      "Optimism-borrowed": 1692200.97466,
       "Ethereum-staking": 0,
-      "Polygon": 1546245.359818972,
-      "Ethereum-borrowed": 1985195.0284991867,
-      "Arbitrum": 5726693.091777746,
-      "borrowed": 19254547.71649286,
+      "Polygon": 1541011.699632,
+      "Ethereum-borrowed": 1979535.090323,
+      "Arbitrum": 5714249.930059,
+      "borrowed": 19197378.915881,
       "Kava-borrowed": 0,
       "Avalanche-borrowed": 0,
       "staking": 0
     },
-    "change_1h": -0.79,
-    "change_1d": -1.39,
-    "change_7d": 2.77,
+    "change_1h": -0.55,
+    "change_1d": -1.93,
+    "change_7d": 2.2,
     "staking": 0,
     "fdv": 44969271,
     "mcap": 19159778,
@@ -1997,7 +1997,7 @@
     "change_1h": -0.95,
     "change_1d": -1.57,
     "change_7d": 12.85,
-    "mcap": 14593566,
+    "mcap": 14665366,
     "rank": 47
   },
   {
@@ -2066,80 +2066,6 @@
     "rank": 49
   },
   {
-    "id": "244",
-    "name": "WePiggy",
-    "address": "0x6f620ec89b8479e97a6985792d0c64f237566746",
-    "symbol": "WPC",
-    "url": "https://www.wepiggy.com/",
-    "description": "WePiggy is an open source, non-custodial crypto asset lending market protocol.\r\n",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/wepiggy.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "wepiggy-coin",
-    "cmcId": "13479",
-    "category": "Lending",
-    "chains": [
-      "Ethereum",
-      "Optimism",
-      "Arbitrum",
-      "OKExChain",
-      "Binance",
-      "Polygon",
-      "Moonbeam",
-      "Harmony",
-      "Oasis",
-      "Moonriver",
-      "Heco",
-      "Aurora"
-    ],
-    "module": "wepiggy.js",
-    "twitter": "wepiggydotcom",
-    "audit_links": [
-      "https://github.com/WePiggy/wepiggy-contracts/tree/master/docs/audits"
-    ],
-    "oracles": [
-      "Chainlink"
-    ],
-    "forkedFrom": [
-      "Compound"
-    ],
-    "slug": "wepiggy",
-    "tvl": 13508776.547949942,
-    "chainTvls": {
-      "Optimism": 4516172.687886414,
-      "Oasis-borrowed": 11122.686840755,
-      "Moonriver": 22154.305546265998,
-      "Harmony": 51580.61578733099,
-      "Harmony-borrowed": 82043.51640511698,
-      "Binance": 1208025.1779463599,
-      "Ethereum": 4604956.853852822,
-      "Oasis": 22799.28453378,
-      "Heco": 21829.854279794,
-      "Ethereum-borrowed": 6621422.068333048,
-      "Arbitrum": 1491042.0332912959,
-      "borrowed": 10759077.854725707,
-      "Heco-borrowed": 4242.514820031999,
-      "Moonbeam-borrowed": 9489.238242025,
-      "OKExChain": 1388543.924900929,
-      "Arbitrum-borrowed": 1880822.4266042877,
-      "Polygon-borrowed": 45630.71732887499,
-      "Binance-borrowed": 667050.5887785329,
-      "Moonriver-borrowed": 15233.934314620998,
-      "Aurora-borrowed": 1537.702583822,
-      "Moonbeam": 52042.704304524996,
-      "Aurora": 13782.955259206998,
-      "Optimism-borrowed": 765493.9010064258,
-      "Polygon": 115846.15036122098,
-      "OKExChain-borrowed": 654988.5594681649
-    },
-    "change_1h": -0.77,
-    "change_1d": -1.39,
-    "change_7d": 5.73,
-    "mcap": 0,
-    "rank": 50
-  },
-  {
     "id": "1532",
     "name": "Proton Loan",
     "address": "proton:LOAN-proton-loan.token",
@@ -2180,6 +2106,80 @@
     "change_1d": -9.07,
     "change_7d": 17.52,
     "staking": 1847287.048325108,
+    "mcap": 0,
+    "rank": 50
+  },
+  {
+    "id": "244",
+    "name": "WePiggy",
+    "address": "0x6f620ec89b8479e97a6985792d0c64f237566746",
+    "symbol": "WPC",
+    "url": "https://www.wepiggy.com/",
+    "description": "WePiggy is an open source, non-custodial crypto asset lending market protocol.\r\n",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/wepiggy.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "wepiggy-coin",
+    "cmcId": "13479",
+    "category": "Lending",
+    "chains": [
+      "Ethereum",
+      "Optimism",
+      "Arbitrum",
+      "OKExChain",
+      "Binance",
+      "Polygon",
+      "Moonbeam",
+      "Harmony",
+      "Oasis",
+      "Moonriver",
+      "Heco",
+      "Aurora"
+    ],
+    "module": "wepiggy.js",
+    "twitter": "wepiggydotcom",
+    "audit_links": [
+      "https://github.com/WePiggy/wepiggy-contracts/tree/master/docs/audits"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [
+      "Compound"
+    ],
+    "slug": "wepiggy",
+    "tvl": 13449331.615141,
+    "chainTvls": {
+      "Optimism": 4500848.00087,
+      "Oasis-borrowed": 11085.959828,
+      "Moonriver": 21981.128545,
+      "Harmony": 51425.947876,
+      "Harmony-borrowed": 81797.822711,
+      "Binance": 1202464.228371,
+      "Ethereum": 4583212.125167,
+      "Oasis": 22722.323947,
+      "Heco": 21676.088856,
+      "Ethereum-borrowed": 6588485.513805,
+      "Arbitrum": 1490431.809589,
+      "borrowed": 10722340.122459,
+      "Heco-borrowed": 4227.524678,
+      "Moonbeam-borrowed": 9459.538644,
+      "OKExChain": 1373804.993828,
+      "Arbitrum-borrowed": 1879587.247869,
+      "Polygon-borrowed": 45484.38998,
+      "Binance-borrowed": 664809.203972,
+      "Moonriver-borrowed": 15175.194091,
+      "Aurora-borrowed": 1530.391853,
+      "Moonbeam": 51792.075334,
+      "Aurora": 13612.857338,
+      "Optimism-borrowed": 763101.213916,
+      "Polygon": 115360.03542,
+      "OKExChain-borrowed": 657596.121112
+    },
+    "change_1h": -0.44,
+    "change_1d": -1.82,
+    "change_7d": 5.26,
     "mcap": 0,
     "rank": 51
   },
@@ -2225,8 +2225,8 @@
     "change_1d": -4.23,
     "change_7d": 28.45,
     "staking": 471913.2705338074,
-    "fdv": 7687388,
-    "mcap": 5099289,
+    "fdv": 7660327,
+    "mcap": 5081338,
     "rank": 52
   },
   {
@@ -2474,8 +2474,8 @@
     "change_1h": -0.39,
     "change_1d": -0.4,
     "change_7d": -11.48,
-    "fdv": 11301794,
-    "mcap": 2660401,
+    "fdv": 11283616,
+    "mcap": 2656122,
     "rank": 58
   },
   {
@@ -2593,8 +2593,8 @@
     "change_1h": -0.65,
     "change_1d": -0.53,
     "change_7d": -5.96,
-    "fdv": 6090388,
-    "mcap": 1001869,
+    "fdv": 5907200,
+    "mcap": 971734,
     "rank": 61
   },
   {
@@ -2860,8 +2860,8 @@
     "change_1h": -0.01,
     "change_1d": -6.63,
     "change_7d": 7387.18,
-    "fdv": 45137017,
-    "mcap": 3730475,
+    "fdv": 46191754,
+    "mcap": 3817647,
     "rank": 67
   },
   {
@@ -2978,7 +2978,7 @@
     "change_1h": -0.36,
     "change_1d": -6.65,
     "change_7d": -41.66,
-    "fdv": 6955107,
+    "fdv": 6916523,
     "mcap": 0,
     "rank": 70
   },
@@ -3098,8 +3098,8 @@
     "change_1h": -0.18,
     "change_1d": -0.23,
     "change_7d": -9.6,
-    "fdv": 178373023,
-    "mcap": 16395335,
+    "fdv": 166927376,
+    "mcap": 15343297,
     "rank": 73
   },
   {
@@ -3507,7 +3507,7 @@
     "change_7d": 3.77,
     "staking": 42468.886394578,
     "pool2": 46244.9683034874,
-    "mcap": 157070,
+    "mcap": 156985,
     "rank": 82
   },
   {
@@ -3785,8 +3785,8 @@
     "change_1d": -0.37,
     "change_7d": -0.35,
     "staking": 0,
-    "fdv": 198179,
-    "mcap": 103922,
+    "fdv": 195210,
+    "mcap": 102364,
     "rank": 89
   },
   {
@@ -4125,7 +4125,7 @@
     "change_1d": -5.97,
     "change_7d": 7.56,
     "staking": 886660.4390726722,
-    "mcap": 1936582,
+    "mcap": 1890260,
     "rank": 98
   },
   {
@@ -4200,7 +4200,7 @@
     "change_1h": -0.32,
     "change_1d": -0.03,
     "change_7d": 1.18,
-    "mcap": 14511379,
+    "mcap": 14381088,
     "rank": 100
   },
   {
@@ -4272,7 +4272,7 @@
     "change_1h": -0.12,
     "change_1d": -0.46,
     "change_7d": 3.08,
-    "mcap": 669670,
+    "mcap": 659377,
     "rank": 102
   },
   {
@@ -4584,8 +4584,8 @@
     "change_1h": -0.6,
     "change_1d": -2.33,
     "change_7d": -3.06,
-    "fdv": 195782,
-    "mcap": 54857,
+    "fdv": 191066,
+    "mcap": 53545,
     "rank": 110
   },
   {
@@ -4995,7 +4995,7 @@
     "change_1h": 0.82,
     "change_1d": -1.23,
     "change_7d": -2.26,
-    "fdv": 106607,
+    "fdv": 105058,
     "mcap": 0,
     "rank": 120
   },
@@ -5531,13 +5531,13 @@
     "twitter": "FluidTokens",
     "listedAt": 1654771434,
     "slug": "fluidtokens",
-    "tvl": 46504.304952,
+    "tvl": 46295.779719,
     "chainTvls": {
-      "Cardano": 46504.304952
+      "Cardano": 46295.779719
     },
-    "change_1h": -1.66,
-    "change_1d": 2.36,
-    "change_7d": 10.15,
+    "change_1h": -0.45,
+    "change_1d": 1.9,
+    "change_7d": 9.65,
     "rank": 134
   },
   {
