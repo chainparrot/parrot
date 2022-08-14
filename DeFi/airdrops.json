@@ -407,8 +407,8 @@
     "change_1h": 0.01,
     "change_1d": -3.54,
     "change_7d": 0.32,
-    "fdv": 1105026072,
-    "mcap": 504567446,
+    "fdv": 1108932073,
+    "mcap": 506350970,
     "rank": 10
   },
   {
@@ -1304,19 +1304,19 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 33387704.0818454,
+    "tvl": 32751299.239536233,
     "chainTvls": {
-      "Binance": 1845013.4442110613,
-      "Ethereum": 124916.43711088719,
-      "Astar": 33057.50974364454,
-      "Heco": 4577.611610572018,
-      "Avalanche": 67.65206660401736,
-      "Polygon": 31380025.151240226,
-      "Fantom": 46.275862403904064
+      "Binance": 1845251.1702877127,
+      "Ethereum": 124972.14472521946,
+      "Astar": 33003.805246460426,
+      "Heco": 4574.121572000019,
+      "Avalanche": 67.59220091182587,
+      "Polygon": 30743384.050813086,
+      "Fantom": 46.35469084373206
     },
-    "change_1h": 0.32,
-    "change_1d": -0.17,
-    "change_7d": 11.06,
+    "change_1h": -1.91,
+    "change_1d": -1.21,
+    "change_7d": 7.64,
     "rank": 35
   },
   {
@@ -3060,13 +3060,13 @@
       "https://docs.robo-vault.com/robovault/security"
     ],
     "slug": "robo-vault",
-    "tvl": 4517680.085569445,
+    "tvl": 4517770.058197742,
     "chainTvls": {
-      "Avalanche": 1406503.1453760236,
+      "Avalanche": 1406527.0882813937,
       "Polygon": 110.4334787691,
-      "Fantom": 3111066.5067146514
+      "Fantom": 3111132.5364375794
     },
-    "change_1h": 0.62,
+    "change_1h": 0.0,
     "change_1d": 108.5,
     "change_7d": 111.9,
     "rank": 84
@@ -3980,13 +3980,13 @@
     "twitter": "sudoswap",
     "listedAt": 1658388571,
     "slug": "sudoswap",
-    "tvl": 1838826.539012266,
+    "tvl": 1890519.2288411902,
     "chainTvls": {
-      "Ethereum": 1838826.539012266
+      "Ethereum": 1890519.2288411902
     },
-    "change_1h": -2.2,
-    "change_1d": -8.03,
-    "change_7d": 3.96,
+    "change_1h": 2.81,
+    "change_1d": -5.15,
+    "change_7d": 6.8,
     "rank": 110
   },
   {
@@ -5264,13 +5264,13 @@
     ],
     "listedAt": 1639945104,
     "slug": "mooniswap",
-    "tvl": 581454.0700629884,
+    "tvl": 580991.4249898659,
     "chainTvls": {
-      "Ethereum": 581454.0700629884
+      "Ethereum": 580991.4249898659
     },
-    "change_1h": -1.25,
-    "change_1d": -13.03,
-    "change_7d": 7.21,
+    "change_1h": -0.08,
+    "change_1d": -12.94,
+    "change_7d": 7.19,
     "rank": 146
   },
   {
@@ -6169,6 +6169,40 @@
     "rank": 171
   },
   {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 230710.431193662,
+    "chainTvls": {
+      "Klaytn": 230710.431193662
+    },
+    "change_1h": 15.41,
+    "change_1d": null,
+    "change_7d": 46.72,
+    "rank": 172
+  },
+  {
     "id": "1727",
     "name": "StakeEasy",
     "address": null,
@@ -6201,7 +6235,7 @@
     "change_1h": 0.73,
     "change_1d": -7.29,
     "change_7d": 14.05,
-    "rank": 172
+    "rank": 173
   },
   {
     "id": "1854",
@@ -6233,40 +6267,6 @@
     "change_1h": -1.43,
     "change_1d": 1.17,
     "change_7d": -2.72,
-    "rank": 173
-  },
-  {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 199911.490086312,
-    "chainTvls": {
-      "Klaytn": 199911.490086312
-    },
-    "change_1h": 42.52,
-    "change_1d": -20.84,
-    "change_7d": 1.28,
     "rank": 174
   },
   {
@@ -6401,13 +6401,13 @@
     "listedAt": 1638211002,
     "openSource": false,
     "slug": "soda-protocol",
-    "tvl": 189395.35122773377,
+    "tvl": 189531.52183667794,
     "chainTvls": {
-      "Solana": 189395.35122773377
+      "Solana": 189531.52183667794
     },
-    "change_1h": -0.02,
-    "change_1d": -0.79,
-    "change_7d": 2.54,
+    "change_1h": 0,
+    "change_1d": -0.72,
+    "change_7d": 2.61,
     "rank": 178
   },
   {
@@ -6538,13 +6538,13 @@
     ],
     "listedAt": 1648463492,
     "slug": "aperture-finance",
-    "tvl": 166122.963292901,
+    "tvl": 163578.63574306268,
     "chainTvls": {
-      "Terra": 166122.963292901
+      "Terra": 163578.63574306268
     },
-    "change_1h": 0.05,
-    "change_1d": 3.36,
-    "change_7d": -7.8,
+    "change_1h": -1.53,
+    "change_1d": 1.85,
+    "change_7d": -9.14,
     "rank": 182
   },
   {
@@ -8322,13 +8322,13 @@
     "twitter": "pinyottas",
     "listedAt": 1636177842,
     "slug": "pinyottas",
-    "tvl": 2448.2809165683248,
+    "tvl": 2449.232717315634,
     "chainTvls": {
-      "Ethereum": 2448.2809165683248
+      "Ethereum": 2449.232717315634
     },
-    "change_1h": -0.04,
-    "change_1d": -2.86,
-    "change_7d": 9.84,
+    "change_1h": 0.04,
+    "change_1d": -2.82,
+    "change_7d": 9.88,
     "rank": 234
   },
   {

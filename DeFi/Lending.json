@@ -470,8 +470,8 @@
     "change_1h": 0.07,
     "change_1d": -5.64,
     "change_7d": -9.19,
-    "fdv": 256012477,
-    "mcap": 14830838,
+    "fdv": 258479126,
+    "mcap": 14973846,
     "rank": 11
   },
   {
@@ -667,8 +667,8 @@
     "change_1h": 0.05,
     "change_1d": -2.02,
     "change_7d": 3.94,
-    "fdv": 27961003,
-    "mcap": 5256360,
+    "fdv": 21996126,
+    "mcap": 4135029,
     "rank": 16
   },
   {
@@ -905,8 +905,8 @@
     "change_1h": 0.11,
     "change_1d": -2.44,
     "change_7d": 3.92,
-    "fdv": 58612409,
-    "mcap": 15362537,
+    "fdv": 58936074,
+    "mcap": 15447370,
     "rank": 22
   },
   {
@@ -1073,8 +1073,8 @@
     "change_1d": -0.15,
     "change_7d": 3.43,
     "staking": 1414247.8183563729,
-    "fdv": 69858393,
-    "mcap": 38455793,
+    "fdv": 70326166,
+    "mcap": 38715412,
     "rank": 26
   },
   {
@@ -1997,7 +1997,7 @@
     "change_1h": 0.08,
     "change_1d": -2.28,
     "change_7d": 11.41,
-    "mcap": 14615925,
+    "mcap": 14593299,
     "rank": 47
   },
   {
@@ -2225,8 +2225,8 @@
     "change_1d": -4.48,
     "change_7d": 27.02,
     "staking": 464939.1827919285,
-    "fdv": 7538199,
-    "mcap": 5000327,
+    "fdv": 7268054,
+    "mcap": 4821131,
     "rank": 52
   },
   {
@@ -2474,8 +2474,8 @@
     "change_1h": 0.01,
     "change_1d": -0.78,
     "change_7d": -11.71,
-    "fdv": 11274746,
-    "mcap": 2654034,
+    "fdv": 11313125,
+    "mcap": 2663068,
     "rank": 58
   },
   {
@@ -2593,8 +2593,8 @@
     "change_1h": 0.05,
     "change_1d": -1.3,
     "change_7d": -6.52,
-    "fdv": 5915210,
-    "mcap": 973052,
+    "fdv": 5912225,
+    "mcap": 972561,
     "rank": 61
   },
   {
@@ -2860,8 +2860,8 @@
     "change_1h": -0.11,
     "change_1d": -4.47,
     "change_7d": 7376.71,
-    "fdv": 44468116,
-    "mcap": 3675192,
+    "fdv": 44506764,
+    "mcap": 3678386,
     "rank": 67
   },
   {
@@ -2978,7 +2978,7 @@
     "change_1h": 0.07,
     "change_1d": -2.16,
     "change_7d": -42.18,
-    "fdv": 6899930,
+    "fdv": 6895229,
     "mcap": 0,
     "rank": 70
   },
@@ -3098,8 +3098,8 @@
     "change_1h": -0.07,
     "change_1d": -0.53,
     "change_7d": -9.89,
-    "fdv": 167083013,
-    "mcap": 15357602,
+    "fdv": 167191422,
+    "mcap": 15367567,
     "rank": 73
   },
   {
@@ -3507,7 +3507,7 @@
     "change_7d": 2.89,
     "staking": 42505.93681410942,
     "pool2": 46288.260326415664,
-    "mcap": 157580,
+    "mcap": 157336,
     "rank": 82
   },
   {
@@ -3785,8 +3785,8 @@
     "change_1d": -0.38,
     "change_7d": -0.42,
     "staking": 0,
-    "fdv": 197387,
-    "mcap": 103506,
+    "fdv": 199238,
+    "mcap": 104477,
     "rank": 89
   },
   {
@@ -4125,7 +4125,7 @@
     "change_1d": -6.85,
     "change_7d": 6.15,
     "staking": 872243.1961609214,
-    "mcap": 1874234,
+    "mcap": 1879746,
     "rank": 98
   },
   {
@@ -4166,44 +4166,6 @@
     "rank": 99
   },
   {
-    "id": "878",
-    "name": "Unilend",
-    "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
-    "symbol": "UFT",
-    "url": "https://unilend.finance",
-    "description": "UniLend is a comprehensive permissionless DeFi protocol. Anyone can list any asset on UniLend to access decentralized trading, lending/borrowing, and the industry\u2019s most cost-effective flash loans.",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/unilend.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "unlend-finance",
-    "cmcId": "7412",
-    "category": "Lending",
-    "chains": [
-      "Polygon",
-      "Ethereum",
-      "Binance"
-    ],
-    "module": "unilend/index.js",
-    "twitter": "UniLend_Finance",
-    "audit_links": [
-      "https://docs.unilend.finance/the-protocol/audit-reports"
-    ],
-    "listedAt": 1637380340,
-    "slug": "unilend",
-    "tvl": 592356.7848254603,
-    "chainTvls": {
-      "Binance": 10641.233547721378,
-      "Ethereum": 170035.13642755864,
-      "Polygon": 411680.4148501803
-    },
-    "change_1h": -0.72,
-    "change_1d": -1.48,
-    "change_7d": -0.06,
-    "mcap": 14284000,
-    "rank": 100
-  },
-  {
     "id": "1676",
     "name": "0xLend",
     "address": null,
@@ -4240,7 +4202,7 @@
     "change_1h": -0.03,
     "change_1d": -0.32,
     "change_7d": -0.15,
-    "rank": 101
+    "rank": 100
   },
   {
     "id": "549",
@@ -4272,8 +4234,8 @@
     "change_1h": 0.17,
     "change_1d": -1.42,
     "change_7d": 1.34,
-    "mcap": 650879,
-    "rank": 102
+    "mcap": 655006,
+    "rank": 101
   },
   {
     "id": "621",
@@ -4313,6 +4275,44 @@
     "change_7d": 3.58,
     "fdv": 2949504,
     "mcap": 430721,
+    "rank": 102
+  },
+  {
+    "id": "878",
+    "name": "Unilend",
+    "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+    "symbol": "UFT",
+    "url": "https://unilend.finance",
+    "description": "UniLend is a comprehensive permissionless DeFi protocol. Anyone can list any asset on UniLend to access decentralized trading, lending/borrowing, and the industry\u2019s most cost-effective flash loans.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/unilend.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "unlend-finance",
+    "cmcId": "7412",
+    "category": "Lending",
+    "chains": [
+      "Polygon",
+      "Ethereum",
+      "Binance"
+    ],
+    "module": "unilend/index.js",
+    "twitter": "UniLend_Finance",
+    "audit_links": [
+      "https://docs.unilend.finance/the-protocol/audit-reports"
+    ],
+    "listedAt": 1637380340,
+    "slug": "unilend",
+    "tvl": 587407.2918882853,
+    "chainTvls": {
+      "Binance": 10681.529897816963,
+      "Ethereum": 169630.18692162738,
+      "Polygon": 407095.57506884093
+    },
+    "change_1h": -0.84,
+    "change_1d": -1.43,
+    "change_7d": -0.59,
+    "mcap": 14284000,
     "rank": 103
   },
   {
@@ -4584,8 +4584,8 @@
     "change_1h": 0.05,
     "change_1d": -2.78,
     "change_7d": -3.93,
-    "fdv": 191066,
-    "mcap": 53545,
+    "fdv": 190844,
+    "mcap": 53500,
     "rank": 110
   },
   {
@@ -4995,7 +4995,7 @@
     "change_1h": 1.3,
     "change_1d": -0.25,
     "change_7d": -4.32,
-    "fdv": 103147,
+    "fdv": 103393,
     "mcap": 0,
     "rank": 120
   },
@@ -5219,13 +5219,13 @@
     "listedAt": 1638211002,
     "openSource": false,
     "slug": "soda-protocol",
-    "tvl": 189395.35122773377,
+    "tvl": 189531.52183667794,
     "chainTvls": {
-      "Solana": 189395.35122773377
+      "Solana": 189531.52183667794
     },
-    "change_1h": -0.02,
-    "change_1d": -0.79,
-    "change_7d": 2.54,
+    "change_1h": 0,
+    "change_1d": -0.72,
+    "change_7d": 2.61,
     "rank": 126
   },
   {
