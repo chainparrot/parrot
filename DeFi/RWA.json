@@ -26,7 +26,7 @@
     },
     "change_1h": 0,
     "change_1d": 0,
-    "change_7d": 0,
+    "change_7d": 0.14,
     "rank": 1
   },
   {
@@ -56,14 +56,14 @@
     ],
     "listedAt": 1659621481,
     "slug": "toucan-protocol",
-    "tvl": 42311353.62466551,
+    "tvl": 41516844.334749036,
     "chainTvls": {
-      "Polygon": 42311353.62466551,
+      "Polygon": 41516844.334749036,
       "Celo": 0
     },
-    "change_1h": 0.46,
-    "change_1d": -1.32,
-    "change_7d": -1.81,
+    "change_1h": -0.97,
+    "change_1d": -1.38,
+    "change_7d": -1.84,
     "rank": 2
   },
   {
@@ -90,22 +90,22 @@
       "https://github.com/maple-labs/maple-core#audit-reports"
     ],
     "slug": "maple",
-    "tvl": 26259607.72528339,
+    "tvl": 12974398.647532258,
     "chainTvls": {
       "Solana-borrowed": 113366743.03322066,
       "Ethereum-treasury": 470576.5704249609,
-      "Ethereum": 22024145.236746114,
-      "Ethereum-staking": 57346560.91644262,
-      "Ethereum-borrowed": 443187446.480002,
+      "Ethereum": 8738936.158994978,
+      "Ethereum-staking": 57811902.93819896,
+      "Ethereum-borrowed": 442865646.480002,
       "Solana": 4235462.488537279,
-      "borrowed": 556554189.5132227,
+      "borrowed": 556232389.5132227,
       "treasury": 470576.5704249609,
-      "staking": 57346560.91644262
+      "staking": 57811902.93819896
     },
     "change_1h": -0.0,
-    "change_1d": -38.38,
-    "change_7d": -7.33,
-    "staking": 57346560.91644262,
+    "change_1d": -69.56,
+    "change_7d": -54.15,
+    "staking": 57811902.93819896,
     "fdv": 208315943,
     "mcap": 129835632,
     "rank": 3
@@ -133,18 +133,18 @@
       "https://github.com/trusttoken/audits/tree/master/TrueFi"
     ],
     "slug": "truefi",
-    "tvl": 7866663.138613531,
+    "tvl": 7898956.4268405875,
     "chainTvls": {
-      "Ethereum": 7866663.138613531,
-      "Ethereum-staking": 21972874.73191861,
-      "Ethereum-borrowed": 246064624.60468856,
-      "borrowed": 246064624.60468856,
-      "staking": 21972874.73191861
+      "Ethereum": 7898956.4268405875,
+      "Ethereum-staking": 21725801.76833426,
+      "Ethereum-borrowed": 246089701.14460087,
+      "borrowed": 246089701.14460087,
+      "staking": 21725801.76833426
     },
-    "change_1h": -0.16,
-    "change_1d": -17.87,
-    "change_7d": -21.18,
-    "staking": 21972874.73191861,
+    "change_1h": 0.41,
+    "change_1d": -17.37,
+    "change_7d": -29.97,
+    "staking": 21725801.76833426,
     "fdv": 132346037,
     "mcap": 75831593,
     "rank": 4
@@ -172,17 +172,17 @@
       "https://github.com/centrifuge/security/blob/master/audits/tinlake/LA-Tinlake-Audit-v0.3.0.pdf"
     ],
     "slug": "centrifuge",
-    "tvl": 4142655.5169799635,
+    "tvl": 4142614.0810602754,
     "chainTvls": {
-      "Ethereum": 4142655.5169799635,
-      "Ethereum-borrowed": 84145915.11297119,
-      "borrowed": 84145915.11297119
+      "Ethereum": 4142614.0810602754,
+      "Ethereum-borrowed": 84145073.4636073,
+      "borrowed": 84145073.4636073
     },
     "change_1h": -0.02,
-    "change_1d": -0.02,
-    "change_7d": 9.29,
+    "change_1d": 0.03,
+    "change_7d": 9.47,
     "fdv": 0,
-    "mcap": 120606927,
+    "mcap": 117526692,
     "rank": 5
   },
   {
@@ -206,15 +206,15 @@
     "twitter": "goldfinch_fi",
     "listedAt": 1635105023,
     "slug": "goldfinch",
-    "tvl": 1635701.8947459187,
+    "tvl": 1635389.2023659188,
     "chainTvls": {
-      "Ethereum": 1635701.8947459187,
+      "Ethereum": 1635389.2023659188,
       "Ethereum-borrowed": 100372569.26325528,
       "borrowed": 100372569.26325528
     },
-    "change_1h": 0,
-    "change_1d": -0.3,
-    "change_7d": 0.21,
+    "change_1h": -0.02,
+    "change_1d": -0.31,
+    "change_7d": 0.33,
     "fdv": 141036732,
     "mcap": 24894858,
     "rank": 6
@@ -244,24 +244,24 @@
       "https://www.certik.com/projects/naosfinance"
     ],
     "slug": "naos-finance",
-    "tvl": 151826.4376783602,
+    "tvl": 151911.24617434217,
     "chainTvls": {
-      "pool2": 266175.1137855272,
-      "Binance-borrowed": 198349.20442743637,
-      "Binance-pool2": 48749.312734021936,
-      "Ethereum-pool2": 217425.80105150523,
-      "Binance": 86140.02869122429,
-      "Ethereum": 65686.4089871359,
-      "Binance-staking": 397315.55009128386,
-      "Ethereum-staking": 226913.49170804294,
-      "borrowed": 198349.20442743637,
-      "staking": 624229.0417993268
+      "pool2": 264615.883850775,
+      "Binance-borrowed": 198548.23293945828,
+      "Binance-pool2": 48208.43663159518,
+      "Ethereum-pool2": 216407.44721917986,
+      "Binance": 86225.49419978097,
+      "Ethereum": 65685.7519745612,
+      "Binance-staking": 392101.4979775753,
+      "Ethereum-staking": 223935.66018144527,
+      "borrowed": 198548.23293945828,
+      "staking": 616037.1581590206
     },
-    "change_1h": -0.18,
-    "change_1d": -0.12,
-    "change_7d": -8.6,
-    "staking": 624229.0417993268,
-    "pool2": 266175.1137855272,
+    "change_1h": 0.07,
+    "change_1d": 0.01,
+    "change_7d": -8.43,
+    "staking": 616037.1581590206,
+    "pool2": 264615.883850775,
     "mcap": 2525202,
     "rank": 7
   },
@@ -298,8 +298,8 @@
       "borrowed": 17467449.999999996
     },
     "change_1h": 0.1,
-    "change_1d": 0,
-    "change_7d": -61.37,
+    "change_1d": 0.15,
+    "change_7d": -61.29,
     "rank": 8
   }
 ]
