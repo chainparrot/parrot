@@ -1,738 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Tether",
-    "symbol": "USDT",
-    "gecko_id": "tether",
-    "pegType": "peggedUSD",
-    "priceSource": "chainlink",
-    "pegMechanism": "fiat-backed",
-    "circulating": {
-      "peggedUSD": 67797804384.32443
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 67570804384.32989
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 66909367153.40478
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 66349759463.799644
-    },
-    "chainCirculating": {
-      "Optimism": {
-        "current": {
-          "peggedUSD": 75932128.34187
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 75315167.83334
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 77535323.221949
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 31821269.172181
-        }
-      },
-      "Statemine": {
-        "current": {
-          "peggedUSD": 3490006
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 3490006
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 3490006
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 490006
-        }
-      },
-      "Harmony": {
-        "current": {
-          "peggedUSD": 9981124.265562
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 9981124.265562
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 9981124.265562
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 9981124.265562
-        }
-      },
-      "BSC": {
-        "current": {
-          "peggedUSD": 1246154763.5043843
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 1246152572.7663345
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 1246063983.1192484
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 1245506988.521515
-        }
-      },
-      "Astar": {
-        "current": {
-          "peggedUSD": 4496524.78199
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 4233209.386612
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 4826595.967356999
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 6075947.029072
-        }
-      },
-      "Oasis": {
-        "current": {
-          "peggedUSD": 56777137.19852331
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 56625694.081589304
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 57361442.08802931
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 73541666.31133692
-        }
-      },
-      "Heco": {
-        "current": {
-          "peggedUSD": 373441423.8373606
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 373441423.8373606
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 370077399.8373606
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 585185245.4857405
-        }
-      },
-      "Shiden": {
-        "current": {
-          "peggedUSD": 25332.811935
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 25332.811935
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 25332.811935
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 25332.811935
-        }
-      },
-      "Telos": {
-        "current": {
-          "peggedUSD": 438995.512046
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 438995.512046
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 438995.512046
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 506034.536946
-        }
-      },
-      "Arbitrum": {
-        "current": {
-          "peggedUSD": 205980729.079288
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 203611272.386414
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 196179891.649097
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 198445444.875396
-        }
-      },
-      "Tron": {
-        "current": {
-          "peggedUSD": 32660249832.127773
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 32433141609.35822
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 32003637856.687336
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 31006065195.362083
-        }
-      },
-      "TomoChain": {
-        "current": {
-          "peggedUSD": 411100.380016
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 411100.380016
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 424123.404844
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 423344.027933
-        }
-      },
-      "zkSync": {
-        "current": {
-          "peggedUSD": 5177393.292355
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 5197511.715088
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 5213764.406156
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 5587488.299843
-        }
-      },
-      "Evmos": {
-        "current": {
-          "peggedUSD": 537261.407696
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 537261.407696
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 537822.355562
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 541470.09264
-        }
-      },
-      "Milkomeda": {
-        "current": {
-          "peggedUSD": 4264045.659944
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 4261050.51435
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 4299273.067661
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 4568669.895334
-        }
-      },
-      "SXnetwork": {
-        "current": {
-          "peggedUSD": 99.998942
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 99.998942
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 99.998942
-        },
-        "circulatingPrevMonth": 0
-      },
-      "RSK": {
-        "current": {
-          "peggedUSD": 4986787.461738
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 4987119.186059001
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 4999452.620925
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 5129193.386611
-        }
-      },
-      "Moonbeam": {
-        "current": {
-          "peggedUSD": 5936449.440234
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 5950658.554383
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 10962699.026739001
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 10650146.454546
-        }
-      },
-      "Aurora": {
-        "current": {
-          "peggedUSD": 25477453.527425
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 26358431.210329
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 25999484.985725
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 50432777.900399
-        }
-      },
-      "Loopring": {
-        "current": {
-          "peggedUSD": 2467285.675761
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 2468485.675761
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 2467816.738171
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 2529893.774666
-        }
-      },
-      "Algorand": {
-        "current": {
-          "peggedUSD": 157999951.937536
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 157999951.937536
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 157999951.937536
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 165999951.937536
-        }
-      },
-      "Polygon": {
-        "current": {
-          "peggedUSD": 663684772.2698811
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 660050297.553915
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 647615373.3240271
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 647713297.847255
-        }
-      },
-      "Metis": {
-        "current": {
-          "peggedUSD": 11788173.801072
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 11788173.801072
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 10974985.740198
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 10195765.705112
-        }
-      },
-      "Kava": {
-        "current": {
-          "peggedUSD": 30.434671
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 30.434671
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 30.434671
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 30.434671
-        }
-      },
-      "Ontology": {
-        "current": {
-          "peggedUSD": 5157549.390709804
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 5157549.390709804
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 5533239.268897119
-        },
-        "circulatingPrevMonth": 0
-      },
-      "Moonriver": {
-        "current": {
-          "peggedUSD": 8404063.683024
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 8406153.683024
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 8766940.534639
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 9762313.53062
-        }
-      },
-      "Liquidchain": {
-        "current": {
-          "peggedUSD": 11712849
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 11712849
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 11712849
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 11712849
-        }
-      },
-      "Avalanche": {
-        "current": {
-          "peggedUSD": 676659523.8029993
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 676792418.6376414
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 737208800.7520423
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 636117345.8495004
-        }
-      },
-      "Meter": {
-        "current": {
-          "peggedUSD": 362313.448769
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 362313.448769
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 362313.448769
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 362313.448769
-        }
-      },
-      "IoTeX": {
-        "current": {
-          "peggedUSD": 2442762.10442
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 2458768.585269
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 2350155.175369
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 2251005.52846
-        }
-      },
-      "Ethereum": {
-        "current": {
-          "peggedUSD": 28251631920.95387
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 28257508754.963764
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 27952745142.301804
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 28159281930.58349
-        }
-      },
-      "Gnosis": {
-        "current": {
-          "peggedUSD": 34116904.810829
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 34211384.203331
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 35328947.841042
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 41040996.471319
-        }
-      },
-      "Omni": {
-        "current": {
-          "peggedUSD": 1207839298.969685
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 1207839298.969685
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 1231839298.969685
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 1332839398.969685
-        }
-      },
-      "Celo": {
-        "current": {
-          "peggedUSD": 89209.386856
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 89209.386856
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 89209.386856
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 89209.386856
-        }
-      },
-      "Fuse": {
-        "current": {
-          "peggedUSD": 577343.005262
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 577343.005262
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 577343.005262
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 619811.488193
-        }
-      },
-      "Fantom": {
-        "current": {
-          "peggedUSD": 104335270.70363
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 104335624.565116
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 106544055.803963
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 111691859.027956
-        }
-      },
-      "OKExChain": {
-        "current": {
-          "peggedUSD": 35711280
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 35711280
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 35711280
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 35711280
-        }
-      },
-      "Kardia": {
-        "current": {
-          "peggedUSD": 419536.646838
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 419536.646838
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 422284.188405
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 469359.79347
-        }
-      },
-      "Terra Classic": {
-        "current": {
-          "peggedUSD": 322990.562659
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 322990.562659
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 318069.108335
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 320923.34234699997
-        }
-      },
-      "KCC": {
-        "current": {
-          "peggedUSD": 48669116.30246795
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 48669150.06048427
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 48645876.491989344
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 48583855.5056308
-        }
-      },
-      "EOS": {
-        "current": {
-          "peggedUSD": 73250427
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 73250427
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 73250427
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 78250427
-        }
-      },
-      "Crab": {
-        "current": {
-          "peggedUSD": 48736.912229
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 48736.912229
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 48736.912229
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 48736.912229
-        }
-      },
-      "Bittorrent": {
-        "current": {
-          "peggedUSD": 4940492.78542567
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 5046953.838665804
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 5290898.4110030625
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 5149955.717828603
-        }
-      },
-      "Boba": {
-        "current": {
-          "peggedUSD": 764959.236334
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 764959.236334
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 764943.721672
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 1806139.532595
-        }
-      },
-      "Theta": {
-        "current": {
-          "peggedUSD": 1132.423104
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 1132.423104
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 1132.423104
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 1132.423104
-        }
-      },
-      "Syscoin": {
-        "current": {
-          "peggedUSD": 84582.314497
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 84582.314497
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 84582.314497
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 278737.672468
-        }
-      },
-      "Solana": {
-        "current": {
-          "peggedUSD": 1810563318.1328082
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 1810566386.8864136
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 1810657798.144144
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 1811953598.4868007
-        }
-      }
-    },
-    "chains": [
-      "Tron",
-      "Ethereum",
-      "Solana",
-      "BSC",
-      "Omni",
-      "Avalanche",
-      "Polygon",
-      "Heco",
-      "Arbitrum",
-      "Algorand",
-      "Fantom",
-      "Optimism",
-      "EOS",
-      "Oasis",
-      "KCC",
-      "OKExChain",
-      "Gnosis",
-      "Aurora",
-      "Metis",
-      "Liquidchain",
-      "Harmony",
-      "Moonriver",
-      "Moonbeam",
-      "zkSync",
-      "Ontology",
-      "RSK",
-      "Bittorrent",
-      "Astar",
-      "Milkomeda",
-      "Statemine",
-      "Loopring",
-      "IoTeX",
-      "Boba",
-      "Fuse",
-      "Evmos",
-      "Telos",
-      "Kardia",
-      "TomoChain",
-      "Meter",
-      "Terra Classic",
-      "Celo",
-      "Syscoin",
-      "Crab",
-      "Shiden",
-      "Theta",
-      "SXnetwork",
-      "Kava"
-    ],
-    "price": 1.0002956,
-    "timestamp": "Aug 14, 2022",
-    "rank": 1,
-    "totalchains": 47,
-    "change1d": 0.34,
-    "change1w": 1.33,
-    "change1m": 2.18
-  },
-  {
     "id": "2",
     "name": "USD Coin",
     "symbol": "USDC",
@@ -1427,11 +694,744 @@
     ],
     "price": 0.99985387,
     "timestamp": "Aug 14, 2022",
-    "rank": 2,
+    "rank": 1,
     "totalchains": 45,
     "change1d": -0.39,
     "change1w": -1.32,
     "change1m": -2.97
+  },
+  {
+    "id": "1",
+    "name": "Tether",
+    "symbol": "USDT",
+    "gecko_id": "tether",
+    "pegType": "peggedUSD",
+    "priceSource": "chainlink",
+    "pegMechanism": "fiat-backed",
+    "circulating": {
+      "peggedUSD": 35942524350.71678
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 67674804384.32988
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 66909367153.40378
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 66349759463.79965
+    },
+    "chainCirculating": {
+      "Optimism": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 75315167.83334
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 77535323.221949
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 31828269.172181
+        }
+      },
+      "Statemine": {
+        "current": {
+          "peggedUSD": 3490006
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 3490006
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 3490006
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 490006
+        }
+      },
+      "Harmony": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 9981124.265562
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 9981124.265562
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 9981124.265562
+        }
+      },
+      "BSC": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 1246152303.6701307
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 1246060973.8862743
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 1245513405.530741
+        }
+      },
+      "Astar": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 4233209.386612
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 4826595.967356999
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 6075947.029072
+        }
+      },
+      "Oasis": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 56625694.081589304
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 57361453.08802931
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 73541666.31133692
+        }
+      },
+      "Heco": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 373441423.8373606
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 370077399.8373606
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 585185245.4857405
+        }
+      },
+      "Shiden": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 25332.811935
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 25332.811935
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 25332.811935
+        }
+      },
+      "Telos": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 438995.512046
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 438995.512046
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 506034.536946
+        }
+      },
+      "Arbitrum": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 203611272.386414
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 196179891.649097
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 198445444.875396
+        }
+      },
+      "Tron": {
+        "current": {
+          "peggedUSD": 32663803071.27418
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 32537131563.78822
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 32003637856.687336
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 31006065195.362083
+        }
+      },
+      "TomoChain": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 411100.380016
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 424123.404844
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 423344.027933
+        }
+      },
+      "zkSync": {
+        "current": {
+          "peggedUSD": 5177393.292355
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 5197511.715088
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 5213764.406156
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 5585329.429843
+        }
+      },
+      "Evmos": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 537261.407696
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 537822.355562
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 541470.09264
+        }
+      },
+      "Milkomeda": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 4261050.51435
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 4299273.067661
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 4568669.895334
+        }
+      },
+      "SXnetwork": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 99.998942
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 99.998942
+        },
+        "circulatingPrevMonth": 0
+      },
+      "RSK": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 4987119.186059001
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 4998528.772325
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 5129193.386611
+        }
+      },
+      "Moonbeam": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 5950658.554383
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 10962699.026739001
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 10650146.454546
+        }
+      },
+      "Aurora": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 26358431.210329
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 26067948.02173
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 49774212.248665
+        }
+      },
+      "Loopring": {
+        "current": {
+          "peggedUSD": 2467285.675761
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 2468485.675761
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 2467816.738171
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 2529893.774666
+        }
+      },
+      "Algorand": {
+        "current": {
+          "peggedUSD": 157999951.937536
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 157999951.937536
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 157999951.937536
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 165999951.937536
+        }
+      },
+      "Polygon": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 660049749.1457001
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 647615150.477772
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 647713281.700421
+        }
+      },
+      "Metis": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 11788173.801072
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 10974985.740198
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 10195765.705112
+        }
+      },
+      "Kava": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 30.434671
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 30.434671
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 30.434671
+        }
+      },
+      "Ontology": {
+        "current": {
+          "peggedUSD": 5157549.390709804
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 5157549.390709804
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 5533239.268897119
+        },
+        "circulatingPrevMonth": 0
+      },
+      "Moonriver": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 8406153.683024
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 8766940.534639
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 9762313.53062
+        }
+      },
+      "Liquidchain": {
+        "current": {
+          "peggedUSD": 11712849
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 11712849
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 11712849
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 11712849
+        }
+      },
+      "Avalanche": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 677629367.6376414
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 737208800.7520424
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 636076659.1264484
+        }
+      },
+      "Meter": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 362313.448769
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 362313.448769
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 362313.448769
+        }
+      },
+      "IoTeX": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 2458768.585269
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 2350155.175369
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 2251005.52846
+        }
+      },
+      "Ethereum": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 28256662354.371975
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 27952677592.114403
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 28159976453.97511
+        }
+      },
+      "Gnosis": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 34211384.203331
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 35328947.841042
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 41040996.471319
+        }
+      },
+      "Omni": {
+        "current": {
+          "peggedUSD": 1207839298.969685
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 1207839298.969685
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 1231839298.969685
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 1332839398.969685
+        }
+      },
+      "Celo": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 89209.386856
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 89209.386856
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 89209.386856
+        }
+      },
+      "Fuse": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 577343.005262
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 577343.005262
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 619811.488193
+        }
+      },
+      "Fantom": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 104335624.565116
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 106544055.803963
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 111691859.027956
+        }
+      },
+      "OKExChain": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 35711280
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 35711280
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 35711280
+        }
+      },
+      "Kardia": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 419536.646838
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 422284.188405
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 469359.79347
+        }
+      },
+      "Terra Classic": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 322990.562659
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 318069.108335
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 320923.34234699997
+        }
+      },
+      "KCC": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 48669150.06048427
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 48645876.491989344
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 48583855.5056308
+        }
+      },
+      "EOS": {
+        "current": {
+          "peggedUSD": 73250427
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 73250427
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 73250427
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 78250427
+        }
+      },
+      "Crab": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 48736.912229
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 48736.912229
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 48736.912229
+        }
+      },
+      "Bittorrent": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 5056999.408665804
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 5290898.4110030625
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 5149845.75630952
+        }
+      },
+      "Boba": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 764959.236334
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 764943.721672
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 1806139.532595
+        }
+      },
+      "Theta": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 1132.423104
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 1132.423104
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 1132.423104
+        }
+      },
+      "Syscoin": {
+        "current": {
+          "peggedUSD": 0
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 84582.314497
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 84582.314497
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 278737.672468
+        }
+      },
+      "Solana": {
+        "current": {
+          "peggedUSD": 1811626518.176552
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 1810576655.9826176
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 1810661030.2223732
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 1811947195.4390938
+        }
+      }
+    },
+    "chains": [
+      "Tron",
+      "Solana",
+      "Omni",
+      "Algorand",
+      "EOS",
+      "Liquidchain",
+      "zkSync",
+      "Ontology",
+      "Statemine",
+      "Loopring",
+      "Optimism",
+      "Harmony",
+      "BSC",
+      "Astar",
+      "Oasis",
+      "Heco",
+      "Shiden",
+      "Telos",
+      "Arbitrum",
+      "TomoChain",
+      "Evmos",
+      "Milkomeda",
+      "SXnetwork",
+      "RSK",
+      "Moonbeam",
+      "Aurora",
+      "Polygon",
+      "Metis",
+      "Kava",
+      "Moonriver",
+      "Avalanche",
+      "Meter",
+      "IoTeX",
+      "Ethereum",
+      "Gnosis",
+      "Celo",
+      "Fuse",
+      "Fantom",
+      "OKExChain",
+      "Kardia",
+      "Terra Classic",
+      "KCC",
+      "Crab",
+      "Bittorrent",
+      "Boba",
+      "Theta",
+      "Syscoin"
+    ],
+    "price": 1.0002956,
+    "timestamp": "Aug 14, 2022",
+    "rank": 2,
+    "totalchains": 47,
+    "change1d": -46.89,
+    "change1w": -46.28,
+    "change1m": -45.83
   },
   {
     "id": "4",

@@ -22,13 +22,13 @@
       "https://github.com/Instadapp/dsa-contracts/blob/master/audits/v1_PeckShield_Mar_2020.pdf"
     ],
     "slug": "instadapp",
-    "tvl": 2819101961.0290713,
+    "tvl": 2822386824.700559,
     "chainTvls": {
-      "Ethereum": 2819101961.0290713
+      "Ethereum": 2822386824.700559
     },
-    "change_1h": 0.35,
-    "change_1d": 1.36,
-    "change_7d": 13.36,
+    "change_1h": 0.12,
+    "change_1d": 1.25,
+    "change_7d": 13.86,
     "mcap": 21397874,
     "rank": 1
   },
@@ -108,13 +108,13 @@
     "twitter": null,
     "listedAt": 1653984484,
     "slug": "bwatch",
-    "tvl": 219257061.47,
+    "tvl": 219473358.06,
     "chainTvls": {
-      "Mixin": 219257061.47
+      "Mixin": 219473358.06
     },
-    "change_1h": 0.13,
-    "change_1d": -0.05,
-    "change_7d": 6.81,
+    "change_1h": 0.1,
+    "change_1d": -0.18,
+    "change_7d": 7.13,
     "fdv": 584841321,
     "mcap": 0,
     "rank": 3
@@ -142,13 +142,13 @@
       "https://consensys.net/diligence/audits/2021/03/defi-saver/"
     ],
     "slug": "defisaver",
-    "tvl": 187610031.829368,
+    "tvl": 187815955.29406077,
     "chainTvls": {
-      "Ethereum": 187610031.829368
+      "Ethereum": 187815955.29406077
     },
-    "change_1h": 0.35,
-    "change_1d": 0.36,
-    "change_7d": 45.11,
+    "change_1h": 0.11,
+    "change_1d": 0.2,
+    "change_7d": 45.45,
     "rank": 4
   },
   {
@@ -182,54 +182,21 @@
       "Chainlink"
     ],
     "slug": "pooltogether",
-    "tvl": 56125284.32843022,
+    "tvl": 56243711.68177604,
     "chainTvls": {
-      "Optimism": 28593404.485707056,
-      "Avalanche": 450995.15682321094,
-      "Binance": 7236.301753212974,
-      "Ethereum": 12141440.303428346,
-      "Polygon": 14543646.504864475,
-      "Celo": 388561.5758539207
+      "Optimism": 28677657.39749774,
+      "Avalanche": 451446.03294612,
+      "Binance": 7220.532850246031,
+      "Ethereum": 12167910.105213856,
+      "Polygon": 14553923.784219295,
+      "Celo": 385553.82904878433
     },
-    "change_1h": -0.01,
-    "change_1d": -9.7,
-    "change_7d": -12.27,
-    "fdv": 9015547,
-    "mcap": 2763864,
+    "change_1h": 0.21,
+    "change_1d": -9.41,
+    "change_7d": -12.1,
+    "fdv": 9227610,
+    "mcap": 2828875,
     "rank": 5
-  },
-  {
-    "id": "233",
-    "name": "Metronome",
-    "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
-    "symbol": "MET",
-    "url": "https://metronome.io/",
-    "description": "Metronome is the world\u2019s first autonomous cryptocurrency.\r\n",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/metronome.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "metronome",
-    "cmcId": "2873",
-    "category": "Services",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "metronome/index.js",
-    "twitter": "MET_Token",
-    "audit_links": [
-      "https://github.com/autonomoussoftware/metronome-audits"
-    ],
-    "slug": "metronome",
-    "tvl": 36085304.827662215,
-    "chainTvls": {
-      "Ethereum": 36085304.827662215
-    },
-    "change_1h": -0.29,
-    "change_1d": -0.08,
-    "change_7d": 13.06,
-    "mcap": 15190480,
-    "rank": 6
   },
   {
     "id": "1254",
@@ -262,19 +229,52 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 33672999.759355165,
+    "tvl": 47841404.260963544,
     "chainTvls": {
-      "Binance": 1844757.253200708,
-      "Ethereum": 125131.96662858676,
-      "Astar": 33832.44334344871,
-      "Heco": 4577.611610572018,
-      "Avalanche": 67.67306921027959,
-      "Polygon": 31664586.152328275,
-      "Fantom": 46.65917436251112
+      "Binance": 1847308.1072894584,
+      "Ethereum": 125265.41681255912,
+      "Astar": 33732.82333553492,
+      "Heco": 4581.101649144019,
+      "Avalanche": 67.52108624574994,
+      "Polygon": 45830402.56381762,
+      "Fantom": 46.72697298406324
     },
-    "change_1h": -0.03,
-    "change_1d": 0.22,
-    "change_7d": 10.18,
+    "change_1h": 42.08,
+    "change_1d": 41.77,
+    "change_7d": 57.54,
+    "rank": 6
+  },
+  {
+    "id": "233",
+    "name": "Metronome",
+    "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+    "symbol": "MET",
+    "url": "https://metronome.io/",
+    "description": "Metronome is the world\u2019s first autonomous cryptocurrency.\r\n",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/metronome.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "metronome",
+    "cmcId": "2873",
+    "category": "Services",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "metronome/index.js",
+    "twitter": "MET_Token",
+    "audit_links": [
+      "https://github.com/autonomoussoftware/metronome-audits"
+    ],
+    "slug": "metronome",
+    "tvl": 36106167.72534507,
+    "chainTvls": {
+      "Ethereum": 36106167.72534507
+    },
+    "change_1h": 0.06,
+    "change_1d": -0.81,
+    "change_7d": 13.68,
+    "mcap": 15190480,
     "rank": 7
   },
   {
@@ -304,8 +304,8 @@
     "chainTvls": {
       "Algorand": 23774433.35267
     },
-    "change_1h": 0.18,
-    "change_1d": 0,
+    "change_1h": 0,
+    "change_1d": 0.1,
     "change_7d": 0.58,
     "rank": 8
   },
@@ -333,13 +333,13 @@
       "https://drive.google.com/file/d/1o7byxnZbhl8PkWpYHnWtxDgUp_cpPO73/view"
     ],
     "slug": "the-tokenized-bitcoin",
-    "tvl": 14189315.18930799,
+    "tvl": 14194246.3826562,
     "chainTvls": {
-      "Ethereum": 14189315.18930799
+      "Ethereum": 14194246.3826562
     },
     "change_1h": 0.03,
-    "change_1d": 4.18,
-    "change_7d": -24.64,
+    "change_1d": 0.14,
+    "change_7d": -24.45,
     "rank": 9
   },
   {
@@ -365,13 +365,13 @@
     "twitter": "ConcaveFi",
     "listedAt": 1649155527,
     "slug": "concave",
-    "tvl": 6049204.16697738,
+    "tvl": 6024804.1239005355,
     "chainTvls": {
-      "Ethereum": 6049204.16697738
+      "Ethereum": 6024804.1239005355
     },
-    "change_1h": -46.37,
-    "change_1d": -50.37,
-    "change_7d": -50.68,
+    "change_1h": -0.4,
+    "change_1d": -46.17,
+    "change_7d": -50.91,
     "mcap": 1251221,
     "rank": 10
   },
@@ -407,33 +407,33 @@
     ],
     "listedAt": 1641256925,
     "slug": "everrise",
-    "tvl": 5495263.639087905,
+    "tvl": 5491218.375025783,
     "chainTvls": {
-      "pool2": 4426030.161129037,
-      "Fantom-staking": 1874710.4716052094,
-      "Polygon-pool2": 1062340.0680730417,
-      "Binance-pool2": 960753.1154750008,
-      "Ethereum-pool2": 980494.2398474528,
-      "Binance": 2352291.097388066,
-      "Ethereum": 2924518.952127232,
-      "Binance-staking": 20240727.613743696,
-      "Avalanche": 79200.67978783377,
-      "Avalanche-staking": 1660998.8067423091,
-      "Ethereum-staking": 4123109.8300740556,
-      "Polygon": 75588.12276211249,
-      "Polygon-staking": 4496209.135812172,
-      "Avalanche-pool2": 742646.838101521,
-      "Fantom-pool2": 679795.8996320209,
-      "Fantom": 63664.787022661,
-      "staking": 32395755.857977442
+      "pool2": 4426678.495842728,
+      "Fantom-staking": 1875531.8799231348,
+      "Polygon-pool2": 1062018.2026552786,
+      "Binance-pool2": 959786.8804317706,
+      "Ethereum-pool2": 981215.9352079406,
+      "Binance": 2348422.2598064705,
+      "Ethereum": 2924197.9034108794,
+      "Binance-staking": 20249998.80057118,
+      "Avalanche": 79310.24668557504,
+      "Avalanche-staking": 1636748.3677976397,
+      "Ethereum-staking": 4124916.37927802,
+      "Polygon": 75596.9141182228,
+      "Polygon-staking": 4498177.697938046,
+      "Avalanche-pool2": 743599.4993115184,
+      "Fantom-pool2": 680057.9782362201,
+      "Fantom": 63691.05100463477,
+      "staking": 32385373.12550802
     },
-    "change_1h": 0.17,
-    "change_1d": -1.52,
-    "change_7d": -6.59,
-    "staking": 32395755.857977442,
-    "pool2": 4426030.161129037,
-    "fdv": 52511430,
-    "mcap": 52459082,
+    "change_1h": -0.07,
+    "change_1d": 3.08,
+    "change_7d": -6.29,
+    "staking": 32385373.12550802,
+    "pool2": 4426678.495842728,
+    "fdv": 52319161,
+    "mcap": 52267005,
     "rank": 11
   },
   {
@@ -471,20 +471,20 @@
     ],
     "listedAt": 1637977412,
     "slug": "dao-maker",
-    "tvl": 5165547.988885726,
+    "tvl": 5122021.344574252,
     "chainTvls": {
-      "Binance": 3800477.298568785,
-      "Ethereum": 760129.8722427094,
-      "Ethereum-staking": 115235095.80816737,
-      "Polygon": 72397.620917475,
-      "Celo": 503954.9851087562,
-      "Fantom": 28588.212048,
-      "staking": 115235095.80816737
+      "Binance": 3747011.773459809,
+      "Ethereum": 758909.7939490378,
+      "Ethereum-staking": 114657113.76523592,
+      "Polygon": 72377.567563575,
+      "Celo": 516027.0127819904,
+      "Fantom": 27695.196819840003,
+      "staking": 114657113.76523592
     },
-    "change_1h": -0.28,
-    "change_1d": -1.68,
-    "change_7d": -19.03,
-    "staking": 115235095.80816737,
+    "change_1h": -0.84,
+    "change_1d": -3.04,
+    "change_7d": -18.78,
+    "staking": 114657113.76523592,
     "fdv": 555148530,
     "mcap": 221716150,
     "rank": 12
@@ -512,13 +512,13 @@
     "twitter": "gardensdao",
     "listedAt": 1655988523,
     "slug": "gardens-dao",
-    "tvl": 4899378.804294489,
+    "tvl": 4898840.956300525,
     "chainTvls": {
-      "xDai": 4899378.804294489
+      "xDai": 4898840.956300525
     },
-    "change_1h": 0.17,
-    "change_1d": 1.1,
-    "change_7d": 11.63,
+    "change_1h": -0.01,
+    "change_1d": 0.59,
+    "change_7d": 11.59,
     "rank": 13
   },
   {
@@ -548,16 +548,16 @@
     "openSource": false,
     "listedAt": 1647396317,
     "slug": "kujira",
-    "tvl": 1970313.988620242,
+    "tvl": 1937468.6300478978,
     "chainTvls": {
-      "Kujira": 1970313.988620242,
-      "Kujira-staking": 44777122.81723124,
-      "staking": 44777122.81723124
+      "Kujira": 1937468.6300478978,
+      "Kujira-staking": 43960963.444891796,
+      "staking": 43960963.444891796
     },
-    "change_1h": -0.74,
-    "change_1d": 9.8,
-    "change_7d": 99.32,
-    "staking": 44777122.81723124,
+    "change_1h": -1.67,
+    "change_1d": 11.11,
+    "change_7d": 96.16,
+    "staking": 43960963.444891796,
     "fdv": 116402057,
     "mcap": 73606725,
     "rank": 14
@@ -591,8 +591,8 @@
     "chainTvls": {
       "Avalanche": 1742092.8524999998
     },
-    "change_1h": 0.18,
-    "change_1d": 37.6,
+    "change_1h": 0,
+    "change_1d": 37.74,
     "change_7d": -0.32,
     "rank": 15
   },
@@ -616,13 +616,13 @@
     "module": "bnbminer/index.js",
     "twitter": "Da_Developer",
     "slug": "bnbminer-finance",
-    "tvl": 1597451.8434020136,
+    "tvl": 1589395.4007944495,
     "chainTvls": {
-      "Binance": 1597451.8434020136
+      "Binance": 1589395.4007944495
     },
-    "change_1h": 0.14,
-    "change_1d": -3.32,
-    "change_7d": -12.63,
+    "change_1h": -0.1,
+    "change_1d": -3.54,
+    "change_7d": -12.45,
     "rank": 16
   },
   {
@@ -645,12 +645,12 @@
     "module": "crunchynetwork/index.js",
     "twitter": "CrunchyTez",
     "slug": "crunchy-network",
-    "tvl": 835609.72,
+    "tvl": 835588.71,
     "chainTvls": {
-      "Tezos": 835609.72
+      "Tezos": 835588.71
     },
-    "change_1h": 0.53,
-    "change_1d": -0.49,
+    "change_1h": -0.0,
+    "change_1d": -0.5,
     "change_7d": -1.13,
     "fdv": 662312,
     "mcap": 0,
@@ -682,16 +682,16 @@
     "twitter": "DexPad",
     "listedAt": 1656584149,
     "slug": "dexpad",
-    "tvl": 684103.8197519537,
+    "tvl": 689220.5526516216,
     "chainTvls": {
-      "Kava": 5.534636275814632,
-      "Cronos": 684060.6264459115,
-      "Avalanche": 0.05584471199999908,
-      "Polygon": 37.6028250543855
+      "Kava": 5.543522997510539,
+      "Cronos": 689177.3712560746,
+      "Avalanche": 0.05611636799999908,
+      "Polygon": 37.581756181403186
     },
-    "change_1h": -0.88,
-    "change_1d": -1.43,
-    "change_7d": 0.32,
+    "change_1h": 0.75,
+    "change_1d": -0.78,
+    "change_7d": 1.35,
     "fdv": 292517,
     "mcap": 0,
     "rank": 18
@@ -726,16 +726,16 @@
       "TWAP"
     ],
     "slug": "mean-finance",
-    "tvl": 628287.6623281637,
+    "tvl": 628714.2465156525,
     "chainTvls": {
-      "Optimism": 414394.0836738629,
-      "Ethereum": 33828.372499360965,
-      "Polygon": 180065.20615493986,
+      "Optimism": 414630.12913621846,
+      "Ethereum": 33859.279905923824,
+      "Polygon": 180224.83747351027,
       "Arbitrum": 0
     },
-    "change_1h": 0.12,
-    "change_1d": -0.96,
-    "change_7d": 10.76,
+    "change_1h": 0.07,
+    "change_1d": -0.76,
+    "change_7d": 10.93,
     "rank": 19
   },
   {
@@ -758,13 +758,13 @@
     "module": "enterdao/index.js",
     "twitter": "EnterDao",
     "slug": "enterdao",
-    "tvl": 604598.1827191131,
+    "tvl": 605244.2134087952,
     "chainTvls": {
-      "Ethereum": 604598.1827191131
+      "Ethereum": 605244.2134087952
     },
-    "change_1h": 0.3,
-    "change_1d": 0.03,
-    "change_7d": -6.48,
+    "change_1h": 0.11,
+    "change_1d": 0.31,
+    "change_7d": -6.31,
     "fdv": 5266694,
     "mcap": 1613290,
     "rank": 20
@@ -800,16 +800,16 @@
     ],
     "listedAt": 1659525571,
     "slug": "revert-compoundor",
-    "tvl": 482421.9099789221,
+    "tvl": 483874.5405821792,
     "chainTvls": {
-      "Optimism": 176231.8439071038,
-      "Ethereum": 44351.24546466568,
-      "Polygon": 112761.77996149054,
-      "Arbitrum": 149077.04064566214
+      "Optimism": 176978.09452943492,
+      "Ethereum": 44410.4484899058,
+      "Polygon": 113692.34229757421,
+      "Arbitrum": 148793.65526526424
     },
-    "change_1h": 0.19,
-    "change_1d": -3.36,
-    "change_7d": -15.56,
+    "change_1h": 0.3,
+    "change_1d": -0.3,
+    "change_7d": -17.33,
     "rank": 21
   },
   {
@@ -836,21 +836,21 @@
     "twitter": "aelinprotocol",
     "listedAt": 1645521923,
     "slug": "aelin",
-    "tvl": 425273.00981374545,
+    "tvl": 425230.51992329827,
     "chainTvls": {
-      "Optimism": 425157.44242380746,
-      "Optimism-pool2": 118477.7773491237,
-      "Optimism-staking": 1939651.0074419158,
-      "pool2": 132393.48553750323,
-      "Ethereum-pool2": 13915.708188379533,
-      "Ethereum": 115.56738993799999,
-      "staking": 1939651.0074419158
+      "Optimism": 425114.8370814223,
+      "Optimism-pool2": 118597.32885094966,
+      "Optimism-staking": 1941609.24894467,
+      "pool2": 132527.0778975827,
+      "Ethereum-pool2": 13929.74904663303,
+      "Ethereum": 115.682841876,
+      "staking": 1941609.24894467
     },
-    "change_1h": 0.0,
-    "change_1d": -0.1,
+    "change_1h": -0.01,
+    "change_1d": -0.12,
     "change_7d": -10.52,
-    "staking": 1939651.0074419158,
-    "pool2": 132393.48553750323,
+    "staking": 1941609.24894467,
+    "pool2": 132527.0778975827,
     "mcap": 0,
     "rank": 22
   },
@@ -878,18 +878,18 @@
       "https://certificate.quantstamp.com/full/peakdefi"
     ],
     "slug": "peakdefi",
-    "tvl": 386027.343352733,
+    "tvl": 386385.55480138806,
     "chainTvls": {
-      "Ethereum": 386027.343352733,
-      "Binance-staking": 4521584.893300333,
-      "Ethereum-staking": 13302402.265044013,
-      "staking": 17823987.158344347
+      "Ethereum": 386385.55480138806,
+      "Binance-staking": 4473951.152681279,
+      "Ethereum-staking": 13162264.858790224,
+      "staking": 17636216.011471502
     },
-    "change_1h": 0.08,
-    "change_1d": -0.14,
-    "change_7d": 6.7,
-    "staking": 17823987.158344347,
-    "mcap": 21021866,
+    "change_1h": 0.09,
+    "change_1d": -0.08,
+    "change_7d": 6.86,
+    "staking": 17636216.011471502,
+    "mcap": 20919125,
     "rank": 23
   },
   {
@@ -916,16 +916,16 @@
     ],
     "listedAt": 1639972343,
     "slug": "redacted-cartel",
-    "tvl": 266248.9137584786,
+    "tvl": 267920.6285991848,
     "chainTvls": {
-      "Ethereum": 266248.9137584786,
-      "Ethereum-staking": 8402877.959139898,
-      "staking": 8402877.959139898
+      "Ethereum": 267920.6285991848,
+      "Ethereum-staking": 8529195.102201514,
+      "staking": 8529195.102201514
     },
-    "change_1h": -0.62,
-    "change_1d": -1.63,
-    "change_7d": -88.93,
-    "staking": 8402877.959139898,
+    "change_1h": 0.63,
+    "change_1d": -0.96,
+    "change_7d": -88.82,
+    "staking": 8529195.102201514,
     "fdv": 9306903,
     "mcap": 35219335,
     "rank": 24
@@ -954,13 +954,13 @@
     ],
     "listedAt": 1639098493,
     "slug": "brinc-finance",
-    "tvl": 250001.47347891532,
+    "tvl": 250251.4749523942,
     "chainTvls": {
-      "Arbitrum": 250001.47347891532
+      "Arbitrum": 250251.4749523942
     },
-    "change_1h": 0.16,
-    "change_1d": -0.1,
-    "change_7d": 0.92,
+    "change_1h": 0.1,
+    "change_1d": 0.14,
+    "change_7d": 1.03,
     "rank": 25
   },
   {
@@ -1029,19 +1029,19 @@
     "twitter": "SuperFarmDAO",
     "listedAt": 1640518619,
     "slug": "superfarm",
-    "tvl": 101733.50982949238,
+    "tvl": 102020.94879538598,
     "chainTvls": {
-      "Ethereum": 101733.50982949238,
-      "pool2": 6377943.764577097,
-      "Ethereum-staking": 10696129.566522118,
-      "staking": 10696129.566522118,
-      "Ethereum-pool2": 6377943.764577097
+      "Ethereum": 102020.94879538598,
+      "pool2": 6378046.958505445,
+      "Ethereum-staking": 10685664.201184575,
+      "staking": 10685664.201184575,
+      "Ethereum-pool2": 6378046.958505445
     },
-    "change_1h": -0.25,
-    "change_1d": -1.2,
-    "change_7d": 7.14,
-    "staking": 10696129.566522118,
-    "pool2": 6377943.764577097,
+    "change_1h": 0.28,
+    "change_1d": -0.62,
+    "change_7d": 7.6,
+    "staking": 10685664.201184575,
+    "pool2": 6378046.958505445,
     "fdv": 179415779,
     "mcap": 51551972,
     "rank": 27
@@ -1071,16 +1071,16 @@
     ],
     "listedAt": 1636757032,
     "slug": "suterusu",
-    "tvl": 93522.24317599999,
+    "tvl": 93415.500686,
     "chainTvls": {
-      "Binance": 91164.165476,
-      "Ethereum": 2358.0777
+      "Binance": 91057.679086,
+      "Ethereum": 2357.8215999999998
     },
-    "change_1h": 0.13,
-    "change_1d": -0.96,
-    "change_7d": -0.09,
-    "fdv": 6649387,
-    "mcap": 2419739,
+    "change_1h": -0.11,
+    "change_1d": -0.95,
+    "change_7d": 0.13,
+    "fdv": 6598978,
+    "mcap": 2401394,
     "rank": 28
   },
   {
@@ -1107,19 +1107,19 @@
     ],
     "listedAt": 1641242781,
     "slug": "cybertime",
-    "tvl": 40380.029353092345,
+    "tvl": 40392.58477191749,
     "chainTvls": {
-      "Binance": 40380.029353092345,
+      "Binance": 40392.58477191749,
       "Binance-staking": 0,
-      "pool2": 9459.240547235502,
-      "Binance-pool2": 9459.240547235502,
+      "pool2": 9435.569066627306,
+      "Binance-pool2": 9435.569066627306,
       "staking": 0
     },
-    "change_1h": 0.12,
-    "change_1d": -0.22,
-    "change_7d": 1.14,
+    "change_1h": 0.03,
+    "change_1d": -0.23,
+    "change_7d": 1.31,
     "staking": 0,
-    "pool2": 9459.240547235502,
+    "pool2": 9435.569066627306,
     "fdv": 11340.19,
     "mcap": 0,
     "rank": 29
@@ -1145,13 +1145,13 @@
     "twitter": "UbiquityDAO",
     "listedAt": 1638903349,
     "slug": "ubiquity-dao",
-    "tvl": 40256.60284728753,
+    "tvl": 40296.85945013482,
     "chainTvls": {
-      "Ethereum": 40256.60284728753
+      "Ethereum": 40296.85945013482
     },
-    "change_1h": -41.77,
-    "change_1d": -41.84,
-    "change_7d": -41.8,
+    "change_1h": 0.1,
+    "change_1d": -41.76,
+    "change_7d": -41.77,
     "mcap": 0,
     "rank": 30
   },
@@ -1179,16 +1179,16 @@
       "https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MSgvIS2RfKE66pfkI81%2F-MUv-RfymyB6PvCRlnwz%2F-MUv1a71AjJ6p3Bgz5ui%2FChannels-Audit-Report-030321(1).pdf?alt=media&token=1af91ea6-d3d0-4ba3-8784-5dce6a907930"
     ],
     "slug": "yfdai",
-    "tvl": 24340.834469609516,
+    "tvl": 24365.264305122866,
     "chainTvls": {
-      "Ethereum": 24340.834469609516,
-      "Ethereum-staking": 70600.33404407965,
-      "staking": 70600.33404407965
+      "Ethereum": 24365.264305122866,
+      "Ethereum-staking": 70933.3544876838,
+      "staking": 70933.3544876838
     },
-    "change_1h": 0.13,
-    "change_1d": -0.12,
-    "change_7d": 6.07,
-    "staking": 70600.33404407965,
+    "change_1h": 0.1,
+    "change_1d": -0.01,
+    "change_7d": 6.24,
+    "staking": 70933.3544876838,
     "mcap": 143618,
     "rank": 31
   },
@@ -1216,15 +1216,15 @@
     ],
     "listedAt": 1638190661,
     "slug": "manifest",
-    "tvl": 4391.628029026833,
+    "tvl": 4414.272761024872,
     "chainTvls": {
-      "Ethereum": 4391.628029026833,
+      "Ethereum": 4414.272761024872,
       "Ethereum-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.05,
-    "change_1d": -1.49,
-    "change_7d": -3.51,
+    "change_1h": 0.52,
+    "change_1d": -1.1,
+    "change_7d": -3.37,
     "staking": 0,
     "fdv": 18853.72,
     "mcap": 0,
@@ -1254,21 +1254,21 @@
     ],
     "listedAt": 1637708954,
     "slug": "kimochi",
-    "tvl": 2547.8618559092515,
+    "tvl": 2545.7988743420583,
     "chainTvls": {
-      "Binance-masterchef": 2547.8618559092515,
-      "pool2": 536.6341734554717,
-      "masterchef": 2547.8618559092515,
-      "Binance-pool2": 536.6341734554717,
-      "Binance": 2547.8618559092515,
+      "Binance-masterchef": 2545.798874342058,
+      "pool2": 536.4675218515858,
+      "masterchef": 2545.798874342058,
+      "Binance-pool2": 536.4675218515858,
+      "Binance": 2545.7988743420583,
       "Binance-staking": 0,
       "staking": 0
     },
-    "change_1h": 0.11,
-    "change_1d": -0.19,
-    "change_7d": -0.68,
+    "change_1h": -0.08,
+    "change_1d": -0.11,
+    "change_7d": -0.36,
     "staking": 0,
-    "pool2": 536.6341734554717,
+    "pool2": 536.4675218515858,
     "fdv": 831232,
     "mcap": 0,
     "rank": 33
@@ -1294,13 +1294,13 @@
     "twitter": "SwapMint",
     "listedAt": 1637374538,
     "slug": "mintswap",
-    "tvl": 1852.2725325170882,
+    "tvl": 1855.0302174731528,
     "chainTvls": {
-      "Avalanche": 1852.2725325170882
+      "Avalanche": 1855.0302174731528
     },
     "change_1h": 0.15,
     "change_1d": -1.19,
-    "change_7d": -3.42,
+    "change_7d": -3.18,
     "fdv": 750,
     "mcap": 0,
     "rank": 34
@@ -1327,16 +1327,16 @@
     "module": "trustswap/index.js",
     "twitter": "TrustSwap",
     "slug": "trustswap",
-    "tvl": 1728.7834785629998,
+    "tvl": 1730.42217955,
     "chainTvls": {
-      "Ethereum": 1728.7834785629998,
-      "Ethereum-staking": 5038251.823234986,
-      "staking": 5038251.823234986
+      "Ethereum": 1730.42217955,
+      "Ethereum-staking": 5041332.326957592,
+      "staking": 5041332.326957592
     },
-    "change_1h": 0.01,
-    "change_1d": -0.09,
-    "change_7d": 0.02,
-    "staking": 5038251.823234986,
+    "change_1h": 0.09,
+    "change_1d": 0.1,
+    "change_7d": 0.12,
+    "staking": 5041332.326957592,
     "rank": 35
   }
 ]

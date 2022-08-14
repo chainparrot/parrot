@@ -61,17 +61,17 @@
       "https://github.com/keep3r-network/keep3r.network/tree/master/audits"
     ],
     "slug": "keep3r-network",
-    "tvl": 578919228,
+    "tvl": 578908192,
     "chainTvls": {
-      "Ethereum-staking": 12630724.357154107,
-      "Ethereum-borrowed": 10939387.523904195,
-      "borrowed": 10939387.523904195,
-      "staking": 12630724.357154107
+      "Ethereum-staking": 12552187.160830777,
+      "Ethereum-borrowed": 10950272.486614548,
+      "borrowed": 10950272.486614548,
+      "staking": 12552187.160830777
     },
-    "change_1h": 0.0,
-    "change_1d": 0.2,
+    "change_1h": -0.0,
+    "change_1d": 0.19,
     "change_7d": 2.4,
-    "staking": 12630724.357154107,
+    "staking": 12552187.160830777,
     "fdv": 63108130,
     "mcap": 63108130,
     "rank": 2
@@ -103,13 +103,13 @@
     ],
     "language": "Cairo",
     "slug": "dydx",
-    "tvl": 503128706.87408346,
+    "tvl": 503390621.7158897,
     "chainTvls": {
-      "Ethereum": 503128706.87408346
+      "Ethereum": 503390621.7158897
     },
-    "change_1h": 0.01,
-    "change_1d": -2.19,
-    "change_7d": -5.58,
+    "change_1h": 0.05,
+    "change_1d": -2.05,
+    "change_7d": -5.53,
     "fdv": 2503353720,
     "mcap": 282817167,
     "rank": 3
@@ -138,18 +138,18 @@
       "https://github.com/xvi10/gambit-contracts/tree/master/audits"
     ],
     "slug": "gmx",
-    "tvl": 356045245.2183281,
+    "tvl": 354602771.23537856,
     "chainTvls": {
-      "Avalanche": 94859512.45664017,
-      "Avalanche-staking": 18607320.96244078,
-      "Arbitrum-staking": 238456421.6319172,
-      "Arbitrum": 261185732.76168793,
-      "staking": 257063742.594358
+      "Avalanche": 94946248.43713367,
+      "Avalanche-staking": 18579899.905925017,
+      "Arbitrum-staking": 237658415.41079506,
+      "Arbitrum": 259656522.7982449,
+      "staking": 256238315.31672007
     },
-    "change_1h": 0.09,
-    "change_1d": 0.26,
-    "change_7d": 6.21,
-    "staking": 257063742.594358,
+    "change_1h": -0.41,
+    "change_1d": -0.18,
+    "change_7d": 5.88,
+    "staking": 256238315.31672007,
     "fdv": 578350085,
     "mcap": 344991240,
     "rank": 4
@@ -181,16 +181,16 @@
       "Chainlink"
     ],
     "slug": "perpetual-protocol",
-    "tvl": 22873717.45159601,
+    "tvl": 22896518.218181025,
     "chainTvls": {
-      "Optimism": 22873717.45159601,
-      "Ethereum-staking": 15867912.649788765,
-      "staking": 15867912.649788765
+      "Optimism": 22896518.218181025,
+      "Ethereum-staking": 15836981.04618294,
+      "staking": 15836981.04618294
     },
-    "change_1h": 0.03,
-    "change_1d": 0.19,
-    "change_7d": 3.46,
-    "staking": 15867912.649788765,
+    "change_1h": 0.1,
+    "change_1d": 0.39,
+    "change_7d": 3.59,
+    "staking": 15836981.04618294,
     "fdv": 164427134,
     "mcap": 77173121,
     "rank": 5
@@ -218,21 +218,21 @@
     "twitter": "ApolloX_com",
     "listedAt": 1652988932,
     "slug": "apollox",
-    "tvl": 13573186.38832419,
+    "tvl": 13547071.846272213,
     "chainTvls": {
-      "Binance": 13573186.38832419,
-      "Binance-staking": 6626098.625118972,
-      "pool2": 4950766.452936621,
-      "Binance-pool2": 4950766.452936621,
-      "staking": 6626098.625118972
+      "Binance": 13547071.846272213,
+      "Binance-staking": 6965294.593866095,
+      "pool2": 4952149.7204315085,
+      "Binance-pool2": 4952149.7204315085,
+      "staking": 6965294.593866095
     },
-    "change_1h": 0.17,
-    "change_1d": 0.43,
-    "change_7d": 0.21,
-    "staking": 6626098.625118972,
-    "pool2": 4950766.452936621,
-    "fdv": 489220432,
-    "mcap": 20120460,
+    "change_1h": -0.19,
+    "change_1d": 0.33,
+    "change_7d": 0.07,
+    "staking": 6965294.593866095,
+    "pool2": 4952149.7204315085,
+    "fdv": 487153812,
+    "mcap": 20035465,
     "rank": 6
   },
   {
@@ -259,18 +259,59 @@
     ],
     "listedAt": 1639418230,
     "slug": "gains-network",
-    "tvl": 11769348.547425704,
+    "tvl": 11791814.968066262,
     "chainTvls": {
-      "Polygon": 11769348.547425704,
-      "pool2": 8552197.208608817,
-      "Polygon-pool2": 8552197.208608817
+      "Polygon": 11791814.968066262,
+      "pool2": 8536753.86851161,
+      "Polygon-pool2": 8536753.86851161
     },
-    "change_1h": 0.24,
-    "change_1d": 0.74,
-    "change_7d": 1.16,
-    "pool2": 8552197.208608817,
-    "mcap": 57332476,
+    "change_1h": 0.19,
+    "change_1d": 1.05,
+    "change_7d": 1.34,
+    "pool2": 8536753.86851161,
+    "mcap": 57568776,
     "rank": 7
+  },
+  {
+    "id": "1057",
+    "name": "Linear Finance",
+    "address": "bsc:0x762539b45A1dCcE3D36d080F74d1AED37844b878",
+    "symbol": "LINA",
+    "url": "https://linear.finance",
+    "description": "The first cross-chain compatible, delta-one asset protocol.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/linear-finance.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "linear",
+    "cmcId": "7102",
+    "category": "Derivatives",
+    "chains": [
+      "Binance"
+    ],
+    "module": "linear/index.js",
+    "twitter": "LinearFinance",
+    "audit_links": [
+      "https://www.certik.com/projects/linearfinance"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "listedAt": 1639989997,
+    "slug": "linear-finance",
+    "tvl": 7514501.98156782,
+    "chainTvls": {
+      "Binance": 7514501.98156782,
+      "pool2": 132890.77608666584,
+      "Binance-pool2": 132890.77608666584
+    },
+    "change_1h": 0.44,
+    "change_1d": -1.38,
+    "change_7d": 1.19,
+    "pool2": 132890.77608666584,
+    "fdv": 108029371,
+    "mcap": 44529783,
+    "rank": 8
   },
   {
     "id": "247",
@@ -302,59 +343,18 @@
       "UMA"
     ],
     "slug": "jarvis-network",
-    "tvl": 7507331.455316797,
+    "tvl": 7513102.824569885,
     "chainTvls": {
-      "Binance": 684677.6735728557,
-      "Ethereum": 73098.231710504,
-      "xDai": 59212.19221331549,
-      "Polygon": 6690343.357820122
+      "Binance": 683861.9652836377,
+      "Ethereum": 73171.256917008,
+      "xDai": 59122.557686412685,
+      "Polygon": 6696947.044682826
     },
-    "change_1h": -0.11,
-    "change_1d": -0.31,
-    "change_7d": 388.52,
-    "fdv": 17143375,
-    "mcap": 6480399,
-    "rank": 8
-  },
-  {
-    "id": "1057",
-    "name": "Linear Finance",
-    "address": "bsc:0x762539b45A1dCcE3D36d080F74d1AED37844b878",
-    "symbol": "LINA",
-    "url": "https://linear.finance",
-    "description": "The first cross-chain compatible, delta-one asset protocol.",
-    "chain": "Binance",
-    "logo": "https://icons.llama.fi/linear-finance.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "linear",
-    "cmcId": "7102",
-    "category": "Derivatives",
-    "chains": [
-      "Binance"
-    ],
-    "module": "linear/index.js",
-    "twitter": "LinearFinance",
-    "audit_links": [
-      "https://www.certik.com/projects/linearfinance"
-    ],
-    "oracles": [
-      "Chainlink"
-    ],
-    "listedAt": 1639989997,
-    "slug": "linear-finance",
-    "tvl": 7481920.790873088,
-    "chainTvls": {
-      "Binance": 7481920.790873088,
-      "pool2": 132758.01806859724,
-      "Binance-pool2": 132758.01806859724
-    },
-    "change_1h": 0.21,
-    "change_1d": -2.16,
-    "change_7d": 0.4,
-    "pool2": 132758.01806859724,
-    "fdv": 108029371,
-    "mcap": 44529783,
+    "change_1h": 0.08,
+    "change_1d": -0.14,
+    "change_7d": 388.89,
+    "fdv": 17294253,
+    "mcap": 6537433,
     "rank": 9
   },
   {
@@ -385,17 +385,17 @@
       "Chainlink"
     ],
     "slug": "deri-protocol",
-    "tvl": 5455460.1279709935,
+    "tvl": 5460692.315600763,
     "chainTvls": {
-      "Binance": 3216401.034766383,
-      "Polygon": 85526.80969953642,
-      "Arbitrum": 2153532.2835050737
+      "Binance": 3219482.708171338,
+      "Polygon": 85525.94302174888,
+      "Arbitrum": 2155683.6644076766
     },
-    "change_1h": 0.0,
-    "change_1d": -2.63,
-    "change_7d": -3.34,
-    "fdv": 12592045,
-    "mcap": 3513215,
+    "change_1h": 0.1,
+    "change_1d": -2.49,
+    "change_7d": -3.25,
+    "fdv": 12596937,
+    "mcap": 3514580,
     "rank": 10
   },
   {
@@ -421,13 +421,13 @@
       "https://github.com/erasureprotocol/NMR/tree/master/audits"
     ],
     "slug": "erasure",
-    "tvl": 5387142.734589356,
+    "tvl": 5357196.141583219,
     "chainTvls": {
-      "Ethereum": 5387142.734589356
+      "Ethereum": 5357196.141583219
     },
-    "change_1h": 0.37,
-    "change_1d": 1.41,
-    "change_7d": -1.26,
+    "change_1h": -0.56,
+    "change_1d": 0.8,
+    "change_7d": -0.81,
     "fdv": 234023475,
     "mcap": 130861173,
     "rank": 11
@@ -458,15 +458,15 @@
       "Chainlink"
     ],
     "slug": "hakka-finance",
-    "tvl": 5107815,
+    "tvl": 5114870,
     "chainTvls": {
-      "Ethereum": 5107815
+      "Ethereum": 5114870
     },
-    "change_1h": 0.16,
-    "change_1d": -0.36,
-    "change_7d": 12.87,
-    "fdv": 1352507,
-    "mcap": 622015,
+    "change_1h": 0.14,
+    "change_1d": -0.55,
+    "change_7d": 13.15,
+    "fdv": 1363610,
+    "mcap": 627121,
     "rank": 12
   },
   {
@@ -493,13 +493,13 @@
     ],
     "listedAt": 1635464348,
     "slug": "tracer",
-    "tvl": 4849697.990294157,
+    "tvl": 4854536.766488688,
     "chainTvls": {
-      "Arbitrum": 4849697.990294157
+      "Arbitrum": 4854536.766488688
     },
-    "change_1h": -0.1,
-    "change_1d": 1.16,
-    "change_7d": 11.07,
+    "change_1h": 0.1,
+    "change_1d": 1.54,
+    "change_7d": 11.41,
     "fdv": 148971723,
     "mcap": 49859376,
     "rank": 13
@@ -532,12 +532,12 @@
     ],
     "listedAt": 1659987915,
     "slug": "hubble-exchange",
-    "tvl": 4361443.001633676,
+    "tvl": 4367074.137719727,
     "chainTvls": {
-      "Avalanche": 4361443.001633676
+      "Avalanche": 4367074.137719727
     },
-    "change_1h": 0.05,
-    "change_1d": 7.94,
+    "change_1h": 0.13,
+    "change_1d": 8.17,
     "change_7d": null,
     "rank": 14
   },
@@ -569,15 +569,15 @@
       "Chainlink"
     ],
     "slug": "futureswap",
-    "tvl": 3410074.4005319956,
+    "tvl": 3413442.1941741076,
     "chainTvls": {
-      "Ethereum": 477404.98329452646,
-      "Avalanche": 37418.75878352688,
-      "Arbitrum": 2895250.6584539423
+      "Ethereum": 477883.42115755205,
+      "Avalanche": 37472.77505333587,
+      "Arbitrum": 2898085.99796322
     },
-    "change_1h": 0.05,
-    "change_1d": -0.1,
-    "change_7d": 8.38,
+    "change_1h": 0.1,
+    "change_1d": -0.03,
+    "change_7d": 8.58,
     "fdv": 27727811,
     "mcap": 5907557,
     "rank": 15
@@ -612,21 +612,21 @@
     ],
     "listedAt": 1646762203,
     "slug": "horizon-protocol",
-    "tvl": 2888233.462765909,
+    "tvl": 2898580.4851817503,
     "chainTvls": {
-      "Binance": 2888233.462765909,
-      "Binance-staking": 15443.546545194997,
-      "pool2": 595137.7788429526,
-      "Binance-pool2": 595137.7788429526,
-      "staking": 15443.546545194997
+      "Binance": 2898580.4851817503,
+      "Binance-staking": 15552.710106162654,
+      "pool2": 598991.9316954871,
+      "Binance-pool2": 598991.9316954871,
+      "staking": 15552.710106162654
     },
-    "change_1h": 0.12,
-    "change_1d": -2.04,
-    "change_7d": 3.2,
-    "staking": 15443.546545194997,
-    "pool2": 595137.7788429526,
-    "fdv": 5049605,
-    "mcap": 1529044,
+    "change_1h": 0.36,
+    "change_1d": -1.47,
+    "change_7d": 4.16,
+    "staking": 15552.710106162654,
+    "pool2": 598991.9316954871,
+    "fdv": 5056733,
+    "mcap": 1531202,
     "rank": 16
   },
   {
@@ -654,14 +654,14 @@
       "https://github.com/CompliFi/complifi-amm/tree/master/audits"
     ],
     "slug": "complifi",
-    "tvl": 1923127.3077316347,
+    "tvl": 1924985.5162871908,
     "chainTvls": {
-      "Ethereum": 907029.1851060439,
-      "Polygon": 1016098.1226255908
+      "Ethereum": 907935.308168088,
+      "Polygon": 1017050.208119103
     },
-    "change_1h": 0.01,
-    "change_1d": -0.09,
-    "change_7d": -18.26,
+    "change_1h": 0.1,
+    "change_1d": 0.14,
+    "change_7d": -18.16,
     "mcap": 308867,
     "rank": 17
   },
@@ -688,15 +688,15 @@
       "https://certificate.quantstamp.com/full/deriva-dex"
     ],
     "slug": "derivadex",
-    "tvl": 1664151.9030503863,
+    "tvl": 1665541.9163415267,
     "chainTvls": {
-      "Ethereum": 1664151.9030503863
+      "Ethereum": 1665541.9163415267
     },
-    "change_1h": 0.06,
-    "change_1d": -0.04,
-    "change_7d": 0.02,
-    "fdv": 93246535,
-    "mcap": 24332370,
+    "change_1h": 0.08,
+    "change_1d": 0.13,
+    "change_7d": 0.11,
+    "fdv": 93339092,
+    "mcap": 24356522,
     "rank": 18
   },
   {
@@ -726,13 +726,13 @@
     ],
     "listedAt": 1638568951,
     "slug": "drift",
-    "tvl": 1604396.037528284,
+    "tvl": 1605998.830772568,
     "chainTvls": {
-      "Solana": 1604396.037528284
+      "Solana": 1605998.830772568
     },
-    "change_1h": 0,
-    "change_1d": -0.12,
-    "change_7d": -0.47,
+    "change_1h": 0.1,
+    "change_1d": 0.08,
+    "change_7d": -0.37,
     "rank": 19
   },
   {
@@ -758,13 +758,13 @@
     "twitter": "UniDexFinance",
     "listedAt": 1655547687,
     "slug": "unidex",
-    "tvl": 1494851.0594447118,
+    "tvl": 1495871.9701899244,
     "chainTvls": {
-      "Fantom": 1494851.0594447118
+      "Fantom": 1495871.9701899244
     },
-    "change_1h": 0.1,
-    "change_1d": 0.69,
-    "change_7d": 2.59,
+    "change_1h": 0.07,
+    "change_1d": 0.97,
+    "change_7d": 2.73,
     "mcap": 4466532,
     "rank": 20
   },
@@ -796,13 +796,13 @@
     ],
     "listedAt": 1637890789,
     "slug": "pika-protocol",
-    "tvl": 1093560.2557950069,
+    "tvl": 1094731.509029394,
     "chainTvls": {
-      "Optimism": 1093560.2557950069
+      "Optimism": 1094731.509029394
     },
-    "change_1h": 0.13,
-    "change_1d": 0.02,
-    "change_7d": -5.31,
+    "change_1h": 0.11,
+    "change_1d": 0.26,
+    "change_7d": -5.25,
     "rank": 21
   },
   {
@@ -829,58 +829,21 @@
     "twitter": "unboundfinance",
     "listedAt": 1660121047,
     "slug": "unbound",
-    "tvl": 832249.572169584,
+    "tvl": 833080.9903235997,
     "chainTvls": {
-      "Ethereum": 72894.0152239055,
-      "Polygon": 759355.5569456784,
-      "Ethereum-staking": 5734.433039295289,
+      "Ethereum": 72966.8364179354,
+      "Polygon": 760114.1539056642,
+      "Ethereum-staking": 5398.733446782084,
       "Polygon-staking": 0,
-      "staking": 5734.433039295289
+      "staking": 5398.733446782084
     },
-    "change_1h": 0,
-    "change_1d": -0.1,
+    "change_1h": 0.1,
+    "change_1d": 0.1,
     "change_7d": null,
-    "staking": 5734.433039295289,
+    "staking": 5398.733446782084,
     "fdv": 16337981,
     "mcap": 1591319,
     "rank": 22
-  },
-  {
-    "id": "628",
-    "name": "Float",
-    "address": "polygon:0x01309A1Ec476871760D9Ea454628500BCcc1E011",
-    "symbol": "FLT",
-    "url": "https://float.capital",
-    "description": "Float is a novel protocol, creating an efficient magic internet asset marketplace, governed entirely by code, allowing anyone around the world to get involved.",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/float.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Derivatives",
-    "chains": [
-      "Polygon",
-      "Avalanche"
-    ],
-    "module": "float-capital/index.js",
-    "twitter": "float_capital",
-    "audit_links": [
-      "https://code423n4.com/reports/2021-08-floatcapital"
-    ],
-    "oracles": [
-      "Chainlink"
-    ],
-    "slug": "float",
-    "tvl": 624072.4312805011,
-    "chainTvls": {
-      "Avalanche": 54663.404313820894,
-      "Polygon": 569409.0269666802
-    },
-    "change_1h": 0.16,
-    "change_1d": -8.14,
-    "change_7d": -8.95,
-    "rank": 23
   },
   {
     "id": "260",
@@ -910,19 +873,56 @@
     ],
     "openSource": true,
     "slug": "mirror",
-    "tvl": 581393.6359105941,
+    "tvl": 578775.7797151414,
     "chainTvls": {
-      "Ethereum": 581393.6359105941,
-      "pool2": 304627.1296727475,
+      "Ethereum": 578775.7797151414,
+      "pool2": 300895.0435224537,
       "Terra": 0,
-      "Ethereum-pool2": 304627.1296727475
+      "Ethereum-pool2": 300895.0435224537
     },
-    "change_1h": -0.47,
-    "change_1d": -3.03,
-    "change_7d": -8.65,
-    "pool2": 304627.1296727475,
-    "fdv": 84329655,
-    "mcap": 35512609,
+    "change_1h": -0.45,
+    "change_1d": -4.08,
+    "change_7d": -8.77,
+    "pool2": 300895.0435224537,
+    "fdv": 84409017,
+    "mcap": 35546030,
+    "rank": 23
+  },
+  {
+    "id": "628",
+    "name": "Float",
+    "address": "polygon:0x01309A1Ec476871760D9Ea454628500BCcc1E011",
+    "symbol": "FLT",
+    "url": "https://float.capital",
+    "description": "Float is a novel protocol, creating an efficient magic internet asset marketplace, governed entirely by code, allowing anyone around the world to get involved.",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/float.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Derivatives",
+    "chains": [
+      "Polygon",
+      "Avalanche"
+    ],
+    "module": "float-capital/index.js",
+    "twitter": "float_capital",
+    "audit_links": [
+      "https://code423n4.com/reports/2021-08-floatcapital"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "slug": "float",
+    "tvl": 542418.1476138715,
+    "chainTvls": {
+      "Avalanche": 54718.13774328936,
+      "Polygon": 487700.0098705821
+    },
+    "change_1h": -13.08,
+    "change_1d": -21.7,
+    "change_7d": -20.86,
     "rank": 24
   },
   {
@@ -953,13 +953,13 @@
     ],
     "listedAt": 1650190517,
     "slug": "predy-finance",
-    "tvl": 382855.52316961286,
+    "tvl": 373218.1648306299,
     "chainTvls": {
-      "Arbitrum": 382855.52316961286
+      "Arbitrum": 373218.1648306299
     },
-    "change_1h": -0.12,
-    "change_1d": -0.23,
-    "change_7d": -5.61,
+    "change_1h": -2.52,
+    "change_1d": -2.66,
+    "change_7d": -7.76,
     "rank": 25
   },
   {
@@ -986,13 +986,13 @@
     ],
     "listedAt": 1640082000,
     "slug": "ideamarket",
-    "tvl": 278190.0531034674,
+    "tvl": 278468.2431565708,
     "chainTvls": {
-      "Arbitrum": 278190.0531034674
+      "Arbitrum": 278468.2431565708
     },
-    "change_1h": 0.16,
-    "change_1d": -0.1,
-    "change_7d": -0.3,
+    "change_1h": 0.1,
+    "change_1d": 0.14,
+    "change_7d": -0.2,
     "fdv": 3041556,
     "mcap": 0,
     "rank": 26
@@ -1020,13 +1020,13 @@
       "https://github.com/vanilladefi/contracts/tree/main/audits"
     ],
     "slug": "vanilla",
-    "tvl": 38326.86441501884,
+    "tvl": 38347.311364806876,
     "chainTvls": {
-      "Ethereum": 38326.86441501884
+      "Ethereum": 38347.311364806876
     },
-    "change_1h": 0.02,
-    "change_1d": -0.53,
-    "change_7d": 5.18,
+    "change_1h": 0.05,
+    "change_1d": -0.29,
+    "change_7d": 5.32,
     "mcap": 0,
     "rank": 27
   },
@@ -1055,13 +1055,13 @@
     "twitter": "Chaotic_Finance",
     "listedAt": 1647374644,
     "slug": "chaotic-finance",
-    "tvl": 25213.528448363722,
+    "tvl": 25122.95605237934,
     "chainTvls": {
-      "Moonriver": 25213.528448363722
+      "Moonriver": 25122.95605237934
     },
-    "change_1h": -0.22,
-    "change_1d": -1.56,
-    "change_7d": -7.73,
+    "change_1h": -0.36,
+    "change_1d": -1.9,
+    "change_7d": -6.2,
     "rank": 28
   }
 ]
