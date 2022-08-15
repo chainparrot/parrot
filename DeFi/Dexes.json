@@ -424,7 +424,7 @@
     "change_1h": 0.02,
     "change_1d": -0.72,
     "change_7d": -0.09,
-    "mcap": 530833090,
+    "mcap": 532093672,
     "rank": 10
   },
   {
@@ -543,7 +543,7 @@
     "change_1d": 40.73,
     "change_7d": null,
     "staking": 1716068.3828946438,
-    "fdv": 432219712,
+    "fdv": 450588594,
     "mcap": 0,
     "rank": 13
   },
@@ -971,7 +971,7 @@
     "change_1h": -0.03,
     "change_1d": -1.3,
     "change_7d": 0.99,
-    "mcap": 89325461,
+    "mcap": 89248849,
     "rank": 25
   },
   {
@@ -1123,8 +1123,8 @@
     "change_1h": -0.9,
     "change_1d": -5.23,
     "change_7d": 0.51,
-    "fdv": 1103877105,
-    "mcap": 504042814,
+    "fdv": 1102648566,
+    "mcap": 503481849,
     "rank": 29
   },
   {
@@ -1407,8 +1407,8 @@
     "change_1d": -7.21,
     "change_7d": -23.7,
     "staking": 3378905.4673638386,
-    "fdv": 25159136,
-    "mcap": 19502353,
+    "fdv": 25047473,
+    "mcap": 19415797,
     "rank": 37
   },
   {
@@ -1649,7 +1649,7 @@
     "change_1h": -0.15,
     "change_1d": -1.12,
     "change_7d": 1.06,
-    "mcap": 70637482,
+    "mcap": 70199855,
     "rank": 43
   },
   {
@@ -1801,8 +1801,8 @@
     "change_1h": -0.31,
     "change_1d": 0.58,
     "change_7d": -0.51,
-    "fdv": 33903612,
-    "mcap": 7572410,
+    "fdv": 33700802,
+    "mcap": 7527112,
     "rank": 47
   },
   {
@@ -1924,8 +1924,8 @@
     "change_1h": -0.16,
     "change_1d": -3.23,
     "change_7d": 4.16,
-    "fdv": 23210016,
-    "mcap": 1153918,
+    "fdv": 23426465,
+    "mcap": 1164679,
     "rank": 50
   },
   {
@@ -2335,8 +2335,8 @@
     "change_1h": -0.21,
     "change_1d": -2.6,
     "change_7d": 4.52,
-    "fdv": 17951836,
-    "mcap": 3741418,
+    "fdv": 17846113,
+    "mcap": 3719383,
     "rank": 61
   },
   {
@@ -2369,8 +2369,8 @@
     "change_1h": 0.02,
     "change_1d": 1.07,
     "change_7d": 1.93,
-    "fdv": 59336478,
-    "mcap": 13267867,
+    "fdv": 59575271,
+    "mcap": 13321262,
     "rank": 62
   },
   {
@@ -2636,8 +2636,8 @@
     "change_1h": -0.03,
     "change_1d": -1.81,
     "change_7d": 4.81,
-    "fdv": 5516460,
-    "mcap": 2873599,
+    "fdv": 5491119,
+    "mcap": 2860399,
     "rank": 69
   },
   {
@@ -4037,8 +4037,8 @@
     "change_1h": -0.08,
     "change_1d": -2.19,
     "change_7d": 2.4,
-    "fdv": 6104806,
-    "mcap": 1954300,
+    "fdv": 6154489,
+    "mcap": 1970205,
     "rank": 107
   },
   {
@@ -6260,6 +6260,48 @@
     "rank": 167
   },
   {
+    "id": "499",
+    "name": "Polycat",
+    "address": "polygon:0x3a3df212b7aa91aa0402b9035b098891d276572b",
+    "symbol": "FISH",
+    "url": "https://polycat.finance",
+    "description": "\u200bPolycat is a value-oriented, sustainable and decentralized hybrid yield optimizer (yield farm and yield aggregator) running on the Polygon blockchain.",
+    "chain": "Polygon",
+    "logo": "https://icons.llama.fi/polycat.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "polycat-finance",
+    "cmcId": "10134",
+    "category": "Dexes",
+    "chains": [
+      "Polygon"
+    ],
+    "module": "polycat/index.js",
+    "twitter": "PolycatFinance",
+    "audit_links": [
+      "https://docs.polycat.finance/security#audit"
+    ],
+    "forkedFrom": [
+      "Uniswap"
+    ],
+    "slug": "polycat",
+    "tvl": 3487636.821112596,
+    "chainTvls": {
+      "Polygon": 3487636.821112596,
+      "pool2": 7005.297186139955,
+      "Polygon-pool2": 7005.297186139955,
+      "Polygon-staking": 407571.58175619954,
+      "staking": 407571.58175619954
+    },
+    "change_1h": -0.09,
+    "change_1d": -1.63,
+    "change_7d": 4.15,
+    "staking": 407571.58175619954,
+    "pool2": 7005.297186139955,
+    "mcap": 0,
+    "rank": 168
+  },
+  {
     "id": "845",
     "name": "Axial",
     "address": "avax:0xcF8419A615c57511807236751c0AF38Db4ba3351",
@@ -6295,48 +6337,6 @@
     "pool2": 61898.68550502481,
     "fdv": 617475,
     "mcap": 181280,
-    "rank": 168
-  },
-  {
-    "id": "499",
-    "name": "Polycat",
-    "address": "polygon:0x3a3df212b7aa91aa0402b9035b098891d276572b",
-    "symbol": "FISH",
-    "url": "https://polycat.finance",
-    "description": "\u200bPolycat is a value-oriented, sustainable and decentralized hybrid yield optimizer (yield farm and yield aggregator) running on the Polygon blockchain.",
-    "chain": "Polygon",
-    "logo": "https://icons.llama.fi/polycat.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "polycat-finance",
-    "cmcId": "10134",
-    "category": "Dexes",
-    "chains": [
-      "Polygon"
-    ],
-    "module": "polycat/index.js",
-    "twitter": "PolycatFinance",
-    "audit_links": [
-      "https://docs.polycat.finance/security#audit"
-    ],
-    "forkedFrom": [
-      "Uniswap"
-    ],
-    "slug": "polycat",
-    "tvl": 3484522.958919192,
-    "chainTvls": {
-      "Polygon": 3484522.958919192,
-      "pool2": 6991.408229787701,
-      "Polygon-pool2": 6991.408229787701,
-      "Polygon-staking": 406004.9124885485,
-      "staking": 406004.9124885485
-    },
-    "change_1h": -0.3,
-    "change_1d": -1.83,
-    "change_7d": 11.89,
-    "staking": 406004.9124885485,
-    "pool2": 6991.408229787701,
-    "mcap": 0,
     "rank": 169
   },
   {
@@ -6360,13 +6360,13 @@
     "twitter": "polkaswap",
     "listedAt": 1635262454,
     "slug": "polkaswap",
-    "tvl": 3478947.79230626,
+    "tvl": 3479066.1346267397,
     "chainTvls": {
-      "Sora": 3478947.79230626
+      "Sora": 3479066.1346267397
     },
-    "change_1h": -0.09,
-    "change_1d": -3.55,
-    "change_7d": -11.48,
+    "change_1h": -0.32,
+    "change_1d": -3.7,
+    "change_7d": -11.25,
     "fdv": 16549656,
     "mcap": 6068734,
     "rank": 170
@@ -7001,7 +7001,7 @@
     "change_1h": -0.54,
     "change_1d": -5.23,
     "change_7d": -6.87,
-    "mcap": 22013001,
+    "mcap": 21801695,
     "rank": 187
   },
   {
@@ -7521,7 +7521,7 @@
     "change_1d": -0.91,
     "change_7d": 6.29,
     "staking": 1378979.1138428377,
-    "fdv": 9541903,
+    "fdv": 9537618,
     "mcap": 0,
     "rank": 201
   },
@@ -8063,8 +8063,8 @@
     "change_1h": -0.29,
     "change_1d": -2.28,
     "change_7d": 13.33,
-    "fdv": 73480296,
-    "mcap": 73480296,
+    "fdv": 73242493,
+    "mcap": 73242493,
     "rank": 215
   },
   {
@@ -8358,8 +8358,8 @@
     "change_1d": -2.65,
     "change_7d": -3.24,
     "staking": 0,
-    "fdv": 1693244,
-    "mcap": 672339,
+    "fdv": 1667026,
+    "mcap": 661929,
     "rank": 223
   },
   {
@@ -8846,8 +8846,8 @@
     "change_1h": -0.11,
     "change_1d": -0.98,
     "change_7d": 6.13,
-    "fdv": 15046559,
-    "mcap": 1570459,
+    "fdv": 15119952,
+    "mcap": 1578120,
     "rank": 236
   },
   {
@@ -9875,7 +9875,7 @@
     "change_1d": -6.25,
     "change_7d": -12.46,
     "staking": 1405610.944664699,
-    "mcap": 691012,
+    "mcap": 648395,
     "rank": 264
   },
   {
@@ -13754,16 +13754,16 @@
     "module": "tendieswap/index.js",
     "twitter": "tendie_swap",
     "slug": "tendieswap",
-    "tvl": 84449.72526363567,
+    "tvl": 84166.91319058646,
     "chainTvls": {
-      "Binance": 84449.72526363567,
-      "Binance-staking": 850932.596268768,
-      "staking": 850932.596268768
+      "Binance": 84166.91319058646,
+      "Binance-staking": 847436.5685638462,
+      "staking": 847436.5685638462
     },
-    "change_1h": -0.35,
-    "change_1d": -0.66,
-    "change_7d": -20.59,
-    "staking": 850932.596268768,
+    "change_1h": -0.43,
+    "change_1d": -1.6,
+    "change_7d": -21.12,
+    "staking": 847436.5685638462,
     "mcap": 1774209,
     "rank": 368
   },
@@ -14369,16 +14369,16 @@
     ],
     "listedAt": 1636837386,
     "slug": "arenaswap",
-    "tvl": 54575.11287298717,
+    "tvl": 54253.244167973295,
     "chainTvls": {
-      "Binance": 54575.11287298717,
-      "Binance-staking": 29322.184229280698,
-      "staking": 29322.184229280698
+      "Binance": 54253.244167973295,
+      "Binance-staking": 29002.10685238141,
+      "staking": 29002.10685238141
     },
-    "change_1h": -0.15,
-    "change_1d": -0.82,
-    "change_7d": -1.33,
-    "staking": 29322.184229280698,
+    "change_1h": -0.69,
+    "change_1d": -1.69,
+    "change_7d": -2.18,
+    "staking": 29002.10685238141,
     "fdv": 27527,
     "mcap": 0,
     "rank": 385
@@ -14659,16 +14659,16 @@
       "Uniswap"
     ],
     "slug": "fuzz-finance",
-    "tvl": 49531.80650995278,
+    "tvl": 50285.01879265548,
     "chainTvls": {
-      "Harmony-staking": 44983.609444708476,
-      "Harmony": 49531.80650995278,
-      "staking": 44983.609444708476
+      "Harmony-staking": 45943.47933607308,
+      "Harmony": 50285.01879265548,
+      "staking": 45943.47933607308
     },
-    "change_1h": -1.33,
-    "change_1d": -3.54,
-    "change_7d": 30.49,
-    "staking": 44983.609444708476,
+    "change_1h": 1.14,
+    "change_1d": -0.74,
+    "change_7d": 30.28,
+    "staking": 45943.47933607308,
     "fdv": 338884,
     "mcap": 0,
     "rank": 393
@@ -14949,8 +14949,8 @@
     "change_1h": -0.45,
     "change_1d": -3.0,
     "change_7d": 4.06,
-    "fdv": 870857,
-    "mcap": 80281,
+    "fdv": 864866,
+    "mcap": 79729,
     "rank": 401
   },
   {
@@ -15633,7 +15633,7 @@
     "change_1d": -2.8,
     "change_7d": -0.29,
     "staking": 10787.51974165429,
-    "mcap": 688528,
+    "mcap": 686722,
     "rank": 420
   },
   {
@@ -17082,13 +17082,13 @@
     "twitter": "FUNBeastCrypto",
     "listedAt": 1650104851,
     "slug": "funbeast",
-    "tvl": 2307.0906782848756,
+    "tvl": 2304.503477042636,
     "chainTvls": {
-      "Astar": 2307.0906782848756
+      "Astar": 2304.503477042636
     },
-    "change_1h": 0.04,
-    "change_1d": -0.56,
-    "change_7d": -1.61,
+    "change_1h": -0.11,
+    "change_1d": -0.67,
+    "change_7d": -1.08,
     "rank": 461
   },
   {
