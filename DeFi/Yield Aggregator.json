@@ -222,21 +222,21 @@
     "module": "yieldyak/index.js",
     "twitter": "yieldyak_",
     "slug": "yield-yak",
-    "tvl": 70968135.39955018,
+    "tvl": 70775575.50926542,
     "chainTvls": {
-      "Avalanche": 70968135.39955018,
-      "Avalanche-staking": 2863944.1407562653,
-      "pool2": 126.37626207492502,
-      "Avalanche-pool2": 126.37626207492502,
-      "staking": 2863944.1407562653
+      "Avalanche": 70775575.50926542,
+      "Avalanche-staking": 2836863.8666459625,
+      "pool2": 125.61928687010075,
+      "Avalanche-pool2": 125.61928687010075,
+      "staking": 2836863.8666459625
     },
-    "change_1h": -0.16,
-    "change_1d": -3.78,
-    "change_7d": -4.78,
-    "staking": 2863944.1407562653,
-    "pool2": 126.37626207492502,
-    "fdv": 3819333,
-    "mcap": 3623798,
+    "change_1h": -0.27,
+    "change_1d": -4.56,
+    "change_7d": -6.42,
+    "staking": 2836863.8666459625,
+    "pool2": 125.61928687010075,
+    "fdv": 3826508,
+    "mcap": 3630605,
     "rank": 5
   },
   {
@@ -424,8 +424,8 @@
     "change_1d": -2.67,
     "change_7d": 2.36,
     "staking": 3071021.2681965306,
-    "fdv": 5167431,
-    "mcap": 4399850,
+    "fdv": 5213672,
+    "mcap": 4439222,
     "rank": 9
   },
   {
@@ -589,8 +589,8 @@
     "change_1h": -0.2,
     "change_1d": -5.92,
     "change_7d": -4.83,
-    "fdv": 37203574,
-    "mcap": 8988734,
+    "fdv": 37398699,
+    "mcap": 9035887,
     "rank": 13
   },
   {
@@ -651,8 +651,8 @@
     "change_7d": -1.22,
     "staking": 3235601.0943393353,
     "pool2": 371631.08007396973,
-    "fdv": 5254036,
-    "mcap": 1442982,
+    "fdv": 5233165,
+    "mcap": 1437250,
     "rank": 14
   },
   {
@@ -993,8 +993,8 @@
     "change_1h": -0.42,
     "change_1d": -0.68,
     "change_7d": -1.25,
-    "fdv": 73995596,
-    "mcap": 53690226,
+    "fdv": 75756136,
+    "mcap": 54967651,
     "rank": 22
   },
   {
@@ -1038,7 +1038,7 @@
     "change_1h": -0.1,
     "change_1d": -2.34,
     "change_7d": -1.82,
-    "fdv": 9522141,
+    "fdv": 9541147,
     "mcap": 0,
     "rank": 23
   },
@@ -1478,40 +1478,6 @@
     "rank": 35
   },
   {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 262104.203796426,
-    "chainTvls": {
-      "Klaytn": 262104.203796426
-    },
-    "change_1h": 55.94,
-    "change_1d": 38.21,
-    "change_7d": 89.01,
-    "rank": 36
-  },
-  {
     "id": "1312",
     "name": "Epsylon Finance",
     "address": null,
@@ -1542,7 +1508,7 @@
     "change_1h": -0.36,
     "change_1d": -1.04,
     "change_7d": -1.36,
-    "rank": 37
+    "rank": 36
   },
   {
     "id": "1704",
@@ -1584,7 +1550,7 @@
     "change_7d": -23.37,
     "staking": 25.371113120811646,
     "pool2": 5321.491537699918,
-    "rank": 38
+    "rank": 37
   },
   {
     "id": "1203",
@@ -1636,7 +1602,41 @@
     "change_7d": 1.0,
     "staking": 10403.84700735625,
     "pool2": 29269.428167917406,
-    "mcap": 862921,
+    "mcap": 851227,
+    "rank": 38
+  },
+  {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 122444.73611799625,
+    "chainTvls": {
+      "Klaytn": 122444.73611799625
+    },
+    "change_1h": -53.28,
+    "change_1d": -36.45,
+    "change_7d": 11.14,
     "rank": 39
   },
   {
@@ -1756,8 +1756,8 @@
     "change_1h": -0.24,
     "change_1d": -2.07,
     "change_7d": 0.94,
-    "fdv": 66028836,
-    "mcap": 65586626,
+    "fdv": 66173936,
+    "mcap": 65730754,
     "rank": 42
   },
   {

@@ -157,7 +157,7 @@
     "change_7d": 12.29,
     "staking": 429963.51108261105,
     "pool2": 1824532.1583577804,
-    "mcap": 104451922,
+    "mcap": 105258774,
     "rank": 4
   },
   {
@@ -550,8 +550,8 @@
     "change_1h": -0.4,
     "change_1d": -0.31,
     "change_7d": -0.29,
-    "fdv": 1204626,
-    "mcap": 1204626,
+    "fdv": 1267022,
+    "mcap": 1267022,
     "rank": 14
   },
   {
@@ -1019,8 +1019,47 @@
     "change_1d": -2.96,
     "change_7d": 0.55,
     "staking": 2185389.4029487856,
-    "mcap": 9373993,
+    "mcap": 9318178,
     "rank": 26
+  },
+  {
+    "id": "1618",
+    "name": "DeltaTheta",
+    "address": "bsc:0x3a06212763caf64bf101daa4b0cebb0cd393fa1a",
+    "symbol": "DLTA",
+    "url": "https://deltatheta.tech",
+    "description": "Delta.theta is a peer-to-peer asset options trading decentralized exchange",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/deltatheta.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": "delta-theta",
+    "cmcId": "11341",
+    "category": "Options",
+    "chains": [
+      "Binance",
+      "Polygon"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "deltatheta/index.js",
+    "twitter": "deltatheta_tech",
+    "audit_links": [
+      "https://hacken.io/wp-content/uploads/2021/12/DeltaTheta_06122021SCAudit_Report_2.pdf"
+    ],
+    "listedAt": 1649283926,
+    "slug": "deltatheta",
+    "tvl": 188046.83946950408,
+    "chainTvls": {
+      "Binance": 144766.81518710157,
+      "Polygon": 43280.024282402504
+    },
+    "change_1h": 104.64,
+    "change_1d": 133.58,
+    "change_7d": 163.1,
+    "fdv": 1062021,
+    "mcap": 551370,
+    "rank": 27
   },
   {
     "id": "339",
@@ -1057,7 +1096,7 @@
     "change_7d": 7.2,
     "fdv": 599070,
     "mcap": 212595,
-    "rank": 27
+    "rank": 28
   },
   {
     "id": "1615",
@@ -1092,7 +1131,7 @@
     "change_1h": -15.4,
     "change_1d": -16.65,
     "change_7d": -25.52,
-    "rank": 28
+    "rank": 29
   },
   {
     "id": "532",
@@ -1131,7 +1170,7 @@
     "change_7d": 5.02,
     "staking": 0,
     "mcap": 1907.04,
-    "rank": 29
+    "rank": 30
   },
   {
     "id": "1299",
@@ -1184,45 +1223,6 @@
     "pool2": 0,
     "fdv": 2161561,
     "mcap": 0,
-    "rank": 30
-  },
-  {
-    "id": "1618",
-    "name": "DeltaTheta",
-    "address": "bsc:0x3a06212763caf64bf101daa4b0cebb0cd393fa1a",
-    "symbol": "DLTA",
-    "url": "https://deltatheta.tech",
-    "description": "Delta.theta is a peer-to-peer asset options trading decentralized exchange",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/deltatheta.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": "delta-theta",
-    "cmcId": "11341",
-    "category": "Options",
-    "chains": [
-      "Binance",
-      "Polygon"
-    ],
-    "oracles": [],
-    "forkedFrom": [],
-    "module": "deltatheta/index.js",
-    "twitter": "deltatheta_tech",
-    "audit_links": [
-      "https://hacken.io/wp-content/uploads/2021/12/DeltaTheta_06122021SCAudit_Report_2.pdf"
-    ],
-    "listedAt": 1649283926,
-    "slug": "deltatheta",
-    "tvl": 91893.1822097321,
-    "chainTvls": {
-      "Binance": 48551.60004223209,
-      "Polygon": 43341.582167500004
-    },
-    "change_1h": -0.35,
-    "change_1d": 15.87,
-    "change_7d": 38.07,
-    "fdv": 1062021,
-    "mcap": 551370,
     "rank": 31
   },
   {
@@ -1258,8 +1258,8 @@
     "change_1h": -0.18,
     "change_1d": -5.93,
     "change_7d": -2.79,
-    "fdv": 175344,
-    "mcap": 94653,
+    "fdv": 175461,
+    "mcap": 94717,
     "rank": 32
   },
   {
