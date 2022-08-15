@@ -15,12 +15,12 @@
     "category": "Privacy",
     "chains": [
       "Ethereum",
+      "Binance",
       "Polygon",
       "Arbitrum",
       "Avalanche",
       "xDai",
-      "Optimism",
-      "Binance"
+      "Optimism"
     ],
     "module": "tornado/index.js",
     "twitter": "TornadoCash",
@@ -29,19 +29,19 @@
     ],
     "oracles": [],
     "slug": "tornado-cash",
-    "tvl": 371545626.3925164,
+    "tvl": 400739344.3534789,
     "chainTvls": {
-      "Optimism": 31292.675999999996,
-      "Binance": 0,
-      "Ethereum": 370204576.60581636,
-      "xDai": 180339.4,
-      "Avalanche": 193070.4,
-      "Polygon": 500730.3637,
-      "Arbitrum": 435616.947
+      "Optimism": 31074.719999999998,
+      "Binance": 31814616.785,
+      "Ethereum": 367590527.8202789,
+      "xDai": 180159.6,
+      "Avalanche": 192722.40000000002,
+      "Polygon": 497660.1882,
+      "Arbitrum": 432582.84
     },
-    "change_1h": -7.78,
-    "change_1d": -12.97,
-    "change_7d": -21.69,
+    "change_1h": 7.86,
+    "change_1d": -5.67,
+    "change_7d": -15.96,
     "fdv": 132187617,
     "mcap": 19974423,
     "rank": 1
@@ -74,18 +74,18 @@
     ],
     "listedAt": 1651009772,
     "slug": "sienna-network",
-    "tvl": 7469197.047234073,
+    "tvl": 7515161.053574917,
     "chainTvls": {
-      "Secret": 7469197.047234073,
-      "Secret-staking": 1377670.0652429454,
-      "borrowed": 338528.5745731251,
-      "Secret-borrowed": 338528.5745731251,
-      "staking": 1377670.0652429454
+      "Secret": 7515161.053574917,
+      "Secret-staking": 1369540.7008441621,
+      "borrowed": 335721.14535754564,
+      "Secret-borrowed": 335721.14535754564,
+      "staking": 1369540.7008441621
     },
-    "change_1h": 0.71,
-    "change_1d": -3.48,
-    "change_7d": 0.97,
-    "staking": 1377670.0652429454,
+    "change_1h": 0.62,
+    "change_1d": -2.59,
+    "change_7d": 1.5,
+    "staking": 1369540.7008441621,
     "fdv": 9283355,
     "mcap": 4035111,
     "rank": 2
@@ -111,13 +111,13 @@
     "twitter": "aztecnetwork",
     "listedAt": 1639389670,
     "slug": "aztec",
-    "tvl": 4824926.300897244,
+    "tvl": 4796477.409759514,
     "chainTvls": {
-      "Ethereum": 4824926.300897244
+      "Ethereum": 4796477.409759514
     },
-    "change_1h": 0.17,
-    "change_1d": -5.33,
-    "change_7d": -2.67,
+    "change_1h": -0.59,
+    "change_1d": -5.56,
+    "change_7d": -3.63,
     "rank": 3
   },
   {
@@ -147,24 +147,24 @@
     ],
     "listedAt": 1643326249,
     "slug": "railgun",
-    "tvl": 1935656.9376279765,
+    "tvl": 1930132.6574679185,
     "chainTvls": {
-      "Binance": 4254.3651378877485,
-      "Ethereum-treasury": 6338794.66194925,
-      "Ethereum": 1924839.4260817738,
+      "Binance": 4247.5685840293245,
+      "Ethereum-treasury": 6332431.453616881,
+      "Ethereum": 1919349.9130859973,
       "Binance-staking": 0,
-      "Ethereum-staking": 33958996.954073064,
-      "Polygon": 6563.1464083151595,
+      "Ethereum-staking": 34068056.70587328,
+      "Polygon": 6535.175797891844,
       "Polygon-staking": 30554549.30922906,
-      "Binance-treasury": 63.898513677279865,
-      "Polygon-treasury": 1011.756587738954,
-      "treasury": 6339870.317050667,
-      "staking": 64513546.263302125
+      "Binance-treasury": 63.76237935781661,
+      "Polygon-treasury": 1007.4443552826336,
+      "treasury": 6333502.660351521,
+      "staking": 64622606.01510234
     },
-    "change_1h": 0.39,
-    "change_1d": 216.8,
-    "change_7d": 306.57,
-    "staking": 64513546.263302125,
+    "change_1h": -0.29,
+    "change_1d": 216.79,
+    "change_7d": 304.77,
+    "staking": 64622606.01510234,
     "fdv": 91416245,
     "mcap": 52564341,
     "rank": 4
@@ -195,13 +195,13 @@
     ],
     "listedAt": 1648568500,
     "slug": "sherpa-cash",
-    "tvl": 534272.4,
+    "tvl": 533309.4,
     "chainTvls": {
-      "Avalanche": 534272.4
+      "Avalanche": 533309.4
     },
-    "change_1h": -0.07,
-    "change_1d": -5.49,
-    "change_7d": -9.05,
+    "change_1h": -0.18,
+    "change_1d": -5.4,
+    "change_7d": -9.28,
     "fdv": 1006706,
     "mcap": 0,
     "rank": 5
@@ -229,20 +229,20 @@
       "Tornado Cash"
     ],
     "slug": "shadecash",
-    "tvl": 55353.601176000004,
+    "tvl": 54744.324483000004,
     "chainTvls": {
-      "pool2": 3622.2515156337126,
-      "Fantom-staking": 5.7873393039841545,
-      "Fantom-pool2": 3622.2515156337126,
-      "staking": 5.7873393039841545,
-      "Fantom": 55353.601176000004
+      "pool2": 3609.3785140431182,
+      "Fantom-staking": 5.769982758511443,
+      "Fantom-pool2": 3609.3785140431182,
+      "staking": 5.769982758511443,
+      "Fantom": 54744.324483000004
     },
-    "change_1h": 0.77,
-    "change_1d": -5.44,
-    "change_7d": -0.53,
-    "staking": 5.7873393039841545,
-    "pool2": 3622.2515156337126,
-    "fdv": 60768,
+    "change_1h": -1.1,
+    "change_1d": -5.99,
+    "change_7d": -2.62,
+    "staking": 5.769982758511443,
+    "pool2": 3609.3785140431182,
+    "fdv": 60016,
     "mcap": 0,
     "rank": 6
   },
@@ -273,13 +273,13 @@
     ],
     "listedAt": 1637727721,
     "slug": "typhoon-cash",
-    "tvl": 32437.53,
+    "tvl": 32211.6,
     "chainTvls": {
-      "Ethereum": 32437.53
+      "Ethereum": 32211.6
     },
-    "change_1h": 0.37,
-    "change_1d": -4.54,
-    "change_7d": 7.64,
+    "change_1h": -0.7,
+    "change_1d": -4.79,
+    "change_7d": 6.37,
     "mcap": 0,
     "rank": 7
   }
