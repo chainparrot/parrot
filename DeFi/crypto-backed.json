@@ -2144,894 +2144,6 @@
     "rank": 18
   },
   {
-    "id": "28",
-    "name": "Vai",
-    "symbol": "VAI",
-    "gecko_id": "vai",
-    "pegType": "peggedUSD",
-    "priceSource": "chainlink",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 21195771.4956587
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 21195771.4956587
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 21215019.909228615
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 21390949.114670426
-    },
-    "chainCirculating": {
-      "BSC": {
-        "current": {
-          "peggedUSD": 21195771.4956587
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 21195771.4956587
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 21215019.909228615
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 21390949.114670426
-        }
-      }
-    },
-    "chains": [
-      "BSC"
-    ],
-    "price": 0.94109528,
-    "marketcapUSD": 19947240.510522943,
-    "marketcapEUR": 0,
-    "offPeg": -5.89,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 0.0,
-    "change1w": -0.09,
-    "change1m": -0.91,
-    "rank": 19
-  },
-  {
-    "id": "16",
-    "name": "Parrot USD",
-    "symbol": "PAI",
-    "gecko_id": "parrot-usd",
-    "pegType": "peggedUSD",
-    "priceSource": "birdeye",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 19102997.806933
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 19102997.809437
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 19102999.71921
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 19102999.892094
-    },
-    "chainCirculating": {
-      "Solana": {
-        "current": {
-          "peggedUSD": 19102997.806933
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 19102997.809437
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 19102999.71921
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 19102999.892094
-        }
-      }
-    },
-    "chains": [
-      "Solana"
-    ],
-    "price": 0.9935043690844887,
-    "marketcapUSD": 18978911.783799343,
-    "marketcapEUR": 0,
-    "offPeg": -0.65,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.0,
-    "change1w": -0.0,
-    "change1m": -0.0,
-    "rank": 20
-  },
-  {
-    "id": "29",
-    "name": "TOR",
-    "symbol": "TOR",
-    "gecko_id": "tor",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 17070482.490329992
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 17070482.490329992
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 17070482.490329992
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 17070482.490329992
-    },
-    "chainCirculating": {
-      "Fantom": {
-        "current": {
-          "peggedUSD": 17070482.490329992
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 17070482.490329992
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 17070482.490329992
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 17070482.490329992
-        }
-      }
-    },
-    "chains": [
-      "Fantom"
-    ],
-    "price": 0.9995066797762486,
-    "marketcapUSD": 17062061.27608832,
-    "marketcapEUR": 0,
-    "offPeg": -0.05,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 0.0,
-    "change1w": 0.0,
-    "change1m": 0.0,
-    "rank": 21
-  },
-  {
-    "id": "62",
-    "name": "PUSd",
-    "symbol": "PUSD",
-    "gecko_id": "pusd-2",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 10354372.65492797
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 9487597.950703999
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 9416154.638663463
-    },
-    "circulatingPrevMonth": {
-      "peggedEUR": 0,
-      "peggedUSD": 0
-    },
-    "chainCirculating": {
-      "Ethereum": {
-        "current": {
-          "peggedUSD": 10354372.65492797
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 9487597.950703999
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 9416154.638663463
-        },
-        "circulatingPrevMonth": 0
-      }
-    },
-    "chains": [
-      "Ethereum"
-    ],
-    "price": 1.0125289094491408,
-    "marketcapUSD": 10484101.652324222,
-    "marketcapEUR": 0,
-    "offPeg": 1.25,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 9.14,
-    "change1w": 9.96,
-    "change1m": 0,
-    "rank": 22
-  },
-  {
-    "id": "65",
-    "name": "USDH",
-    "symbol": "USDH",
-    "gecko_id": "usdh",
-    "pegType": "peggedUSD",
-    "priceSource": "birdeye",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 8285858.946433
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 8296174.160595
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 8696543.114621
-    },
-    "circulatingPrevMonth": {
-      "peggedEUR": 0,
-      "peggedUSD": 0
-    },
-    "chainCirculating": {
-      "Solana": {
-        "current": {
-          "peggedUSD": 8285858.946433
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 8296174.160595
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 8696543.114621
-        },
-        "circulatingPrevMonth": 0
-      }
-    },
-    "chains": [
-      "Solana"
-    ],
-    "price": 0.9950872000000001,
-    "marketcapUSD": 8245152.178600965,
-    "marketcapEUR": 0,
-    "offPeg": -0.49,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.12,
-    "change1w": -4.72,
-    "change1m": 0,
-    "rank": 23
-  },
-  {
-    "id": "57",
-    "name": "Hedge USD",
-    "symbol": "USH",
-    "gecko_id": "hedge-usd",
-    "pegType": "peggedUSD",
-    "priceSource": "birdeye",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 7741563.125038072
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 7442176.309377525
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 5362152.568977062
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 5394658.908319425
-    },
-    "chainCirculating": {
-      "Solana": {
-        "current": {
-          "peggedUSD": 7741563.125038072
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 7442176.309377525
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 5362152.568977062
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 5394658.908319425
-        }
-      }
-    },
-    "chains": [
-      "Solana"
-    ],
-    "price": 0.9975696000095776,
-    "marketcapUSD": 7722748.030093125,
-    "marketcapEUR": 0,
-    "offPeg": -0.24,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 4.02,
-    "change1w": 44.37,
-    "change1m": 43.5,
-    "rank": 24
-  },
-  {
-    "id": "53",
-    "name": "sEUR",
-    "symbol": "SEUR",
-    "gecko_id": "seur",
-    "pegType": "peggedEUR",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedEUR": 6910615.794584686
-    },
-    "circulatingPrevDay": {
-      "peggedEUR": 6910615.4572871355
-    },
-    "circulatingPrevWeek": {
-      "peggedEUR": 6952885.784842137
-    },
-    "circulatingPrevMonth": {
-      "peggedEUR": 4842170.290601306
-    },
-    "chainCirculating": {
-      "Optimism": {
-        "current": {
-          "peggedEUR": 32120.02331161313
-        },
-        "circulatingPrevDay": {
-          "peggedEUR": 32120.02331161313
-        },
-        "circulatingPrevWeek": {
-          "peggedEUR": 32150.020664139203
-        },
-        "circulatingPrevMonth": {
-          "peggedEUR": 42208.79339997685
-        }
-      },
-      "Ethereum": {
-        "current": {
-          "peggedEUR": 6878495.771273073
-        },
-        "circulatingPrevDay": {
-          "peggedEUR": 6878495.433975522
-        },
-        "circulatingPrevWeek": {
-          "peggedEUR": 6920735.764177998
-        },
-        "circulatingPrevMonth": {
-          "peggedEUR": 4799961.497201329
-        }
-      }
-    },
-    "chains": [
-      "Ethereum",
-      "Optimism"
-    ],
-    "price": 1.037665138042897,
-    "marketcapUSD": 7357377.308473188,
-    "marketcapEUR": 7170905.092449142,
-    "offPeg": 3.77,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 2,
-    "change1d": 0.0,
-    "change1w": -0.61,
-    "change1m": 42.72,
-    "rank": 25
-  },
-  {
-    "id": "60",
-    "name": "HomeCoin",
-    "symbol": "HOME",
-    "gecko_id": "bacon-protocol-home",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 6728072.037453
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 6728072.037453
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 6738894.116307
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 6747984.623267
-    },
-    "chainCirculating": {
-      "Ethereum": {
-        "current": {
-          "peggedUSD": 6728072.037453
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 6728072.037453
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 6738894.116307
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 6747984.623267
-        }
-      }
-    },
-    "chains": [
-      "Ethereum"
-    ],
-    "price": 0.9951913915373541,
-    "marketcapUSD": 6695719.373316413,
-    "marketcapEUR": 0,
-    "offPeg": -0.48,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 0.0,
-    "change1w": -0.16,
-    "change1m": -0.3,
-    "rank": 26
-  },
-  {
-    "id": "56",
-    "name": "Parallel",
-    "symbol": "PAR",
-    "gecko_id": "par-stablecoin",
-    "pegType": "peggedEUR",
-    "priceSource": "dexscreener",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedEUR": 6284720.588721013
-    },
-    "circulatingPrevDay": {
-      "peggedEUR": 6286002.4287210135
-    },
-    "circulatingPrevWeek": {
-      "peggedEUR": 6375403.543902664
-    },
-    "circulatingPrevMonth": {
-      "peggedEUR": 6196739.852694061
-    },
-    "chainCirculating": {
-      "Ethereum": {
-        "current": {
-          "peggedEUR": 3393156.2437123884
-        },
-        "circulatingPrevDay": {
-          "peggedEUR": 3395661.9677150575
-        },
-        "circulatingPrevWeek": {
-          "peggedEUR": 3530391.0561396717
-        },
-        "circulatingPrevMonth": {
-          "peggedEUR": 4164905.3787157917
-        }
-      },
-      "Polygon": {
-        "current": {
-          "peggedEUR": 2316272.1565922406
-        },
-        "circulatingPrevDay": {
-          "peggedEUR": 2316075.4499687534
-        },
-        "circulatingPrevWeek": {
-          "peggedEUR": 2309519.0788242235
-        },
-        "circulatingPrevMonth": {
-          "peggedEUR": 1248354.5409809828
-        }
-      },
-      "Fantom": {
-        "current": {
-          "peggedEUR": 575292.1884163846
-        },
-        "circulatingPrevDay": {
-          "peggedEUR": 574265.0110372023
-        },
-        "circulatingPrevWeek": {
-          "peggedEUR": 535493.4089387691
-        },
-        "circulatingPrevMonth": {
-          "peggedEUR": 783479.9329972864
-        }
-      }
-    },
-    "chains": [
-      "Ethereum",
-      "Polygon",
-      "Fantom"
-    ],
-    "price": 1.02,
-    "marketcapUSD": 6577111.432168315,
-    "marketcapEUR": 6410415.000495433,
-    "offPeg": 2.0,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 3,
-    "change1d": -0.02,
-    "change1w": -1.42,
-    "change1m": 1.42,
-    "rank": 27
-  },
-  {
-    "id": "71",
-    "name": "Vesta Stable",
-    "symbol": "VST",
-    "gecko_id": "vesta-stable",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 5994916.049928289
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 6014135.098767925
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 5745228.76534108
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 3725160.86634785
-    },
-    "chainCirculating": {
-      "Arbitrum": {
-        "current": {
-          "peggedUSD": 5994916.049928289
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 6014135.098767925
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 5745228.76534108
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 3725160.86634785
-        }
-      }
-    },
-    "chains": [
-      "Arbitrum"
-    ],
-    "price": 1.0008039,
-    "marketcapUSD": 5999735.362940826,
-    "marketcapEUR": 0,
-    "offPeg": 0.08,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.32,
-    "change1w": 4.35,
-    "change1m": 60.93,
-    "rank": 28
-  },
-  {
-    "id": "33",
-    "name": "USDP Stablecoin",
-    "symbol": "USDP",
-    "gecko_id": "usdp",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 4548031.451931303
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 4548031.451931303
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 4597303.506778897
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 4536545.944578051
-    },
-    "chainCirculating": {
-      "BSC": {
-        "current": {
-          "peggedUSD": 9693.30321687054
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 9693.30321687054
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 9693.30321687054
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 9693.30321687054
-        }
-      },
-      "Ethereum": {
-        "current": {
-          "peggedUSD": 4530115.042797196
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 4530115.042797196
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 4579387.097644789
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 4518629.535443943
-        }
-      },
-      "Gnosis": {
-        "current": {
-          "peggedUSD": 8130.254795960425
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 8130.254795960425
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 8130.254795960425
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 8130.254795960425
-        }
-      },
-      "Fantom": {
-        "current": {
-          "peggedUSD": 92.85112127631122
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 92.85112127631122
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 92.85112127631122
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 92.85112127631122
-        }
-      }
-    },
-    "chains": [
-      "Ethereum",
-      "BSC",
-      "Gnosis",
-      "Fantom"
-    ],
-    "price": 0.9996489301641133,
-    "marketcapUSD": 4546434.7752758665,
-    "marketcapEUR": 0,
-    "offPeg": -0.04,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 4,
-    "change1d": 0.0,
-    "change1w": -1.07,
-    "change1m": 0.25,
-    "rank": 29
-  },
-  {
-    "id": "46",
-    "name": "USD+",
-    "symbol": "USD+",
-    "gecko_id": "usd",
-    "pegType": "peggedUSD",
-    "priceSource": "defillama",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 3790341.547944
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 3820219.546141
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 3642773.729589
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 2317682.1055
-    },
-    "chainCirculating": {
-      "Polygon": {
-        "current": {
-          "peggedUSD": 3790341.547944
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 3820219.546141
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 3642773.729589
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 2317682.1055
-        }
-      }
-    },
-    "chains": [
-      "Polygon"
-    ],
-    "price": 1,
-    "marketcapUSD": 3790341.547944,
-    "marketcapEUR": 0,
-    "offPeg": 0.0,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.78,
-    "change1w": 4.05,
-    "change1m": 63.54,
-    "rank": 30
-  },
-  {
-    "id": "48",
-    "name": "BAI Stablecoin",
-    "symbol": "BAI",
-    "gecko_id": "bai-stablecoin",
-    "pegType": "peggedUSD",
-    "priceSource": "dexscreener",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 3644226.164930101
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 3645514.618419149
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 3203268.8738389215
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 5138583.441747561
-    },
-    "chainCirculating": {
-      "Astar": {
-        "current": {
-          "peggedUSD": 3644226.164930101
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 3645514.618419149
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 3203268.8738389215
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 5138583.441747561
-        }
-      }
-    },
-    "chains": [
-      "Astar"
-    ],
-    "price": 1,
-    "marketcapUSD": 3644226.164930101,
-    "marketcapEUR": 0,
-    "offPeg": 0.0,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.04,
-    "change1w": 13.77,
-    "change1m": -29.08,
-    "rank": 31
-  },
-  {
-    "id": "36",
-    "name": "Ratio Stable Coin",
-    "symbol": "USDR",
-    "gecko_id": "ratio-stable-coin",
-    "pegType": "peggedUSD",
-    "priceSource": "birdeye",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 2420743.481891
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 2420743.481891
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 2166594.001323
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 2408583.315153
-    },
-    "chainCirculating": {
-      "Solana": {
-        "current": {
-          "peggedUSD": 2420743.481891
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 2420743.481891
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 2166594.001323
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 2408583.315153
-        }
-      }
-    },
-    "chains": [
-      "Solana"
-    ],
-    "price": 0.999,
-    "marketcapUSD": 2418322.738409109,
-    "marketcapEUR": 0,
-    "offPeg": -0.1,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 0.0,
-    "change1w": 11.73,
-    "change1m": 0.5,
-    "rank": 32
-  },
-  {
-    "id": "61",
-    "name": "Fixed Income Asset Token",
-    "symbol": "FIAT",
-    "gecko_id": "fixed-income-asset-token",
-    "pegType": "peggedUSD",
-    "priceSource": "curve",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 1626320.3519745534
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 1626320.3519745534
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 1677391.3074893581
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 578765.7827365682
-    },
-    "chainCirculating": {
-      "Ethereum": {
-        "current": {
-          "peggedUSD": 1626320.3519745534
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 1626320.3519745534
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 1677391.3074893581
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 578765.7827365682
-        }
-      }
-    },
-    "chains": [
-      "Ethereum"
-    ],
-    "price": 0.9992702274632286,
-    "marketcapUSD": 1625133.50804569,
-    "marketcapEUR": 0,
-    "offPeg": -0.07,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": 0.0,
-    "change1w": -3.04,
-    "change1m": 181.0,
-    "rank": 33
-  },
-  {
-    "id": "63",
-    "name": "Fantom USD",
-    "symbol": "FUSD",
-    "gecko_id": "fantom-usd",
-    "pegType": "peggedUSD",
-    "priceSource": "dexscreener",
-    "pegMechanism": "crypto-backed",
-    "circulating": {
-      "peggedUSD": 2579821.5435368232
-    },
-    "circulatingPrevDay": {
-      "peggedUSD": 2581856.722253263
-    },
-    "circulatingPrevWeek": {
-      "peggedUSD": 2583321.287637256
-    },
-    "circulatingPrevMonth": {
-      "peggedUSD": 2604103.0343223102
-    },
-    "chainCirculating": {
-      "Fantom": {
-        "current": {
-          "peggedUSD": 2579821.5435368232
-        },
-        "circulatingPrevDay": {
-          "peggedUSD": 2581856.722253263
-        },
-        "circulatingPrevWeek": {
-          "peggedUSD": 2583321.287637256
-        },
-        "circulatingPrevMonth": {
-          "peggedUSD": 2604103.0343223102
-        }
-      }
-    },
-    "chains": [
-      "Fantom"
-    ],
-    "price": 0.4845,
-    "marketcapUSD": 1249923.5378435908,
-    "marketcapEUR": 0,
-    "offPeg": -51.55,
-    "timestamp": "Aug 15, 2022",
-    "totalchains": 1,
-    "change1d": -0.08,
-    "change1w": -0.14,
-    "change1m": -0.93,
-    "rank": 34
-  },
-  {
     "id": "18",
     "name": "Nexus USD",
     "symbol": "NUSD",
@@ -3236,7 +2348,7 @@
       "Cronos"
     ],
     "price": null,
-    "marketcapUSD": 0,
+    "marketcapUSD": 21141121.5965116,
     "marketcapEUR": 0,
     "offPeg": "",
     "timestamp": "Aug 15, 2022",
@@ -3244,7 +2356,600 @@
     "change1d": -3.91,
     "change1w": -0.27,
     "change1m": 8.69,
-    "rank": 35
+    "rank": 19
+  },
+  {
+    "id": "28",
+    "name": "Vai",
+    "symbol": "VAI",
+    "gecko_id": "vai",
+    "pegType": "peggedUSD",
+    "priceSource": "chainlink",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 21195771.4956587
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 21195771.4956587
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 21215019.909228615
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 21390949.114670426
+    },
+    "chainCirculating": {
+      "BSC": {
+        "current": {
+          "peggedUSD": 21195771.4956587
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 21195771.4956587
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 21215019.909228615
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 21390949.114670426
+        }
+      }
+    },
+    "chains": [
+      "BSC"
+    ],
+    "price": 0.94109528,
+    "marketcapUSD": 19947240.510522943,
+    "marketcapEUR": 0,
+    "offPeg": -5.89,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.0,
+    "change1w": -0.09,
+    "change1m": -0.91,
+    "rank": 20
+  },
+  {
+    "id": "16",
+    "name": "Parrot USD",
+    "symbol": "PAI",
+    "gecko_id": "parrot-usd",
+    "pegType": "peggedUSD",
+    "priceSource": "birdeye",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 19102997.806933
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 19102997.809437
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 19102999.71921
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 19102999.892094
+    },
+    "chainCirculating": {
+      "Solana": {
+        "current": {
+          "peggedUSD": 19102997.806933
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 19102997.809437
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 19102999.71921
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 19102999.892094
+        }
+      }
+    },
+    "chains": [
+      "Solana"
+    ],
+    "price": 0.9935043690844887,
+    "marketcapUSD": 18978911.783799343,
+    "marketcapEUR": 0,
+    "offPeg": -0.65,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": -0.0,
+    "change1w": -0.0,
+    "change1m": -0.0,
+    "rank": 21
+  },
+  {
+    "id": "29",
+    "name": "TOR",
+    "symbol": "TOR",
+    "gecko_id": "tor",
+    "pegType": "peggedUSD",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 17070482.490329992
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 17070482.490329992
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 17070482.490329992
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 17070482.490329992
+    },
+    "chainCirculating": {
+      "Fantom": {
+        "current": {
+          "peggedUSD": 17070482.490329992
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 17070482.490329992
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 17070482.490329992
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 17070482.490329992
+        }
+      }
+    },
+    "chains": [
+      "Fantom"
+    ],
+    "price": 0.9995066797762486,
+    "marketcapUSD": 17062061.27608832,
+    "marketcapEUR": 0,
+    "offPeg": -0.05,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.0,
+    "change1w": 0.0,
+    "change1m": 0.0,
+    "rank": 22
+  },
+  {
+    "id": "62",
+    "name": "PUSd",
+    "symbol": "PUSD",
+    "gecko_id": "pusd-2",
+    "pegType": "peggedUSD",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 10354372.65492797
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 9487597.950703999
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 9416154.638663463
+    },
+    "circulatingPrevMonth": {
+      "peggedEUR": 0,
+      "peggedUSD": 0
+    },
+    "chainCirculating": {
+      "Ethereum": {
+        "current": {
+          "peggedUSD": 10354372.65492797
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 9487597.950703999
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 9416154.638663463
+        },
+        "circulatingPrevMonth": 0
+      }
+    },
+    "chains": [
+      "Ethereum"
+    ],
+    "price": 1.0125289094491408,
+    "marketcapUSD": 10484101.652324222,
+    "marketcapEUR": 0,
+    "offPeg": 1.25,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 9.14,
+    "change1w": 9.96,
+    "change1m": 0,
+    "rank": 23
+  },
+  {
+    "id": "38",
+    "name": "STBL",
+    "symbol": "STBL",
+    "gecko_id": "stbl",
+    "pegType": "peggedUSD",
+    "priceSource": null,
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 8286767.94243
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 8250708.747731
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 8148162.036147
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 8119147.663455
+    },
+    "chainCirculating": {
+      "Algorand": {
+        "current": {
+          "peggedUSD": 8286767.94243
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 8250708.747731
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 8148162.036147
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 8119147.663455
+        }
+      }
+    },
+    "chains": [
+      "Algorand"
+    ],
+    "price": null,
+    "marketcapUSD": 8286767.94243,
+    "marketcapEUR": 0,
+    "offPeg": "",
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.44,
+    "change1w": 1.7,
+    "change1m": 2.06,
+    "rank": 24
+  },
+  {
+    "id": "65",
+    "name": "USDH",
+    "symbol": "USDH",
+    "gecko_id": "usdh",
+    "pegType": "peggedUSD",
+    "priceSource": "birdeye",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 8285858.946433
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 8296174.160595
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 8696543.114621
+    },
+    "circulatingPrevMonth": {
+      "peggedEUR": 0,
+      "peggedUSD": 0
+    },
+    "chainCirculating": {
+      "Solana": {
+        "current": {
+          "peggedUSD": 8285858.946433
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 8296174.160595
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 8696543.114621
+        },
+        "circulatingPrevMonth": 0
+      }
+    },
+    "chains": [
+      "Solana"
+    ],
+    "price": 0.9950872000000001,
+    "marketcapUSD": 8245152.178600965,
+    "marketcapEUR": 0,
+    "offPeg": -0.49,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": -0.12,
+    "change1w": -4.72,
+    "change1m": 0,
+    "rank": 25
+  },
+  {
+    "id": "57",
+    "name": "Hedge USD",
+    "symbol": "USH",
+    "gecko_id": "hedge-usd",
+    "pegType": "peggedUSD",
+    "priceSource": "birdeye",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 7741563.125038072
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 7442176.309377525
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 5362152.568977062
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 5394658.908319425
+    },
+    "chainCirculating": {
+      "Solana": {
+        "current": {
+          "peggedUSD": 7741563.125038072
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 7442176.309377525
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 5362152.568977062
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 5394658.908319425
+        }
+      }
+    },
+    "chains": [
+      "Solana"
+    ],
+    "price": 0.9975696000095776,
+    "marketcapUSD": 7722748.030093125,
+    "marketcapEUR": 0,
+    "offPeg": -0.24,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 4.02,
+    "change1w": 44.37,
+    "change1m": 43.5,
+    "rank": 26
+  },
+  {
+    "id": "53",
+    "name": "sEUR",
+    "symbol": "SEUR",
+    "gecko_id": "seur",
+    "pegType": "peggedEUR",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedEUR": 6910615.794584686
+    },
+    "circulatingPrevDay": {
+      "peggedEUR": 6910615.4572871355
+    },
+    "circulatingPrevWeek": {
+      "peggedEUR": 6952885.784842137
+    },
+    "circulatingPrevMonth": {
+      "peggedEUR": 4842170.290601306
+    },
+    "chainCirculating": {
+      "Optimism": {
+        "current": {
+          "peggedEUR": 32120.02331161313
+        },
+        "circulatingPrevDay": {
+          "peggedEUR": 32120.02331161313
+        },
+        "circulatingPrevWeek": {
+          "peggedEUR": 32150.020664139203
+        },
+        "circulatingPrevMonth": {
+          "peggedEUR": 42208.79339997685
+        }
+      },
+      "Ethereum": {
+        "current": {
+          "peggedEUR": 6878495.771273073
+        },
+        "circulatingPrevDay": {
+          "peggedEUR": 6878495.433975522
+        },
+        "circulatingPrevWeek": {
+          "peggedEUR": 6920735.764177998
+        },
+        "circulatingPrevMonth": {
+          "peggedEUR": 4799961.497201329
+        }
+      }
+    },
+    "chains": [
+      "Ethereum",
+      "Optimism"
+    ],
+    "price": 1.037665138042897,
+    "marketcapUSD": 7357377.308473188,
+    "marketcapEUR": 7170905.092449142,
+    "offPeg": 3.77,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 2,
+    "change1d": 0.0,
+    "change1w": -0.61,
+    "change1m": 42.72,
+    "rank": 27
+  },
+  {
+    "id": "60",
+    "name": "HomeCoin",
+    "symbol": "HOME",
+    "gecko_id": "bacon-protocol-home",
+    "pegType": "peggedUSD",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 6728072.037453
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 6728072.037453
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 6738894.116307
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 6747984.623267
+    },
+    "chainCirculating": {
+      "Ethereum": {
+        "current": {
+          "peggedUSD": 6728072.037453
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 6728072.037453
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 6738894.116307
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 6747984.623267
+        }
+      }
+    },
+    "chains": [
+      "Ethereum"
+    ],
+    "price": 0.9951913915373541,
+    "marketcapUSD": 6695719.373316413,
+    "marketcapEUR": 0,
+    "offPeg": -0.48,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.0,
+    "change1w": -0.16,
+    "change1m": -0.3,
+    "rank": 28
+  },
+  {
+    "id": "56",
+    "name": "Parallel",
+    "symbol": "PAR",
+    "gecko_id": "par-stablecoin",
+    "pegType": "peggedEUR",
+    "priceSource": "dexscreener",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedEUR": 6284720.588721013
+    },
+    "circulatingPrevDay": {
+      "peggedEUR": 6286002.4287210135
+    },
+    "circulatingPrevWeek": {
+      "peggedEUR": 6375403.543902664
+    },
+    "circulatingPrevMonth": {
+      "peggedEUR": 6196739.852694061
+    },
+    "chainCirculating": {
+      "Ethereum": {
+        "current": {
+          "peggedEUR": 3393156.2437123884
+        },
+        "circulatingPrevDay": {
+          "peggedEUR": 3395661.9677150575
+        },
+        "circulatingPrevWeek": {
+          "peggedEUR": 3530391.0561396717
+        },
+        "circulatingPrevMonth": {
+          "peggedEUR": 4164905.3787157917
+        }
+      },
+      "Polygon": {
+        "current": {
+          "peggedEUR": 2316272.1565922406
+        },
+        "circulatingPrevDay": {
+          "peggedEUR": 2316075.4499687534
+        },
+        "circulatingPrevWeek": {
+          "peggedEUR": 2309519.0788242235
+        },
+        "circulatingPrevMonth": {
+          "peggedEUR": 1248354.5409809828
+        }
+      },
+      "Fantom": {
+        "current": {
+          "peggedEUR": 575292.1884163846
+        },
+        "circulatingPrevDay": {
+          "peggedEUR": 574265.0110372023
+        },
+        "circulatingPrevWeek": {
+          "peggedEUR": 535493.4089387691
+        },
+        "circulatingPrevMonth": {
+          "peggedEUR": 783479.9329972864
+        }
+      }
+    },
+    "chains": [
+      "Ethereum",
+      "Polygon",
+      "Fantom"
+    ],
+    "price": 1.02,
+    "marketcapUSD": 6577111.432168315,
+    "marketcapEUR": 6410415.000495433,
+    "offPeg": 2.0,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 3,
+    "change1d": -0.02,
+    "change1w": -1.42,
+    "change1m": 1.42,
+    "rank": 29
+  },
+  {
+    "id": "71",
+    "name": "Vesta Stable",
+    "symbol": "VST",
+    "gecko_id": "vesta-stable",
+    "pegType": "peggedUSD",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 5994916.049928289
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 6014135.098767925
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 5745228.76534108
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 3725160.86634785
+    },
+    "chainCirculating": {
+      "Arbitrum": {
+        "current": {
+          "peggedUSD": 5994916.049928289
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 6014135.098767925
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 5745228.76534108
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 3725160.86634785
+        }
+      }
+    },
+    "chains": [
+      "Arbitrum"
+    ],
+    "price": 1.0008039,
+    "marketcapUSD": 5999735.362940826,
+    "marketcapEUR": 0,
+    "offPeg": 0.08,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": -0.32,
+    "change1w": 4.35,
+    "change1m": 60.93,
+    "rank": 30
   },
   {
     "id": "30",
@@ -3301,7 +3006,7 @@
       "Ethereum"
     ],
     "price": null,
-    "marketcapUSD": 0,
+    "marketcapUSD": 5681331.572128621,
     "marketcapEUR": 0,
     "offPeg": "",
     "timestamp": "Aug 15, 2022",
@@ -3309,57 +3014,302 @@
     "change1d": 0.54,
     "change1w": -0.34,
     "change1m": 19.61,
-    "rank": 36
+    "rank": 31
   },
   {
-    "id": "38",
-    "name": "STBL",
-    "symbol": "STBL",
-    "gecko_id": "stbl",
+    "id": "33",
+    "name": "USDP Stablecoin",
+    "symbol": "USDP",
+    "gecko_id": "usdp",
     "pegType": "peggedUSD",
-    "priceSource": null,
+    "priceSource": "curve",
     "pegMechanism": "crypto-backed",
     "circulating": {
-      "peggedUSD": 8286767.94243
+      "peggedUSD": 4548031.451931303
     },
     "circulatingPrevDay": {
-      "peggedUSD": 8250708.747731
+      "peggedUSD": 4548031.451931303
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 8148162.036147
+      "peggedUSD": 4597303.506778897
     },
     "circulatingPrevMonth": {
-      "peggedUSD": 8119147.663455
+      "peggedUSD": 4536545.944578051
     },
     "chainCirculating": {
-      "Algorand": {
+      "BSC": {
         "current": {
-          "peggedUSD": 8286767.94243
+          "peggedUSD": 9693.30321687054
         },
         "circulatingPrevDay": {
-          "peggedUSD": 8250708.747731
+          "peggedUSD": 9693.30321687054
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 8148162.036147
+          "peggedUSD": 9693.30321687054
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 8119147.663455
+          "peggedUSD": 9693.30321687054
+        }
+      },
+      "Ethereum": {
+        "current": {
+          "peggedUSD": 4530115.042797196
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 4530115.042797196
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 4579387.097644789
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 4518629.535443943
+        }
+      },
+      "Gnosis": {
+        "current": {
+          "peggedUSD": 8130.254795960425
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 8130.254795960425
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 8130.254795960425
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 8130.254795960425
+        }
+      },
+      "Fantom": {
+        "current": {
+          "peggedUSD": 92.85112127631122
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 92.85112127631122
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 92.85112127631122
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 92.85112127631122
         }
       }
     },
     "chains": [
-      "Algorand"
+      "Ethereum",
+      "BSC",
+      "Gnosis",
+      "Fantom"
     ],
-    "price": null,
-    "marketcapUSD": 0,
+    "price": 0.9996489301641133,
+    "marketcapUSD": 4546434.7752758665,
     "marketcapEUR": 0,
-    "offPeg": "",
+    "offPeg": -0.04,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 4,
+    "change1d": 0.0,
+    "change1w": -1.07,
+    "change1m": 0.25,
+    "rank": 32
+  },
+  {
+    "id": "46",
+    "name": "USD+",
+    "symbol": "USD+",
+    "gecko_id": "usd",
+    "pegType": "peggedUSD",
+    "priceSource": "defillama",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 3790341.547944
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 3820219.546141
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 3642773.729589
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 2317682.1055
+    },
+    "chainCirculating": {
+      "Polygon": {
+        "current": {
+          "peggedUSD": 3790341.547944
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 3820219.546141
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 3642773.729589
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 2317682.1055
+        }
+      }
+    },
+    "chains": [
+      "Polygon"
+    ],
+    "price": 1,
+    "marketcapUSD": 3790341.547944,
+    "marketcapEUR": 0,
+    "offPeg": 0.0,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
-    "change1d": 0.44,
-    "change1w": 1.7,
-    "change1m": 2.06,
-    "rank": 37
+    "change1d": -0.78,
+    "change1w": 4.05,
+    "change1m": 63.54,
+    "rank": 33
+  },
+  {
+    "id": "48",
+    "name": "BAI Stablecoin",
+    "symbol": "BAI",
+    "gecko_id": "bai-stablecoin",
+    "pegType": "peggedUSD",
+    "priceSource": "dexscreener",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 3644226.164930101
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 3645514.618419149
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 3203268.8738389215
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 5138583.441747561
+    },
+    "chainCirculating": {
+      "Astar": {
+        "current": {
+          "peggedUSD": 3644226.164930101
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 3645514.618419149
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 3203268.8738389215
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 5138583.441747561
+        }
+      }
+    },
+    "chains": [
+      "Astar"
+    ],
+    "price": 1,
+    "marketcapUSD": 3644226.164930101,
+    "marketcapEUR": 0,
+    "offPeg": 0.0,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": -0.04,
+    "change1w": 13.77,
+    "change1m": -29.08,
+    "rank": 34
+  },
+  {
+    "id": "36",
+    "name": "Ratio Stable Coin",
+    "symbol": "USDR",
+    "gecko_id": "ratio-stable-coin",
+    "pegType": "peggedUSD",
+    "priceSource": "birdeye",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 2420743.481891
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 2420743.481891
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 2166594.001323
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 2408583.315153
+    },
+    "chainCirculating": {
+      "Solana": {
+        "current": {
+          "peggedUSD": 2420743.481891
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 2420743.481891
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 2166594.001323
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 2408583.315153
+        }
+      }
+    },
+    "chains": [
+      "Solana"
+    ],
+    "price": 0.999,
+    "marketcapUSD": 2418322.738409109,
+    "marketcapEUR": 0,
+    "offPeg": -0.1,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.0,
+    "change1w": 11.73,
+    "change1m": 0.5,
+    "rank": 35
+  },
+  {
+    "id": "61",
+    "name": "Fixed Income Asset Token",
+    "symbol": "FIAT",
+    "gecko_id": "fixed-income-asset-token",
+    "pegType": "peggedUSD",
+    "priceSource": "curve",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 1626320.3519745534
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 1626320.3519745534
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 1677391.3074893581
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 578765.7827365682
+    },
+    "chainCirculating": {
+      "Ethereum": {
+        "current": {
+          "peggedUSD": 1626320.3519745534
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 1626320.3519745534
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 1677391.3074893581
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 578765.7827365682
+        }
+      }
+    },
+    "chains": [
+      "Ethereum"
+    ],
+    "price": 0.9992702274632286,
+    "marketcapUSD": 1625133.50804569,
+    "marketcapEUR": 0,
+    "offPeg": -0.07,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": 0.0,
+    "change1w": -3.04,
+    "change1m": 181.0,
+    "rank": 36
   },
   {
     "id": "58",
@@ -3400,7 +3350,7 @@
       "Karura"
     ],
     "price": null,
-    "marketcapUSD": 0,
+    "marketcapUSD": 1476448.2504882463,
     "marketcapEUR": 0,
     "offPeg": "",
     "timestamp": "Aug 15, 2022",
@@ -3408,6 +3358,56 @@
     "change1d": -20.84,
     "change1w": -19.66,
     "change1m": 0,
+    "rank": 37
+  },
+  {
+    "id": "63",
+    "name": "Fantom USD",
+    "symbol": "FUSD",
+    "gecko_id": "fantom-usd",
+    "pegType": "peggedUSD",
+    "priceSource": "dexscreener",
+    "pegMechanism": "crypto-backed",
+    "circulating": {
+      "peggedUSD": 2579821.5435368232
+    },
+    "circulatingPrevDay": {
+      "peggedUSD": 2581856.722253263
+    },
+    "circulatingPrevWeek": {
+      "peggedUSD": 2583321.287637256
+    },
+    "circulatingPrevMonth": {
+      "peggedUSD": 2604103.0343223102
+    },
+    "chainCirculating": {
+      "Fantom": {
+        "current": {
+          "peggedUSD": 2579821.5435368232
+        },
+        "circulatingPrevDay": {
+          "peggedUSD": 2581856.722253263
+        },
+        "circulatingPrevWeek": {
+          "peggedUSD": 2583321.287637256
+        },
+        "circulatingPrevMonth": {
+          "peggedUSD": 2604103.0343223102
+        }
+      }
+    },
+    "chains": [
+      "Fantom"
+    ],
+    "price": 0.4845,
+    "marketcapUSD": 1249923.5378435908,
+    "marketcapEUR": 0,
+    "offPeg": -51.55,
+    "timestamp": "Aug 15, 2022",
+    "totalchains": 1,
+    "change1d": -0.08,
+    "change1w": -0.14,
+    "change1m": -0.93,
     "rank": 38
   },
   {
@@ -3449,7 +3449,7 @@
       "Ergo"
     ],
     "price": null,
-    "marketcapUSD": 0,
+    "marketcapUSD": 977967.37,
     "marketcapEUR": 0,
     "offPeg": "",
     "timestamp": "Aug 15, 2022",
