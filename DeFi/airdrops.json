@@ -1276,36 +1276,6 @@
     "rank": 34
   },
   {
-    "id": "954",
-    "name": "REX Staking",
-    "address": "",
-    "symbol": "-",
-    "url": "https://eosauthority.com/rex",
-    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
-    "chain": "Telos",
-    "logo": "https://icons.llama.fi/rex-staking.jpg",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Lending",
-    "chains": [
-      "Telos"
-    ],
-    "module": "telosRex.js",
-    "twitter": "EOSauthority",
-    "listedAt": 1638411637,
-    "slug": "rex-staking",
-    "tvl": 33861598.9479419,
-    "chainTvls": {
-      "Telos": 33861598.9479419
-    },
-    "change_1h": -0.04,
-    "change_1d": 1.93,
-    "change_7d": 9.57,
-    "rank": 35
-  },
-  {
     "id": "1254",
     "name": "XDAO",
     "address": null,
@@ -1336,19 +1306,49 @@
     ],
     "listedAt": 1642109094,
     "slug": "xdao",
-    "tvl": 33626802.40566027,
+    "tvl": 34071611.18453266,
     "chainTvls": {
-      "Binance": 1840359.3708515943,
-      "Ethereum": 125372.40802391595,
-      "Astar": 33406.4896646821,
-      "Heco": 4581.101649144019,
-      "Avalanche": 67.69923631966907,
-      "Polygon": 31622968.671456512,
-      "Fantom": 46.664778100260634
+      "Binance": 1849094.6749472567,
+      "Ethereum": 125489.6177210131,
+      "Astar": 32437.688855912675,
+      "Heco": 4596.986764860019,
+      "Avalanche": 67.9554009208143,
+      "Polygon": 32059877.808232397,
+      "Fantom": 46.45261029512481
     },
-    "change_1h": 1.75,
-    "change_1d": 0.72,
-    "change_7d": 7.83,
+    "change_1h": 1.32,
+    "change_1d": 2.16,
+    "change_7d": 7.66,
+    "rank": 35
+  },
+  {
+    "id": "954",
+    "name": "REX Staking",
+    "address": "",
+    "symbol": "-",
+    "url": "https://eosauthority.com/rex",
+    "description": "REX is short for \u201cResource Exchange\u201d and is a marketplace that allows for the risk-free leasing of network resources (CPU & Network)",
+    "chain": "Telos",
+    "logo": "https://icons.llama.fi/rex-staking.jpg",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Lending",
+    "chains": [
+      "Telos"
+    ],
+    "module": "telosRex.js",
+    "twitter": "EOSauthority",
+    "listedAt": 1638411637,
+    "slug": "rex-staking",
+    "tvl": 33861598.9479419,
+    "chainTvls": {
+      "Telos": 33861598.9479419
+    },
+    "change_1h": -0.04,
+    "change_1d": 1.93,
+    "change_7d": 9.57,
     "rank": 36
   },
   {
@@ -5546,13 +5546,13 @@
     "twitter": "ObyteOrg",
     "listedAt": 1653984585,
     "slug": "ostable",
-    "tvl": 493898.61863866565,
+    "tvl": 491447.16899577464,
     "chainTvls": {
-      "Obyte": 493898.61863866565
+      "Obyte": 491447.16899577464
     },
-    "change_1h": 0.62,
-    "change_1d": 1.23,
-    "change_7d": 5.21,
+    "change_1h": -0.5,
+    "change_1d": -0.47,
+    "change_7d": 0.45,
     "rank": 154
   },
   {

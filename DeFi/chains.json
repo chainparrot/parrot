@@ -1,7 +1,7 @@
 [
   {
     "gecko_id": "optimism",
-    "tvl": 1143086625.4148402,
+    "tvl": 1140588049.7864013,
     "tokenSymbol": "OP",
     "cmcId": "11840",
     "name": "Optimism",
@@ -10,7 +10,7 @@
   },
   {
     "gecko_id": "ethereum",
-    "tvl": 61764715617.063736,
+    "tvl": 60819918670.73404,
     "tokenSymbol": "ETH",
     "cmcId": "1027",
     "name": "Ethereum",
@@ -19,7 +19,7 @@
   },
   {
     "gecko_id": "matic-network",
-    "tvl": 2253086805.7530575,
+    "tvl": 2230637687.256179,
     "tokenSymbol": "MATIC",
     "cmcId": "3890",
     "name": "Polygon",
@@ -28,7 +28,7 @@
   },
   {
     "gecko_id": "celo",
-    "tvl": 161333707.6164664,
+    "tvl": 156264979.1056027,
     "tokenSymbol": "CELO",
     "cmcId": "5567",
     "name": "Celo",
@@ -37,7 +37,7 @@
   },
   {
     "gecko_id": null,
-    "tvl": 1027541356.4359729,
+    "tvl": 1018024377.6984905,
     "tokenSymbol": null,
     "cmcId": null,
     "name": "Arbitrum",
@@ -46,7 +46,7 @@
   },
   {
     "gecko_id": "harmony",
-    "tvl": 35397427.46314248,
+    "tvl": 34605482.164101034,
     "tokenSymbol": "ONE",
     "cmcId": "3945",
     "name": "Harmony",
@@ -55,7 +55,7 @@
   },
   {
     "gecko_id": "moonbeam",
-    "tvl": 81400182.24915254,
+    "tvl": 80190279.01940565,
     "tokenSymbol": "GLMR",
     "cmcId": "6836",
     "name": "Moonbeam",
@@ -64,7 +64,7 @@
   },
   {
     "gecko_id": "aurora-near",
-    "tvl": 192518547.82916334,
+    "tvl": 188832652.14493155,
     "tokenSymbol": "AURORA",
     "cmcId": "14803",
     "name": "Aurora",
@@ -73,7 +73,7 @@
   },
   {
     "gecko_id": "gnosis",
-    "tvl": 230088830.03187782,
+    "tvl": 229425371.04156655,
     "tokenSymbol": "GNO",
     "cmcId": "1659",
     "name": "xDai",
@@ -82,7 +82,7 @@
   },
   {
     "gecko_id": "avalanche-2",
-    "tvl": 2728486563.97108,
+    "tvl": 2703147517.016598,
     "tokenSymbol": "AVAX",
     "cmcId": "5805",
     "name": "Avalanche",
@@ -91,7 +91,7 @@
   },
   {
     "gecko_id": "fantom",
-    "tvl": 853739554.5461318,
+    "tvl": 839834398.551899,
     "tokenSymbol": "FTM",
     "cmcId": "3513",
     "name": "Fantom",
@@ -100,7 +100,7 @@
   },
   {
     "gecko_id": "binancecoin",
-    "tvl": 7079670819.1411295,
+    "tvl": 7015690706.069565,
     "tokenSymbol": "BNB",
     "cmcId": "1839",
     "name": "Binance",
@@ -108,22 +108,166 @@
     "rank": 12
   },
   {
+    "gecko_id": "kava",
+    "tvl": 296268316.7780472,
+    "tokenSymbol": "KAVA",
+    "cmcId": "4846",
+    "name": "Kava",
+    "chainId": null,
+    "rank": 13
+  },
+  {
+    "gecko_id": "metis-token",
+    "tvl": 59683878.179192826,
+    "tokenSymbol": "METIS",
+    "cmcId": "9640",
+    "name": "Metis",
+    "chainId": 1088,
+    "rank": 14
+  },
+  {
+    "gecko_id": "crypto-com-chain",
+    "tvl": 1189222917.9748688,
+    "tokenSymbol": "CRO",
+    "cmcId": "3635",
+    "name": "Cronos",
+    "chainId": 25,
+    "rank": 15
+  },
+  {
     "gecko_id": "oec-token",
-    "tvl": 20166631.6629777,
+    "tvl": 19925340.022978824,
     "tokenSymbol": "OKT",
     "cmcId": "8267",
     "name": "OKExChain",
     "chainId": 66,
-    "rank": 13
+    "rank": 16
   },
   {
     "gecko_id": "moonriver",
-    "tvl": 96238634.40903135,
+    "tvl": 95212139.48125698,
     "tokenSymbol": "MOVR",
     "cmcId": "9285",
     "name": "Moonriver",
     "chainId": 1285,
-    "rank": 14
+    "rank": 17
+  },
+  {
+    "gecko_id": "wanchain",
+    "tvl": 29093268.738457337,
+    "tokenSymbol": "WAN",
+    "cmcId": "2606",
+    "name": "Wanchain",
+    "chainId": 888,
+    "rank": 18
+  },
+  {
+    "gecko_id": "solana",
+    "tvl": 2446702212.5034413,
+    "tokenSymbol": "SOL",
+    "cmcId": "5426",
+    "name": "Solana",
+    "chainId": null,
+    "rank": 19
+  },
+  {
+    "gecko_id": "terra-luna",
+    "tvl": 12260386.756354848,
+    "tokenSymbol": "LUNC",
+    "cmcId": "4172",
+    "name": "Terra",
+    "chainId": null,
+    "rank": 20
+  },
+  {
+    "gecko_id": "ong",
+    "tvl": 3416530.493198677,
+    "tokenSymbol": "ONG",
+    "cmcId": "3217",
+    "name": "OntologyEVM",
+    "chainId": 58,
+    "rank": 21
+  },
+  {
+    "gecko_id": "ontology",
+    "tvl": 32189224.660357997,
+    "tokenSymbol": "ONT",
+    "cmcId": "2566",
+    "name": "Ontology",
+    "chainId": null,
+    "rank": 22
+  },
+  {
+    "gecko_id": "boba-network",
+    "tvl": 8324362.379130721,
+    "tokenSymbol": "BOBA",
+    "cmcId": "14556",
+    "name": "Boba",
+    "chainId": 288,
+    "rank": 23
+  },
+  {
+    "gecko_id": "oasis-network",
+    "tvl": 32174404.5026943,
+    "tokenSymbol": "ROSE",
+    "cmcId": "7653",
+    "name": "Oasis",
+    "chainId": 42262,
+    "rank": 24
+  },
+  {
+    "gecko_id": "evmos",
+    "tvl": 1958903.2045647353,
+    "tokenSymbol": "EVMOS",
+    "cmcId": null,
+    "name": "Evmos",
+    "chainId": "9001",
+    "rank": 25
+  },
+  {
+    "gecko_id": "astar",
+    "tvl": 60358264.10185528,
+    "tokenSymbol": "ASTR",
+    "cmcId": "12885",
+    "name": "Astar",
+    "chainId": 592,
+    "rank": 26
+  },
+  {
+    "gecko_id": "velas",
+    "tvl": 5197651.042568934,
+    "tokenSymbol": "VLX",
+    "cmcId": "4747",
+    "name": "Velas",
+    "chainId": 106,
+    "rank": 27
+  },
+  {
+    "gecko_id": "huobi-token",
+    "tvl": 169864676.32959998,
+    "tokenSymbol": "HT",
+    "cmcId": "2502",
+    "name": "Heco",
+    "chainId": 128,
+    "rank": 28
+  },
+  {
+    "gecko_id": null,
+    "tvl": 13008655.861484773,
+    "tokenSymbol": null,
+    "cmcId": null,
+    "name": "Milkomeda",
+    "chainId": 2001,
+    "rank": 29
+  },
+  {
+    "gecko_id": "fuse-network-token",
+    "tvl": 4766023.61271645,
+    "tokenSymbol": "FUSE",
+    "cmcId": "5634",
+    "name": "Fuse",
+    "chainId": 122,
+    "rank": 30
   },
   {
     "gecko_id": null,
@@ -132,164 +276,20 @@
     "cmcId": null,
     "name": "Palm",
     "chainId": 11297108109,
-    "rank": 15
-  },
-  {
-    "gecko_id": "huobi-token",
-    "tvl": 171454223.74494082,
-    "tokenSymbol": "HT",
-    "cmcId": "2502",
-    "name": "Heco",
-    "chainId": 128,
-    "rank": 16
+    "rank": 31
   },
   {
     "gecko_id": "telos",
-    "tvl": 44884791.36693773,
+    "tvl": 44262210.21249927,
     "tokenSymbol": "TLOS",
     "cmcId": "4660",
     "name": "Telos",
     "chainId": 40,
-    "rank": 17
-  },
-  {
-    "gecko_id": "fuse-network-token",
-    "tvl": 4787510.921970387,
-    "tokenSymbol": "FUSE",
-    "cmcId": "5634",
-    "name": "Fuse",
-    "chainId": 122,
-    "rank": 18
-  },
-  {
-    "gecko_id": "kava",
-    "tvl": 299948821.42340946,
-    "tokenSymbol": "KAVA",
-    "cmcId": "4846",
-    "name": "Kava",
-    "chainId": null,
-    "rank": 19
-  },
-  {
-    "gecko_id": "crypto-com-chain",
-    "tvl": 1200892140.927118,
-    "tokenSymbol": "CRO",
-    "cmcId": "3635",
-    "name": "Cronos",
-    "chainId": 25,
-    "rank": 20
-  },
-  {
-    "gecko_id": "oasis-network",
-    "tvl": 32348697.77843635,
-    "tokenSymbol": "ROSE",
-    "cmcId": "7653",
-    "name": "Oasis",
-    "chainId": 42262,
-    "rank": 21
-  },
-  {
-    "gecko_id": "metis-token",
-    "tvl": 60265314.8894163,
-    "tokenSymbol": "METIS",
-    "cmcId": "9640",
-    "name": "Metis",
-    "chainId": 1088,
-    "rank": 22
-  },
-  {
-    "gecko_id": "boba-network",
-    "tvl": 8506365.003780982,
-    "tokenSymbol": "BOBA",
-    "cmcId": "14556",
-    "name": "Boba",
-    "chainId": 288,
-    "rank": 23
-  },
-  {
-    "gecko_id": "wanchain",
-    "tvl": 29401194.38046737,
-    "tokenSymbol": "WAN",
-    "cmcId": "2606",
-    "name": "Wanchain",
-    "chainId": 888,
-    "rank": 24
-  },
-  {
-    "gecko_id": "solana",
-    "tvl": 2528675808.0649967,
-    "tokenSymbol": "SOL",
-    "cmcId": "5426",
-    "name": "Solana",
-    "chainId": null,
-    "rank": 25
-  },
-  {
-    "gecko_id": "terra-luna",
-    "tvl": 12486249.404858349,
-    "tokenSymbol": "LUNC",
-    "cmcId": "4172",
-    "name": "Terra",
-    "chainId": null,
-    "rank": 26
-  },
-  {
-    "gecko_id": "ong",
-    "tvl": 3435272.314690169,
-    "tokenSymbol": "ONG",
-    "cmcId": "3217",
-    "name": "OntologyEVM",
-    "chainId": 58,
-    "rank": 27
-  },
-  {
-    "gecko_id": "ontology",
-    "tvl": 32773623.592902996,
-    "tokenSymbol": "ONT",
-    "cmcId": "2566",
-    "name": "Ontology",
-    "chainId": null,
-    "rank": 28
-  },
-  {
-    "gecko_id": "evmos",
-    "tvl": 1972218.3202388098,
-    "tokenSymbol": "EVMOS",
-    "cmcId": null,
-    "name": "Evmos",
-    "chainId": "9001",
-    "rank": 29
-  },
-  {
-    "gecko_id": "astar",
-    "tvl": 62239039.05783406,
-    "tokenSymbol": "ASTR",
-    "cmcId": "12885",
-    "name": "Astar",
-    "chainId": 592,
-    "rank": 30
-  },
-  {
-    "gecko_id": "velas",
-    "tvl": 5225243.642943523,
-    "tokenSymbol": "VLX",
-    "cmcId": "4747",
-    "name": "Velas",
-    "chainId": 106,
-    "rank": 31
-  },
-  {
-    "gecko_id": null,
-    "tvl": 13325399.653541284,
-    "tokenSymbol": null,
-    "cmcId": null,
-    "name": "Milkomeda",
-    "chainId": 2001,
     "rank": 32
   },
   {
     "gecko_id": "bitcoin",
-    "tvl": 132225429.37655735,
+    "tvl": 128846387.55423349,
     "tokenSymbol": "BTC",
     "cmcId": "1",
     "name": "Bitcoin",
@@ -298,7 +298,7 @@
   },
   {
     "gecko_id": "energi",
-    "tvl": 2649536.040769238,
+    "tvl": 2567430.3726798994,
     "tokenSymbol": "NRG",
     "cmcId": "3218",
     "name": "Energi",
@@ -307,7 +307,7 @@
   },
   {
     "gecko_id": "klay-token",
-    "tvl": 423843676.2695972,
+    "tvl": 418672583.66111785,
     "tokenSymbol": "KLAY",
     "cmcId": "4256",
     "name": "Klaytn",
@@ -316,7 +316,7 @@
   },
   {
     "gecko_id": "iotex",
-    "tvl": 43772704.30898496,
+    "tvl": 43765754.51622237,
     "tokenSymbol": "IOTX",
     "cmcId": "2777",
     "name": "IoTeX",
@@ -324,166 +324,112 @@
     "rank": 36
   },
   {
-    "gecko_id": "dogecoin",
-    "tvl": 205098.23012515696,
-    "tokenSymbol": "DOGE",
-    "cmcId": "74",
-    "name": "Doge",
-    "chainId": null,
-    "rank": 37
-  },
-  {
-    "gecko_id": "litecoin",
-    "tvl": 1042378.583922208,
-    "tokenSymbol": "LTC",
-    "cmcId": "2",
-    "name": "Litecoin",
-    "chainId": null,
-    "rank": 38
-  },
-  {
-    "gecko_id": "kucoin-shares",
-    "tvl": 57924469.3033569,
-    "tokenSymbol": "KCS",
-    "cmcId": "2087",
-    "name": "Kucoin",
-    "chainId": 321,
-    "rank": 39
-  },
-  {
     "gecko_id": "cosmos",
-    "tvl": 463379.61720000004,
+    "tvl": 448750.73850000004,
     "tokenSymbol": "ATOM",
     "cmcId": "3794",
     "name": "Cosmos",
     "chainId": null,
-    "rank": 40
+    "rank": 37
   },
   {
     "gecko_id": "stafi",
-    "tvl": 172507.857,
+    "tvl": 167222.90539999996,
     "tokenSymbol": "FIS",
     "cmcId": "5882",
     "name": "Stafi",
     "chainId": null,
-    "rank": 41
+    "rank": 38
   },
   {
     "gecko_id": "kusama",
-    "tvl": 4466.574983665193,
+    "tvl": 4328.146518616449,
     "tokenSymbol": "KSM",
     "cmcId": "5034",
     "name": "Kusama",
     "chainId": null,
-    "rank": 42
+    "rank": 39
   },
   {
     "gecko_id": "polkadot",
-    "tvl": 43981.13138908859,
+    "tvl": 42635.260701772204,
     "tokenSymbol": "DOT",
     "cmcId": "6636",
     "name": "Polkadot",
     "chainId": null,
-    "rank": 43
-  },
-  {
-    "gecko_id": "zilliqa",
-    "tvl": 3799.8653577525115,
-    "tokenSymbol": "ZIL",
-    "cmcId": "2469",
-    "name": "Zilliqa",
-    "chainId": null,
-    "rank": 44
+    "rank": 40
   },
   {
     "gecko_id": "neo",
-    "tvl": 81494150.63216287,
+    "tvl": 80954966.8438018,
     "tokenSymbol": "NEO",
     "cmcId": "1376",
     "name": "NEO",
     "chainId": null,
-    "rank": 45
+    "rank": 41
+  },
+  {
+    "gecko_id": "dogecoin",
+    "tvl": 200489.44840733474,
+    "tokenSymbol": "DOGE",
+    "cmcId": "74",
+    "name": "Doge",
+    "chainId": null,
+    "rank": 42
+  },
+  {
+    "gecko_id": "litecoin",
+    "tvl": 1011726.1998743995,
+    "tokenSymbol": "LTC",
+    "cmcId": "2",
+    "name": "Litecoin",
+    "chainId": null,
+    "rank": 43
+  },
+  {
+    "gecko_id": "kucoin-shares",
+    "tvl": 57634856.72905015,
+    "tokenSymbol": "KCS",
+    "cmcId": "2087",
+    "name": "Kucoin",
+    "chainId": 321,
+    "rank": 44
   },
   {
     "gecko_id": "secret",
-    "tvl": 12020280.901664758,
+    "tvl": 12363126.227623478,
     "tokenSymbol": "SCRT",
     "cmcId": "5604",
     "name": "Secret",
     "chainId": null,
-    "rank": 46
+    "rank": 45
   },
   {
     "gecko_id": "thunder-token",
-    "tvl": 7144981.76782041,
+    "tvl": 7111485.947072228,
     "tokenSymbol": "TT",
     "cmcId": "3930",
     "name": "ThunderCore",
     "chainId": 108,
-    "rank": 47
+    "rank": 46
   },
   {
     "gecko_id": "rootstock",
-    "tvl": 78301116.39838623,
+    "tvl": 77469616.43242869,
     "tokenSymbol": "RBTC",
     "cmcId": "3626",
     "name": "RSK",
     "chainId": 30,
+    "rank": 47
+  },
+  {
+    "gecko_id": "zilliqa",
+    "tvl": 3682.4300172164035,
+    "tokenSymbol": "ZIL",
+    "cmcId": "2469",
+    "name": "Zilliqa",
+    "chainId": null,
     "rank": 48
-  },
-  {
-    "gecko_id": "sifchain",
-    "tvl": 7515382.35,
-    "tokenSymbol": "EROWAN",
-    "cmcId": "8541",
-    "name": "Sifchain",
-    "chainId": null,
-    "rank": 49
-  },
-  {
-    "gecko_id": "algorand",
-    "tvl": 241265361.51740658,
-    "tokenSymbol": "ALGO",
-    "cmcId": "4030",
-    "name": "Algorand",
-    "chainId": null,
-    "rank": 50
-  },
-  {
-    "gecko_id": "elastos",
-    "tvl": 4749556.866254056,
-    "tokenSymbol": "ELA",
-    "cmcId": "2492",
-    "name": "Elastos",
-    "chainId": 20,
-    "rank": 51
-  },
-  {
-    "gecko_id": "rei-network",
-    "tvl": 864741.8116833803,
-    "tokenSymbol": "REI",
-    "cmcId": "19819",
-    "name": "REI",
-    "chainId": 47805,
-    "rank": 52
-  },
-  {
-    "gecko_id": "osmosis",
-    "tvl": 214420975.44743472,
-    "tokenSymbol": "OSMO",
-    "cmcId": "12220",
-    "name": "Osmosis",
-    "chainId": null,
-    "rank": 53
-  },
-  {
-    "gecko_id": "thorchain",
-    "tvl": 171827938.76349863,
-    "tokenSymbol": "RUNE",
-    "cmcId": "4157",
-    "name": "Thorchain",
-    "chainId": null,
-    "rank": 54
   },
   {
     "gecko_id": "nuls",
@@ -492,11 +438,65 @@
     "cmcId": "2092",
     "name": "Nuls",
     "chainId": null,
+    "rank": 49
+  },
+  {
+    "gecko_id": "osmosis",
+    "tvl": 209960545.90472475,
+    "tokenSymbol": "OSMO",
+    "cmcId": "12220",
+    "name": "Osmosis",
+    "chainId": null,
+    "rank": 50
+  },
+  {
+    "gecko_id": "elastos",
+    "tvl": 4593140.139477214,
+    "tokenSymbol": "ELA",
+    "cmcId": "2492",
+    "name": "Elastos",
+    "chainId": 20,
+    "rank": 51
+  },
+  {
+    "gecko_id": "rei-network",
+    "tvl": 850094.0411589335,
+    "tokenSymbol": "REI",
+    "cmcId": "19819",
+    "name": "REI",
+    "chainId": 47805,
+    "rank": 52
+  },
+  {
+    "gecko_id": "algorand",
+    "tvl": 235862687.3531689,
+    "tokenSymbol": "ALGO",
+    "cmcId": "4030",
+    "name": "Algorand",
+    "chainId": null,
+    "rank": 53
+  },
+  {
+    "gecko_id": "sifchain",
+    "tvl": 7352281.18,
+    "tokenSymbol": "EROWAN",
+    "cmcId": "8541",
+    "name": "Sifchain",
+    "chainId": null,
+    "rank": 54
+  },
+  {
+    "gecko_id": "thorchain",
+    "tvl": 166908194.26584822,
+    "tokenSymbol": "RUNE",
+    "cmcId": "4157",
+    "name": "Thorchain",
+    "chainId": null,
     "rank": 55
   },
   {
     "gecko_id": "hoo-token",
-    "tvl": 44647366.43156869,
+    "tvl": 44825645.055924214,
     "tokenSymbol": "HOO",
     "cmcId": "7543",
     "name": "Hoo",
@@ -504,35 +504,35 @@
     "rank": 56
   },
   {
-    "gecko_id": "tron",
-    "tvl": 5916558146.683845,
-    "tokenSymbol": "TRON",
-    "cmcId": "1958",
-    "name": "Tron",
-    "chainId": null,
-    "rank": 57
-  },
-  {
     "gecko_id": "icon",
-    "tvl": 72565527.74218981,
+    "tvl": 71267795.03512089,
     "tokenSymbol": "ICX",
     "cmcId": "2099",
     "name": "Icon",
     "chainId": null,
-    "rank": 58
+    "rank": 57
   },
   {
     "gecko_id": "karura",
-    "tvl": 35812726.04224705,
+    "tvl": 35200606.25753093,
     "tokenSymbol": "KAR",
     "cmcId": "10042",
     "name": "Karura",
+    "chainId": null,
+    "rank": 58
+  },
+  {
+    "gecko_id": "tron",
+    "tvl": 5890229434.656624,
+    "tokenSymbol": "TRON",
+    "cmcId": "1958",
+    "name": "Tron",
     "chainId": null,
     "rank": 59
   },
   {
     "gecko_id": "tezos",
-    "tvl": 51633973.01654797,
+    "tvl": 50363284.24851903,
     "tokenSymbol": "XTZ",
     "cmcId": "2011",
     "name": "Tezos",
@@ -541,7 +541,7 @@
   },
   {
     "gecko_id": "terra-luna-2",
-    "tvl": 31133365.297999937,
+    "tvl": 30586731.52974212,
     "tokenSymbol": "LUNA",
     "cmcId": "20314",
     "name": "Terra2",
@@ -550,7 +550,7 @@
   },
   {
     "gecko_id": "eos",
-    "tvl": 122846565.1579509,
+    "tvl": 119705878.76127589,
     "tokenSymbol": "EOS",
     "cmcId": "1765",
     "name": "EOS",
@@ -559,7 +559,7 @@
   },
   {
     "gecko_id": "wax",
-    "tvl": 1728068.174752545,
+    "tvl": 1679446.3782407148,
     "tokenSymbol": "WAXP",
     "cmcId": "2300",
     "name": "Wax",
@@ -567,40 +567,31 @@
     "rank": 63
   },
   {
-    "gecko_id": "genshiro",
-    "tvl": 1251154.88071,
-    "tokenSymbol": "GENS",
-    "cmcId": "10278",
-    "name": "Genshiro",
-    "chainId": null,
-    "rank": 64
-  },
-  {
     "gecko_id": "near",
-    "tvl": 413600461.72330743,
+    "tvl": 407624336.8231171,
     "tokenSymbol": "NEAR",
     "cmcId": "6535",
     "name": "Near",
     "chainId": null,
-    "rank": 65
+    "rank": 64
   },
   {
     "gecko_id": "ptokens-ore",
-    "tvl": 1313565.5454171249,
+    "tvl": 1288029.0937068148,
     "tokenSymbol": "ORE",
     "cmcId": "12743",
     "name": "ORE",
     "chainId": null,
-    "rank": 66
+    "rank": 65
   },
   {
     "gecko_id": "ravencoin",
-    "tvl": 1496.2629391709997,
+    "tvl": 1442.8222983899998,
     "tokenSymbol": "RVN",
     "cmcId": "2577",
     "name": "Ravencoin",
     "chainId": null,
-    "rank": 67
+    "rank": 66
   },
   {
     "gecko_id": "ultra",
@@ -609,151 +600,178 @@
     "cmcId": "4189",
     "name": "Ultra",
     "chainId": null,
-    "rank": 68
+    "rank": 67
   },
   {
     "gecko_id": "lbry-credits",
-    "tvl": 30589.112456902996,
+    "tvl": 30204.460369109995,
     "tokenSymbol": "LBC",
     "cmcId": "1298",
     "name": "LBRY",
     "chainId": null,
+    "rank": 68
+  },
+  {
+    "gecko_id": "genshiro",
+    "tvl": 1232942.9392409998,
+    "tokenSymbol": "GENS",
+    "cmcId": "10278",
+    "name": "Genshiro",
+    "chainId": null,
     "rank": 69
   },
   {
-    "gecko_id": "conflux-token",
-    "tvl": 10313297.644296646,
-    "tokenSymbol": "CFX",
-    "cmcId": "7334",
-    "name": "Conflux",
-    "chainId": null,
-    "rank": 70
-  },
-  {
     "gecko_id": "lamden",
-    "tvl": 820279.2115618568,
+    "tvl": 797698.937081551,
     "tokenSymbol": "TAU",
     "cmcId": "2337",
     "name": "Lamden",
     "chainId": null,
-    "rank": 71
+    "rank": 70
   },
   {
     "gecko_id": "waves",
-    "tvl": 324710554.02245957,
+    "tvl": 321867453.3391222,
     "tokenSymbol": "WAVES",
     "cmcId": "1274",
     "name": "Waves",
     "chainId": null,
-    "rank": 72
-  },
-  {
-    "gecko_id": "shiden",
-    "tvl": 375298.16540094564,
-    "tokenSymbol": "SDN",
-    "cmcId": "11451",
-    "name": "Shiden",
-    "chainId": 336,
-    "rank": 73
+    "rank": 71
   },
   {
     "gecko_id": "clover-finance",
-    "tvl": 55583.613728962926,
+    "tvl": 53466.339952418486,
     "tokenSymbol": "CLV",
     "cmcId": "8384",
     "name": "CLV",
     "chainId": 1024,
+    "rank": 72
+  },
+  {
+    "gecko_id": "conflux-token",
+    "tvl": 10201355.097166937,
+    "tokenSymbol": "CFX",
+    "cmcId": "7334",
+    "name": "Conflux",
+    "chainId": null,
+    "rank": 73
+  },
+  {
+    "gecko_id": "shiden",
+    "tvl": 372232.97661680344,
+    "tokenSymbol": "SDN",
+    "cmcId": "11451",
+    "name": "Shiden",
+    "chainId": 336,
     "rank": 74
   },
   {
-    "gecko_id": "energy-web-token",
-    "tvl": 946009.3203294444,
-    "tokenSymbol": "EWT",
-    "cmcId": "5268",
-    "name": "EnergyWeb",
-    "chainId": 246,
-    "rank": 75
-  },
-  {
-    "gecko_id": "gochain",
-    "tvl": 37614.31589000878,
-    "tokenSymbol": "GO",
-    "cmcId": "2861",
-    "name": "GoChain",
-    "chainId": 60,
-    "rank": 76
-  },
-  {
-    "gecko_id": "high-performance-blockchain",
-    "tvl": 120614.50738008755,
-    "tokenSymbol": "HPB",
-    "cmcId": "2345",
-    "name": "HPB",
-    "chainId": 269,
-    "rank": 77
-  },
-  {
-    "gecko_id": "darwinia-crab-network",
-    "tvl": 42935.06327071717,
-    "tokenSymbol": "CRAB",
-    "cmcId": "9243",
-    "name": "Crab",
-    "chainId": 44,
-    "rank": 78
-  },
-  {
     "gecko_id": "ethereum-classic",
-    "tvl": 333843.44917857024,
+    "tvl": 323817.17947072024,
     "tokenSymbol": "ETC",
     "cmcId": "1321",
     "name": "EthereumClassic",
     "chainId": 61,
-    "rank": 79
+    "rank": 75
   },
   {
-    "gecko_id": "kardiachain",
-    "tvl": 13044404.245447401,
-    "tokenSymbol": "KAI",
-    "cmcId": "5453",
-    "name": "Kardia",
-    "chainId": 0,
-    "rank": 80
-  },
-  {
-    "gecko_id": "sora",
-    "tvl": 7151889.69018,
-    "tokenSymbol": "XOR",
-    "cmcId": "5802",
-    "name": "Sora",
-    "chainId": null,
-    "rank": 81
+    "gecko_id": "darwinia-crab-network",
+    "tvl": 42663.32470132195,
+    "tokenSymbol": "CRAB",
+    "cmcId": "9243",
+    "name": "Crab",
+    "chainId": 44,
+    "rank": 76
   },
   {
     "gecko_id": "fsn",
-    "tvl": 147970987.52695546,
+    "tvl": 146841602.66881812,
     "tokenSymbol": "FSN",
     "cmcId": "2530",
     "name": "Fusion",
     "chainId": 32659,
-    "rank": 82
+    "rank": 77
   },
   {
     "gecko_id": "tomochain",
-    "tvl": 998535.5839521305,
+    "tvl": 970729.763218046,
     "tokenSymbol": "TOMO",
     "cmcId": "2570",
     "name": "TomoChain",
     "chainId": 88,
+    "rank": 78
+  },
+  {
+    "gecko_id": "kardiachain",
+    "tvl": 12772430.949608298,
+    "tokenSymbol": "KAI",
+    "cmcId": "5453",
+    "name": "Kardia",
+    "chainId": 0,
+    "rank": 79
+  },
+  {
+    "gecko_id": "sora",
+    "tvl": 6998930.840129999,
+    "tokenSymbol": "XOR",
+    "cmcId": "5802",
+    "name": "Sora",
+    "chainId": null,
+    "rank": 80
+  },
+  {
+    "gecko_id": "gochain",
+    "tvl": 36985.335488699166,
+    "tokenSymbol": "GO",
+    "cmcId": "2861",
+    "name": "GoChain",
+    "chainId": 60,
+    "rank": 81
+  },
+  {
+    "gecko_id": "high-performance-blockchain",
+    "tvl": 120277.59184781667,
+    "tokenSymbol": "HPB",
+    "cmcId": "2345",
+    "name": "HPB",
+    "chainId": 269,
+    "rank": 82
+  },
+  {
+    "gecko_id": "bitcoin-cash",
+    "tvl": 6851531.060569346,
+    "tokenSymbol": "BCH",
+    "cmcId": "1831",
+    "name": "smartBCH",
+    "chainId": 10000,
     "rank": 83
   },
   {
+    "gecko_id": "cardano",
+    "tvl": 100483847.94995134,
+    "tokenSymbol": "ADA",
+    "cmcId": "2010",
+    "name": "Cardano",
+    "chainId": null,
+    "rank": 84
+  },
+  {
+    "gecko_id": "energy-web-token",
+    "tvl": 932175.3197210191,
+    "tokenSymbol": "EWT",
+    "cmcId": "5268",
+    "name": "EnergyWeb",
+    "chainId": 246,
+    "rank": 85
+  },
+  {
     "gecko_id": null,
-    "tvl": 90255193.37194385,
+    "tvl": 87449360.85612057,
     "tokenSymbol": "RON",
     "cmcId": null,
     "name": "Ronin",
     "chainId": 2020,
-    "rank": 84
+    "rank": 86
   },
   {
     "gecko_id": null,
@@ -762,65 +780,47 @@
     "cmcId": null,
     "name": "zkSync",
     "chainId": null,
-    "rank": 85
-  },
-  {
-    "gecko_id": "bitcoin-cash",
-    "tvl": 7041328.373921795,
-    "tokenSymbol": "BCH",
-    "cmcId": "1831",
-    "name": "smartBCH",
-    "chainId": 10000,
-    "rank": 86
-  },
-  {
-    "gecko_id": "cardano",
-    "tvl": 103462712.04206112,
-    "tokenSymbol": "ADA",
-    "cmcId": "2010",
-    "name": "Cardano",
-    "chainId": null,
     "rank": 87
   },
   {
-    "gecko_id": "elrond-erd-2",
-    "tvl": 171563975.26655087,
-    "tokenSymbol": "EGLD",
-    "cmcId": "6892",
-    "name": "Elrond",
-    "chainId": null,
-    "rank": 88
-  },
-  {
-    "gecko_id": "stellar",
-    "tvl": 25332840.67677933,
-    "tokenSymbol": "XLM",
-    "cmcId": "512",
-    "name": "Stellar",
-    "chainId": null,
-    "rank": 89
-  },
-  {
-    "gecko_id": "zyx",
-    "tvl": 118026.24563596312,
-    "tokenSymbol": "ZYX",
-    "cmcId": "6131",
-    "name": "ZYX",
-    "chainId": 55,
-    "rank": 90
-  },
-  {
     "gecko_id": "polis",
-    "tvl": 58751.39020881397,
+    "tvl": 58751.376000458324,
     "tokenSymbol": "POLIS",
     "cmcId": "2359",
     "name": "Polis",
     "chainId": 333999,
+    "rank": 88
+  },
+  {
+    "gecko_id": "zyx",
+    "tvl": 115950.10834342582,
+    "tokenSymbol": "ZYX",
+    "cmcId": "6131",
+    "name": "ZYX",
+    "chainId": 55,
+    "rank": 89
+  },
+  {
+    "gecko_id": "elrond-erd-2",
+    "tvl": 166356377.52566993,
+    "tokenSymbol": "EGLD",
+    "cmcId": "6892",
+    "name": "Elrond",
+    "chainId": null,
+    "rank": 90
+  },
+  {
+    "gecko_id": "stellar",
+    "tvl": 25243628.8497418,
+    "tokenSymbol": "XLM",
+    "cmcId": "512",
+    "name": "Stellar",
+    "chainId": null,
     "rank": 91
   },
   {
     "gecko_id": "songbird",
-    "tvl": 29334852.418687146,
+    "tvl": 28996167.482766613,
     "tokenSymbol": "SGB",
     "cmcId": "12186",
     "name": "Songbird",
@@ -828,26 +828,26 @@
     "rank": 92
   },
   {
+    "gecko_id": "vechain",
+    "tvl": 5619417.57474537,
+    "tokenSymbol": "VET",
+    "cmcId": "3077",
+    "name": "VeChain",
+    "chainId": null,
+    "rank": 93
+  },
+  {
     "gecko_id": "ubiq",
-    "tvl": 314455.04028568935,
+    "tvl": 292111.55940427195,
     "tokenSymbol": "UBQ",
     "cmcId": "588",
     "name": "Ubiq",
     "chainId": 8,
-    "rank": 93
-  },
-  {
-    "gecko_id": "mixin",
-    "tvl": 536515277.71000004,
-    "tokenSymbol": "XIN",
-    "cmcId": "2349",
-    "name": "Mixin",
-    "chainId": null,
     "rank": 94
   },
   {
     "gecko_id": "everscale",
-    "tvl": 39987888.20310124,
+    "tvl": 39925069.32345616,
     "tokenSymbol": "EVER",
     "cmcId": "7505",
     "name": "Everscale",
@@ -855,26 +855,26 @@
     "rank": 95
   },
   {
-    "gecko_id": null,
-    "tvl": 2583882.6768796216,
-    "tokenSymbol": null,
-    "cmcId": null,
-    "name": "Godwoken",
-    "chainId": 71394,
+    "gecko_id": "mixin",
+    "tvl": 527973234.12,
+    "tokenSymbol": "XIN",
+    "cmcId": "2349",
+    "name": "Mixin",
+    "chainId": null,
     "rank": 96
   },
   {
-    "gecko_id": "vechain",
-    "tvl": 5735341.310465686,
-    "tokenSymbol": "VET",
-    "cmcId": "3077",
-    "name": "VeChain",
-    "chainId": null,
+    "gecko_id": "callisto",
+    "tvl": 2341825.4144728035,
+    "tokenSymbol": "CLO",
+    "cmcId": "2757",
+    "name": "Callisto",
+    "chainId": 820,
     "rank": 97
   },
   {
     "gecko_id": "blockstack",
-    "tvl": 20101365.408271473,
+    "tvl": 19777346.37118653,
     "tokenSymbol": "STX",
     "cmcId": "4847",
     "name": "Stacks",
@@ -882,35 +882,35 @@
     "rank": 98
   },
   {
-    "gecko_id": "coinex-token",
-    "tvl": 3645035.017888962,
-    "tokenSymbol": "CET",
-    "cmcId": "2941",
-    "name": "CSC",
-    "chainId": 52,
-    "rank": 99
-  },
-  {
     "gecko_id": "hedera-hashgraph",
-    "tvl": 53830627.55769387,
+    "tvl": 52339264.86412188,
     "tokenSymbol": "HBAR",
     "cmcId": "4642",
     "name": "Hedera",
     "chainId": null,
+    "rank": 99
+  },
+  {
+    "gecko_id": "coinex-token",
+    "tvl": 3620916.4406480794,
+    "tokenSymbol": "CET",
+    "cmcId": "2941",
+    "name": "CSC",
+    "chainId": 52,
     "rank": 100
   },
   {
-    "gecko_id": "callisto",
-    "tvl": 2345227.238758409,
-    "tokenSymbol": "CLO",
-    "cmcId": "2757",
-    "name": "Callisto",
-    "chainId": 820,
+    "gecko_id": null,
+    "tvl": 2525291.0249076867,
+    "tokenSymbol": null,
+    "cmcId": null,
+    "name": "Godwoken",
+    "chainId": 71394,
     "rank": 101
   },
   {
     "gecko_id": "ergo",
-    "tvl": 2333659.1478199996,
+    "tvl": 2342625.5937,
     "tokenSymbol": "ERG",
     "cmcId": "1555",
     "name": "Ergo",
@@ -919,7 +919,7 @@
   },
   {
     "gecko_id": "xdce-crowd-sale",
-    "tvl": 580472.5303521862,
+    "tvl": 577801.0991444702,
     "tokenSymbol": "XDC",
     "cmcId": "2634",
     "name": "XDC",
@@ -928,7 +928,7 @@
   },
   {
     "gecko_id": "nahmii",
-    "tvl": 1789423.4723090627,
+    "tvl": 1725886.3932150719,
     "tokenSymbol": "NII",
     "cmcId": "4865",
     "name": "Nahmii",
@@ -937,7 +937,7 @@
   },
   {
     "gecko_id": "defichain",
-    "tvl": 457217597.8816942,
+    "tvl": 453565310.4299681,
     "tokenSymbol": "DFI",
     "cmcId": "5804",
     "name": "DefiChain",
@@ -946,7 +946,7 @@
   },
   {
     "gecko_id": null,
-    "tvl": 23311087.32021777,
+    "tvl": 22507352.707571816,
     "tokenSymbol": "HKO",
     "cmcId": null,
     "name": "Heiko",
@@ -955,7 +955,7 @@
   },
   {
     "gecko_id": null,
-    "tvl": 332664607.05876535,
+    "tvl": 322717747.6739594,
     "tokenSymbol": "PARA",
     "cmcId": null,
     "name": "Parallel",
@@ -964,7 +964,7 @@
   },
   {
     "gecko_id": "theta-token",
-    "tvl": 41075465.439622045,
+    "tvl": 40078433.238955274,
     "tokenSymbol": "THETA",
     "cmcId": "2416",
     "name": "Theta",
@@ -973,7 +973,7 @@
   },
   {
     "gecko_id": "meter",
-    "tvl": 2426755.1630552644,
+    "tvl": 2407333.7805078686,
     "tokenSymbol": "MTRG",
     "cmcId": "5919",
     "name": "Meter",
@@ -982,7 +982,7 @@
   },
   {
     "gecko_id": "echelon",
-    "tvl": 8948.123295340381,
+    "tvl": 8974.968679089694,
     "tokenSymbol": "ECH",
     "cmcId": "20047",
     "name": "Echelon",
@@ -991,7 +991,7 @@
   },
   {
     "gecko_id": "multivac",
-    "tvl": 38892.37195901739,
+    "tvl": 38362.94750262251,
     "tokenSymbol": "MTV",
     "cmcId": "3853",
     "name": "MultiVAC",
@@ -1000,7 +1000,7 @@
   },
   {
     "gecko_id": null,
-    "tvl": 23279.5474420566,
+    "tvl": 23239.88371767465,
     "tokenSymbol": null,
     "cmcId": null,
     "name": "Curio",
@@ -1009,7 +1009,7 @@
   },
   {
     "gecko_id": "syscoin",
-    "tvl": 1252841.2979084172,
+    "tvl": 1229646.7316726716,
     "tokenSymbol": "SYS",
     "cmcId": "541",
     "name": "Syscoin",
@@ -1018,7 +1018,7 @@
   },
   {
     "gecko_id": "proton",
-    "tvl": 17955601.85027709,
+    "tvl": 17691187.43554227,
     "tokenSymbol": "XPR",
     "cmcId": "5350",
     "name": "Proton",
@@ -1027,7 +1027,7 @@
   },
   {
     "gecko_id": "kadena",
-    "tvl": 10025344.102719828,
+    "tvl": 9445052.841237437,
     "tokenSymbol": "KDA",
     "cmcId": "5647",
     "name": "Kadena",
@@ -1036,7 +1036,7 @@
   },
   {
     "gecko_id": "kujira",
-    "tvl": 1965503.5424416559,
+    "tvl": 1885224.7448369884,
     "tokenSymbol": "KUJI",
     "cmcId": "15185",
     "name": "Kujira",
@@ -1045,7 +1045,7 @@
   },
   {
     "gecko_id": "vite",
-    "tvl": 7476612.491972806,
+    "tvl": 7452051.565183126,
     "tokenSymbol": "VITE",
     "cmcId": "2937",
     "name": "Vite",
@@ -1054,7 +1054,7 @@
   },
   {
     "gecko_id": "defi-kingdoms",
-    "tvl": 13847019.998468554,
+    "tvl": 13452216.287936078,
     "tokenSymbol": "JEWEL",
     "cmcId": "12319",
     "name": "DFK",
@@ -1063,7 +1063,7 @@
   },
   {
     "gecko_id": "findora",
-    "tvl": 1080519.6172850004,
+    "tvl": 1076420.55290385,
     "tokenSymbol": "FRA",
     "cmcId": "4249",
     "name": "Findora",
@@ -1072,7 +1072,7 @@
   },
   {
     "gecko_id": "hydra",
-    "tvl": 2329606.2853626595,
+    "tvl": 2338915.401388085,
     "tokenSymbol": "HYDRA",
     "cmcId": "8245",
     "name": "Hydra",
@@ -1081,7 +1081,7 @@
   },
   {
     "gecko_id": "bifrost-native-coin",
-    "tvl": 74493257.95121594,
+    "tvl": 72033953.3287562,
     "tokenSymbol": "BNC",
     "cmcId": "8705",
     "name": "Bifrost",
@@ -1099,7 +1099,7 @@
   },
   {
     "gecko_id": "latoken",
-    "tvl": 134536.4132473999,
+    "tvl": 133173.28497335096,
     "tokenSymbol": "LA",
     "cmcId": "2090",
     "name": "Lachain",
@@ -1108,7 +1108,7 @@
   },
   {
     "gecko_id": "byteball",
-    "tvl": 791401.5158154424,
+    "tvl": 776456.9361272871,
     "tokenSymbol": "GBYTE",
     "cmcId": "1492",
     "name": "Obyte",
@@ -1116,26 +1116,26 @@
     "rank": 124
   },
   {
-    "gecko_id": null,
-    "tvl": 33254.58017115419,
-    "tokenSymbol": null,
-    "cmcId": null,
-    "name": "REIchain",
-    "chainId": 55555,
-    "rank": 125
-  },
-  {
     "gecko_id": "sx-network",
-    "tvl": 86.35070779422985,
+    "tvl": 84.84278196247358,
     "tokenSymbol": "SX",
     "cmcId": "8377",
     "name": "SXnetwork",
     "chainId": null,
+    "rank": 125
+  },
+  {
+    "gecko_id": null,
+    "tvl": 33054.711389641416,
+    "tokenSymbol": null,
+    "cmcId": null,
+    "name": "REIchain",
+    "chainId": 55555,
     "rank": 126
   },
   {
     "gecko_id": "acala",
-    "tvl": 359958642.81550866,
+    "tvl": 349318414.3273624,
     "tokenSymbol": "ACA",
     "cmcId": "6756",
     "name": "Acala",
@@ -1144,7 +1144,7 @@
   },
   {
     "gecko_id": "internet-computer",
-    "tvl": 1458530.4675489739,
+    "tvl": 1441508.1253094699,
     "tokenSymbol": "ICP",
     "cmcId": "8916",
     "name": "ICP",
@@ -1152,39 +1152,39 @@
     "rank": 128
   },
   {
-    "gecko_id": "supernova",
-    "tvl": 364167.2350078831,
-    "tokenSymbol": "SNT",
-    "cmcId": "15399",
-    "name": "Nova Network",
-    "chainId": 87,
-    "rank": 129
-  },
-  {
-    "gecko_id": "flow",
-    "tvl": 4476604.306517758,
-    "tokenSymbol": "FLOW",
-    "cmcId": "4558",
-    "name": "Flow",
-    "chainId": null,
-    "rank": 130
-  },
-  {
     "gecko_id": "kintsugi",
-    "tvl": 2175904.4139206866,
+    "tvl": 2108468.602540965,
     "tokenSymbol": "KINT",
     "cmcId": "13675",
     "name": "Kintsugi",
     "chainId": null,
-    "rank": 131
+    "rank": 129
   },
   {
     "gecko_id": "filecoin",
-    "tvl": 978404.3453910365,
+    "tvl": 949756.5036758166,
     "tokenSymbol": "FIL",
     "cmcId": "2280",
     "name": "Filecoin",
     "chainId": null,
+    "rank": 130
+  },
+  {
+    "gecko_id": "flow",
+    "tvl": 4414558.864471471,
+    "tokenSymbol": "FLOW",
+    "cmcId": "4558",
+    "name": "Flow",
+    "chainId": null,
+    "rank": 131
+  },
+  {
+    "gecko_id": "supernova",
+    "tvl": 353159.7676743632,
+    "tokenSymbol": "SNT",
+    "cmcId": "15399",
+    "name": "Nova Network",
+    "chainId": 87,
     "rank": 132
   }
 ]
