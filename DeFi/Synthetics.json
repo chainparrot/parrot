@@ -24,17 +24,17 @@
     ],
     "oracles": [],
     "slug": "alchemix",
-    "tvl": 134678107.65122852,
+    "tvl": 134109064.2331758,
     "chainTvls": {
-      "Ethereum": 132829344.94542572,
-      "Ethereum-staking": 12023561.837267535,
-      "staking": 12023561.837267535,
-      "Fantom": 1848762.705802797
+      "Ethereum": 132262197.29737169,
+      "Ethereum-staking": 11880424.436800914,
+      "staking": 11880424.436800914,
+      "Fantom": 1846866.935804118
     },
-    "change_1h": 0.07,
-    "change_1d": -0.89,
-    "change_7d": 2.53,
-    "staking": 12023561.837267535,
+    "change_1h": -0.42,
+    "change_1d": -0.63,
+    "change_7d": 1.91,
+    "staking": 11880424.436800914,
     "fdv": 78166776,
     "mcap": 49282757,
     "rank": 1
@@ -67,13 +67,13 @@
       "DIA"
     ],
     "slug": "injective",
-    "tvl": 73241355.18039612,
+    "tvl": 72834458.76272726,
     "chainTvls": {
-      "Ethereum": 73241355.18039612
+      "Ethereum": 72834458.76272726
     },
-    "change_1h": 0,
-    "change_1d": -2.23,
-    "change_7d": 15.31,
+    "change_1h": -0.56,
+    "change_1d": -1.7,
+    "change_7d": 13.95,
     "fdv": 188429592,
     "mcap": 122489703,
     "rank": 2
@@ -145,16 +145,16 @@
       "Ubinetic"
     ],
     "slug": "youves",
-    "tvl": 17563307.104027852,
+    "tvl": 17395127.091618203,
     "chainTvls": {
-      "Tezos-pool2": 1792176.4149632023,
-      "pool2": 1792176.4149632023,
-      "Tezos": 17563307.104027852
+      "Tezos-pool2": 1780769.3312314984,
+      "pool2": 1780769.3312314984,
+      "Tezos": 17395127.091618203
     },
-    "change_1h": 0.5,
-    "change_1d": -1.34,
-    "change_7d": -0.56,
-    "pool2": 1792176.4149632023,
+    "change_1h": -0.96,
+    "change_1d": -1.36,
+    "change_7d": -2.04,
+    "pool2": 1780769.3312314984,
     "rank": 4
   },
   {
@@ -178,21 +178,21 @@
     "twitter": "KalataOfficial",
     "listedAt": 1634737786,
     "slug": "kalata",
-    "tvl": 4463900.850062169,
+    "tvl": 4459242.840076123,
     "chainTvls": {
-      "Binance-masterchef": 3398039.6931471503,
-      "pool2": 360128.3020628436,
-      "masterchef": 3398039.6931471503,
-      "Binance-pool2": 360128.3020628436,
-      "Binance": 4463900.850062169,
+      "Binance-masterchef": 3394445.826661402,
+      "pool2": 359792.4658717605,
+      "masterchef": 3394445.826661402,
+      "Binance-pool2": 359792.4658717605,
+      "Binance": 4459242.840076123,
       "Binance-staking": 85732.07185714602,
       "staking": 85732.07185714602
     },
-    "change_1h": 0.02,
+    "change_1h": -0.1,
     "change_1d": -0.2,
-    "change_7d": 0.9,
+    "change_7d": 0.57,
     "staking": 85732.07185714602,
-    "pool2": 360128.3020628436,
+    "pool2": 359792.4658717605,
     "mcap": 0,
     "rank": 5
   },
@@ -219,13 +219,13 @@
       "https://leastauthority.com/blog/audit-of-wrap-protocol-smart-contracts-for-tezos-foundation"
     ],
     "slug": "wrap-protocol",
-    "tvl": 3400819.1021602,
+    "tvl": 3386607.930605076,
     "chainTvls": {
-      "Ethereum": 3400819.1021602
+      "Ethereum": 3386607.930605076
     },
-    "change_1h": 0.0,
-    "change_1d": -0.71,
-    "change_7d": 1.52,
+    "change_1h": -0.42,
+    "change_1d": -0.63,
+    "change_7d": 0.94,
     "mcap": 0,
     "rank": 6
   },
@@ -252,13 +252,13 @@
     "twitter": "TaigaProtocol",
     "listedAt": 1657807133,
     "slug": "taiga-protocol",
-    "tvl": 2639684.298019831,
+    "tvl": 2621610.6881583454,
     "chainTvls": {
-      "Karura": 2639684.298019831
+      "Karura": 2621610.6881583454
     },
-    "change_1h": -0.04,
-    "change_1d": 18.78,
-    "change_7d": -16.35,
+    "change_1h": -0.68,
+    "change_1d": 20.8,
+    "change_7d": -17.36,
     "rank": 7
   },
   {
@@ -290,23 +290,23 @@
       "Chainlink"
     ],
     "slug": "cvi-finance",
-    "tvl": 1603668.1542844106,
+    "tvl": 1601038.442030211,
     "chainTvls": {
-      "pool2": 1123411.1649260537,
-      "Polygon-pool2": 142659.01255185233,
-      "Arbitrum-staking": 1090797.8576227599,
-      "Ethereum-pool2": 980752.1523742015,
-      "Ethereum": 377001.33561591397,
-      "Ethereum-staking": 78353.72186423487,
-      "Polygon": 1226666.8186684968,
-      "Polygon-staking": 1221644.3842146588,
-      "staking": 2390795.9637016533
+      "pool2": 1115033.2913827007,
+      "Polygon-pool2": 141595.54686653215,
+      "Arbitrum-staking": 1084669.4031178223,
+      "Ethereum-pool2": 973437.7445161685,
+      "Ethereum": 375973.3186281894,
+      "Ethereum-staking": 77913.50535997441,
+      "Polygon": 1225065.1234020216,
+      "Polygon-staking": 1214780.7916823188,
+      "staking": 2377363.7001601155
     },
-    "change_1h": 0.0,
-    "change_1d": -0.35,
-    "change_7d": 0.41,
-    "staking": 2390795.9637016533,
-    "pool2": 1123411.1649260537,
+    "change_1h": -0.16,
+    "change_1d": -0.32,
+    "change_7d": 0.08,
+    "staking": 2377363.7001601155,
+    "pool2": 1115033.2913827007,
     "fdv": 11652435,
     "mcap": 5512933,
     "rank": 8
@@ -338,12 +338,12 @@
       "Alchemix"
     ],
     "slug": "scientix",
-    "tvl": 1494633.21,
+    "tvl": 1494594.56,
     "chainTvls": {
-      "Binance": 1494633.21
+      "Binance": 1494594.56
     },
-    "change_1h": 0.0,
-    "change_1d": -0.01,
+    "change_1h": -0.0,
+    "change_1d": 0.0,
     "change_7d": -0.08,
     "mcap": 0,
     "rank": 9
@@ -377,15 +377,15 @@
     ],
     "listedAt": 1642450048,
     "slug": "peri-finance",
-    "tvl": 922776,
+    "tvl": 921864.297312,
     "chainTvls": {
-      "Binance": 193164,
-      "Ethereum": 98359,
-      "Polygon": 631253
+      "Binance": 192973.153968,
+      "Ethereum": 98261.821308,
+      "Polygon": 630629.322036
     },
-    "change_1h": 0,
+    "change_1h": -0.1,
     "change_1d": -0.2,
-    "change_7d": 0.03,
+    "change_7d": -0.2,
     "fdv": 2070502,
     "mcap": 1012101,
     "rank": 10
@@ -413,13 +413,13 @@
     "twitter": "TapioProtocol",
     "listedAt": 1657825354,
     "slug": "tapio-protocol",
-    "tvl": 599004.14826717,
+    "tvl": 597037.2854650997,
     "chainTvls": {
-      "Acala": 599004.14826717
+      "Acala": 597037.2854650997
     },
-    "change_1h": 0,
-    "change_1d": -0.72,
-    "change_7d": -51.8,
+    "change_1h": -0.33,
+    "change_1d": -0.49,
+    "change_7d": -52.08,
     "rank": 11
   },
   {
@@ -452,15 +452,15 @@
     ],
     "listedAt": 1646684579,
     "slug": "domination-finance",
-    "tvl": 503863.14284999995,
+    "tvl": 503365.3260648642,
     "chainTvls": {
-      "Boba": 209562.858843,
-      "Ethereum": 56012.859113,
-      "Polygon": 238287.424894
+      "Boba": 209355.8107384631,
+      "Ethereum": 55957.51840819635,
+      "Polygon": 238051.99691820474
     },
-    "change_1h": 0,
+    "change_1h": -0.1,
     "change_1d": -0.2,
-    "change_7d": -2.01,
+    "change_7d": -2.2,
     "rank": 12
   },
   {
@@ -492,13 +492,13 @@
     ],
     "listedAt": 1651486174,
     "slug": "duet-protocol",
-    "tvl": 313095.98811058,
+    "tvl": 312380.66775408,
     "chainTvls": {
-      "Binance": 313095.98811058
+      "Binance": 312380.66775408
     },
-    "change_1h": 0.04,
-    "change_1d": -1.46,
-    "change_7d": -44.94,
+    "change_1h": -0.23,
+    "change_1d": -1.49,
+    "change_7d": -45.09,
     "fdv": 7202437,
     "mcap": 0,
     "rank": 13
@@ -529,13 +529,13 @@
       "Compound"
     ],
     "slug": "yam-finance",
-    "tvl": 241401.38177203768,
+    "tvl": 240043.70158790483,
     "chainTvls": {
-      "Ethereum": 241401.38177203768
+      "Ethereum": 240043.70158790483
     },
-    "change_1h": 0.11,
-    "change_1d": -1.19,
-    "change_7d": 4.61,
+    "change_1h": -0.56,
+    "change_1d": -0.87,
+    "change_7d": 3.87,
     "fdv": 2589610,
     "mcap": 2523615,
     "rank": 14
@@ -566,13 +566,13 @@
     ],
     "listedAt": 1648463492,
     "slug": "aperture-finance",
-    "tvl": 155515.4486653343,
+    "tvl": 153692.1111450039,
     "chainTvls": {
-      "Terra": 155515.4486653343
+      "Terra": 153692.1111450039
     },
-    "change_1h": -0.09,
-    "change_1d": -6.34,
-    "change_7d": -12.37,
+    "change_1h": -1.17,
+    "change_1d": -7.48,
+    "change_7d": -13.09,
     "rank": 15
   },
   {
@@ -598,13 +598,13 @@
     "twitter": "OrganixProtocol",
     "listedAt": 1645643109,
     "slug": "ogx",
-    "tvl": 143738.37579576066,
+    "tvl": 142648.70058658192,
     "chainTvls": {
-      "EOS": 143738.37579576066
+      "EOS": 142648.70058658192
     },
-    "change_1h": 0.35,
-    "change_1d": -6.68,
-    "change_7d": -96.06,
+    "change_1h": -0.76,
+    "change_1d": -7.38,
+    "change_7d": -96.1,
     "mcap": 0,
     "rank": 16
   },
@@ -635,19 +635,19 @@
     ],
     "listedAt": 1638877544,
     "slug": "mobius-finance",
-    "tvl": 58473.097455355695,
+    "tvl": 58398.45022909199,
     "chainTvls": {
-      "Polygon": 58473.097455355695,
-      "pool2": 92581.90119854773,
-      "Polygon-pool2": 92581.90119854773,
-      "Polygon-staking": 110192.37715382144,
-      "staking": 110192.37715382144
+      "Polygon": 58398.45022909199,
+      "pool2": 94174.06519721633,
+      "Polygon-pool2": 94174.06519721633,
+      "Polygon-staking": 117576.33264261413,
+      "staking": 117576.33264261413
     },
-    "change_1h": -0.01,
-    "change_1d": -0.3,
-    "change_7d": 0.4,
-    "staking": 110192.37715382144,
-    "pool2": 92581.90119854773,
+    "change_1h": -0.13,
+    "change_1d": -0.2,
+    "change_7d": 0.08,
+    "staking": 117576.33264261413,
+    "pool2": 94174.06519721633,
     "mcap": 0,
     "rank": 17
   },
@@ -673,14 +673,14 @@
     "twitter": "CraftingFinance",
     "listedAt": 1642594471,
     "slug": "crafting-finance",
-    "tvl": 21855.728283473254,
+    "tvl": 21558.241509816573,
     "chainTvls": {
-      "Ethereum": 1370.08239708,
-      "Aurora": 20485.645886393253
+      "Ethereum": 1365.0126589443,
+      "Aurora": 20193.228850872274
     },
-    "change_1h": 0.5,
-    "change_1d": -1.56,
-    "change_7d": 1.14,
+    "change_1h": -1.36,
+    "change_1d": -2.37,
+    "change_7d": -0.25,
     "fdv": 7212054,
     "mcap": 0,
     "rank": 18
@@ -717,13 +717,13 @@
     ],
     "listedAt": 1641764731,
     "slug": "argano",
-    "tvl": 21143.92294752082,
+    "tvl": 21092.736406613694,
     "chainTvls": {
-      "Polygon": 21143.92294752082
+      "Polygon": 21092.736406613694
     },
-    "change_1h": -0.07,
-    "change_1d": -0.8,
-    "change_7d": 0.88,
+    "change_1h": -0.24,
+    "change_1d": -0.67,
+    "change_7d": 0.39,
     "rank": 19
   },
   {
@@ -747,19 +747,19 @@
     "twitter": "KlondikeFinance",
     "listedAt": 1637892596,
     "slug": "klondike-finance",
-    "tvl": 19237.176332496783,
+    "tvl": 19211.578011942456,
     "chainTvls": {
-      "Ethereum": 19237.176332496783,
-      "pool2": 118224.82936378,
+      "Ethereum": 19211.578011942456,
+      "pool2": 117609.86307142,
       "Ethereum-staking": 0,
       "staking": 0,
-      "Ethereum-pool2": 118224.82936378
+      "Ethereum-pool2": 117609.86307142
     },
-    "change_1h": 0,
-    "change_1d": -0.1,
-    "change_7d": 0.19,
+    "change_1h": -0.13,
+    "change_1d": 0.0,
+    "change_7d": -0.13,
     "staking": 0,
-    "pool2": 118224.82936378,
+    "pool2": 117609.86307142,
     "fdv": 589088,
     "mcap": 345409,
     "rank": 20
@@ -789,13 +789,13 @@
     ],
     "listedAt": 1644230892,
     "slug": "symblox",
-    "tvl": 9866.486294507262,
+    "tvl": 9844.560565946334,
     "chainTvls": {
-      "Velas": 9866.486294507262
+      "Velas": 9844.560565946334
     },
-    "change_1h": -0.94,
-    "change_1d": 1.19,
-    "change_7d": 4.95,
+    "change_1h": -0.22,
+    "change_1d": 0.59,
+    "change_7d": 2.74,
     "rank": 21
   },
   {
@@ -826,19 +826,19 @@
     ],
     "listedAt": 1657490481,
     "slug": "zest-protocol",
-    "tvl": 8675.441772274575,
+    "tvl": 8619.799856742733,
     "chainTvls": {
-      "pool2": 19349.287698352182,
-      "Fantom-staking": 17838.52579921684,
-      "Fantom-pool2": 19349.287698352182,
-      "staking": 17838.52579921684,
-      "Fantom": 8675.441772274575
+      "pool2": 19227.989045015824,
+      "Fantom-staking": 17838.526046273004,
+      "Fantom-pool2": 19227.989045015824,
+      "staking": 17838.526046273004,
+      "Fantom": 8619.799856742733
     },
-    "change_1h": -0.17,
-    "change_1d": -6.91,
-    "change_7d": -80.42,
-    "staking": 17838.52579921684,
-    "pool2": 19349.287698352182,
+    "change_1h": -0.64,
+    "change_1d": -6.09,
+    "change_7d": -80.57,
+    "staking": 17838.526046273004,
+    "pool2": 19227.989045015824,
     "fdv": 354220,
     "mcap": 0,
     "rank": 22
@@ -866,13 +866,13 @@
       "https://qian.finance/PeckShield-Audit-Report-QIAN2-v1.0.pdf"
     ],
     "slug": "qian",
-    "tvl": 4396.520553481355,
+    "tvl": 4355.756108881274,
     "chainTvls": {
-      "Ethereum": 4396.520553481355
+      "Ethereum": 4355.756108881274
     },
-    "change_1h": 0.2,
-    "change_1d": -1.96,
-    "change_7d": 8.51,
+    "change_1h": -0.93,
+    "change_1d": -1.4,
+    "change_7d": 7.33,
     "mcap": 0,
     "rank": 23
   }

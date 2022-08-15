@@ -23,13 +23,13 @@
     "twitter": "PolymarketHQ",
     "listedAt": 1635250158,
     "slug": "polymarket",
-    "tvl": 7655364.156276,
+    "tvl": 7659859.730197742,
     "chainTvls": {
-      "Polygon": 7655364.156276
+      "Polygon": 7659859.730197742
     },
-    "change_1h": 0.44,
-    "change_1d": -0.3,
-    "change_7d": 2.49,
+    "change_1h": 0.06,
+    "change_1d": 0.08,
+    "change_7d": 2.32,
     "rank": 1
   },
   {
@@ -60,13 +60,13 @@
     ],
     "listedAt": 1657701519,
     "slug": "azuro",
-    "tvl": 2300348.3892326257,
+    "tvl": 2303060.2461344386,
     "chainTvls": {
-      "xDai": 2300348.3892326257
+      "xDai": 2303060.2461344386
     },
-    "change_1h": 0.13,
-    "change_1d": 1.21,
-    "change_7d": 1.69,
+    "change_1h": 0.12,
+    "change_1d": 1.15,
+    "change_7d": 1.35,
     "rank": 2
   },
   {
@@ -94,14 +94,57 @@
     "twitter": null,
     "listedAt": 1645823305,
     "slug": "bethash",
-    "tvl": 270874.675752,
+    "tvl": 266428.90579999995,
     "chainTvls": {
-      "EOS": 270874.675752
+      "EOS": 266428.90579999995
     },
-    "change_1h": 0.92,
-    "change_1d": -2.11,
-    "change_7d": -5.8,
+    "change_1h": -1.64,
+    "change_1d": -3.39,
+    "change_7d": -7.49,
     "rank": 3
+  },
+  {
+    "id": "1567",
+    "name": "LuckyChip",
+    "address": "bsc:0x6012c3a742f92103d238f1c8306cf8fbcdeca8b3",
+    "symbol": "LC",
+    "url": "https://luckychip.io/",
+    "description": "1st Web3 Casino with PlaytoEarn and StaketoEarn.",
+    "chain": "Binance",
+    "logo": "https://icons.llama.fi/luckychip.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Prediction Market",
+    "chains": [
+      "Binance"
+    ],
+    "oracles": [
+      "Chainlink"
+    ],
+    "forkedFrom": [],
+    "module": "luckychip/index.js",
+    "twitter": "LuckyChip_io",
+    "audit_links": [
+      "https://certik.com/projects/luckychip",
+      "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-LuckyChip-v1.0.pdf",
+      "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-LuckyChipStaking-v1.0.pdf",
+      "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-ERC20-LuckyChip-v1.0.pdf"
+    ],
+    "listedAt": 1647812879,
+    "slug": "luckychip",
+    "tvl": 240108.03175732068,
+    "chainTvls": {
+      "Binance": 240108.03175732068,
+      "Binance-staking": 20873.65701905381,
+      "staking": 20873.65701905381
+    },
+    "change_1h": 1368633.98,
+    "change_1d": 0.08,
+    "change_7d": -1.46,
+    "staking": 20873.65701905381,
+    "rank": 4
   },
   {
     "id": "1060",
@@ -124,19 +167,19 @@
     "twitter": "entropyfi",
     "listedAt": 1640025906,
     "slug": "entropyfi",
-    "tvl": 120497.85730695521,
+    "tvl": 120416.39169738625,
     "chainTvls": {
-      "Polygon": 120497.85730695521,
-      "pool2": 4249.05134740042,
-      "Polygon-pool2": 4249.05134740042
+      "Polygon": 120416.39169738625,
+      "pool2": 4230.551874599796,
+      "Polygon-pool2": 4230.551874599796
     },
-    "change_1h": -0.04,
-    "change_1d": 0.07,
-    "change_7d": -5.06,
-    "pool2": 4249.05134740042,
+    "change_1h": -0.07,
+    "change_1d": 0.18,
+    "change_7d": -5.31,
+    "pool2": 4230.551874599796,
     "fdv": 7192396,
     "mcap": 0,
-    "rank": 4
+    "rank": 5
   },
   {
     "id": "1473",
@@ -163,15 +206,15 @@
     "twitter": "SportBetOne",
     "listedAt": 1645824211,
     "slug": "sportbet",
-    "tvl": 76198.4651323431,
+    "tvl": 75602.08126883775,
     "chainTvls": {
-      "EOS": 76198.4651323431
+      "EOS": 75602.08126883775
     },
-    "change_1h": 1.04,
-    "change_1d": -8.4,
-    "change_7d": 0.04,
+    "change_1h": -0.78,
+    "change_1d": -7.79,
+    "change_7d": 0.94,
     "mcap": 0,
-    "rank": 5
+    "rank": 6
   },
   {
     "id": "633",
@@ -196,16 +239,16 @@
       "Chainlink"
     ],
     "slug": "totemfi",
-    "tvl": 13955.306045074194,
+    "tvl": 14162.455396787973,
     "chainTvls": {
-      "Binance": 13955.306045074194
+      "Binance": 14162.455396787973
     },
-    "change_1h": 0.35,
-    "change_1d": -3.04,
-    "change_7d": 1.09,
-    "fdv": 341839,
-    "mcap": 208989,
-    "rank": 6
+    "change_1h": 1.48,
+    "change_1d": -1.56,
+    "change_7d": 2.37,
+    "fdv": 346355,
+    "mcap": 211750,
+    "rank": 7
   },
   {
     "id": "1754",
@@ -233,14 +276,14 @@
     ],
     "listedAt": 1652206255,
     "slug": "catsluck",
-    "tvl": 10529.259726917515,
+    "tvl": 10494.65620806797,
     "chainTvls": {
-      "smartBCH": 10529.259726917515
+      "smartBCH": 10494.65620806797
     },
-    "change_1h": 0.07,
-    "change_1d": -1.78,
-    "change_7d": -1.53,
-    "rank": 7
+    "change_1h": -0.33,
+    "change_1d": -0.88,
+    "change_7d": -2.14,
+    "rank": 8
   },
   {
     "id": "440",
@@ -279,7 +322,7 @@
     "change_1d": 0,
     "change_7d": 0,
     "mcap": 0,
-    "rank": 8
+    "rank": 9
   },
   {
     "id": "1276",
@@ -302,19 +345,19 @@
     "twitter": "KCCguru",
     "listedAt": 1642451415,
     "slug": "kccguru",
-    "tvl": 2324.0644825256945,
+    "tvl": 2325.7136678611923,
     "chainTvls": {
       "Kucoin-staking": 0,
       "pool2": 0,
-      "Kucoin": 2324.0644825256945,
+      "Kucoin": 2325.7136678611923,
       "Kucoin-pool2": 0,
       "staking": 0
     },
-    "change_1h": -0.03,
-    "change_1d": -1.67,
-    "change_7d": -0.87,
+    "change_1h": 0.07,
+    "change_1d": -1.09,
+    "change_7d": -1.31,
     "staking": 0,
     "pool2": 0,
-    "rank": 9
+    "rank": 10
   }
 ]
