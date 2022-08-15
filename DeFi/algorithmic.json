@@ -50,7 +50,7 @@
       },
       "Evmos": {
         "current": {
-          "peggedUSD": 1042398.9978543387
+          "peggedUSD": 0
         },
         "circulatingPrevDay": {
           "peggedUSD": 1042398.9978543387
@@ -73,7 +73,7 @@
           "peggedUSD": 17874181.303688023
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 30117411.980456132
+          "peggedUSD": 30147401.690539688
         }
       },
       "Milkomeda": {
@@ -129,7 +129,7 @@
           "peggedUSD": 7601655.425444631
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 20356318.718729608
+          "peggedUSD": 20386308.50880341
         }
       },
       "BSC": {
@@ -162,16 +162,16 @@
       },
       "Ethereum": {
         "current": {
-          "peggedUSD": 1338961578.6165187
+          "peggedUSD": 1340003977.614373
         },
         "circulatingPrevDay": {
-          "peggedUSD": 1339311870.4665787
+          "peggedUSD": 1339311865.9872885
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 1332482750.931251
+          "peggedUSD": 1332482797.7478514
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 1182957998.849087
+          "peggedUSD": 1182898316.006392
         }
       },
       "Aurora": {
@@ -199,7 +199,7 @@
           "peggedUSD": 12273387.286551068
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 22454206.896456826
+          "peggedUSD": 22453996.017306235
         }
       },
       "Solana": {
@@ -235,13 +235,13 @@
           "peggedUSD": 7670580.472989163
         },
         "circulatingPrevDay": {
-          "peggedUSD": 7670462.752949596
+          "peggedUSD": 7670467.2322398815
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 7656767.579120879
+          "peggedUSD": 7656720.762520632
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 39641080.28987764
+          "peggedUSD": 39640994.51156565
         }
       }
     },
@@ -256,17 +256,17 @@
       "Moonbeam",
       "Avalanche",
       "BSC",
-      "Evmos",
       "Boba",
       "Solana",
       "zkSync",
       "Aurora",
-      "Milkomeda"
+      "Milkomeda",
+      "Evmos"
     ],
-    "price": 0.99949,
-    "marketcapUSD": 1430965499.6326091,
+    "price": 1.00054949,
+    "marketcapUSD": 1432482366.8721073,
     "marketcapEUR": 0,
-    "offPeg": -0.05,
+    "offPeg": 0.05,
     "timestamp": "Aug 15, 2022",
     "totalchains": 16,
     "change1d": 0.0,
@@ -289,7 +289,7 @@
       "peggedUSD": 725332036.831456
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 725891873.1565071
+      "peggedUSD": 732948674.9626172
     },
     "circulatingPrevMonth": {
       "peggedUSD": 723321758.831466
@@ -303,7 +303,7 @@
           "peggedUSD": 86827937.77070586
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 92099464.27969976
+          "peggedUSD": 92031962.33963846
         },
         "circulatingPrevMonth": {
           "peggedUSD": 98529625.99835029
@@ -317,7 +317,7 @@
           "peggedUSD": 2810457.759833187
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 2698550.2478541136
+          "peggedUSD": 2766052.1879154146
         },
         "circulatingPrevMonth": {
           "peggedUSD": 3063428.673103124
@@ -345,7 +345,7 @@
           "peggedUSD": 535625720.9445009
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 535780100.4162992
+          "peggedUSD": 542836902.2224092
         },
         "circulatingPrevMonth": {
           "peggedUSD": 521036442.7142041
@@ -358,14 +358,14 @@
       "BSC",
       "Bittorrent"
     ],
-    "price": 0.9979050462150597,
-    "marketcapUSD": 723812499.7355574,
+    "price": 0.9979051400718875,
+    "marketcapUSD": 723812567.8129215,
     "marketcapEUR": 0,
     "offPeg": -0.21,
     "timestamp": "Aug 15, 2022",
     "totalchains": 4,
     "change1d": 0.0,
-    "change1w": -0.08,
+    "change1w": -1.04,
     "change1m": 0.28,
     "rank": 2
   },
@@ -378,16 +378,16 @@
     "priceSource": "chainlink",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedUSD": 695419840
+      "peggedUSD": 695408416
     },
     "circulatingPrevDay": {
-      "peggedUSD": 695996451
+      "peggedUSD": 695995433
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 712793083
+      "peggedUSD": 712753953
     },
     "circulatingPrevMonth": {
-      "peggedUSD": 755532526
+      "peggedUSD": 755494792
     },
     "chainCirculating": {
       "BSC": {
@@ -415,21 +415,21 @@
           "peggedUSD": 29306642.797820657
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 34501837.119144015
+          "peggedUSD": 34451253.24914401
         }
       },
       "Waves": {
         "current": {
-          "peggedUSD": 665756048.5975573
+          "peggedUSD": 665744624.5975573
         },
         "circulatingPrevDay": {
-          "peggedUSD": 666333167.9569663
+          "peggedUSD": 666332149.9569663
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 683128654.113638
+          "peggedUSD": 683089524.113638
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 720677842.1626637
+          "peggedUSD": 720690692.0326637
         }
       },
       "Polygon": {
@@ -454,14 +454,14 @@
       "Polygon"
     ],
     "price": 0.98940148,
-    "marketcapUSD": 688049418.9173633,
+    "marketcapUSD": 688038115.9948558,
     "marketcapEUR": 0,
     "offPeg": -1.06,
     "timestamp": "Aug 15, 2022",
     "totalchains": 4,
     "change1d": -0.08,
-    "change1w": -2.44,
-    "change1m": -7.96,
+    "change1w": -2.43,
+    "change1m": -7.95,
     "rank": 3
   },
   {
@@ -473,10 +473,10 @@
     "priceSource": "chainlink",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedUSD": 9815491785.88617
+      "peggedUSD": 9815491813.083633
     },
     "circulatingPrevDay": {
-      "peggedUSD": 9815492045.250877
+      "peggedUSD": 9815492046.5445
     },
     "circulatingPrevWeek": {
       "peggedUSD": 9815491921.982618
@@ -515,30 +515,30 @@
       },
       "Avalanche": {
         "current": {
-          "peggedUSD": 40559691.427395
+          "peggedUSD": 40560741.427395
         },
         "circulatingPrevDay": {
-          "peggedUSD": 40306651.970026
+          "peggedUSD": 40266219.342354
         },
         "circulatingPrevWeek": {
           "peggedUSD": 40108607.693755
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 39871804.721076
+          "peggedUSD": 39912374.721076
         }
       },
       "Terra Classic": {
         "current": {
-          "peggedUSD": 9006098680.650547
+          "peggedUSD": 9005528053.53859
         },
         "circulatingPrevDay": {
-          "peggedUSD": 9006325996.146631
+          "peggedUSD": 9006380586.759195
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 9007723744.507471
+          "peggedUSD": 9007722491.897917
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 10474114779.045704
+          "peggedUSD": 10474056845.331512
         }
       },
       "DFK": {
@@ -557,7 +557,7 @@
       },
       "Harmony": {
         "current": {
-          "peggedUSD": 4555768.541472208
+          "peggedUSD": 4555881.788962208
         },
         "circulatingPrevDay": {
           "peggedUSD": 4538315.283580207
@@ -566,7 +566,7 @@
           "peggedUSD": 4268859.071988391
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 4119846.9781275033
+          "peggedUSD": 4119976.026815503
         }
       },
       "Moonbeam": {
@@ -588,10 +588,10 @@
           "peggedUSD": 154938834.3939909
         },
         "circulatingPrevDay": {
-          "peggedUSD": 154711173.25412893
+          "peggedUSD": 154711453.25412893
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 154210237.9307879
+          "peggedUSD": 154211457.93078792
         },
         "circulatingPrevMonth": {
           "peggedUSD": 155840418.92377293
@@ -599,13 +599,13 @@
       },
       "Ethereum": {
         "current": {
-          "peggedUSD": 573375423.632088
+          "peggedUSD": 573939119.7662768
         },
         "circulatingPrevDay": {
-          "peggedUSD": 573837029.0495169
+          "peggedUSD": 573837054.0495169
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 573777479.8951218
+          "peggedUSD": 573777513.2167778
         },
         "circulatingPrevMonth": {
           "peggedUSD": 569491363.8276259
@@ -619,10 +619,10 @@
           "peggedUSD": 1315992.2583481644
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 1255578.6111738533
+          "peggedUSD": 1253995.899072743
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 967479.6420358875
+          "peggedUSD": 969677.1985388875
         }
       },
       "Oasis": {
@@ -633,32 +633,32 @@
           "peggedUSD": 244714.086366
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 244467.341601
+          "peggedUSD": 246049.341601
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 175239.592608
+          "peggedUSD": 175903.592608
         }
       },
       "Polygon": {
         "current": {
-          "peggedUSD": 16415371.121641241
+          "peggedUSD": 16415166.049638242
         },
         "circulatingPrevDay": {
-          "peggedUSD": 16351714.951264242
+          "peggedUSD": 16347253.259994242
         },
         "circulatingPrevWeek": {
           "peggedUSD": 16256187.690985242
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 15941884.355603123
+          "peggedUSD": 15951834.355603123
         }
       },
       "Solana": {
         "current": {
-          "peggedUSD": 11763439.809594069
+          "peggedUSD": 11763423.234005935
         },
         "circulatingPrevDay": {
-          "peggedUSD": 11765034.665307067
+          "peggedUSD": 11755034.665307067
         },
         "circulatingPrevWeek": {
           "peggedUSD": 11619538.399141729
@@ -711,7 +711,7 @@
       },
       "Fantom": {
         "current": {
-          "peggedUSD": 4640144.543690001
+          "peggedUSD": 4646161.119020001
         },
         "circulatingPrevDay": {
           "peggedUSD": 4546730.159952001
@@ -720,7 +720,7 @@
           "peggedUSD": 4483734.777649
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 4374239.298033
+          "peggedUSD": 4378662.407033
         }
       }
     },
@@ -744,7 +744,7 @@
       "DFK"
     ],
     "price": 0.02704244,
-    "marketcapUSD": 265434847.6903196,
+    "marketcapUSD": 265434848.4258054,
     "marketcapEUR": 0,
     "offPeg": -97.3,
     "timestamp": "Aug 15, 2022",
@@ -793,10 +793,10 @@
     "chains": [
       "Ethereum"
     ],
-    "price": 0.994506,
-    "marketcapUSD": 189796111.44189143,
+    "price": 0.99655162,
+    "marketcapUSD": 190186506.99655652,
     "marketcapEUR": 0,
-    "offPeg": -0.55,
+    "offPeg": -0.34,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
     "change1d": 0.0,
@@ -833,7 +833,7 @@
           "peggedUSD": 121028303.39784618
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 122381668.65976988
+          "peggedUSD": 122366452.84187758
         },
         "circulatingPrevMonth": {
           "peggedUSD": 124576117.43414137
@@ -847,7 +847,7 @@
           "peggedUSD": 2327233.8059742306
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 2296761.861611683
+          "peggedUSD": 2311977.6795039824
         },
         "circulatingPrevMonth": {
           "peggedUSD": 2282457.96742142
@@ -858,10 +858,10 @@
       "Near",
       "Aurora"
     ],
-    "price": 1.001,
-    "marketcapUSD": 123468828.18946081,
+    "price": 0.999775,
+    "marketcapUSD": 123317729.97314505,
     "marketcapEUR": 0,
-    "offPeg": 0.1,
+    "offPeg": -0.02,
     "timestamp": "Aug 15, 2022",
     "totalchains": 2,
     "change1d": -0.01,
@@ -878,16 +878,16 @@
     "priceSource": "kucoin",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedUSD": 49362400.31054416
+      "peggedUSD": 49356338.258027956
     },
     "circulatingPrevDay": {
-      "peggedUSD": 49534273.68984541
+      "peggedUSD": 49524407.125014454
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 49858686.492366925
+      "peggedUSD": 49858689.31654755
     },
     "circulatingPrevMonth": {
-      "peggedUSD": 52686171.019592114
+      "peggedUSD": 52673458.00290687
     },
     "chainCirculating": {
       "Ethereum": {
@@ -920,16 +920,16 @@
       },
       "Celo": {
         "current": {
-          "peggedUSD": 48787201.05628418
+          "peggedUSD": 48781139.003767975
         },
         "circulatingPrevDay": {
-          "peggedUSD": 48972041.422769934
+          "peggedUSD": 48962174.857938975
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 49313583.763704345
+          "peggedUSD": 49313586.58788497
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 51541552.484693035
+          "peggedUSD": 51528839.46800779
         }
       }
     },
@@ -938,15 +938,15 @@
       "Solana",
       "Ethereum"
     ],
-    "price": 0.9939,
-    "marketcapUSD": 49061289.668649845,
+    "price": 0.9941,
+    "marketcapUSD": 49065135.86230559,
     "marketcapEUR": 0,
-    "offPeg": -0.61,
+    "offPeg": -0.59,
     "timestamp": "Aug 15, 2022",
     "totalchains": 3,
-    "change1d": -0.35,
-    "change1w": -1.0,
-    "change1m": -6.31,
+    "change1d": -0.34,
+    "change1w": -1.01,
+    "change1m": -6.3,
     "rank": 7
   },
   {
@@ -958,16 +958,16 @@
     "priceSource": "kucoin",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedEUR": 32900142.141605314
+      "peggedEUR": 32900050.110969007
     },
     "circulatingPrevDay": {
-      "peggedEUR": 32896480.52498253
+      "peggedEUR": 32897083.46225509
     },
     "circulatingPrevWeek": {
-      "peggedEUR": 33234031.842884663
+      "peggedEUR": 33233974.2564603
     },
     "circulatingPrevMonth": {
-      "peggedEUR": 33428768.654631212
+      "peggedEUR": 33428574.8253641
     },
     "chainCirculating": {
       "Ethereum": {
@@ -1014,16 +1014,16 @@
       },
       "Celo": {
         "current": {
-          "peggedEUR": 32752607.3882428
+          "peggedEUR": 32752515.357606493
         },
         "circulatingPrevDay": {
-          "peggedEUR": 32748945.771620017
+          "peggedEUR": 32749548.708892576
         },
         "circulatingPrevWeek": {
-          "peggedEUR": 33086497.08952215
+          "peggedEUR": 33086439.503097787
         },
         "circulatingPrevMonth": {
-          "peggedEUR": 33268755.724857226
+          "peggedEUR": 33268561.895590115
         }
       }
     },
@@ -1033,10 +1033,10 @@
       "Polygon",
       "Ethereum"
     ],
-    "price": 1.01,
-    "marketcapUSD": 33772373.60198964,
-    "marketcapEUR": 33229143.563021366,
-    "offPeg": 1.0,
+    "price": 1.0063,
+    "marketcapUSD": 33648558.90100328,
+    "marketcapEUR": 33107320.42666811,
+    "offPeg": 0.63,
     "timestamp": "Aug 15, 2022",
     "totalchains": 4,
     "change1d": 0.01,
@@ -1053,13 +1053,13 @@
     "priceSource": "curve",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedUSD": 30785689.620386
+      "peggedUSD": 30786255.287877
     },
     "circulatingPrevDay": {
-      "peggedUSD": 31041760.304524
+      "peggedUSD": 31041765.347189
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 31850922.22889
+      "peggedUSD": 31854067.341788
     },
     "circulatingPrevMonth": {
       "peggedEUR": 0,
@@ -1068,13 +1068,13 @@
     "chainCirculating": {
       "Ethereum": {
         "current": {
-          "peggedUSD": 30785689.620386
+          "peggedUSD": 30786255.287877
         },
         "circulatingPrevDay": {
-          "peggedUSD": 31041760.304524
+          "peggedUSD": 31041765.347189
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 31850922.22889
+          "peggedUSD": 31854067.341788
         },
         "circulatingPrevMonth": 0
       }
@@ -1082,14 +1082,14 @@
     "chains": [
       "Ethereum"
     ],
-    "price": 0.9996295653456598,
-    "marketcapUSD": 30774285.53409285,
+    "price": 0.9996302265360141,
+    "marketcapUSD": 30774871.347616047,
     "marketcapEUR": 0,
     "offPeg": -0.04,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
     "change1d": -0.82,
-    "change1w": -3.34,
+    "change1w": -3.35,
     "change1m": 0,
     "rank": 9
   },
@@ -1105,7 +1105,7 @@
       "peggedUSD": 19725859.29722
     },
     "circulatingPrevDay": {
-      "peggedUSD": 19711952.509731
+      "peggedUSD": 19712031.950741
     },
     "circulatingPrevWeek": {
       "peggedUSD": 19723272.584052
@@ -1120,7 +1120,7 @@
           "peggedUSD": 19725859.29722
         },
         "circulatingPrevDay": {
-          "peggedUSD": 19711952.509731
+          "peggedUSD": 19712031.950741
         },
         "circulatingPrevWeek": {
           "peggedUSD": 19723272.584052
@@ -1131,10 +1131,10 @@
     "chains": [
       "Solana"
     ],
-    "price": 1.0001677281280072,
-    "marketcapUSD": 19729167.878673255,
+    "price": 1.000148221089791,
+    "marketcapUSD": 19728783.085582096,
     "marketcapEUR": 0,
-    "offPeg": 0.02,
+    "offPeg": 0.01,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
     "change1d": 0.07,
@@ -1226,8 +1226,8 @@
       "Polygon",
       "Ethereum"
     ],
-    "price": 0.9381694231430378,
-    "marketcapUSD": 17059516.817682914,
+    "price": 0.9381701532856368,
+    "marketcapUSD": 17059530.09447455,
     "marketcapEUR": 0,
     "offPeg": -6.18,
     "timestamp": "Aug 15, 2022",
@@ -1249,7 +1249,7 @@
       "peggedUSD": 3554844.377595621
     },
     "circulatingPrevDay": {
-      "peggedUSD": 3746488.5147209116
+      "peggedUSD": 3744537.734640061
     },
     "circulatingPrevWeek": {
       "peggedUSD": 4586739.787511954
@@ -1263,7 +1263,7 @@
           "peggedUSD": 3554844.377595621
         },
         "circulatingPrevDay": {
-          "peggedUSD": 3746488.5147209116
+          "peggedUSD": 3744537.734640061
         },
         "circulatingPrevWeek": {
           "peggedUSD": 4586739.787511954
@@ -1276,13 +1276,13 @@
     "chains": [
       "Arbitrum"
     ],
-    "price": 0.9965,
-    "marketcapUSD": 3542402.422274037,
+    "price": 0.9966,
+    "marketcapUSD": 3542757.9067117963,
     "marketcapEUR": 0,
-    "offPeg": -0.35,
+    "offPeg": -0.34,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
-    "change1d": -5.12,
+    "change1d": -5.07,
     "change1w": -22.5,
     "change1m": -48.68,
     "rank": 12
@@ -1326,10 +1326,10 @@
     "chains": [
       "Fantom"
     ],
-    "price": 1.003,
-    "marketcapUSD": 2483463.5574254715,
+    "price": 1.002,
+    "marketcapUSD": 2480987.5219743997,
     "marketcapEUR": 0,
-    "offPeg": 0.3,
+    "offPeg": 0.2,
     "timestamp": "Aug 15, 2022",
     "totalchains": 1,
     "change1d": 0.0,
@@ -1346,16 +1346,16 @@
     "priceSource": "curve",
     "pegMechanism": "algorithmic",
     "circulating": {
-      "peggedUSD": 12387690.221279636
+      "peggedUSD": 12388279.270852447
     },
     "circulatingPrevDay": {
-      "peggedUSD": 12395910.851333663
+      "peggedUSD": 12393524.800545461
     },
     "circulatingPrevWeek": {
-      "peggedUSD": 12499342.480307393
+      "peggedUSD": 12498995.203666382
     },
     "circulatingPrevMonth": {
-      "peggedUSD": 23286851.365302786
+      "peggedUSD": 23285097.851023987
     },
     "chainCirculating": {
       "BSC": {
@@ -1402,30 +1402,30 @@
       },
       "Polygon": {
         "current": {
-          "peggedUSD": 379621.8082974567
+          "peggedUSD": 378815.7189926709
         },
         "circulatingPrevDay": {
-          "peggedUSD": 385764.3030205458
+          "peggedUSD": 387926.4580084756
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 368374.68797883246
+          "peggedUSD": 368721.964619842
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 334296.2513846902
+          "peggedUSD": 335961.4204025938
         }
       },
       "Fantom": {
         "current": {
-          "peggedUSD": 11757578.268392744
+          "peggedUSD": 11758973.40727034
         },
         "circulatingPrevDay": {
-          "peggedUSD": 11761521.32072368
+          "peggedUSD": 11756973.11494755
         },
         "circulatingPrevWeek": {
-          "peggedUSD": 11887620.121224992
+          "peggedUSD": 11886925.567942971
         },
         "circulatingPrevMonth": {
-          "peggedUSD": 22720439.11783666
+          "peggedUSD": 22717020.43453996
         }
       }
     },
@@ -1436,13 +1436,13 @@
       "BSC",
       "Metis"
     ],
-    "price": 0.16397470583123314,
-    "marketcapUSD": 2031267.8599627716,
+    "price": 0.1639750249355101,
+    "marketcapUSD": 2031368.402346093,
     "marketcapEUR": 0,
     "offPeg": -83.6,
     "timestamp": "Aug 15, 2022",
     "totalchains": 5,
-    "change1d": -0.07,
+    "change1d": -0.04,
     "change1w": -0.89,
     "change1m": -46.8,
     "rank": 14
