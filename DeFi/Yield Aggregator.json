@@ -222,19 +222,19 @@
     "module": "yieldyak/index.js",
     "twitter": "yieldyak_",
     "slug": "yield-yak",
-    "tvl": 72905304.87119071,
+    "tvl": 72425710.95896551,
     "chainTvls": {
-      "Avalanche": 72905304.87119071,
-      "Avalanche-staking": 2905177.1070238766,
-      "pool2": 129.59150194680564,
-      "Avalanche-pool2": 129.59150194680564,
-      "staking": 2905177.1070238766
+      "Avalanche": 72425710.95896551,
+      "Avalanche-staking": 2882393.454825623,
+      "pool2": 128.47790768106785,
+      "Avalanche-pool2": 128.47790768106785,
+      "staking": 2882393.454825623
     },
-    "change_1h": -0.18,
-    "change_1d": -0.94,
-    "change_7d": -0.64,
-    "staking": 2905177.1070238766,
-    "pool2": 129.59150194680564,
+    "change_1h": -0.66,
+    "change_1d": -1.82,
+    "change_7d": -1.77,
+    "staking": 2882393.454825623,
+    "pool2": 128.47790768106785,
     "fdv": 3915803,
     "mcap": 3715329,
     "rank": 5
@@ -651,8 +651,8 @@
     "change_7d": 3.36,
     "staking": 3478738.7488272623,
     "pool2": 391999.3142645579,
-    "fdv": 5543913,
-    "mcap": 1522595,
+    "fdv": 5561748,
+    "mcap": 1527493,
     "rank": 14
   },
   {
@@ -726,8 +726,8 @@
     "change_7d": 10.22,
     "staking": 826025.2859254378,
     "pool2": 5748.7770071507975,
-    "fdv": 11024912,
-    "mcap": 2124616,
+    "fdv": 10789782,
+    "mcap": 2079304,
     "rank": 16
   },
   {
@@ -756,24 +756,24 @@
       "https://onx-finance.gitbook.io/docs/audits-and-contracts"
     ],
     "slug": "onx-finance",
-    "tvl": 4787217.432842206,
+    "tvl": 4734993.218112157,
     "chainTvls": {
-      "pool2": 170922.07646601798,
-      "Ethereum-pool2": 170922.07646601798,
-      "Ethereum": 4786036.40689387,
-      "Avalanche": 18.555495962000002,
-      "Ethereum-staking": 71864.942679386,
-      "Polygon": 395.636167048,
-      "Ethereum-borrowed": 654863.69683987,
-      "borrowed": 654863.69683987,
-      "Fantom": 766.834285326,
-      "staking": 71864.942679386
+      "pool2": 169675.09235576898,
+      "Ethereum-pool2": 169675.09235576898,
+      "Ethereum": 4733821.2769567715,
+      "Avalanche": 18.324483177,
+      "Ethereum-staking": 71017.35352011299,
+      "Polygon": 390.644032779,
+      "Ethereum-borrowed": 647140.106594982,
+      "borrowed": 647140.106594982,
+      "Fantom": 762.9726394289999,
+      "staking": 71017.35352011299
     },
-    "change_1h": -0.18,
-    "change_1d": 0.13,
-    "change_7d": -63.39,
-    "staking": 71864.942679386,
-    "pool2": 170922.07646601798,
+    "change_1h": -1.09,
+    "change_1d": -0.88,
+    "change_7d": -64.04,
+    "staking": 71017.35352011299,
+    "pool2": 169675.09235576898,
     "fdv": 1414853,
     "mcap": 1411283,
     "rank": 17
@@ -993,8 +993,8 @@
     "change_1h": -0.17,
     "change_1d": 0.33,
     "change_7d": -0.01,
-    "fdv": 77982028,
-    "mcap": 56530585,
+    "fdv": 76815950,
+    "mcap": 55686708,
     "rank": 22
   },
   {
@@ -1285,19 +1285,19 @@
       "https://github.com/yaxis-project/SushiSwap/tree/main/audits"
     ],
     "slug": "yaxis",
-    "tvl": 649147.4308107925,
+    "tvl": 647786.4542553667,
     "chainTvls": {
-      "Ethereum": 649147.4308107925,
-      "pool2": 31184.732059878792,
-      "Ethereum-staking": 73405.67954555675,
-      "staking": 73405.67954555675,
-      "Ethereum-pool2": 31184.732059878792
+      "Ethereum": 647786.4542553667,
+      "pool2": 30840.55128073995,
+      "Ethereum-staking": 72591.1644207691,
+      "staking": 72591.1644207691,
+      "Ethereum-pool2": 30840.55128073995
     },
-    "change_1h": -0.35,
-    "change_1d": -0.11,
-    "change_7d": -3.74,
-    "staking": 73405.67954555675,
-    "pool2": 31184.732059878792,
+    "change_1h": -0.21,
+    "change_1d": -0.32,
+    "change_7d": -3.95,
+    "staking": 72591.1644207691,
+    "pool2": 30840.55128073995,
     "mcap": 17408.84,
     "rank": 30
   },
@@ -1333,7 +1333,7 @@
     "change_1h": -0.37,
     "change_1d": -1.36,
     "change_7d": 11.57,
-    "fdv": 1745690,
+    "fdv": 1709453,
     "mcap": 0,
     "rank": 31
   },
@@ -1467,15 +1467,49 @@
       "Uniswap"
     ],
     "slug": "canary",
-    "tvl": 294329.84864400275,
+    "tvl": 285434.6077390566,
     "chainTvls": {
-      "Avalanche": 294329.84864400275
+      "Avalanche": 285434.6077390566
     },
-    "change_1h": 0.2,
-    "change_1d": -0.11,
-    "change_7d": -1.04,
+    "change_1h": -3.02,
+    "change_1d": -3.52,
+    "change_7d": -4.84,
     "mcap": 0,
     "rank": 35
+  },
+  {
+    "id": "1472",
+    "name": "Electrik Finance",
+    "address": "null",
+    "symbol": "-",
+    "url": "https://electrik.finance/",
+    "description": "Yield Optimizer on Klaytn Network",
+    "chain": "Klaytn",
+    "logo": "https://icons.llama.fi/electrikfinance.png",
+    "audits": "0",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Yield Aggregator",
+    "chains": [
+      "Klaytn"
+    ],
+    "oracles": [],
+    "forkedFrom": [
+      "Beefy"
+    ],
+    "module": "electrikfinance/index.js",
+    "twitter": "electrik_info",
+    "listedAt": 1645823765,
+    "slug": "electrik-finance",
+    "tvl": 227958.58143758698,
+    "chainTvls": {
+      "Klaytn": 227958.58143758698
+    },
+    "change_1h": 45.37,
+    "change_1d": 18.23,
+    "change_7d": -9.5,
+    "rank": 36
   },
   {
     "id": "1312",
@@ -1508,40 +1542,6 @@
     "change_1h": -0.19,
     "change_1d": -0.35,
     "change_7d": -0.65,
-    "rank": 36
-  },
-  {
-    "id": "1472",
-    "name": "Electrik Finance",
-    "address": "null",
-    "symbol": "-",
-    "url": "https://electrik.finance/",
-    "description": "Yield Optimizer on Klaytn Network",
-    "chain": "Klaytn",
-    "logo": "https://icons.llama.fi/electrikfinance.png",
-    "audits": "0",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Yield Aggregator",
-    "chains": [
-      "Klaytn"
-    ],
-    "oracles": [],
-    "forkedFrom": [
-      "Beefy"
-    ],
-    "module": "electrikfinance/index.js",
-    "twitter": "electrik_info",
-    "listedAt": 1645823765,
-    "slug": "electrik-finance",
-    "tvl": 156807.69581854876,
-    "chainTvls": {
-      "Klaytn": 156807.69581854876
-    },
-    "change_1h": -11.0,
-    "change_1d": -23.2,
-    "change_7d": -18.59,
     "rank": 37
   },
   {
