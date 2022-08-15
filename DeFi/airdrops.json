@@ -1306,52 +1306,6 @@
     "rank": 35
   },
   {
-    "id": "1254",
-    "name": "XDAO",
-    "address": null,
-    "symbol": "-",
-    "url": "https://www.xdao.app/",
-    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
-    "chain": "Multi-Chain",
-    "logo": "https://icons.llama.fi/xdao.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Services",
-    "chains": [
-      "Polygon",
-      "Binance",
-      "Ethereum",
-      "Astar",
-      "Heco",
-      "Avalanche",
-      "Fantom"
-    ],
-    "module": "xdao.js",
-    "twitter": "xdaoapp",
-    "audit_links": [
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
-      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
-    ],
-    "listedAt": 1642109094,
-    "slug": "xdao",
-    "tvl": 32676969.80175566,
-    "chainTvls": {
-      "Binance": 1823258.3904516737,
-      "Ethereum": 124865.26552958213,
-      "Astar": 32173.50316620229,
-      "Heco": 4574.121572000019,
-      "Avalanche": 67.6721398777824,
-      "Polygon": 30691984.78523623,
-      "Fantom": 46.06366009390785
-    },
-    "change_1h": 0.98,
-    "change_1d": -1.81,
-    "change_7d": 4.39,
-    "rank": 36
-  },
-  {
     "id": "1447",
     "name": "Hashflow",
     "address": null,
@@ -1389,6 +1343,52 @@
     "change_1h": 2.65,
     "change_1d": 2.47,
     "change_7d": 1.06,
+    "rank": 36
+  },
+  {
+    "id": "1254",
+    "name": "XDAO",
+    "address": null,
+    "symbol": "-",
+    "url": "https://www.xdao.app/",
+    "description": "XDAO - MultiChain DAO Ecosystem Built For Decentralized Future, XDAO is the fastest framework to create and manage decentralized autonomous organizations",
+    "chain": "Multi-Chain",
+    "logo": "https://icons.llama.fi/xdao.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Services",
+    "chains": [
+      "Polygon",
+      "Binance",
+      "Ethereum",
+      "Astar",
+      "Heco",
+      "Avalanche",
+      "Fantom"
+    ],
+    "module": "xdao.js",
+    "twitter": "xdaoapp",
+    "audit_links": [
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf",
+      "https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf"
+    ],
+    "listedAt": 1642109094,
+    "slug": "xdao",
+    "tvl": 32335622.459490374,
+    "chainTvls": {
+      "Binance": 1795479.031043147,
+      "Ethereum": 124636.60106436686,
+      "Astar": 31955.42632146312,
+      "Heco": 4569.575251890883,
+      "Avalanche": 67.51489673674251,
+      "Polygon": 30378868.389182992,
+      "Fantom": 45.92172977834279
+    },
+    "change_1h": -1.04,
+    "change_1d": -3.15,
+    "change_7d": 3.51,
     "rank": 37
   },
   {
@@ -2557,13 +2557,13 @@
     ],
     "listedAt": 1636304524,
     "slug": "rubicon",
-    "tvl": 7158162.208898686,
+    "tvl": 7073400.449687199,
     "chainTvls": {
-      "Optimism": 7158162.208898686
+      "Optimism": 7073400.449687199
     },
-    "change_1h": 0.53,
-    "change_1d": -0.6,
-    "change_7d": -8.13,
+    "change_1h": -1.18,
+    "change_1d": -1.04,
+    "change_7d": -9.23,
     "rank": 70
   },
   {
@@ -2803,7 +2803,7 @@
     "change_1h": -0.01,
     "change_1d": -0.7,
     "change_7d": 3.66,
-    "mcap": 1109010,
+    "mcap": 1107163,
     "rank": 76
   },
   {
@@ -3775,41 +3775,6 @@
     "rank": 104
   },
   {
-    "id": "1917",
-    "name": "SudoSwap",
-    "address": null,
-    "symbol": "-",
-    "url": "https://sudoswap.xyz",
-    "description": "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/sudoswap.png",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": null,
-    "category": "Dexes",
-    "chains": [
-      "Ethereum"
-    ],
-    "oracles": [],
-    "forkedFrom": [],
-    "module": "sudoswap/index.js",
-    "audit_links": [
-      "https://github.com/sudoswap/audits"
-    ],
-    "twitter": "sudoswap",
-    "listedAt": 1658388571,
-    "slug": "sudoswap",
-    "tvl": 2329422.0059873173,
-    "chainTvls": {
-      "Ethereum": 2329422.0059873173
-    },
-    "change_1h": -0.78,
-    "change_1d": 23.89,
-    "change_7d": 29.92,
-    "rank": 105
-  },
-  {
     "id": "1673",
     "name": "Hydradex",
     "address": null,
@@ -3839,6 +3804,41 @@
     "change_1h": 0.0,
     "change_1d": -0.95,
     "change_7d": -4.37,
+    "rank": 105
+  },
+  {
+    "id": "1917",
+    "name": "SudoSwap",
+    "address": null,
+    "symbol": "-",
+    "url": "https://sudoswap.xyz",
+    "description": "The sudoswap AMM is a minimal, gas-efficient AMM protocol for facilitating NFT (ERC721s) to token (ETH or ERC20) swaps using customizable bonding curves",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/sudoswap.png",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": null,
+    "category": "Dexes",
+    "chains": [
+      "Ethereum"
+    ],
+    "oracles": [],
+    "forkedFrom": [],
+    "module": "sudoswap/index.js",
+    "audit_links": [
+      "https://github.com/sudoswap/audits"
+    ],
+    "twitter": "sudoswap",
+    "listedAt": 1658388571,
+    "slug": "sudoswap",
+    "tvl": 2305204.431854456,
+    "chainTvls": {
+      "Ethereum": 2305204.431854456
+    },
+    "change_1h": -1.04,
+    "change_1d": 25.36,
+    "change_7d": 33.08,
     "rank": 106
   },
   {
@@ -5019,41 +5019,6 @@
     "rank": 139
   },
   {
-    "id": "1053",
-    "name": "MooniSwap",
-    "address": null,
-    "symbol": "-",
-    "url": "https://mooniswap.exchange/#/swap",
-    "description": "Next gen. AMM protocol by 1inch! Redistributes earnings to liquidity providers, capitalizes on user slippages and protects traders from front-running attacks.",
-    "chain": "Ethereum",
-    "logo": "https://icons.llama.fi/mooniswap.jpg",
-    "audits": "2",
-    "audit_note": null,
-    "gecko_id": null,
-    "cmcId": "1102",
-    "category": "Dexes",
-    "chains": [
-      "Ethereum"
-    ],
-    "module": "mooniswap/index.js",
-    "twitter": "mooniswap",
-    "audit_links": [
-      "https://dapp.org.uk/reports/mooniswap.html",
-      "https://mooniswap.exchange/docs/mooniswap-audit-report-2.pdf",
-      "https://mooniswap.exchange/docs/mooniswap-audit-report-3.pdf"
-    ],
-    "listedAt": 1639945104,
-    "slug": "mooniswap",
-    "tvl": 629920.8240388616,
-    "chainTvls": {
-      "Ethereum": 629920.8240388616
-    },
-    "change_1h": 0.61,
-    "change_1d": 6.98,
-    "change_7d": 10.71,
-    "rank": 140
-  },
-  {
     "id": "1935",
     "name": "sKCS",
     "address": null,
@@ -5086,6 +5051,41 @@
     "change_1h": 0.0,
     "change_1d": 4.13,
     "change_7d": 78.59,
+    "rank": 140
+  },
+  {
+    "id": "1053",
+    "name": "MooniSwap",
+    "address": null,
+    "symbol": "-",
+    "url": "https://mooniswap.exchange/#/swap",
+    "description": "Next gen. AMM protocol by 1inch! Redistributes earnings to liquidity providers, capitalizes on user slippages and protects traders from front-running attacks.",
+    "chain": "Ethereum",
+    "logo": "https://icons.llama.fi/mooniswap.jpg",
+    "audits": "2",
+    "audit_note": null,
+    "gecko_id": null,
+    "cmcId": "1102",
+    "category": "Dexes",
+    "chains": [
+      "Ethereum"
+    ],
+    "module": "mooniswap/index.js",
+    "twitter": "mooniswap",
+    "audit_links": [
+      "https://dapp.org.uk/reports/mooniswap.html",
+      "https://mooniswap.exchange/docs/mooniswap-audit-report-2.pdf",
+      "https://mooniswap.exchange/docs/mooniswap-audit-report-3.pdf"
+    ],
+    "listedAt": 1639945104,
+    "slug": "mooniswap",
+    "tvl": 622938.2356079039,
+    "chainTvls": {
+      "Ethereum": 622938.2356079039
+    },
+    "change_1h": -1.11,
+    "change_1d": 7.13,
+    "change_7d": 9.13,
     "rank": 141
   },
   {
@@ -5805,15 +5805,15 @@
     ],
     "listedAt": 1645678297,
     "slug": "tropykus-finance",
-    "tvl": 336596.256167,
+    "tvl": 335817.97245156445,
     "chainTvls": {
-      "RSK-borrowed": 619210.820786,
-      "RSK": 336596.256167,
-      "borrowed": 619210.820786
+      "RSK-borrowed": 618724.4699271494,
+      "RSK": 335817.97245156445,
+      "borrowed": 618724.4699271494
     },
-    "change_1h": -0.1,
-    "change_1d": -0.45,
-    "change_7d": 2.15,
+    "change_1h": -0.23,
+    "change_1d": -0.34,
+    "change_7d": 1.64,
     "rank": 161
   },
   {
@@ -6195,13 +6195,13 @@
     "twitter": "electrik_info",
     "listedAt": 1645823765,
     "slug": "electrik-finance",
-    "tvl": 214650.74134341095,
+    "tvl": 217613.923391526,
     "chainTvls": {
-      "Klaytn": 214650.74134341095
+      "Klaytn": 217613.923391526
     },
-    "change_1h": -10.89,
-    "change_1d": 53.03,
-    "change_7d": 10.56,
+    "change_1h": 1.38,
+    "change_1d": 8.86,
+    "change_7d": 113.56,
     "rank": 172
   },
   {
@@ -8326,13 +8326,13 @@
     "twitter": "HeliosPrimeOne",
     "listedAt": 1636448140,
     "slug": "helios-prime",
-    "tvl": 2815.9340833692627,
+    "tvl": 2789.1108318155575,
     "chainTvls": {
-      "Ethereum": 2815.9340833692627
+      "Ethereum": 2789.1108318155575
     },
-    "change_1h": 0.14,
-    "change_1d": -3.89,
-    "change_7d": 4.87,
+    "change_1h": -0.95,
+    "change_1d": -4.12,
+    "change_7d": 4.98,
     "rank": 234
   },
   {

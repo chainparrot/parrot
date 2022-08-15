@@ -15,12 +15,12 @@
     "category": "Privacy",
     "chains": [
       "Ethereum",
+      "Binance",
       "Polygon",
       "Arbitrum",
       "Avalanche",
       "xDai",
-      "Optimism",
-      "Binance"
+      "Optimism"
     ],
     "module": "tornado/index.js",
     "twitter": "TornadoCash",
@@ -29,19 +29,19 @@
     ],
     "oracles": [],
     "slug": "tornado-cash",
-    "tvl": 371634987.16885316,
+    "tvl": 397229406.74365395,
     "chainTvls": {
-      "Optimism": 31486.032,
-      "Binance": 0,
-      "Ethereum": 370291234.16885316,
-      "xDai": 179979.8,
-      "Avalanche": 194949.6,
-      "Polygon": 499028.964,
-      "Arbitrum": 438308.60400000005
+      "Optimism": 31194.111999999997,
+      "Binance": 31830520.064,
+      "Ethereum": 364065082.55215394,
+      "xDai": 179740.3064,
+      "Avalanche": 193627.2,
+      "Polygon": 494997.6451,
+      "Arbitrum": 434244.864
     },
-    "change_1h": -8.04,
-    "change_1d": -11.01,
-    "change_7d": -18.77,
+    "change_1h": 6.89,
+    "change_1d": -3.34,
+    "change_7d": -13.04,
     "fdv": 131426097,
     "mcap": 19859353,
     "rank": 1
@@ -74,18 +74,18 @@
     ],
     "listedAt": 1651009772,
     "slug": "sienna-network",
-    "tvl": 7575386.859942585,
+    "tvl": 7562330.3440933945,
     "chainTvls": {
-      "Secret": 7575386.859942585,
-      "Secret-staking": 1376247.8877713424,
-      "borrowed": 337412.9836374286,
-      "Secret-borrowed": 337412.9836374286,
-      "staking": 1376247.8877713424
+      "Secret": 7562330.3440933945,
+      "Secret-staking": 1365127.7341404844,
+      "borrowed": 336915.4916403316,
+      "Secret-borrowed": 336915.4916403316,
+      "staking": 1365127.7341404844
     },
-    "change_1h": 0.17,
-    "change_1d": 1.29,
-    "change_7d": 4.4,
-    "staking": 1376247.8877713424,
+    "change_1h": -0.17,
+    "change_1d": 2.08,
+    "change_7d": 4.62,
+    "staking": 1365127.7341404844,
     "fdv": 9274489,
     "mcap": 4031257,
     "rank": 2
@@ -242,7 +242,7 @@
     "change_7d": -1.41,
     "staking": 5.724669811523601,
     "pool2": 3582.279883605728,
-    "fdv": 60430,
+    "fdv": 59704,
     "mcap": 0,
     "rank": 6
   },
