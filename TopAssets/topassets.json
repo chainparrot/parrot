@@ -3,9 +3,9 @@
     "rank": 1,
     "name": "Gold",
     "symbol": "GOLD",
-    "marketcap": 11300000000000.0,
-    "priceusd": "1713",
-    "today": -0.28,
+    "marketcap": 11293000000000.0,
+    "priceusd": "1712",
+    "today": -0.34,
     "country": "Global",
     "timestamp": "Sep 14, 2022",
     "change": -4.19,
@@ -29,7 +29,7 @@
     "symbol": "2222.SR",
     "marketcap": 2178000000000.0,
     "priceusd": "9.90",
-    "today": -0.13,
+    "today": 0.0,
     "country": "S. Arabia",
     "timestamp": "Sep 14, 2022",
     "change": 5.88,
@@ -75,9 +75,9 @@
     "rank": 7,
     "name": "Silver",
     "symbol": "SILVER",
-    "marketcap": 1086000000000.0001,
-    "priceusd": "19.30",
-    "today": -0.98,
+    "marketcap": 1094000000000.0001,
+    "priceusd": "19.44",
+    "today": -0.29,
     "country": "Global",
     "timestamp": "Sep 14, 2022",
     "change": -17.77,
@@ -99,7 +99,7 @@
     "rank": 9,
     "name": "Berkshire Hathaway ",
     "symbol": "BRK-B",
-    "marketcap": 613750000000.0,
+    "marketcap": 612690000000.0,
     "priceusd": "278.29",
     "today": -3.54,
     "country": "USA",
@@ -181,21 +181,33 @@
   },
   {
     "rank": 16,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "marketcap": 386520000000.0,
-    "priceusd": "20171",
-    "today": -9.7,
+    "name": "Palladium",
+    "symbol": "PALLAD",
+    "marketcap": 389720000000.0,
+    "priceusd": "2227",
+    "today": 6.27,
     "country": "Global",
     "timestamp": "Sep 14, 2022",
-    "change": -51.64,
-    "category": "Crypto"
+    "change": -27.82,
+    "category": "Metal"
   },
   {
     "rank": 17,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "marketcap": 388330000000.0,
+    "priceusd": "20227",
+    "today": -10.21,
+    "country": "Global",
+    "timestamp": "Sep 14, 2022",
+    "change": -55.28,
+    "category": "Crypto"
+  },
+  {
+    "rank": 18,
     "name": "Tencent",
     "symbol": "TCEHY",
-    "marketcap": 371780000000.0,
+    "marketcap": 375490000000.0,
     "priceusd": "38.30",
     "today": -3.01,
     "country": "China",
@@ -204,7 +216,7 @@
     "category": "Company"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "name": "Walmart",
     "symbol": "WMT",
     "marketcap": 367010000000.0,
@@ -214,18 +226,6 @@
     "timestamp": "Sep 14, 2022",
     "change": -6.78,
     "category": "Company"
-  },
-  {
-    "rank": 19,
-    "name": "Palladium",
-    "symbol": "PALLAD",
-    "marketcap": 364870000000.0,
-    "priceusd": "2085",
-    "today": -1.24,
-    "country": "Global",
-    "timestamp": "Sep 14, 2022",
-    "change": -27.82,
-    "category": "Metal"
   },
   {
     "rank": 20,
@@ -241,18 +241,6 @@
   },
   {
     "rank": 21,
-    "name": "Kweichow Moutai",
-    "symbol": "600519.SS",
-    "marketcap": 341940000000.0,
-    "priceusd": "271.36",
-    "today": 1.85,
-    "country": "China",
-    "timestamp": "Sep 14, 2022",
-    "change": 5.71,
-    "category": "Company"
-  },
-  {
-    "rank": 22,
     "name": "JPMorgan Chase",
     "symbol": "JPM",
     "marketcap": 341320000000.0,
@@ -261,6 +249,18 @@
     "country": "USA",
     "timestamp": "Sep 14, 2022",
     "change": -27.19,
+    "category": "Company"
+  },
+  {
+    "rank": 22,
+    "name": "Kweichow Moutai",
+    "symbol": "600519.SS",
+    "marketcap": 337380000000.0,
+    "priceusd": "268.57",
+    "today": -0.53,
+    "country": "China",
+    "timestamp": "Sep 14, 2022",
+    "change": 4.62,
     "category": "Company"
   },
   {
@@ -277,6 +277,18 @@
   },
   {
     "rank": 24,
+    "name": "LVMH",
+    "symbol": "MC.PA",
+    "marketcap": 327380000000.0,
+    "priceusd": "653.20",
+    "today": 0.38,
+    "country": "France",
+    "timestamp": "Sep 14, 2022",
+    "change": -15.83,
+    "category": "Company"
+  },
+  {
+    "rank": 25,
     "name": "NVIDIA",
     "symbol": "NVDA",
     "marketcap": 327220000000.0,
@@ -288,31 +300,7 @@
     "category": "Company"
   },
   {
-    "rank": 25,
-    "name": "LVMH",
-    "symbol": "MC.PA",
-    "marketcap": 325680000000.0,
-    "priceusd": "649.80",
-    "today": -1.21,
-    "country": "France",
-    "timestamp": "Sep 14, 2022",
-    "change": -16.27,
-    "category": "Company"
-  },
-  {
     "rank": 26,
-    "name": "Nestl\u00e9",
-    "symbol": "NESN.SW",
-    "marketcap": 320900000000.0,
-    "priceusd": "116.69",
-    "today": 0.2,
-    "country": "Switzerland",
-    "timestamp": "Sep 14, 2022",
-    "change": -6.89,
-    "category": "Company"
-  },
-  {
-    "rank": 27,
     "name": "Mastercard",
     "symbol": "MA",
     "marketcap": 314490000000.0,
@@ -321,6 +309,18 @@
     "country": "USA",
     "timestamp": "Sep 14, 2022",
     "change": -6.43,
+    "category": "Company"
+  },
+  {
+    "rank": 27,
+    "name": "Nestl\u00e9",
+    "symbol": "NESN.SW",
+    "marketcap": 312780000000.0,
+    "priceusd": "113.74",
+    "today": -2.43,
+    "country": "Switzerland",
+    "timestamp": "Sep 14, 2022",
+    "change": -9.24,
     "category": "Company"
   },
   {
@@ -361,26 +361,26 @@
   },
   {
     "rank": 31,
-    "name": "Samsung",
-    "symbol": "005930.KS",
-    "marketcap": 280820000000.0,
-    "priceusd": "41.73",
-    "today": 4.5,
-    "country": "S. Korea",
+    "name": "Roche",
+    "symbol": "ROG.SW",
+    "marketcap": 275970000000.0,
+    "priceusd": "336.04",
+    "today": -0.05,
+    "country": "Switzerland",
     "timestamp": "Sep 14, 2022",
-    "change": -36.05,
+    "change": -9.69,
     "category": "Company"
   },
   {
     "rank": 32,
-    "name": "Roche",
-    "symbol": "ROG.SW",
-    "marketcap": 276400000000.0,
-    "priceusd": "336.56",
-    "today": 0.19,
-    "country": "Switzerland",
+    "name": "Samsung",
+    "symbol": "005930.KS",
+    "marketcap": 274290000000.00003,
+    "priceusd": "40.75",
+    "today": -2.24,
+    "country": "S. Korea",
     "timestamp": "Sep 14, 2022",
-    "change": -9.55,
+    "change": -37.55,
     "category": "Company"
   },
   {
@@ -481,18 +481,30 @@
   },
   {
     "rank": 41,
-    "name": "Reliance Industries",
-    "symbol": "RELIANCE.NS",
-    "marketcap": 222740000000.0,
-    "priceusd": "32.92",
-    "today": 0.84,
-    "country": "India",
+    "name": "Platinum",
+    "symbol": "PLAT",
+    "marketcap": 222250000000.0,
+    "priceusd": "889.00",
+    "today": 0.6,
+    "country": "Global",
     "timestamp": "Sep 14, 2022",
-    "change": 2.05,
-    "category": "Company"
+    "change": -9.92,
+    "category": "Metal"
   },
   {
     "rank": 42,
+    "name": "Reliance Industries",
+    "symbol": "RELIANCE.NS",
+    "marketcap": 220370000000.0,
+    "priceusd": "32.57",
+    "today": -1.2,
+    "country": "India",
+    "timestamp": "Sep 14, 2022",
+    "change": 0.96,
+    "category": "Company"
+  },
+  {
+    "rank": 43,
     "name": "Thermo Fisher Scientific",
     "symbol": "TMO",
     "marketcap": 219330000000.0,
@@ -502,18 +514,6 @@
     "timestamp": "Sep 14, 2022",
     "change": 0.12,
     "category": "Company"
-  },
-  {
-    "rank": 43,
-    "name": "Platinum",
-    "symbol": "PLAT",
-    "marketcap": 219170000000.0,
-    "priceusd": "876.70",
-    "today": -0.79,
-    "country": "Global",
-    "timestamp": "Sep 14, 2022",
-    "change": -9.92,
-    "category": "Metal"
   },
   {
     "rank": 44,
@@ -531,12 +531,12 @@
     "rank": 45,
     "name": "ICBC",
     "symbol": "1398.HK",
-    "marketcap": 211940000000.0,
-    "priceusd": "0.50",
-    "today": -0.51,
+    "marketcap": 208160000000.0,
+    "priceusd": "0.49",
+    "today": -1.79,
     "country": "China",
     "timestamp": "Sep 14, 2022",
-    "change": -13.79,
+    "change": -15.52,
     "category": "Company"
   },
   {
@@ -591,7 +591,7 @@
     "rank": 50,
     "name": "Toyota",
     "symbol": "TM",
-    "marketcap": 192630000000.0,
+    "marketcap": 198630000000.0,
     "priceusd": "140.23",
     "today": -3.32,
     "country": "Japan",
@@ -603,12 +603,12 @@
     "rank": 51,
     "name": "Ethereum",
     "symbol": "ETH",
-    "marketcap": 189320000000.0,
-    "priceusd": "1572",
-    "today": -7.97,
+    "marketcap": 192810000000.0,
+    "priceusd": "1595",
+    "today": -8.15,
     "country": "Global",
     "timestamp": "Sep 14, 2022",
-    "change": -49.96,
+    "change": -52.34,
     "category": "Crypto"
   },
   {
@@ -637,18 +637,6 @@
   },
   {
     "rank": 54,
-    "name": "L'Or\u00e9al",
-    "symbol": "OR.PA",
-    "marketcap": 186570000000.0,
-    "priceusd": "347.61",
-    "today": -1.19,
-    "country": "France",
-    "timestamp": "Sep 14, 2022",
-    "change": -25.97,
-    "category": "Company"
-  },
-  {
-    "rank": 55,
     "name": "Abbott Laboratories",
     "symbol": "ABT",
     "marketcap": 185340000000.0,
@@ -660,7 +648,7 @@
     "category": "Company"
   },
   {
-    "rank": 56,
+    "rank": 55,
     "name": "ASML",
     "symbol": "ASML",
     "marketcap": 184700000000.0,
@@ -672,15 +660,27 @@
     "category": "Company"
   },
   {
+    "rank": 56,
+    "name": "L'Or\u00e9al",
+    "symbol": "OR.PA",
+    "marketcap": 183660000000.0,
+    "priceusd": "342.20",
+    "today": -1.69,
+    "country": "France",
+    "timestamp": "Sep 14, 2022",
+    "change": -27.12,
+    "category": "Company"
+  },
+  {
     "rank": 57,
     "name": "Prosus",
     "symbol": "PRX.AS",
-    "marketcap": 183200000000.0,
-    "priceusd": "59.18",
-    "today": -2.05,
+    "marketcap": 182530000000.0,
+    "priceusd": "58.96",
+    "today": -0.51,
     "country": "Netherlands",
     "timestamp": "Sep 14, 2022",
-    "change": -30.16,
+    "change": -30.41,
     "category": "Company"
   },
   {
@@ -817,18 +817,6 @@
   },
   {
     "rank": 69,
-    "name": "CATL",
-    "symbol": "300750.SZ",
-    "marketcap": 161030000000.0,
-    "priceusd": "65.98",
-    "today": 1.04,
-    "country": "China",
-    "timestamp": "Sep 14, 2022",
-    "change": -15.44,
-    "category": "Company"
-  },
-  {
-    "rank": 70,
     "name": "Salesforce",
     "symbol": "CRM",
     "marketcap": 158100000000.0,
@@ -840,15 +828,27 @@
     "category": "Company"
   },
   {
-    "rank": 71,
+    "rank": 70,
     "name": "China Construction Bank",
     "symbol": "601939.SS",
-    "marketcap": 157030000000.0,
-    "priceusd": "0.80",
-    "today": 0.18,
+    "marketcap": 155680000000.0,
+    "priceusd": "0.79",
+    "today": -0.36,
     "country": "China",
     "timestamp": "Sep 14, 2022",
-    "change": -18.37,
+    "change": -19.39,
+    "category": "Company"
+  },
+  {
+    "rank": 71,
+    "name": "CATL",
+    "symbol": "300750.SZ",
+    "marketcap": 152300000000.0,
+    "priceusd": "62.41",
+    "today": -4.95,
+    "country": "China",
+    "timestamp": "Sep 14, 2022",
+    "change": -20.02,
     "category": "Company"
   },
   {
@@ -877,18 +877,6 @@
   },
   {
     "rank": 74,
-    "name": "Tata Consultancy Services",
-    "symbol": "TCS.NS",
-    "marketcap": 148480000000.0,
-    "priceusd": "40.58",
-    "today": -0.42,
-    "country": "India",
-    "timestamp": "Sep 14, 2022",
-    "change": -22.41,
-    "category": "Company"
-  },
-  {
-    "rank": 75,
     "name": "Texas Instruments",
     "symbol": "TXN",
     "marketcap": 147760000000.0,
@@ -900,7 +888,7 @@
     "category": "Company"
   },
   {
-    "rank": 76,
+    "rank": 75,
     "name": "Comcast",
     "symbol": "CMCSA",
     "marketcap": 147660000000.0,
@@ -912,7 +900,7 @@
     "category": "Company"
   },
   {
-    "rank": 77,
+    "rank": 76,
     "name": "Philip Morris",
     "symbol": "PM",
     "marketcap": 145740000000.0,
@@ -921,6 +909,18 @@
     "country": "USA",
     "timestamp": "Sep 14, 2022",
     "change": -8.35,
+    "category": "Company"
+  },
+  {
+    "rank": 77,
+    "name": "Tata Consultancy Services",
+    "symbol": "TCS.NS",
+    "marketcap": 143670000000.0,
+    "priceusd": "39.27",
+    "today": -3.37,
+    "country": "India",
+    "timestamp": "Sep 14, 2022",
+    "change": -24.91,
     "category": "Company"
   },
   {
@@ -949,18 +949,6 @@
   },
   {
     "rank": 80,
-    "name": "China Mobile",
-    "symbol": "0941.HK",
-    "marketcap": 141520000000.0,
-    "priceusd": "6.62",
-    "today": 1.36,
-    "country": "China",
-    "timestamp": "Sep 14, 2022",
-    "change": 5.25,
-    "category": "Company"
-  },
-  {
-    "rank": 81,
     "name": "Union Pacific Corporation",
     "symbol": "UNP",
     "marketcap": 141310000000.0,
@@ -972,12 +960,24 @@
     "category": "Company"
   },
   {
+    "rank": 81,
+    "name": "China Mobile",
+    "symbol": "0941.HK",
+    "marketcap": 140580000000.0,
+    "priceusd": "6.58",
+    "today": -0.67,
+    "country": "China",
+    "timestamp": "Sep 14, 2022",
+    "change": 4.61,
+    "category": "Company"
+  },
+  {
     "rank": 82,
     "name": "Agricultural Bank of China",
     "symbol": "601288.SS",
-    "marketcap": 141200000000.0,
+    "marketcap": 140500000000.0,
     "priceusd": "0.41",
-    "today": 0.35,
+    "today": 0.0,
     "country": "China",
     "timestamp": "Sep 14, 2022",
     "change": -12.77,
@@ -997,18 +997,6 @@
   },
   {
     "rank": 84,
-    "name": "Meituan",
-    "symbol": "3690.HK",
-    "marketcap": 140150000000.0,
-    "priceusd": "22.65",
-    "today": -1.17,
-    "country": "China",
-    "timestamp": "Sep 14, 2022",
-    "change": -28.91,
-    "category": "Company"
-  },
-  {
-    "rank": 85,
     "name": "Charles Schwab",
     "symbol": "SCHW",
     "marketcap": 138390000000.0,
@@ -1017,6 +1005,18 @@
     "country": "USA",
     "timestamp": "Sep 14, 2022",
     "change": 1.47,
+    "category": "Company"
+  },
+  {
+    "rank": 85,
+    "name": "Meituan",
+    "symbol": "3690.HK",
+    "marketcap": 137020000000.00002,
+    "priceusd": "22.14",
+    "today": -2.25,
+    "country": "China",
+    "timestamp": "Sep 14, 2022",
+    "change": -30.51,
     "category": "Company"
   },
   {
@@ -1035,12 +1035,12 @@
     "rank": 87,
     "name": "Herm\u00e8s",
     "symbol": "RMS.PA",
-    "marketcap": 135500000000.0,
-    "priceusd": "1296",
-    "today": -1.44,
+    "marketcap": 135380000000.0,
+    "priceusd": "1295",
+    "today": -0.23,
     "country": "France",
     "timestamp": "Sep 14, 2022",
-    "change": -14.2,
+    "change": -14.27,
     "category": "Company"
   },
   {
@@ -1083,12 +1083,12 @@
     "rank": 91,
     "name": "CM Bank",
     "symbol": "3968.HK",
-    "marketcap": 128570000000.0,
-    "priceusd": "5.11",
-    "today": 1.13,
+    "marketcap": 126180000000.0,
+    "priceusd": "5.01",
+    "today": -1.87,
     "country": "China",
     "timestamp": "Sep 14, 2022",
-    "change": -42.13,
+    "change": -43.26,
     "category": "Company"
   },
   {
@@ -1143,9 +1143,9 @@
     "rank": 96,
     "name": "Bank of China",
     "symbol": "601988.SS",
-    "marketcap": 122770000000.0,
+    "marketcap": 121770000000.0,
     "priceusd": "0.44",
-    "today": 0.0,
+    "today": -0.32,
     "country": "China",
     "timestamp": "Sep 14, 2022",
     "change": -8.33,
@@ -1167,7 +1167,7 @@
     "rank": 98,
     "name": "Intuit",
     "symbol": "INTU",
-    "marketcap": 121090000000.0,
+    "marketcap": 121000000000.0,
     "priceusd": "429.31",
     "today": -5.72,
     "country": "USA",
