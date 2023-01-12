@@ -3,9 +3,9 @@
     "rank": 1,
     "name": "Gold",
     "symbol": "GOLD",
-    "marketcap": 12408000000000.0,
-    "priceusd": "1881",
-    "today": 0.09,
+    "marketcap": 12466000000000.0,
+    "priceusd": "1889",
+    "today": 0.55,
     "country": "Global",
     "timestamp": "Jan 12, 2023",
     "change": 3.51,
@@ -27,12 +27,12 @@
     "rank": 3,
     "name": "Saudi Aramco",
     "symbol": "2222.SR",
-    "marketcap": 1865000000000.0,
-    "priceusd": "8.48",
-    "today": 0.0,
+    "marketcap": 1878000000000.0,
+    "priceusd": "8.54",
+    "today": 0.63,
     "country": "S. Arabia",
     "timestamp": "Jan 12, 2023",
-    "change": -2.86,
+    "change": -2.18,
     "category": "Company"
   },
   {
@@ -51,9 +51,9 @@
     "rank": 5,
     "name": "Silver",
     "symbol": "SILVER",
-    "marketcap": 1326000000000.0,
-    "priceusd": "23.56",
-    "today": 0.34,
+    "marketcap": 1345000000000.0,
+    "priceusd": "23.90",
+    "today": 1.76,
     "country": "Global",
     "timestamp": "Jan 12, 2023",
     "change": 3.52,
@@ -157,6 +157,18 @@
   },
   {
     "rank": 14,
+    "name": "LVMH",
+    "symbol": "MC.PA",
+    "marketcap": 424660000000.0,
+    "priceusd": "836.47",
+    "today": 0.8,
+    "country": "France",
+    "timestamp": "Jan 12, 2023",
+    "change": 3.98,
+    "category": "Company"
+  },
+  {
+    "rank": 15,
     "name": "TSMC",
     "symbol": "TSM",
     "marketcap": 424110000000.0,
@@ -165,18 +177,6 @@
     "country": "Taiwan",
     "timestamp": "Jan 12, 2023",
     "change": -36.69,
-    "category": "Company"
-  },
-  {
-    "rank": 15,
-    "name": "LVMH",
-    "symbol": "MC.PA",
-    "marketcap": 421270000000.0,
-    "priceusd": "829.81",
-    "today": 2.12,
-    "country": "France",
-    "timestamp": "Jan 12, 2023",
-    "change": 3.15,
     "category": "Company"
   },
   {
@@ -265,6 +265,18 @@
   },
   {
     "rank": 23,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "marketcap": 350570000000.0,
+    "priceusd": "18196",
+    "today": 4.35,
+    "country": "Global",
+    "timestamp": "Jan 12, 2023",
+    "change": -57.93,
+    "category": "Crypto"
+  },
+  {
+    "rank": 24,
     "name": "Meta",
     "symbol": "META",
     "marketcap": 348460000000.0,
@@ -276,31 +288,7 @@
     "category": "Company"
   },
   {
-    "rank": 24,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "marketcap": 345680000000.0,
-    "priceusd": "18003",
-    "today": 3.23,
-    "country": "Global",
-    "timestamp": "Jan 12, 2023",
-    "change": -58.35,
-    "category": "Crypto"
-  },
-  {
     "rank": 25,
-    "name": "Kweichow Moutai",
-    "symbol": "600519.SS",
-    "marketcap": 342490000000.0,
-    "priceusd": "272.65",
-    "today": -0.51,
-    "country": "China",
-    "timestamp": "Jan 12, 2023",
-    "change": -10.45,
-    "category": "Company"
-  },
-  {
-    "rank": 26,
     "name": "Eli Lilly",
     "symbol": "LLY",
     "marketcap": 342450000000.0,
@@ -312,7 +300,31 @@
     "category": "Company"
   },
   {
+    "rank": 26,
+    "name": "Nestl\u00e9",
+    "symbol": "NESN.SW",
+    "marketcap": 341160000000.0,
+    "priceusd": "124.06",
+    "today": 1.13,
+    "country": "Switzerland",
+    "timestamp": "Jan 12, 2023",
+    "change": -5.84,
+    "category": "Company"
+  },
+  {
     "rank": 27,
+    "name": "Kweichow Moutai",
+    "symbol": "600519.SS",
+    "marketcap": 340460000000.0,
+    "priceusd": "271.03",
+    "today": -0.59,
+    "country": "China",
+    "timestamp": "Jan 12, 2023",
+    "change": -10.98,
+    "category": "Company"
+  },
+  {
+    "rank": 28,
     "name": "Chevron",
     "symbol": "CVX",
     "marketcap": 338770000000.0,
@@ -321,18 +333,6 @@
     "country": "USA",
     "timestamp": "Jan 12, 2023",
     "change": 36.91,
-    "category": "Company"
-  },
-  {
-    "rank": 28,
-    "name": "Nestl\u00e9",
-    "symbol": "NESN.SW",
-    "marketcap": 337340000000.0,
-    "priceusd": "122.67",
-    "today": 1.44,
-    "country": "Switzerland",
-    "timestamp": "Jan 12, 2023",
-    "change": -6.91,
     "category": "Company"
   },
   {
@@ -353,7 +353,7 @@
     "symbol": "005930.KS",
     "marketcap": 327650000000.0,
     "priceusd": "48.70",
-    "today": 0.17,
+    "today": 0.0,
     "country": "S. Korea",
     "timestamp": "Jan 12, 2023",
     "change": -26.04,
@@ -363,9 +363,9 @@
     "rank": 31,
     "name": "Palladium",
     "symbol": "PALLAD",
-    "marketcap": 310710000000.0,
-    "priceusd": "1776",
-    "today": -0.31,
+    "marketcap": 309920000000.0,
+    "priceusd": "1771",
+    "today": -0.57,
     "country": "Global",
     "timestamp": "Jan 12, 2023",
     "change": -0.09,
@@ -435,9 +435,9 @@
     "rank": 37,
     "name": "Platinum",
     "symbol": "PLAT",
-    "marketcap": 272750000000.0,
-    "priceusd": "1091",
-    "today": 1.6,
+    "marketcap": 270000000000.0,
+    "priceusd": "1080",
+    "today": -0.4,
     "country": "Global",
     "timestamp": "Jan 12, 2023",
     "change": 7.03,
@@ -469,6 +469,18 @@
   },
   {
     "rank": 40,
+    "name": "Roche",
+    "symbol": "ROG.SW",
+    "marketcap": 261200000000.0,
+    "priceusd": "317.05",
+    "today": 0.76,
+    "country": "Switzerland",
+    "timestamp": "Jan 12, 2023",
+    "change": -21.72,
+    "category": "Company"
+  },
+  {
+    "rank": 41,
     "name": "ASML",
     "symbol": "ASML",
     "marketcap": 260360000000.0,
@@ -477,18 +489,6 @@
     "country": "Netherlands",
     "timestamp": "Jan 12, 2023",
     "change": -11.59,
-    "category": "Company"
-  },
-  {
-    "rank": 41,
-    "name": "Roche",
-    "symbol": "ROG.SW",
-    "marketcap": 259230000000.00003,
-    "priceusd": "314.66",
-    "today": -0.94,
-    "country": "Switzerland",
-    "timestamp": "Jan 12, 2023",
-    "change": -22.31,
     "category": "Company"
   },
   {
@@ -507,12 +507,12 @@
     "rank": 43,
     "name": "International Holding Company",
     "symbol": "IHC.AE",
-    "marketcap": 243240000000.0,
-    "priceusd": "110.89",
-    "today": 0.07,
+    "marketcap": 243060000000.0,
+    "priceusd": "110.81",
+    "today": -0.07,
     "country": "UAE",
     "timestamp": "Jan 12, 2023",
-    "change": 167.53,
+    "change": 167.33,
     "category": "Company"
   },
   {
@@ -567,12 +567,12 @@
     "rank": 48,
     "name": "ICBC",
     "symbol": "1398.HK",
-    "marketcap": 215640000000.0,
-    "priceusd": "0.53",
-    "today": 0.0,
+    "marketcap": 217720000000.0,
+    "priceusd": "0.54",
+    "today": 0.97,
     "country": "China",
     "timestamp": "Jan 12, 2023",
-    "change": -10.17,
+    "change": -8.47,
     "category": "Company"
   },
   {
@@ -591,12 +591,12 @@
     "rank": 50,
     "name": "L'Or\u00e9al",
     "symbol": "OR.PA",
-    "marketcap": 212690000000.0,
-    "priceusd": "395.08",
-    "today": 0.92,
+    "marketcap": 213900000000.0,
+    "priceusd": "397.34",
+    "today": 0.57,
     "country": "France",
     "timestamp": "Jan 12, 2023",
-    "change": -12.02,
+    "change": -11.51,
     "category": "Company"
   },
   {
@@ -615,12 +615,12 @@
     "rank": 52,
     "name": "Reliance Industries",
     "symbol": "RELIANCE.NS",
-    "marketcap": 207910000000.0,
-    "priceusd": "30.73",
-    "today": -1.26,
+    "marketcap": 203420000000.0,
+    "priceusd": "30.07",
+    "today": -2.16,
     "country": "India",
     "timestamp": "Jan 12, 2023",
-    "change": -7.33,
+    "change": -9.32,
     "category": "Company"
   },
   {
@@ -723,12 +723,12 @@
     "rank": 61,
     "name": "Herm\u00e8s",
     "symbol": "RMS.PA",
-    "marketcap": 182540000000.0,
-    "priceusd": "1741",
-    "today": 0.87,
+    "marketcap": 183050000000.0,
+    "priceusd": "1746",
+    "today": 0.28,
     "country": "France",
     "timestamp": "Jan 12, 2023",
-    "change": 11.68,
+    "change": 11.96,
     "category": "Company"
   },
   {
@@ -795,12 +795,12 @@
     "rank": 67,
     "name": "Ethereum",
     "symbol": "ETH",
-    "marketcap": 167830000000.0,
-    "priceusd": "1392",
-    "today": 4.19,
+    "marketcap": 168470000000.0,
+    "priceusd": "1398",
+    "today": 4.6,
     "country": "Global",
     "timestamp": "Jan 12, 2023",
-    "change": -56.72,
+    "change": -57.19,
     "category": "Crypto"
   },
   {
@@ -817,30 +817,6 @@
   },
   {
     "rank": 69,
-    "name": "China Construction Bank",
-    "symbol": "601939.SS",
-    "marketcap": 163170000000.0,
-    "priceusd": "0.83",
-    "today": 0.71,
-    "country": "China",
-    "timestamp": "Jan 12, 2023",
-    "change": -13.54,
-    "category": "Company"
-  },
-  {
-    "rank": 70,
-    "name": "Prosus",
-    "symbol": "PRX.AS",
-    "marketcap": 162860000000.0,
-    "priceusd": "81.24",
-    "today": 1.67,
-    "country": "Netherlands",
-    "timestamp": "Jan 12, 2023",
-    "change": -3.72,
-    "category": "Company"
-  },
-  {
-    "rank": 71,
     "name": "Wells Fargo",
     "symbol": "WFC",
     "marketcap": 162860000000.0,
@@ -852,7 +828,7 @@
     "category": "Company"
   },
   {
-    "rank": 72,
+    "rank": 70,
     "name": "Linde",
     "symbol": "LIN",
     "marketcap": 162350000000.0,
@@ -864,7 +840,7 @@
     "category": "Company"
   },
   {
-    "rank": 73,
+    "rank": 71,
     "name": "Texas Instruments",
     "symbol": "TXN",
     "marketcap": 162330000000.0,
@@ -873,6 +849,30 @@
     "country": "USA",
     "timestamp": "Jan 12, 2023",
     "change": -3.13,
+    "category": "Company"
+  },
+  {
+    "rank": 72,
+    "name": "China Construction Bank",
+    "symbol": "601939.SS",
+    "marketcap": 162300000000.0,
+    "priceusd": "0.83",
+    "today": -0.53,
+    "country": "China",
+    "timestamp": "Jan 12, 2023",
+    "change": -13.54,
+    "category": "Company"
+  },
+  {
+    "rank": 73,
+    "name": "Prosus",
+    "symbol": "PRX.AS",
+    "marketcap": 161820000000.0,
+    "priceusd": "80.72",
+    "today": -0.63,
+    "country": "Netherlands",
+    "timestamp": "Jan 12, 2023",
+    "change": -4.35,
     "category": "Company"
   },
   {
@@ -925,6 +925,18 @@
   },
   {
     "rank": 78,
+    "name": "CATL",
+    "symbol": "300750.SZ",
+    "marketcap": 156470000000.0,
+    "priceusd": "64.06",
+    "today": 1.32,
+    "country": "China",
+    "timestamp": "Jan 12, 2023",
+    "change": -23.92,
+    "category": "Company"
+  },
+  {
+    "rank": 79,
     "name": "Charles Schwab",
     "symbol": "SCHW",
     "marketcap": 155720000000.0,
@@ -936,19 +948,19 @@
     "category": "Company"
   },
   {
-    "rank": 79,
-    "name": "CATL",
-    "symbol": "300750.SZ",
-    "marketcap": 154430000000.0,
-    "priceusd": "63.23",
-    "today": -0.96,
+    "rank": 80,
+    "name": "China Mobile",
+    "symbol": "0941.HK",
+    "marketcap": 153380000000.0,
+    "priceusd": "7.01",
+    "today": 1.77,
     "country": "China",
     "timestamp": "Jan 12, 2023",
-    "change": -24.9,
+    "change": 8.35,
     "category": "Company"
   },
   {
-    "rank": 80,
+    "rank": 81,
     "name": "Bristol-Myers Squibb",
     "symbol": "BMY",
     "marketcap": 152950000000.0,
@@ -960,7 +972,7 @@
     "category": "Company"
   },
   {
-    "rank": 81,
+    "rank": 82,
     "name": "Morgan Stanley",
     "symbol": "MS",
     "marketcap": 151140000000.0,
@@ -972,51 +984,39 @@
     "category": "Company"
   },
   {
-    "rank": 82,
-    "name": "China Mobile",
-    "symbol": "0941.HK",
-    "marketcap": 150720000000.0,
-    "priceusd": "6.89",
-    "today": 1.13,
-    "country": "China",
-    "timestamp": "Jan 12, 2023",
-    "change": 6.49,
-    "category": "Company"
-  },
-  {
     "rank": 83,
     "name": "Dior",
     "symbol": "CDI.PA",
-    "marketcap": 148920000000.0,
-    "priceusd": "819.81",
-    "today": 2.42,
+    "marketcap": 149890000000.0,
+    "priceusd": "825.19",
+    "today": 0.66,
     "country": "France",
     "timestamp": "Jan 12, 2023",
-    "change": 4.33,
+    "change": 5.02,
     "category": "Company"
   },
   {
     "rank": 84,
-    "name": "Tata Consultancy Services",
-    "symbol": "TCS.NS",
-    "marketcap": 148160000000.0,
-    "priceusd": "40.49",
-    "today": 1.29,
-    "country": "India",
+    "name": "Agricultural Bank of China",
+    "symbol": "601288.SS",
+    "marketcap": 148650000000.0,
+    "priceusd": "0.43",
+    "today": 0.34,
+    "country": "China",
     "timestamp": "Jan 12, 2023",
-    "change": -23.43,
+    "change": -8.51,
     "category": "Company"
   },
   {
     "rank": 85,
-    "name": "Agricultural Bank of China",
-    "symbol": "601288.SS",
-    "marketcap": 148140000000.0,
-    "priceusd": "0.43",
-    "today": 0.0,
-    "country": "China",
+    "name": "Tata Consultancy Services",
+    "symbol": "TCS.NS",
+    "marketcap": 148410000000.0,
+    "priceusd": "40.56",
+    "today": 0.17,
+    "country": "India",
     "timestamp": "Jan 12, 2023",
-    "change": -8.51,
+    "change": -23.3,
     "category": "Company"
   },
   {
@@ -1045,6 +1045,18 @@
   },
   {
     "rank": 88,
+    "name": "CM Bank",
+    "symbol": "3968.HK",
+    "marketcap": 145980000000.0,
+    "priceusd": "6.03",
+    "today": 1.07,
+    "country": "China",
+    "timestamp": "Jan 12, 2023",
+    "change": -26.19,
+    "category": "Company"
+  },
+  {
+    "rank": 89,
     "name": "Netflix",
     "symbol": "NFLX",
     "marketcap": 145630000000.0,
@@ -1056,7 +1068,7 @@
     "category": "Company"
   },
   {
-    "rank": 89,
+    "rank": 90,
     "name": "Amgen",
     "symbol": "AMGN",
     "marketcap": 145610000000.0,
@@ -1068,7 +1080,7 @@
     "category": "Company"
   },
   {
-    "rank": 90,
+    "rank": 91,
     "name": "Salesforce",
     "symbol": "CRM",
     "marketcap": 144890000000.0,
@@ -1077,18 +1089,6 @@
     "country": "USA",
     "timestamp": "Jan 12, 2023",
     "change": -38.3,
-    "category": "Company"
-  },
-  {
-    "rank": 91,
-    "name": "CM Bank",
-    "symbol": "3968.HK",
-    "marketcap": 144430000000.0,
-    "priceusd": "5.97",
-    "today": 0.76,
-    "country": "China",
-    "timestamp": "Jan 12, 2023",
-    "change": -26.93,
     "category": "Company"
   },
   {
@@ -1129,18 +1129,6 @@
   },
   {
     "rank": 95,
-    "name": "Meituan",
-    "symbol": "3690.HK",
-    "marketcap": 137930000000.0,
-    "priceusd": "22.29",
-    "today": -2.52,
-    "country": "China",
-    "timestamp": "Jan 12, 2023",
-    "change": -16.45,
-    "category": "Company"
-  },
-  {
-    "rank": 96,
     "name": "Royal Bank Of Canada",
     "symbol": "RY",
     "marketcap": 137820000000.0,
@@ -1152,15 +1140,27 @@
     "category": "Company"
   },
   {
-    "rank": 97,
+    "rank": 96,
     "name": "Ping An Insurance",
     "symbol": "601318.SS",
-    "marketcap": 136850000000.0,
-    "priceusd": "7.49",
-    "today": 3.03,
+    "marketcap": 137419999999.99998,
+    "priceusd": "7.52",
+    "today": 0.41,
     "country": "China",
     "timestamp": "Jan 12, 2023",
-    "change": -9.65,
+    "change": -9.29,
+    "category": "Company"
+  },
+  {
+    "rank": 97,
+    "name": "Meituan",
+    "symbol": "3690.HK",
+    "marketcap": 137130000000.0,
+    "priceusd": "22.16",
+    "today": -0.57,
+    "country": "China",
+    "timestamp": "Jan 12, 2023",
+    "change": -16.94,
     "category": "Company"
   },
   {
@@ -1177,6 +1177,18 @@
   },
   {
     "rank": 99,
+    "name": "AIA",
+    "symbol": "1299.HK",
+    "marketcap": 132770000000.00002,
+    "priceusd": "11.32",
+    "today": 3.09,
+    "country": "Hong Kong",
+    "timestamp": "Jan 12, 2023",
+    "change": 12.3,
+    "category": "Company"
+  },
+  {
+    "rank": 100,
     "name": "QUALCOMM",
     "symbol": "QCOM",
     "marketcap": 132710000000.00002,
@@ -1185,18 +1197,6 @@
     "country": "USA",
     "timestamp": "Jan 12, 2023",
     "change": -36.14,
-    "category": "Company"
-  },
-  {
-    "rank": 100,
-    "name": "Union Pacific Corporation",
-    "symbol": "UNP",
-    "marketcap": 131720000000.0,
-    "priceusd": "214.26",
-    "today": 0.93,
-    "country": "USA",
-    "timestamp": "Jan 12, 2023",
-    "change": -13.05,
     "category": "Company"
   }
 ]
